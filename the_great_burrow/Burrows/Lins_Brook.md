@@ -1,7 +1,7 @@
 # **Lin's Brook - The Working Waterfront**
 
 ## **Overview**
-Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the borough that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers. It's a place of calloused paws, water-slicked fur, and pride in honest work, even as the currents of change threaten to sweep away generations of tradition.
+Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the burrow that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers. It's a place of calloused paws, water-slicked fur, and pride in honest work, even as the currents of change threaten to sweep away generations of tradition.
 
 ---
 
@@ -69,7 +69,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - Where the poorest creatures wash up
 - Flood-prone, first to evacuate
 - Black market river trade
-- Creatures hiding from other boroughs
+- Creatures hiding from other burrows
 - "What the tide brings in"
 
 ---
@@ -78,9 +78,9 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 
 ### **Aquatic Titans**
 - **Moose**: Wade through during summer, devastating dam systems
-- **Bears**: Fish during salmon runs, entire borough potentially evacuates
+- **Bears**: Fish during salmon runs, entire burrow potentially evacuates
 - **Deer**: Crossing at fords causes tsunami-like waves
-- **Beavers' Revenge**: Legendary giant beaver that supposedly protects the borough
+- **Beavers' Revenge**: Legendary giant beaver that supposedly protects the burrow
 
 ### **Flood Protocols**
 - **The Warning Slaps**: Tail-slapping signals travel upstream
@@ -90,7 +90,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - **Evacuation Slides**: Maintained routes to higher ground
 
 ### **Historical Floods**
-- **The Great Washing**: Moose crossing destroyed half the borough
+- **The Great Washing**: Moose crossing destroyed half the burrow
 - **The Blessed Drought**: When low water kept giants away
 - **Root Break Disaster**: When flooding undermined Mousehattan tunnels
 
@@ -137,7 +137,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - **Fishing**: Daily catches feed the entire city
 - **Lumber**: Sustainable harvesting of storm-fall and dead wood
 - **Transportation**: Ferries, cargo hauling, river guides
-- **Water Management**: Selling expertise to other boroughs
+- **Water Management**: Selling expertise to other burrows
 
 ### **Emerging Sectors**
 - **Artisanal Everything**: Small-batch smoking, craft brewing, paw-made furniture
@@ -209,7 +209,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - Construction contract bid-rigging
 - Maintenance fund skimming
 - Young beavers recruited as muscle
-- "Lodge Law" supersedes borough rules
+- "Lodge Law" supersedes burrow rules
 
 ---
 
@@ -288,7 +288,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - Dam system aging, needs major investment
 - Climate variations causing unpredictable flooding
 - Fish populations stressed by over-harvesting
-- Wetlands shrinking from borough expansion
+- Wetlands shrinking from burrow expansion
 - Pesticide runoff from human farms affecting fish
 - Beetle larvae populations (from The Hives) disrupting ecosystem
 
@@ -323,7 +323,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - Missing creature last seen at the docks
 
 ### **Environmental Crisis**
-- Dam failure threatens entire borough
+- Dam failure threatens entire burrow
 - Mysterious fish die-off impacts economy
 - Giant beaver sighting causes panic/hope
 - Upstream poisoning investigation
@@ -336,7 +336,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 
 ---
 
-## **Relationships with Other Boroughs**
+## **Relationships with Other burrows**
 
 ### **Mousehattan**
 - Builds their infrastructure, resents their attitude
@@ -345,7 +345,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 - "Suits don't understand water"
 
 ### **The Branchx**
-- Brother borough in working-class solidarity
+- Brother burrow in working-class solidarity
 - Share construction union organizing
 - Competition for infrastructure contracts
 - Similar gentrification pressures
@@ -362,7 +362,7 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 ### **Scurry Island**
 - Smuggling routes connect them
 - Where Lin's Brook creatures go to disappear
-- Shared disdain from "respectable" boroughs
+- Shared disdain from "respectable" burrows
 - Black market cooperation
 
 ---

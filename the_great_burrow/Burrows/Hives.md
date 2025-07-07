@@ -1,7 +1,7 @@
 # **The Hives - The Buzzing Gardens**
 
 ## **Overview**
-Built in the meadow clearings where the forest opens up, The Hives sprawls across a patchwork of interconnected communities. Named for both the dense, honeycomb-like burrow systems carved into hillsides AND the numerous managed insect colonies that make this borough the city's agricultural powerhouse. Here, beehives, ant farms, and beetle gardens are as much infrastructure as roads and tunnels elsewhere. It's a place where ancient agricultural wisdom meets innovation, where the air hums with carefully orchestrated insect symphonies, and where "everyone finds their den" among the sweet-scented fields.
+Built in the meadow clearings where the forest opens up, The Hives sprawls across a patchwork of interconnected communities. Named for both the dense, honeycomb-like burrow systems carved into hillsides AND the numerous managed insect colonies that make this burrow the city's agricultural powerhouse. Here, beehives, ant farms, and beetle gardens are as much infrastructure as roads and tunnels elsewhere. It's a place where ancient agricultural wisdom meets innovation, where the air hums with carefully orchestrated insect symphonies, and where "everyone finds their den" among the sweet-scented fields.
 
 ---
 
@@ -86,10 +86,8 @@ Built in the meadow clearings where the forest opens up, The Hives sprawls acros
 
 ### **Meadow Titans**
 - **Deer**: Grazing can destroy entire seasons of flowers in minutes
-- **Rabbits** (Giant Cousins): Ironically, the greatest threat to their smaller kin
-- **Groundhogs**: Their burrows can collapse entire hillsides
 - **Bears**: Honey-seeking raids require full evacuations
-- **The Legendary Queen**: Mythical giant bee that protects the borough
+- **The Legendary Queen**: Mythical giant bee that protects the burrow
 
 ### **Defense Systems**
 - **The Smoke Signals**: Warning system using controlled hive smoking
@@ -144,7 +142,7 @@ Built in the meadow clearings where the forest opens up, The Hives sprawls acros
 
 ### **Primary Industries**
 - **Honey & Wax**: 80% of Great Burrow's supply
-- **Pollination Services**: Rented bee colonies for other boroughs
+- **Pollination Services**: Rented bee colonies for other burrows
 - **Silk Production**: Luxury textiles from moth cultivation
 - **Specialty Foods**: Honeydew liqueur, candied grubs, pollen cakes
 - **Insect Technology**: Firefly lanterns, ant couriers, beetle composting
@@ -304,11 +302,11 @@ Built in the meadow clearings where the forest opens up, The Hives sprawls acros
 - Shrew unions organizing for better conditions
 - Night/day shift cultural divide deepening
 - Free-range advocates vandalizing traditional hives
-- Youth leaving for easier work in other boroughs
+- Youth leaving for easier work in other burrows
 
 ### **Economic Disruption**
 - Artificial honey threatening markets
-- Other boroughs developing own programs
+- Other burrows developing own programs
 - Black market undercutting official prices
 - Tourism changing neighborhood character
 - Corporate interests eyeing family lands
@@ -343,7 +341,7 @@ Built in the meadow clearings where the forest opens up, The Hives sprawls acros
 
 ---
 
-## **Relationships with Other Boroughs**
+## **Relationships with Other Burrows**
 
 ### **Mousehattan**
 - Major honey buyer but drives hard bargains
@@ -388,7 +386,7 @@ Built in the meadow clearings where the forest opens up, The Hives sprawls acros
 ### **Environmental Adaptation**
 - Shifting to climate-resilient insect species
 - Water conservation becoming critical
-- Urban beekeeping expanding to other boroughs
+- Urban beekeeping expanding to other burrows
 - Sustainability vs productivity debates
 
 ### **Economic Transformation**
@@ -397,4 +395,4 @@ Built in the meadow clearings where the forest opens up, The Hives sprawls acros
 - New products from insect biotechnology
 - Tourism potentially overtaking agriculture
 
-This is The Hives: where ancient wisdom meets modern ambition, where the smallest workers support the largest dreams, and where the sweet scent of success mingles with the earthy smell of honest labor. A borough built on billions of tiny partnerships, held together by tradition, threatened by progress, and humming with the endless energy of creatures who know that together, they are stronger than the sum of their parts.
+This is The Hives: where ancient wisdom meets modern ambition, where the smallest workers support the largest dreams, and where the sweet scent of success mingles with the earthy smell of honest labor. A burrow built on billions of tiny partnerships, held together by tradition, threatened by progress, and humming with the endless energy of creatures who know that together, they are stronger than the sum of their parts.

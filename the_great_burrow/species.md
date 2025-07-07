@@ -1,45 +1,43 @@
-Borough Species Cards
-The Branchx
-Squirrels (Traditional Residents)
-Background: Multi-generational families who built the canopy infrastructure. Consider themselves the "true" Branchx natives.
+# Burrow Species Cards
 
-Cultural Traits:
+## The Branchx
 
-Obsessed with height hierarchy - your branch level indicates social status
-Natural hoarders who judge others by their winter storage
-Incredibly territorial about acorn groves
-Master builders who take pride in rope bridge craftsmanship
+### Squirrels (Traditional Residents)
+**Background:** Multi-generational families who built the canopy infrastructure. Consider themselves the "true" Branchx natives.
 
-Occupations: Construction workers, bridge builders, acorn harvesters, union organizers, canopy cops
+**Cultural Traits:**
+- Obsessed with height hierarchy - your branch level indicates social status
+- Natural hoarders who judge others by their winter storage
+- Incredibly territorial about acorn groves
+- Master builders who take pride in rope bridge craftsmanship
 
-Current Status: Fighting gentrification but divided - some sell out for Mousehattan money, others organize resistance
+**Occupations:** Construction workers, bridge builders, acorn harvesters, union organizers, canopy cops
 
-Species Sayings:
+**Current Status:** Fighting gentrification but divided - some sell out for Mousehattan money, others organize resistance
 
-"High branch, warm winter" (success brings security)
-"Never trust a ground-dweller with your nuts" (be careful who you confide in)
-"Shake the tree, see what falls" (test someone's true nature)
-"A squirrel's tail tells no lies" (body language reveals truth)
-Chipmunks (Working Class Heroes)
-Background: Smaller, faster, and willing to take risks squirrels won't. The courier culture of The Branchx.
+**Species Sayings:**
+- "High branch, warm winter" (success brings security)
+- "Never trust a ground-dweller with your nuts" (be careful who you confide in)
+- "Shake the tree, see what falls" (test someone's true nature)
+- "A squirrel's tail tells no lies" (body language reveals truth)
+### Chipmunks (Working Class Heroes)
+**Background:** Smaller, faster, and willing to take risks squirrels won't. The courier culture of The Branchx.
 
-Cultural Traits:
+**Cultural Traits:**
+- Speed is everything - slow chipmunks don't eat
+- Cheek-pouch capacity is a point of pride
+- Less concerned with height, more with route efficiency
+- Form tight courier crews that become chosen families
 
-Speed is everything - slow chipmunks don't eat
-Cheek-pouch capacity is a point of pride
-Less concerned with height, more with route efficiency
-Form tight courier crews that become chosen families
+**Occupations:** Messengers, courier service, small-item smugglers, tunnel maintenance
 
-Occupations: Messengers, courier service, small-item smugglers, pneumatic tube repair
+**Current Status:** Benefiting from infrastructure breakdowns as manual delivery becomes essential
 
-Current Status: Benefiting from infrastructure breakdowns as manual delivery becomes essential
-
-Species Sayings:
-
-"Full cheeks, empty promises" (don't overcommit)
-"The fastest route ain't always up" (unconventional solutions work)
-"Stripe pride" (chipmunk solidarity)
-"Winter comes for the slow" (urgency in everything)
+**Species Sayings:**
+- "Full cheeks, empty promises" (don't overcommit)
+- "The fastest route ain't always up" (unconventional solutions work)
+- "Stripe pride" (chipmunk solidarity)
+- "Winter comes for the slow" (urgency in everything)
 
 
 Mousehattan
@@ -106,26 +104,27 @@ Species Sayings:
 "Breed like rabbits, work like bees" (family and labor go together)
 "Every kit needs a warren" (everyone deserves a home)
 "Thump twice for danger" (traditional warning system)
-Guinea Pigs (Innovative Newcomers)
-Background: Arrived from "Beyond the Southern Meadows" with revolutionary agricultural techniques.
 
-Cultural Traits:
+## Guinea Pigs (Andean Innovators)
+**Background:** Arrived from "Beyond the Southern Meadows" bringing revolutionary agricultural techniques and strong communal traditions.
 
-Community-minded, decisions made in groups
-Bring Andean influences to everything they do
-Natural whistlers who've mastered beetle-communication
-See potential where others see problems
+**Cultural Traits:**
+- Community-minded, decisions made in groups through squeaking councils
+- Natural whistlers who adapted their language for beetle-communication
+- Bring mountain sensibilities to forest life
+- See potential where others see problems
 
-Occupations: Agricultural consultants, restaurateurs, textile workers, beetle-whisperers
+**Occupations:** Agricultural consultants, terrace engineers, textile weavers, fusion restaurateurs, beetle-whisperers
 
-Current Status: Successful enough to cause resentment, still maintaining cultural identity
+**Current Status:** Successful enough to cause resentment, still maintaining cultural identity
 
-Species Sayings:
+**Common Locations:** The Hives (primary), New Meadow district, agricultural zones
 
-"The mountain remembers" (honor your origins)
-"Many pelts, warm warren" (cooperation brings comfort)
-"Whistle while you work" (joy in labor)
-"Even beetles know a guinea pig gathering" (our communities are vibrant)
+**Species Sayings:**
+- "The mountain remembers" (honor your origins)
+- "Many pelts, warm warren" (cooperation brings comfort)
+- "Whistle while you work" (joy in labor)
+- "Even beetles know a guinea pig gathering" (our communities are vibrant)
 
 
 Lin's Brook
@@ -222,7 +221,7 @@ Navigate by touch and sound, not sight
 Obsessed with soil quality and tunnel integrity
 Form work crews that communicate through vibrations
 Surprisingly wealthy from transit monopoly
-Common Locations: Throughout the Underground, maintenance colonies beneath each borough
+Common Locations: Throughout the Underground, maintenance colonies beneath each burrow
 Occupations: Subway operators, tunnel engineers, underground police, soil analysts
 Species Sayings:
 "Dig deep, breathe shallow" (work hard but stay humble)
@@ -237,7 +236,7 @@ Natural confidence from their defense mechanism
 Form small but tight family units
 Surprisingly sophisticated and well-dressed
 Take pride in never having to use their spray
-Common Locations: Security throughout all boroughs, especially night districts
+Common Locations: Security throughout all burrows, especially night districts
 Occupations: Security, bodyguards, waste management, chemical processing
 Species Sayings:
 "Lift the tail, end the tale" (threats end conversations)
@@ -252,7 +251,7 @@ Incredibly territorial and traditional
 Maintain ancestral burrows like fortresses
 Natural fighters who settle disputes physically
 Suspicious of "city ways" but too invested to leave
-Common Locations: Prime real estate in every borough, especially older districts
+Common Locations: Prime real estate in every burrow, especially older districts
 Occupations: Landlords, old-money investors, traditional crafts, dispute mediators
 Species Sayings:
 "The burrow remembers" (we were here first)
@@ -374,7 +373,7 @@ Form "murders" (family groups) with intricate hierarchies
 Collect shiny objects not for value, but for reasons they won't explain
 View time and causality differently - seem to predict events
 Remember individual mammals across generations
-Common Locations: High perches throughout all boroughs, especially The Branchx crow zones
+Common Locations: High perches throughout all burrow, especially The Branchx crow zones
 Occupations: Information brokers, "protection" services, aerial reconnaissance, problem solvers, enforcers
 Cultural Notes:
 - Never fully trust mammals, but form strategic alliances
@@ -406,18 +405,3 @@ Species Sayings:
 "Fast heart, faster hands" (speed in everything)
 "You can't rush good compost" (quality takes time)
 "Hungry shrew, busy shrew" (necessity drives work)
-
-Guinea Pigs (Andean Innovators)
-Background: Arrived from "Beyond the Southern Meadows" bringing revolutionary agricultural techniques and strong communal traditions.
-Cultural Traits:
-Make decisions collectively through squeaking councils
-Natural whistlers who adapted their language for beetle-work
-Bring mountain sensibilities to forest life
-See potential where others see problems
-Common Locations: The Hives (primary), New Meadow district, agricultural zones
-Occupations: Agricultural consultants, terrace engineers, textile weavers, fusion restaurateurs
-Species Sayings:
-"The mountain remembers" (honor your origins)
-"Many pelts, warm warren" (cooperation brings comfort)
-"Whistle while you work" (joy in labor)
-"Even beetles know a guinea pig gathering" (our communities are vibrant)

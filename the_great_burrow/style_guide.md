@@ -11,19 +11,19 @@ East River and West River separate Mousehattan from the other Burrows.
 
 ### Tone & Atmosphere
 
-Use NYC boroughs as organizational/cultural reference, not literal building material
+Use NYC boroughs as organizational/cultural reference, not literal building material - refer to them ALWAYS a a burrow, not a borough, though the nomenclature is mostly for setting consistency; they're definitely boroughs in all but name
 Include real-world urban tensions (gentrification, economic disparity, cultural conflicts) as background texture, not central focus
 Maintain a balance between cozy woodland charm and gritty urban realism
 The city exists in constant tension with natural predators and seasonal pressures - bears are as fearsome as other settings' giants and trolls, deer are humongous usually-benign creatures, almost seen as spirits of the woods that can bring weal and woe, and so on.
 
 ### Naming Conventions
-#### Borough Names & Wordplay
+#### Burrow Names & Wordplay
 
-The Branchx (pronounced Branches) (Bronx) - emphasizes tree/canopy living
+The Branchx (pronounced Branks) (Bronx) - emphasizes tree/canopy living
 Mousehattan (Manhattan) - the vertical, ambitious heart of the city
 The Hives (Queens) - multicultural, living amongst myriad insect colonies
 Lin's Brook (Brooklyn) - waterfront working-class community
-Scurry Island (Staten Island) - isolated, misfit borough
+Scurry Island (Staten Island) - isolated, misfit borough/burrow
 
 ### Transportation System
 
@@ -43,7 +43,7 @@ The Pine Barrens - western frontier coniferous forest
 #### Economic Systems
 
 Acorn-based economy with commodity trading (nuts, berries, seeds, mushrooms)
-Each borough has distinct economic specializations:
+Each burrow/borough has distinct economic specializations:
 
 The Branchx: Construction, courier services, acorn harvesting
 Mousehattan: Finance, trading, "human artifact" commerce
@@ -78,7 +78,7 @@ Fall: Harvest pressures, preparation for winter storage
 ### Infrastructure Problems
 
 Transportation breakdowns create adventure opportunities
-Inter-borough political disputes
+Inter-burrow political disputes
 Resource distribution conflicts
 Maintenance of the Great Underground
 Potentially-beneficial large infrastructure projects with dark downsides (e.g., Robert Moses, renamed here as Robert Mouses)
@@ -87,18 +87,18 @@ Potentially-beneficial large infrastructure projects with dark downsides (e.g., 
 #### Player Character Roles
 
 Vagabonds, freelancers, creatures who work "between" the established systems
-Not necessarily tied to specific boroughs or factions
+Not necessarily tied to specific burrows or factions
 Skilled enough to handle problems others can't or won't
 Can move between communities and social levels
 
 #### Reputation Systems
 
-Standing with each borough affects available opportunities
+Standing with each burrow affects available opportunities
 Actions in one area can impact reputation elsewhere
 Some services/areas only available with sufficient local standing
 
 ### Adventure Hooks & Conflicts
-#### Borough-Specific Problems
+#### Burrow-Specific Problems
 
 The Branchx: Gang territory disputes, construction accidents, gentrification protests
 Mousehattan: Financial crimes, family evictions, artifact smuggling
@@ -127,7 +127,7 @@ Cultural diversity and adaptation
 
 Heavy-handed focus on discrimination or prejudice
 Literal recreation of human NYC problems
-Making any single borough entirely antagonistic
+Making any single burrow entirely antagonistic
 Overwhelming players with too many systematic oppression themes
 Losing the woodland charm in favor of pure urban grit
 
@@ -139,7 +139,7 @@ Whimsical: Acorn-cap vehicles, rope bridge commutes, inter-species cooperation
 Dramatic: Seasonal survival challenges, political conflicts, personal ambitions
 
 ### Reference Quick-Cards
-#### Borough Personalities
+#### Burrow Personalities
 
 The Branchx: "Earn your perch" - working-class pride, territorial
 Mousehattan: "Never sleeps" - ambitious, fast-paced, financial

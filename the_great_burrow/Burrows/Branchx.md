@@ -1,7 +1,7 @@
 # **The Branchx - The Canopy Commons**
 
 ## **Overview**
-High above the forest floor, where ancient oaks and maples create a natural metropolis of branches and hollows, The Branchx sprawls through the canopy like a three-dimensional maze of working-class pride and territorial ambition. This is where The Great Burrow reaches for the sky, where rope bridges span between tree-nations, and where the divide between "high branch" and "low branch" shapes everything from politics to romance.
+High above the forest floor, where ancient oaks and maples create a natural metropolis of branches and hollows, The Branchx (prnounced "branks") sprawls through the canopy like a three-dimensional maze of working-class pride and territorial ambition. This is where The Great Burrow reaches for the sky, where rope bridges span between tree-nations, and where the divide between "high branch" and "low branch" shapes everything from politics to romance.
 
 ---
 
@@ -21,10 +21,10 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 - **Vertical Territories**: Each family controls trunk-to-crown rights in their tree
 - **Emergency Descents**: Bark-stripped slides for rapid evacuation
 
-### **The Failed Pneumatic System**
-- **Original Vision**: Acorn-cap capsules shot through hollow branches
-- **Current Reality**: Breaks down weekly, stranding commuters
-- **The Tube Wars**: Competing repair philosophies divide neighborhoods
+### **The Abandoned Tunnel System**
+- **Original Vision**: Underground courier routes connecting major trees
+- **Current Reality**: Partially collapsed, dangerous to navigate
+- **The Tunnel Wars**: Competing salvage rights divide neighborhoods
 - **Abandoned Sections**: Now used for smuggling and secret meetings
 - **Cultural Symbol**: Of promises broken and progress stalled
 
@@ -157,7 +157,7 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 ### **Underground Economy**
 - **Crow Market**: Goods "fallen off branches"
 - **Protection Rackets**: Safety from aerial threats
-- **Tube Smuggling**: Using broken pneumatic sections
+- **Tunnel Smuggling**: Using abandoned maintenance sections
 - **Gambling Branches**: Acorn-cap games and races
 - **Height Papers**: Fake documents for branch access
 
@@ -231,14 +231,14 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 
 ### **Historic Sites**
 - **The First Bridge**: Monument to canopy connection
-- **Oldoak Hollow**: Where the borough was founded
+- **Oldoak Hollow**: Where the burrow was founded
 - **The Memorial Wall**: Names of the hawk-taken
 - **Union Tree**: Where labor first organized
 
 ### **Working Landmarks**
 - **The Nutcracker Hall**: Union headquarters and social center
 - **Central Crossing**: Busiest bridge intersection
-- **The Tube Terminal**: Where pneumatic dreams died
+- **The Tunnel Terminal**: Where underground dreams died
 - **Shift-Change Square**: Where crews gather
 
 ### **Social Venues**
@@ -249,7 +249,7 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 
 ### **Hidden Spots**
 - **Crow's Nest Neutral**: Where deals get made
-- **The Broken Tube**: Smuggler's highway
+- **The Broken Tunnel**: Smuggler's highway
 - **Ghost Hollow**: Abandoned after hawk attack
 - **The Undergrowth**: Secret ground-level meeting spot
 
@@ -299,7 +299,7 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 
 ### **Infrastructure Decay**
 - Aging bridges need replacement
-- Pneumatic system beyond repair
+- Tunnel system beyond repair
 - Storm damage accumulating
 - No funding for maintenance
 - Political fights over resources
@@ -316,7 +316,7 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 - Scab workers causing conflicts
 - Safety standards vs. productivity
 - Aging workforce, fewer apprentices
-- Competition from other boroughs
+- Competition from other burrows
 
 ---
 
@@ -332,7 +332,7 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 - Courier disappears with important message
 - Protection racket war in Crow Zones
 - Murder in a high branch hollow
-- Pneumatic tube body discovery
+- Tunnel body discovery
 
 ### **Survival Challenges**
 - Hawk targeting specific families
@@ -400,6 +400,6 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 - Radical unions gaining ground
 - Anti-gentrification activism
 - Crow alliance debates
-- Borough independence movements
+- Burrow independence movements
 
 This is The Branchx: where your height determines your worth, where every creature lives one hawk's shadow from death, and where working-class pride built a vertical city that reaches for the sky while keeping its roots in tradition. Where bridges connect more than trees - they connect communities fighting to survive in a canopy that's changing faster than a squirrel can climb. Where "earning your perch" means more than just finding a branch - it means defending your right to exist in the only home your family has ever known.

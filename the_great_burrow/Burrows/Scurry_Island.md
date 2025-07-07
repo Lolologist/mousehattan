@@ -1,4 +1,4 @@
-# **Scurry Island - The Forgotten Borough**
+# **Scurry Island - The Forgotten Burrow**
 
 ## **Overview**
 Built on and around the massive fallen oak known as "The Old Giant," Scurry Island sits isolated in the central clearing where the forest opens to meadow. Connected to the rest of The Great Burrow by an unreliable ferry system and dangerous surface routes, this is where creatures go to disappear, reinvent themselves, or make their fortune in the shadow economy. It's also home to the Rangers - those brave or foolish enough to venture beyond the city into the Deep Woods to face the titans that threaten civilization.
@@ -105,7 +105,7 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 - **The Unnamed**: Rangers who died before earning glory
 
 ### **Ranger Economics**
-- **Bounties**: Paid by borough coalition
+- **Bounties**: Paid by burrow coalition
 - **Trophy Trade**: Bear claws, deer antler, giant fur
 - **Protection Contracts**: Private funding for specific threats
 - **Salvage Rights**: First claim on giant-disturbed areas
@@ -193,7 +193,7 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 - **Scavenger's Stew**: Whatever's available
 - **Ranger Rations**: High-energy preserved foods
 - **Fermentation Experiments**: Pushing alcohol limits
-- **Mainland Nostalgia**: Attempts at borough cuisines
+- **Mainland Nostalgia**: Attempts at burrow cuisines
 - **Victory Feasts**: When Rangers return successful
 
 ### **Entertainment**
@@ -322,7 +322,7 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 - Mainland law enforcement raids
 - Titan activity increasing
 - Climate affecting ferry routes
-- Other boroughs dumping problems
+- Other burrows dumping problems
 - Gentrification creeping in
 
 ---
@@ -359,7 +359,7 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 
 ---
 
-## **Relationships with Other Boroughs**
+## **Relationships with Other Burrows**
 
 ### **Mousehattan**
 - Source of contraband goods
@@ -417,4 +417,4 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 - New predator species arriving
 - Western frontier changing
 
-This is Scurry Island: where the forgotten forge their own future, where Rangers stand between civilization and chaos, and where every creature knows that survival isn't about playing dead - it's about being ready for whatever comes from the west. Where the fallen trunk shelters the fallen creatures, where black markets fund white knights, and where every dawn might bring titans or opportunity. The borough that shouldn't exist, filled with creatures who refuse to give up, in the shadow of giants and the shelter of the dead.
+This is Scurry Island: where the forgotten forge their own future, where Rangers stand between civilization and chaos, and where every creature knows that survival isn't about playing dead - it's about being ready for whatever comes from the west. Where the fallen trunk shelters the fallen creatures, where black markets fund white knights, and where every dawn might bring titans or opportunity. The burrow that shouldn't exist, filled with creatures who refuse to give up, in the shadow of giants and the shelter of the dead.

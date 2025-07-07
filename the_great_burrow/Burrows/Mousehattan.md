@@ -15,13 +15,13 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 - **Natural Springs**: Three underground springs provide fresh water, controlled by ancient water rights
 
 ### **The Oak Integration**
-- **Acorn Vaults**: Natural hollows in the oaks store the borough's wealth
+- **Acorn Vaults**: Natural hollows in the oaks store the burrow's wealth
 - **The Trading Oak**: Largest tree, the Acorn Exchange built into its base
 - **Root Chambers**: Premium real estate carved where roots meet rock
 - **Seasonal Drops**: Acorn harvest times drive the entire economy
 
 ### **Transportation**
-- **The Great Underground**: Main hub with express service to all other boroughs
+- **The Great Underground**: Main hub with express service to all other burrows
 - **Vertical Shafts**: Rope and pulley systems between levels
 - **Root Runners**: Messenger mice who know every shortcut
 - **Bark Slides**: Polished channels for rapid descent (climbing back up is harder)
@@ -107,7 +107,7 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 
 ### **Crime Culture**
 - **Tail Cutting**: Ultimate punishment for betrayal
-- **Seed Running**: Smuggling rare seeds from other boroughs
+- **Seed Running**: Smuggling rare seeds from other burrows
 - **The Bite**: Protection money paid monthly
 - **Tunnel Wars**: Territorial disputes resolved underground
 - **"Going to the mattresses"**: Hiding in deep tunnels during conflicts
@@ -155,7 +155,7 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 
 ### **Food Culture**
 - **Traditional Delis**: Fermented seeds and aged nuts
-- **Fusion Explosion**: Mixing borough cuisines
+- **Fusion Explosion**: Mixing burrow cuisines
 - **Acorn Preparations**: 47 traditional ways to serve
 - **Root Beer**: Fermented root sap, mildly alcoholic
 - **Honey Lounges**: Upscale establishments serving Hives imports
@@ -243,11 +243,11 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 - Families demanding larger protection payments
 - Underground railroad helping creatures escape crime debts
 - Establishment families hiring muscle to combat gentrification
-- Borough council member revealed to be "connected"
+- Burrow council member revealed to be "connected"
 
 ---
 
-## **Relationship with Other Boroughs**
+## **Relationship with Other Burrows**
 
 ### **The Branchx**
 - Source of many low-level syndicate soldiers
