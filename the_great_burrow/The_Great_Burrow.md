@@ -2,52 +2,56 @@
 
 ## **Welcome to the Forest Metropolis**
 
-In the heart of an ancient mixed hardwood forest, where massive oaks drop their bounty and maples paint autumn gold, lies The Great Burrow - a sprawling metropolis of woodland creatures that rivals any great city in scope, ambition, and complexity. Here, five distinct boroughs (called "burrows") pulse with life, connected by the engineering marvel of the Great Underground subway system, divided by the East and West Rivers, and united in their constant vigilance against the titans that walk the earth.
+In the heart of an ancient mixed hardwood forest, where massive oaks drop their bounty and maples paint autumn gold, lies The Great Burrow - a sprawling metropolis of woodland creatures that rivals any great city in scope, ambition, and complexity. Here, five distinct burrows pulse with life, connected by the engineering marvel of the Great Underground subway system, divided by the East and West Rivers, and united in their constant vigilance against the titans that walk the earth. From the vertical maze of Mousehattan's carved stone chambers to the canopy highways of The Branchx, from the buzzing agricultural powerhouse of The Hives to the working waterfront of Lin's Brook, and finally to the forgotten island where Rangers stand between civilization and chaos.
 
-This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the waterfront while mice cling to old money and older traditions. It's a place where your species, your burrow, and your branch height determine your destiny - unless you're clever enough, tough enough, or desperate enough to change it.
+This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the shadows while mice cling to old money and older traditions. It's a place where shrews whistle commands to beetle workforces, where guinea pig innovations revolutionize ancient farming, where opossums run black markets and raccoons launder money with literal paw-washing. Your species, your burrow, and your branch height may determine your starting point - but in a city built by tiny paws with impossible ambition, every creature has a chance to climb higher, dig deeper, or disappear entirely into the spaces between.
 
 ---
 
 ## **The Five Burrows**
 
 ### **Mousehattan** - *The Vertical Metropolis*
-Rising from a rocky outcropping where ancient oak roots penetrate stone, Mousehattan is the beating heart of commerce and ambition. The Acorn Exchange sets prices that ripple across the forest, while Wall Street (literally carved into walls) houses the financial powers that can make or break a creature's fortune. Old mouse families clash with new rat money as gentrification transforms ancient tunnels into "modern" spaces. The Longtail and Whisker crime families control the shadows, ensuring everyone pays their "insurance." Seven vertical levels from Sub-Basement to Crown create a rigid hierarchy - in Mousehattan, you're always climbing up or sliding down.
+Rising from a rocky outcropping where ancient oak roots penetrate stone, Mousehattan is the beating heart of commerce and ambition. The Acorn Exchange trading floor, carved into the base of the Trading Oak, sets prices that ripple across the forest, while Wall Street (literally carved into walls) houses the financial powers that can make or break a creature's fortune. Old mouse families with their precise, articulated speech and formal manners clash with new rat money - loud, confident entrepreneurs who interrupt conversations and make holes bigger. The Longtail and Whisker crime families control the shadows with codes like "the family provides," ensuring everyone pays their "insurance." Seven vertical levels from Sub-Basement to Crown create a rigid hierarchy where your address determines your status, and Times Squeak never sleeps under its managed firefly lighting.
 
 ### **The Branchx** - *The Canopy Commons*
-High in the ancient grove where oak and maple create natural highways, The Branchx sprawls through three dimensions of working-class pride. The failed tunnel system stands as a monument to broken promises, while the Nutcracker Union ensures construction crews get their due. Hawks patrol the daylight, making every trip a calculated risk. Chipmunk couriers race through territories divided between old squirrel families and gangs affiliated with the other crime syndicates. Here, "earning your perch" means more than finding a branch - it means defending your family's place in the vertical world.
+High in the ancient grove where oak and maple create natural highways, The Branchx sprawls through three dimensions of working-class pride. Here, your branch height literally determines your social status - "high branch, warm winter" as they say. The failed tunnel system stands as a monument to broken promises, while the Nutcracker Union ensures construction crews get their due with the threat that they "break more than nuts." Hawks patrol the daylight, making every trip a calculated risk that forces covered routes and buddy systems. Chipmunk couriers with their rapid-fire delivery and route-number slang race through territories divided between old squirrel families and crow-affiliated gangs. The rope bridge network spans 47 major crossings, and emergency bark slides provide rapid descent - though climbing back up is always harder.
 
 ### **The Hives** - *The Agricultural Innovation District*
-In sunny meadow clearings, The Hives showcases what cooperation between species can achieve. Rabbit families who mastered beekeeping generations ago work alongside guinea pig agricultural innovators from "Beyond the Southern Meadows." Shrews whistle complex commands to beetle workforces while managed firefly colonies light the night markets. This is the most diverse burrow, where honey flows like gold and the air hums with carefully orchestrated insect labor. It's Queens' entrepreneurial spirit meets sustainable technology, though tensions simmer between old traditions and new methods.
+In sunny meadow clearings, The Hives showcases what cooperation between species can achieve. Ancient rabbit warrens control the honey trade while guinea pig immigrants from "Beyond the Southern Meadows" bring revolutionary terracing techniques and their musical, rolling speech patterns. Shrews in their flat caps whistle ultrasonic commands to beetle workforces, managing everything from composting facilities to silk pavilions where moths are cultivated for luxury textiles. Managed firefly colonies light the night markets, and the air hums with carefully orchestrated insect symphonies. This is the most diverse burrow, where "every bee has its flower" and honey flows like gold, though tensions simmer between traditional beekeeping dynasties and free-range advocates who question the ethics of insect domestication.
 
 ### **Lin's Brook** - *The Working Waterfront*
-Where Whisker Creek meets tidal waters, Lin's Brook embodies blue-collar pride and aquatic expertise. Beaver dams create the infrastructure while otter families run the docks. The Silverclaw crime family controls protection rackets with less subtlety than their Mousehattan counterparts. Gentrification creeps into Greenbank while traditional families struggle to maintain their waterfront heritage. When giants come to drink or fish, the entire burrow knows the evacuation slides by heart. This is where The Great Burrow gets built, one dam at a time.
+Where Whisker Creek meets tidal waters, Lin's Brook embodies blue-collar pride and aquatic expertise. The Great Dam and its secondary structures create the infrastructure that powers workshops around the clock, while beaver lodge complexes house multi-generational families who judge others by the quality of their work. Otter clans run the docks with their fluid, expressive speech full of water metaphors, operating ferry services and competitive slide-racing venues. The Silverclaw crime family controls protection rackets with less subtlety than their Mousehattan counterparts, while gentrification creeps into Greenbank with "artisanal" shops and craft breweries. When giants come to drink or fish, the entire burrow knows the evacuation slides by heart - this is where The Great Burrow gets built, one dam at a time.
 
 ### **Scurry Island** - *The Forgotten Burrow*
-Built on and around a massive fallen oak, Scurry Island sits isolated in the central clearing. Connected only by unreliable ferries and dangerous surface routes, it's become the black market capital and home to the Rangers - elite warriors who venture into the Deep Woods to face titans. Opossums and raccoons run a shadow economy where everything has a price and sanctuary rules are sacred. The Ranger Station on the western edge represents the thin line between civilization and chaos. Here, creatures come to disappear, reinvent themselves, or die trying to protect others.
+Built on and around "The Old Giant," a massive fallen oak, Scurry Island sits isolated in the central clearing. Connected only by three unreliable ferries (two usually broken) and dangerous surface routes, it's become the black market capital where opossums master the art of "playing dead" to society while thriving in the shadows. Raccoons run sophisticated fence operations, literally "washing" stolen goods with their dexterous paws. The Ranger Station on the western edge houses the elite warriors who venture into the Deep Woods to face titans - "between the city and the dark" as their oath states. Here, creatures come to disappear into Root Town's defensive maze, reinvent themselves in the Trunk Hollow markets, or die trying to protect others from the giants that walk.
 
 ---
 
 ## **The World Beyond the Walls**
 
 ### **The Titans That Walk**
-- **Bears**: could cause total evacuations, physically capable of destroying an entire district
-- **Deer**: their movements reshape landscapes, antler rubs devastate trees, but leaving unexplainable events or imparting boons to wanderers of the deep forest
-- **Moose**: rarest but most feared, their feeding can topple the ancient oaks and disupt ecosystems
-- **Wild Boars**: their rooting collapses tunnel systems, and while smaller than other titans, more common and considered to be wildly unpredictable
+- **Bears**: Could cause total evacuations, physically capable of destroying an entire district. The Great Trampling 20 years ago remains the most destructive single titan encounter in the city's history
+- **Deer**: Their movements reshape landscapes, antler rubs devastate trees, but also leave unexplainable boons for wanderers of the deep forest. The Antler Scrape against the Trading Oak caused week-long evacuations
+- **Moose**: Rarest but most feared, their feeding can topple ancient oaks and disrupt entire ecosystems. Their upstream activity contributed to the Great Flood disaster
+- **Wild Boars**: Their rooting collapses tunnel systems, and while smaller than other titans, they're more common and wildly unpredictable
 
-The giants aren't inherently malevolent - they simply exist at a scale that makes coexistence nearly impossible. The Great Burrow has evolved elaborate warning systems, evacuation protocols, and offering stations to minimize catastrophic encounters.
+The giants aren't inherently malevolent - they simply exist at a scale that makes coexistence nearly impossible. The Great Burrow has evolved elaborate warning systems, evacuation protocols, and offering stations to minimize catastrophic encounters. Some spiritual movements like the Titan Mysteries believe these giants carry divine messages and should be appeased rather than resisted.
 
 ### **Natural Predators**
-- **Hawks**: Control daytime surface travel, forcing covered routes
-- **Owls**: Silent death in the night shift
-- **Snakes**: Seasonal terror in the canopy
+- **Hawks**: Control daytime surface travel, forcing covered routes and buddy systems
+- **Owls**: Silent death in the night shift, especially dangerous in The Branchx
+- **Snakes**: Seasonal terror in the canopy, climbing varieties create panic
+- **Corvids**: Complex relationship - sometimes protection, sometimes threat, always watching
 
-### **The Wider Forest**
-- **The Deep Woods**: Northern wilderness where Rangers patrol
-- **The Pine Barrens**: Western frontier of coniferous forest
-- **The Great Meadows**: Southern grasslands beyond the forest
-- **The Ocean**: Eastern boundary, source of weather and wonder
-- **Neighboring Settlements**: Smaller communities that trade with The Great Burrow
+### **The Wider Forest & Trade Relations**
+- **The Pine Barrens Confederation**: Western coniferous forests where pine martens trade resin and survival gear for Great Burrow manufactured goods
+- **Meadowbrook Settlements**: Southern grassland communities sharing agricultural knowledge with The Hives
+- **Coastal Tidepools**: Eastern seaboard communities trading salt and shells for forest products
+- **The Northern Reaches**: Deep forest territories where bear-adapted communities provide early warning of titan movements
+- **The Bandit Territories**: Lawless zones between settlements where exiles and outlaws control trade routes, requiring expensive Ranger escorts for valuable shipments
+
+### **The Outlaw Problem**
+Organized bandit groups like the Broken Claw Gang and Whisker's Crew control key territories between settlements, forcing expensive security measures and creating a shadow economy of protection rackets, smuggling networks, and false guide services. Many bandits are creatures who fled The Great Burrow due to debt, crime, or political persecution, creating a complex relationship between the city and its exiled children.
 
 ---
 
@@ -101,28 +105,72 @@ The marvel of mole engineering, this subway system connects all five burrows thr
 
 ---
 
+## **Governance & Politics**
+
+### **The Five-Burrow Coalition**
+The Great Burrow operates under a loose confederation where each burrow maintains significant autonomy while participating in city-wide governance through the **Inter-Burrow Council**. Two representatives from each burrow meet quarterly, rotating between locations, to handle infrastructure funding, titan response, inter-burrow disputes, and trade regulation - though they cannot override burrow-specific laws or cultural practices.
+
+### **Individual Burrow Governance**
+- **Mousehattan**: Corporate oligarchy run by the Root Board (family heads and crime bosses) with the Acorn Exchange Authority regulating markets
+- **The Branchx**: Union democracy through the Nutcracker Assembly with traditional squirrel Height Council maintaining ceremonial roles
+- **The Hives**: Cooperative consensus via the Hive Mind (extended family councils) and Species Circles for each major group
+- **Lin's Brook**: Guild confederation led by the Dam Council with ancient Water Rights Court managing stream access
+- **Scurry Island**: Survival hierarchy where the Trunk Council maintains order alongside Ranger Command during titan threats
+
+### **Political Movements**
+- **The Traditionalists**: Preserve burrow autonomy and species-specific governance
+- **The Unionists**: Worker rights and cross-species solidarity
+- **The Progressives**: Modernization and technological advancement
+- **Rangers First**: Titan defense and military preparedness above all
+- **The Naturalists**: Environmental protection and sustainable development
+
+---
+
+## **Spiritual & Cultural Life**
+
+### **Major Spiritual Approaches**
+- **The Old Growth Faith**: Forest-as-living-entity, ancient trees as sacred vessels, ancestor spirits dwelling in roots
+- **The Great Harmony**: All creatures interconnected, cooperation as spiritual practice, multi-species meditation circles
+- **The Titan Mysteries**: Giants as spiritual forces carrying divine messages, offering stations and dream interpretation
+- **The Deep Current**: Water as life source and spiritual medium, tide-timing and current meditation
+- **The Great Burrow**: City itself as sacred achievement, building blessings and innovation worship
+- **The Shadow Path**: Survival spirituality accepting harsh realities while maintaining dignity
+
+### **Cultural Infrastructure**
+- **Arts & Entertainment**: From the Grand Oak Theater in Mousehattan to underground fight clubs on Scurry Island, death theater traditions, and multi-species collaborative performances
+- **Sports & Recreation**: Professional racing circuits, construction competitions, underground fighting leagues, and community sports clubs
+- **Communication Systems**: The Daily Squeak newspaper, chipmunk courier networks, bat night services, and underground press publications
+- **Festivals & Celebrations**: The Great Awakening (spring), Harvest Gratitude (autumn), The Long Night (winter), plus burrow-specific celebrations like Bridge Day and Dam Day
+
+### **Social Systems**
+- **Education**: From the elite Great Burrow Academy to Workers' Education Collective, Community Learning Centers, and the tough Survival Skills Institute
+- **Healthcare**: Species-specific medical practices, public health systems, and mental health services for titan trauma
+- **Social Welfare**: Economic support programs, family and child services, community-based mutual aid networks
+
+---
+
 ## **Society & Culture**
 
 ### **Social Hierarchy**
-1. **Old Money**: Ancient families with prime territory rights
-2. **New Rich**: Entrepreneurs and crime families
-3. **Skilled Workers**: Union members and specialists
-4. **Service Class**: The creatures who keep the city running
+1. **Old Money**: Ancient families with prime territory rights and grove access
+2. **New Rich**: Entrepreneurs, crime families, and successful innovators
+3. **Skilled Workers**: Union members, specialists, and guild craftscreatures
+4. **Service Class**: The creatures who keep the city running daily
 5. **The Desperate**: Day laborers, refugees, and the forgotten
 
 ### **Crime & Order**
-- **Organized Families**: Rats dominate but weasels compete
-- **Protection Rackets**: "Insurance" is a way of life
-- **Black Markets**: Everything available for a price
-- **Sanctuary Rules**: Some places remain neutral
-- **Burrow Guards**: Varying effectiveness and corruption
+- **Organized Families**: Rat syndicates dominate with codes like "the family provides," while weasel networks compete through information brokerage
+- **Protection Rackets**: "Insurance" payments are a way of life, often providing actual security services
+- **Black Markets**: Everything available for a price on Scurry Island and in underground networks
+- **Sanctuary Rules**: Some places remain neutral ground, especially in Root Town
+- **Burrow Guards**: Varying effectiveness and corruption levels across different territories
 
 ### **Cultural Tensions**
-- **Gentrification**: Old neighborhoods transformed by new money
-- **Species Integration**: Traditional boundaries breaking down
-- **Generational Divides**: Young creatures questioning old ways
-- **Burrow Pride**: Local identity vs. city unity
-- **Predator Reality**: Constant threat shapes everything
+- **Gentrification**: Old neighborhoods transformed by new money, especially affecting The Branchx and Lin's Brook
+- **Species Integration**: Traditional boundaries breaking down as young creatures form cross-species relationships
+- **Generational Divides**: Young creatures questioning height hierarchies, traditional roles, and species-based governance
+- **Innovation vs. Tradition**: Guinea pig agricultural methods challenging rabbit dynasties, new construction techniques threatening old ways
+- **Predator Reality**: Constant threat shapes architecture, daily schedules, and cultural practices
 
 ---
 
@@ -176,14 +224,51 @@ The marvel of mole engineering, this subway system connects all five burrows thr
 
 ---
 
+## **A Living History**
+
+### **The Founding Era (150 Years Ago)**
+The Great Burrow began with "The Great Convergence" - a series of crises including the Terrible Winter, multiple bear encounters, failed harvests, and a devastating storm that forced scattered settlements to unite. The legendary Acorn Compact established the principles of mutual aid, shared defense, and peaceful dispute resolution that still guide the city today. The first infrastructure projects - the Great Underground, bridge networks, and water management systems - required unprecedented cooperation between species.
+
+### **Growth and Crisis**
+The city's history shows a pattern of growth leading to crisis, followed by adaptation and renewed growth. Major events include the Species Wars (76-82 years ago) when economic inequality and cultural conflicts erupted into the most serious internal strife in the city's history, resolved by the Great Compromise that established the current burrow autonomy system. The Great Flood (59 years ago) demonstrated both the city's vulnerability and its resilience, leading to improved emergency planning and social welfare programs.
+
+### **The Modern Era**
+Recent decades have seen unprecedented prosperity alongside growing challenges. The Innovation Period brought technological advances like sophisticated insect agriculture and improved transportation. The Prosperity Decades established The Great Burrow as the regional cultural and economic center. However, the last decade has brought new pressures: gentrification displacing traditional communities, environmental challenges, increasing titan activity, and growing inequality that tests the cooperative spirit that built the city.
+
+---
+
+## **The Creatures of The Great Burrow**
+
+### **Core Species & Their Cultures**
+- **Mice**: Old money families with precise speech and formal manners, descendants of the original wall-carvers who believe in "proper" ways of doing everything
+- **Rats**: New money entrepreneurs with loud, confident speech who "make holes bigger" and network aggressively across species lines
+- **Squirrels**: Height-obsessed traditionalists whose branch level indicates social status, natural hoarders who judge others by winter storage
+- **Chipmunks**: Speed-focused courier culture with rapid-fire speech and route-number slang, forming tight crews that become chosen families
+- **Beavers**: Master builders who judge others by work quality, speaking in deliberate construction metaphors with slight Canadian-influenced patterns
+- **Otters**: Waterfront workers with fluid, expressive speech full of water metaphors, competitive about everything especially sliding
+- **Rabbits**: Agricultural aristocracy measuring wealth in hives, speaking in collective terms with warm, measured speech patterns
+- **Guinea Pigs**: Recent immigrants from "Beyond the Southern Meadows" with musical, rolling speech and revolutionary terracing techniques
+- **Opossums**: Survivalist philosophers who "play dead" to society while thriving in shadows, masters of saying one thing while meaning another
+- **Raccoons**: Clever operators who literally "wash" stolen goods, smooth and persuasive with lots of hand gestures and euphemisms
+
+### **Specialized Roles**
+- **Moles**: THE subway operators who built and maintain the Great Underground, speaking quietly with technical terminology
+- **Shrews**: Insect whisperers in flat caps who whistle ultrasonic commands to beetle workforces
+- **Corvids**: The alien intelligence - sapient birds with harsh, staccato speech who think in patterns mammals can't comprehend
+- **Rangers**: Elite warriors from various species who venture into the Deep Woods, bound by the oath "between the city and the dark"
+
+---
+
 ## **The Great Burrow at a Glance**
 
 This is a city of impossible ambition built by tiny paws, where every creature knows their place but dreams of more. Where ancient oaks shelter million-creature dreams and fallen logs become Main Street. Where the subway rumbles through roots while hawks circle overhead. Where crime families offer protection from worse fates and unions stand between workers and exploitation.
 
 It's New York City if Manhattan was a granite outcrop carved by mice, if Brooklyn's waterfront was run by beavers and otters, if Queens was an agricultural powerhouse of managed insects, if the Bronx hung in the canopy fighting gentrification, and if Staten Island was where you went to disappear or become a hero.
 
-It's a place where "making it" might mean securing your family's branch rights for another generation, successfully managing a beetle herd through winter, or standing with the Rangers between the city and a approaching bear. Where every dawn brings opportunity and danger in equal measure, where your burrow shapes your identity but doesn't have to define your destiny.
+It's a place where "making it" might mean securing your family's branch rights for another generation, successfully managing a beetle herd through winter, or standing with the Rangers between the city and an approaching bear. Where every dawn brings opportunity and danger in equal measure, where your burrow shapes your identity but doesn't have to define your destiny.
 
-Welcome to The Great Burrow - try not to get eaten, stepped on, or priced out. There's no place like it in the entire forest, and once you've made it here, everywhere else feels like a hollow log in the sticks.
+Welcome to The Great Burrow - where squirrels race chipmunks through rope bridge highways, where shrews whistle commands to beetle armies, where opossums run black markets and raccoons launder money with literal paw-washing. Where guinea pig innovations challenge ancient rabbit dynasties, where rat entrepreneurs clash with mouse old money, where beaver dams power workshops that never sleep, and where Rangers stand guard against titans that could step on everything you've ever built.
+
+Try not to get eaten, stepped on, or priced out. There's no place like it in the entire forest, and once you've made it here, everywhere else feels like a hollow log in the sticks.
 
 *Remember: The city never sleeps, the giants never care, and there's always another creature trying to take what's yours. But if you can make it here...*
