@@ -213,19 +213,19 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 ### **Burrow-Specific Careers**
 
 #### **Acorn Trader** *(Mousehattan)*
-**Skills:** Charm, Deception, Knowledge (Business), Negotiation, Perception, Streetwise, Vigilance, Cool
+**Skills:** Charm, Deception, Knowledge (City), Negotiation, Perception, Streetwise, Vigilance, Cool
 **Starting Equipment:** Business clothes, ledger, 500 acorns, contact in financial district
 
 #### **Construction Worker** *(The Branchx)*
-**Skills:** Athletics, Coordination, Mechanics, Resilience, Survival, Vigilance, Knowledge (Engineering), Medicine
+**Skills:** Athletics, Coordination, Mechanics, Resilience, Survival, Vigilance, Knowledge (Science), Medicine
 **Starting Equipment:** Tool kit, safety gear, union membership, work clothes
 
 #### **Insect Wrangler** *(The Hives)*
-**Skills:** Animal Handling, Knowledge (Agriculture), Medicine, Perception, Resilience, Survival, Vigilance, Charm
+**Skills:** Animal Handling, Knowledge (Science), Medicine, Perception, Resilience, Survival, Vigilance, Charm
 **Starting Equipment:** Whistle, protective gear, insect handling tools, field guide
 
 #### **Dock Worker** *(Lin's Brook)*
-**Skills:** Athletics, Coordination, Mechanics, Resilience, Streetwise, Survival, Vigilance, Piloting
+**Skills:** Athletics, Coordination, Mechanics, Resilience, Streetwise, Survival, Vigilance, Vehicles
 **Starting Equipment:** Work clothes, rope, boat access, union membership
 
 #### **Ranger** *(Scurry Island)*
@@ -235,7 +235,7 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 ### **Cross-Burrow Careers**
 
 #### **Courier**
-**Skills:** Athletics, Coordination, Perception, Piloting, Streetwise, Survival, Vigilance, Knowledge (Geography)
+**Skills:** Athletics, Coordination, Perception, Vehicles, Streetwise, Survival, Vigilance, Knowledge (City)
 **Starting Equipment:** Delivery bag, route maps, customer contacts, fast transportation
 
 #### **Crime Family Associate**
@@ -243,11 +243,11 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 **Starting Equipment:** "Family" connections, protection money, concealed weapon
 
 #### **Union Organizer**
-**Skills:** Charm, Coercion, Leadership, Negotiation, Perception, Streetwise, Knowledge (Politics), Cool
+**Skills:** Charm, Coercion, Leadership, Negotiation, Perception, Streetwise, Knowledge (City), Cool
 **Starting Equipment:** Union materials, worker contacts, meeting spaces
 
 #### **Black Market Dealer**
-**Skills:** Deception, Negotiation, Skulduggery, Streetwise, Vigilance, Knowledge (Underworld), Cool, Perception
+**Skills:** Deception, Negotiation, Skulduggery, Streetwise, Vigilance, Knowledge (City), Cool, Perception
 **Starting Equipment:** Contraband goods, hidden storage, criminal contacts
 
 ---
@@ -301,22 +301,108 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 ## **Equipment and Gear**
 
+### **Species Manufacturing Differences**
+
+Different species bring their unique cultural approaches and natural abilities to crafting, resulting in distinct variations of standard equipment.
+
+#### **Mouse-Made Equipment**
+- **Modifications:** Add ⬜ to Mechanics checks when using tools, +1 Accurate quality to ranged weapons
+- **Price:** +50% (precision craftsmanship)
+- **Aesthetics:** Incredibly detailed and precise construction with intricate engravings. Every component perfectly fitted and balanced. Often includes tiny adjustment mechanisms and fine-tuned calibrations.
+
+#### **Rat-Made Equipment**
+- **Modifications:** Reduce rarity by 1 (mass production), +1 Encumbrance (bulkier but functional)
+- **Price:** -25% (efficient manufacturing)
+- **Aesthetics:** Practical, robust construction focused on reliability over elegance. Often includes extra features and attachments. Built to be easily modified and repaired.
+
+#### **Squirrel-Made Equipment**
+- **Modifications:** Reduce weight by 1 Encumbrance (minimum 0), add Superior quality to climbing gear
+- **Price:** Standard
+- **Aesthetics:** Lightweight construction using hollow components and flexible materials. Designed for mobility and storage. Often includes attachment points for securing to trees or rope systems.
+
+#### **Beaver-Made Equipment**
+- **Modifications:** +1 Defense (armor), +1 Damage (weapons), +1 Encumbrance (heavier construction)
+- **Price:** +25% (superior materials and construction)
+- **Aesthetics:** Incredibly sturdy construction built to last generations. Uses the finest wood and natural materials. Designed to withstand extreme conditions and heavy use.
+
+#### **Otter-Made Equipment**
+- **Modifications:** Waterproof quality, +1 Defense against environmental hazards
+- **Price:** +15% (specialized waterproofing)
+- **Aesthetics:** Sleek, streamlined design that functions equally well in water and on land. Uses water-resistant materials and sealed construction. Often includes drainage features.
+
+#### **Rabbit-Made Equipment**
+- **Modifications:** Add Defensive +1 quality to armor, reduce crafting time by 25%
+- **Price:** -10% (community production methods)
+- **Aesthetics:** Comfortable, practical design focused on protection and family use. Often includes padding and comfort features. Built for extended wear and community sharing.
+
+#### **Raccoon-Made Equipment**
+- **Modifications:** Add Concealable quality, +1 ⬜ to Skulduggery checks when using tools, rarity +1
+- **Price:** +30% (specialized criminal applications)
+- **Aesthetics:** Cleverly disguised equipment that appears innocent but serves multiple purposes. Hidden compartments and false surfaces. Designed to pass casual inspection.
+
+#### **Opossum-Made Equipment**
+- **Modifications:** Add Stun quality to weapons, equipment appears worthless (Deception bonus)
+- **Price:** -50% (appears cheap but functions well)
+- **Aesthetics:** Deliberately shabby appearance hiding quality construction. Designed to be underestimated. Often incorporates scavenged materials in clever ways.
+
+#### **Using Species Manufacturing**
+When purchasing equipment, players can choose to buy items made by specific species to gain the associated benefits. The modifications apply to the base item statistics. For example:
+
+- A **Mouse-made Needle Sword** would have Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 52 acorns (35 + 50%), *Pierce 1, Accurate 1*
+- A **Beaver-made Bark Plate** would have Soak +4 (+3 base +1 species), Defense 1, Encumbrance 5 (+1 species), Price 375 acorns (300 + 25%), *Cumbersome 1*
+- A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add ⬜ to lockpicking, Concealable, Add ⬜ to Skulduggery checks*
+
+Players can also commission custom items from specific species' craftscreatures, though this may require additional time, reputation, or special arrangements depending on the item and the craftscreature's availability.
+
 ### **Weapons**
 
 #### **Improvised Weapons**
 - **Thorn Spear:** Damage 3, Crit 4, Range [Engaged], Encumbrance 2, Price 5 acorns
 - **Sling:** Damage 4, Crit 4, Range [Medium], Encumbrance 1, Price 10 acorns
 - **Claw Guards:** Damage 2, Crit 3, Range [Engaged], Encumbrance 1, Price 15 acorns, *Defensive 1*
+- **Acorn Cap Shield:** Defense +1, Encumbrance 2, Price 8 acorns, *Defensive 1*
+- **Sharpened Stick:** Damage 2, Crit 5, Range [Engaged], Encumbrance 1, Price 2 acorns
+
+#### **Traditional Weapons**
+- **Nutcracker Club:** Damage 4, Crit 4, Range [Engaged], Encumbrance 3, Price 20 acorns, *Knockdown*
+- **Bark Bow:** Damage 5, Crit 3, Range [Long], Encumbrance 2, Price 40 acorns, *Prepare 1*
+- **Needle Sword:** Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 35 acorns, *Pierce 1*
+- **Stone Axe:** Damage 5, Crit 3, Range [Engaged], Encumbrance 3, Price 25 acorns, *Vicious 1*
 
 #### **Ranger Equipment**
 - **Poison Dart:** Damage 3, Crit 2, Range [Short], Encumbrance 0, Price 25 acorns, *Poison (stun)*
 - **Entanglement Net:** Damage 1, Crit 6, Range [Short], Encumbrance 2, Price 50 acorns, *Ensnare 2*
 - **Flash Powder:** Damage 0, Crit -, Range [Short], Encumbrance 1, Price 30 acorns, *Blast 3, Stun*
+- **Ranger Crossbow:** Damage 6, Crit 3, Range [Long], Encumbrance 3, Price 150 acorns, *Accurate 1, Prepare 1*
+- **Smoke Bomb:** Damage 0, Crit -, Range [Short], Encumbrance 1, Price 20 acorns, *Blast 2, Disorient 2*
+
+#### **Specialized Weapons**
+- **Beetle Prod:** Damage 2, Crit 5, Range [Engaged], Encumbrance 1, Price 30 acorns, *Stun Damage*
+- **Fishing Spear:** Damage 4, Crit 3, Range [Short], Encumbrance 2, Price 18 acorns, *Accurate 1* (underwater)
+- **Climbing Pick:** Damage 3, Crit 4, Range [Engaged], Encumbrance 1, Price 22 acorns, *Pierce 1, Defensive 1*
 
 ### **Armor**
+
+#### **Light Armor**
 - **Work Clothes:** Soak +1, Defense 0, Encumbrance 1, Price 20 acorns
-- **Padded Vest:** Soak +2, Defense 0, Encumbrance 2, Price 75 acorns
-- **Ranger Gear:** Soak +2, Defense 1, Encumbrance 3, Price 200 acorns
+- **Leather Vest:** Soak +1, Defense 1, Encumbrance 1, Price 45 acorns
+- **Padded Jacket:** Soak +2, Defense 0, Encumbrance 2, Price 75 acorns
+- **Courier Gear:** Soak +1, Defense 1, Encumbrance 1, Price 60 acorns, *Reduces falling damage by 1*
+
+#### **Medium Armor**
+- **Scale Mail:** Soak +2, Defense 1, Encumbrance 2, Price 120 acorns, *Made from overlapping bark scales*
+- **Reinforced Vest:** Soak +3, Defense 0, Encumbrance 3, Price 150 acorns
+- **Guild Armor:** Soak +2, Defense 1, Encumbrance 2, Price 180 acorns, *Includes tool attachments*
+
+#### **Heavy Armor**
+- **Ranger Gear:** Soak +2, Defense 1, Encumbrance 3, Price 200 acorns, *Environmental protection*
+- **Bark Plate:** Soak +3, Defense 1, Encumbrance 4, Price 300 acorns, *Cumbersome 1*
+- **Shell Armor:** Soak +4, Defense 0, Encumbrance 5, Price 450 acorns, *Cumbersome 2, made from large insect shells*
+
+#### **Specialized Armor**
+- **Diving Suit:** Soak +1, Defense 0, Encumbrance 2, Price 100 acorns, *Waterproof, allows underwater breathing*
+- **Climbing Harness:** Soak +1, Defense 1, Encumbrance 1, Price 80 acorns, *Prevents falling damage up to Medium range*
+- **Winter Coat:** Soak +2, Defense 0, Encumbrance 2, Price 90 acorns, *Cold weather protection*
 
 ### **Transportation**
 
@@ -331,11 +417,51 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Courier Service:** Message delivery, Price 1-5 acorns depending on distance
 
 ### **Tools and Equipment**
-- **Tunnel Digging Kit:** Mechanics tools for underground work, Price 150 acorns
-- **Insect Whistle:** Animal Handling tool for managing insects, Price 30 acorns
-- **Climbing Gear:** Athletics equipment for canopy travel, Price 100 acorns
+
+#### **Communication**
+- **Messenger Beetle (Basic):** 80% delivery success, Range: City-wide, Price 30 acorns, *Must be familiar with recipient*
+- **Messenger Beetle (Premium):** 95% delivery success, Range: Regional, Price 85 acorns, *Must be familiar with recipient*
+- **Signal Mirror:** Reflects light for long-distance communication, Price 12 acorns
+- **Message Tube:** Waterproof container for important documents, Price 6 acorns
+
+#### **Professional Tools**
+- **Tunnel Digging Kit:** Mechanics tools for underground work, Price 150 acorns, *Add ⬜ to underground construction*
+- **Insect Whistle:** Animal Handling tool for managing insects, Price 30 acorns, *Add ⬜ to insect-related checks*
+- **Climbing Gear:** Athletics equipment for canopy travel, Price 100 acorns, *Add ⬜ to climbing checks*
+- **Lockpick Set:** Skulduggery tools for opening locks, Price 45 acorns, *Add ⬜ to lockpicking*
+- **Medical Kit:** Medicine supplies for treating injuries, Price 80 acorns, *Add ⬜ to Medicine checks*
+- **Carpenter's Tools:** Mechanics tools for woodworking, Price 60 acorns, *Add ⬜ to construction checks*
+
+#### **Survival Gear**
 - **Emergency Rations:** 3 days food, Price 15 acorns
-- **Firefly Lantern:** Light source (living), Price 40 acorns, requires daily feeding
+- **Water Purification Tablets:** Makes questionable water safe, Price 10 acorns (10 uses)
+- **Rope (50 feet):** Strong woven fiber rope, Price 20 acorns, Encumbrance 2
+- **Grappling Hook:** For climbing and swinging, Price 35 acorns, Encumbrance 1
+- **Sleeping Bag:** Warm bedding for outdoor rest, Price 25 acorns, Encumbrance 2
+- **Fire Starting Kit:** Flint, tinder, and kindling, Price 8 acorns
+
+#### **Lighting**
+- **Firefly Lantern:** Light source (living), Price 40 acorns, requires daily feeding, *Bright light, Medium range*
+- **Candle:** Simple wax light source, Price 2 acorns, *Dim light, Short range, 4 hour duration*
+- **Torch:** Burning stick for light, Price 1 acorn, *Bright light, Short range, 1 hour duration*
+- **Glowworm Jar:** Portable dim light, Price 15 acorns, *Dim light, Short range, no fuel needed*
+
+#### **Specialized Equipment**
+- **Magnifying Glass:** For detailed work, Price 50 acorns, *Add ⬜ to Perception checks for small details*
+- **Scales:** For precise measurements, Price 30 acorns, *Required for accurate trading*
+- **Compass:** Navigation aid, Price 40 acorns, *Add ⬜ to Navigation checks*
+- **Spyglass:** For distant observation, Price 120 acorns, *See clearly at Long range*
+- **Weather Vane:** Predicts weather changes, Price 25 acorns, *Add ⬜ to weather prediction*
+
+#### **Insect-Powered Technology**
+- **Beetle Cart:** Small cargo transport, Price 200 acorns, *Carries 5 Encumbrance, requires trained beetle*
+- **Ant Farm Calculator:** Living computation device, Price 150 acorns, *Add ⬜⬜ to complex mathematical calculations*
+- **Spider Silk Rope:** Ultra-strong climbing rope, Price 60 acorns, *Half normal Encumbrance, Superior quality*
+- **Honeycomb Storage:** Organized storage system, Price 40 acorns, *Reduces effective Encumbrance of stored items by 1*
+- **Cricket Alarm:** Security system using trained crickets, Price 80 acorns, *Alerts to intruders within Short range*
+- **Butterfly Messenger:** Delicate but fast communication, Price 35 acorns, *90% success, same-day delivery within city*
+- **Beetle Mill:** Portable grinding device, Price 120 acorns, *Processes grain and nuts, requires beetle labor*
+- **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
 
 ---
 
@@ -370,7 +496,7 @@ Having survived a direct titan encounter, add ⬜ to all checks related to giant
 Choose one type of crafting (construction, insect management, etc.). Add ⬜⬜ to all related checks. Reduce time and cost of creating items by 25%.
 
 #### **Political Insider** *(Passive)*
-Connected to burrow politics and governance. Add ⬜ to Knowledge (Politics) and Negotiation checks. Gain access to political information and influence.
+Connected to burrow politics and governance. Add ⬜ to Knowledge (City) and Negotiation checks. Gain access to political information and influence.
 
 ### **Tier 3 Talents**
 
@@ -382,6 +508,105 @@ Veteran of multiple titan encounters. Add ⬜⬜ to all combat checks against la
 
 #### **Underground Railroad** *(Active)*
 Can help creatures disappear from their old lives and start new ones. Once per session, can provide false identity, safe passage, or sanctuary for any creature.
+
+### **Tier 4 Talents**
+
+#### **Burrow Legend** *(Passive)*
+Your reputation precedes you throughout the city. Add ⬜⬜ to all social checks within your home burrow. Once per session, may call upon your reputation to gain a significant favor or resource.
+
+#### **Titan Whisperer** *(Active)*
+Your connection to the giants runs deeper than most. Once per session, may attempt to communicate with or influence a titan's behavior. This requires a Formidable (⬟⬟⬟⬟⬟) Knowledge (Titans) check.
+
+#### **Master of Networks** *(Passive)*
+Your web of contacts spans the entire city. Start each session with 3 "favor tokens" that can be spent to gain information, resources, or assistance from contacts throughout The Great Burrow.
+
+### **Species-Specific Talents**
+
+#### **Mouse Precision** *(Passive)*
+*Prerequisite: Mouse species*
+Your natural attention to detail serves you well. When making Mechanics or Medicine checks, may spend 2 strain to upgrade the ability of the check twice instead of once.
+
+#### **Rat Networking** *(Passive)*
+*Prerequisite: Rat species*
+Your species' natural entrepreneurial spirit opens doors. Reduce the difficulty of Streetwise and Negotiation checks by 1 when dealing with business matters.
+
+#### **Squirrel Storage** *(Passive)*
+*Prerequisite: Squirrel species*
+Your hoarding instincts are legendary. Increase your Encumbrance Threshold by 3. Once per session, may produce a useful common item that you "had stored away."
+
+#### **Beaver Engineering** *(Passive)*
+*Prerequisite: Beaver species*
+Your construction expertise is unmatched. When making Mechanics checks related to building or repair, add ⬜⬜ to the check and reduce the time required by half.
+
+#### **Otter Flow** *(Passive)*
+*Prerequisite: Otter species*
+Your natural grace in water extends to all movement. Add ⬜ to all Athletics and Coordination checks. When in water, upgrade the ability of these checks once.
+
+#### **Rabbit Warren Leader** *(Passive)*
+*Prerequisite: Rabbit species*
+Your community instincts make you a natural organizer. When leading a group of 3 or more creatures, all group members gain ⬜ to checks that benefit from coordination. You may use Leadership instead of other social skills when dealing with family or community matters.
+
+#### **Guinea Pig Innovation** *(Active)*
+*Prerequisite: Guinea pig species*
+Your mountain heritage brings fresh perspectives to old problems. Once per session, when facing a challenge that has stumped others, you may spend 2 strain to propose an unconventional solution that adds ⬜⬜ to the attempt and reduces the difficulty by 1.
+
+#### **Opossum Survivor** *(Passive)*
+*Prerequisite: Opossum species*
+Your species' reputation for resilience is well-earned. When reduced to 0 wounds, you may immediately use your "Play Dead" ability as an out-of-turn incidental. Additionally, add ⬜ to all checks made while appearing dead or unconscious.
+
+#### **Raccoon Fence Master** *(Passive)*
+*Prerequisite: Raccoon species*
+Your natural dexterity and criminal connections serve you well. Reduce the difficulty of acquiring illegal goods by 1. When "washing" stolen goods, add ⬜⬜ to Deception checks to make them appear legitimate.
+
+#### **Chipmunk Speed Burst** *(Active)*
+*Prerequisite: Chipmunk species*
+Your legendary speed can be pushed to extraordinary limits. Once per encounter, may move to any location within Long range as a maneuver. Suffer 4 strain after using this ability.
+
+#### **Mole Tunnel Sense** *(Passive)*
+*Prerequisite: Mole species*
+Your vibration sense extends beyond mere detection. You can "read" the structural integrity of underground spaces, predict cave-ins, and find hidden passages. Add ⬜⬜ to Navigation checks underground and ⬜ to Perception checks to detect structural weaknesses.
+
+#### **Skunk Reputation** *(Passive)*
+*Prerequisite: Skunk species*
+Your natural deterrent has made you a master of intimidation without violence. Upgrade Coercion checks once when the threat of your chemical defense is relevant. Enemies must make an Average (⬟⬟) Discipline check to attack you in melee range under similar circumstances.
+
+#### **Badger Territory** *(Passive)*
+*Prerequisite: Badger species*
+Your territorial instincts extend to any space you claim as your own. When defending any location you've spent at least 24 hours in, add ⬜⬜ to all combat checks and increase your Defense by 1. Other creatures instinctively respect your claimed territory.
+
+#### **Ferret Deal Maker** *(Active)*
+*Prerequisite: Ferret species*
+Your hyperactive nature and flexible morality make you an excellent negotiator. Once per session, when making a Negotiation check, you may spend 2 strain to add ⬜⬜ to the check and allow both parties to gain something they want, even from seemingly impossible situations.
+
+#### **Weasel Information Network** *(Passive)*
+*Prerequisite: Weasel species*
+Your species' reputation for knowing everything serves you well. Start each session with one piece of useful information about the current situation. Additionally, reduce the difficulty of Streetwise checks to gather information by 1.
+
+#### **Bat Night Vision** *(Passive)*
+*Prerequisite: Bat species*
+Your echolocation and flight give you unparalleled awareness. You can "see" in complete darkness and through light cover. Add ⬜ to all Perception checks and ⬜⬜ to Vigilance checks made during night hours or in darkness.
+
+#### **Shrew Insect Bond** *(Active)*
+*Prerequisite: Shrew species*
+Your ultrasonic communication has created a deep bond with a specific insect companion. Choose one insect type (beetle, ant, cricket, etc.). You have a loyal insect companion that can perform simple tasks, deliver messages, and provide assistance. The insect has 3 wounds, 2 strain, and relevant skills at 2 dice. If it dies, you can bond with a new one after 1 week.
+
+### **Insect Companion Talents**
+
+#### **Wasp Guardian** *(Active)*
+*Prerequisite: Animal Handling 2, must have befriended a wasp*
+You have formed a bond with a loyal wasp companion. The wasp has 4 wounds, 3 strain, and will defend you fiercely. Once per encounter, the wasp can make a sting attack (Damage 3, Crit 3, Poison) against enemies within Short range. If the wasp is killed, you suffer 2 strain and cannot bond with another for 2 weeks.
+
+#### **Beetle Mount** *(Passive)*
+*Prerequisite: Animal Handling 3, Riding 2*
+You have trained a large beetle as a mount. The beetle can carry you and moderate cargo, has 8 wounds, 4 strain, and moves at your speed. It can also assist with heavy labor, adding ⬜ to Mechanics checks involving construction or hauling. Requires daily feeding and care.
+
+#### **Cricket Alarm** *(Passive)*
+*Prerequisite: Animal Handling 2*
+You have bonded with a cricket that serves as an early warning system. The cricket alerts you to danger within Medium range, adding ⬜⬜ to Initiative checks and Vigilance checks to avoid surprise. The cricket can also relay simple messages through its chirping patterns.
+
+#### **Ant Colony Contact** *(Active)*
+*Prerequisite: Animal Handling 3, must have Shrew Insect Bond or similar*
+You have established communication with a local ant colony. Once per session, you can request the colony's assistance for information gathering, small item transport, or creating diversions. The ants will perform reasonable tasks that don't endanger the colony.
 
 ---
 
@@ -450,12 +675,110 @@ Track reputation with different factions using a simple scale:
 - **Allied (+3):** Strong relationship, major favors, protection
 
 #### **Key Factions**
-- **Each Burrow Government**
-- **Major Crime Families**
-- **Labor Unions**
-- **Ranger Corps**
-- **Species Communities**
-- **Economic Guilds**
+
+**The Five Burrows:**
+- **Mousehattan** - Corporate oligarchy and financial power
+- **The Branchx** - Union democracy and working-class solidarity  
+- **The Hives** - Cooperative consensus and agricultural innovation
+- **Lin's Brook** - Guild confederation and practical expertise
+- **Scurry Island** - Survival hierarchy and frontier independence
+
+**Major Crime Families:**
+- **The Longtail Family** - Old mouse money and traditional crime (Mousehattan)
+- **The Whisker Family** - New rat entrepreneurs and modern rackets (Mousehattan)
+- **The Silverclaw Family** - Waterfront protection and smuggling (Lin's Brook)
+- **The Shadow Runners** - Black market operations and information brokerage (Scurry Island)
+
+**The Ranger Corps:**
+- **Scurry Island Rangers** - Elite military protecting against titans and external threats
+
+At character creation, players must choose:
+- **One faction at -2 reputation** (hostile relationship)
+- **One faction at +1 reputation** (friendly relationship)  
+- **One faction at +2 reputation** (allied relationship)
+
+### **Detailed Faction Benefits and Consequences**
+
+#### **The Five Burrows**
+
+**Mousehattan - Corporate Oligarchy**
+- **Allied (+3):** Access to exclusive financial services, business loans at favorable rates, invitations to high-society events, protection from economic retaliation. Can call upon corporate resources for major favors.
+- **Friendly (+2):** Reduced prices at upscale establishments, business networking opportunities, access to financial district information, minor legal assistance.
+- **Neutral (0):** Standard business interactions, normal prices and services.
+- **Unfriendly (-2):** Increased prices at mouse-owned businesses, difficulty obtaining loans, exclusion from business networks, bureaucratic delays.
+- **Hostile (-3):** Economic blacklisting, active sabotage of business ventures, legal harassment, potential violence from crime family associates.
+
+**The Branchx - Union Democracy**
+- **Allied (+3):** Full union protection and benefits, priority job placement, access to union legal aid, solidarity during disputes. Can call upon organized labor for strikes or protests.
+- **Friendly (+2):** Union job opportunities, discounted services from union members, protection from workplace exploitation, access to worker education programs.
+- **Neutral (0):** Standard employment opportunities and workplace treatment.
+- **Unfriendly (-2):** Difficulty finding union jobs, higher prices for union services, exclusion from worker solidarity, potential workplace harassment.
+- **Hostile (-3):** Blacklisting from union jobs, active sabotage of work projects, physical intimidation, exclusion from working-class communities.
+
+**The Hives - Cooperative Consensus**
+- **Allied (+3):** Full community support and resources, access to agricultural innovations, participation in consensus decision-making, protection during crises. Can request community-wide assistance.
+- **Friendly (+2):** Preferred access to honey and agricultural products, invitations to community gatherings, assistance with family matters, access to traditional knowledge.
+- **Neutral (0):** Standard market prices and community interactions.
+- **Unfriendly (-2):** Higher prices for agricultural goods, exclusion from community events, difficulty accessing traditional services, social isolation.
+- **Hostile (-3):** Complete social ostracism, denial of essential services, active interference with agricultural needs, potential exile from community areas.
+
+**Lin's Brook - Guild Confederation**
+- **Allied (+3):** Master craftsman status and privileges, access to guild secrets and techniques, priority for construction projects, protection of trade interests. Can mobilize guild resources.
+- **Friendly (+2):** Apprenticeship opportunities, discounted crafted goods, access to guild workshops, assistance with technical problems.
+- **Neutral (0):** Standard prices for crafted goods and services.
+- **Unfriendly (-2):** Higher prices for guild services, difficulty accessing quality craftsmanship, exclusion from technical knowledge, delayed project completion.
+- **Hostile (-3):** Boycott of services, sabotage of construction projects, denial of essential repairs, potential violence from guild enforcers.
+
+**Scurry Island - Survival Hierarchy**
+- **Allied (+3):** Full island protection and resources, access to Ranger training and equipment, safe passage through dangerous areas, emergency assistance. Can call upon island's collective survival expertise.
+- **Friendly (+2):** Access to survival training, discounted black market goods, protection during visits, assistance with dangerous situations.
+- **Neutral (0):** Standard interactions with island residents and services.
+- **Unfriendly (-2):** Higher prices for black market goods, reduced safety during visits, exclusion from survival knowledge, potential targeting by criminals.
+- **Hostile (-3):** Active hostility from island residents, denial of safe passage, targeting by criminal elements, potential violence from desperate creatures.
+
+#### **Major Crime Families**
+
+**The Longtail Family - Traditional Crime**
+- **Allied (+3):** Full family protection and resources, access to illegal goods and services, assistance with legal problems, protection from other criminals. Can request family enforcement actions.
+- **Friendly (+2):** Reduced "insurance" payments, access to some illegal services, protection from petty crime, assistance with minor legal issues.
+- **Neutral (0):** Standard protection racket payments and criminal interactions.
+- **Unfriendly (-2):** Increased protection payments, harassment from family associates, difficulty accessing illegal goods, potential targeting for "examples."
+- **Hostile (-3):** Active targeting for violence, complete exclusion from criminal services, sabotage of legitimate business, potential assassination attempts.
+
+**The Whisker Family - Modern Rackets**
+- **Allied (+3):** Partnership in criminal enterprises, access to advanced criminal techniques, protection from law enforcement, share in family profits. Can request major criminal operations.
+- **Friendly (+2):** Favorable terms for illegal services, protection from rival criminals, access to criminal information networks, assistance with law enforcement problems.
+- **Neutral (0):** Standard criminal service prices and interactions.
+- **Unfriendly (-2):** Higher prices for criminal services, increased scrutiny from family members, potential setup for law enforcement, harassment from associates.
+- **Hostile (-3):** Active criminal targeting, sabotage of operations, violence from family enforcers, potential framing for major crimes.
+
+**The Silverclaw Family - Waterfront Crime**
+- **Allied (+3):** Control over waterfront operations, access to smuggling networks, protection during water travel, share in smuggling profits. Can mobilize waterfront criminal resources.
+- **Friendly (+2):** Safe passage on waterways, access to smuggled goods, protection from water-based threats, assistance with shipping needs.
+- **Neutral (0):** Standard waterfront interactions and smuggling prices.
+- **Unfriendly (-2):** Harassment during water travel, higher prices for smuggled goods, potential sabotage of water-based activities, exclusion from waterfront areas.
+- **Hostile (-3):** Active targeting during water travel, complete exclusion from waterfront, sabotage of boats and water equipment, potential drowning attempts.
+
+**The Shadow Runners - Information Brokers**
+- **Allied (+3):** Access to all information networks, protection of personal secrets, assistance with intelligence gathering, share in information profits. Can request major intelligence operations.
+- **Friendly (+2):** Access to valuable information, protection of minor secrets, assistance with information needs, favorable terms for intelligence services.
+- **Neutral (0):** Standard prices for information and intelligence services.
+- **Unfriendly (-2):** Higher prices for information, potential exposure of minor secrets, exclusion from information networks, surveillance and harassment.
+- **Hostile (-3):** Active information warfare, exposure of major secrets, complete exclusion from intelligence services, potential blackmail and extortion.
+
+#### **The Ranger Corps**
+
+**Scurry Island Rangers - Elite Military**
+- **Allied (+3):** Full military support and resources, access to advanced weapons and training, protection during titan encounters, emergency evacuation assistance. Can request Ranger intervention in major threats.
+- **Friendly (+2):** Basic military training opportunities, access to some Ranger equipment, assistance during emergencies, protection from external threats.
+- **Neutral (0):** Standard interactions with military personnel and services.
+- **Unfriendly (-2):** Exclusion from military assistance, difficulty accessing Ranger services, potential surveillance, reduced protection during emergencies.
+- **Hostile (-3):** Active military opposition, denial of emergency services, potential arrest or detention, targeting as security threat.
+
+**Example Faction Relationships:**
+- A **Branchx construction worker** might be **Allied (+3)** with The Branchx union, **Friendly (+2)** with Lin's Brook guilds through work connections, but **Hostile (-3)** to the Longtail Family after refusing to pay protection money and testifying against them.
+- A **Mousehattan trader** could be **Allied (+3)** with Mousehattan's corporate oligarchy, **Friendly (+2)** with the Whisker Family through business deals, but **Hostile (-3)** to The Hives after a honey price manipulation scandal destroyed several agricultural cooperatives.
+- A **Scurry Island Ranger** might be **Allied (+3)** with the Ranger Corps, **Friendly (+2)** with Scurry Island's survival hierarchy, but **Unfriendly (-2)** with Mousehattan's corporate interests due to conflicts over resource allocation for titan defense.
 
 ### **Economic Status**
 
