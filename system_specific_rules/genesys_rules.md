@@ -402,6 +402,139 @@ Explore inequality, workers' rights, and community organizing. Adventures involv
 
 ---
 
+## **Magic and Unexplained Phenomena**
+
+### **Setting Magic Level: Very Low**
+
+The Great Burrow is fundamentally a **low-magic setting** where unexplained phenomena are rare, poorly understood, and often dismissed as folklore by the general population. What might be called "magic" in other settings manifests here as subtle abilities tied to traumatic or profound encounters with the titans that walk the forest.
+
+### **The Nature of "Magic"**
+
+#### **No Traditional Magic**
+- No wizards, spells, or magical items in the conventional sense
+- No magical creatures (beyond the titans themselves)
+- No supernatural forces that creatures can reliably study or harness
+- Most citizens live their entire lives without witnessing anything truly unexplainable
+
+#### **Titan-Touched Phenomena**
+What passes for magic comes from direct encounters with the giants:
+- **Deer Blessings:** Survivors of deer encounters sometimes develop uncanny luck or intuition
+- **Bear Marks:** Those who survive bear attacks may gain primal strength or fearsome presence
+- **Wolf Touched:** Extremely rare, grants predatory instincts and pack awareness
+- **Moose Blessed:** Rarest of all, survivors report connection to forest rhythms and weather
+
+### **Mechanical Implementation**
+
+#### **Titan-Touched as Force Sensitive**
+Use the Force and Destiny rules with significant modifications:
+- **Force Rating never exceeds 2** for any character
+- **No lightsabers or traditional Force powers**
+- **Powers manifest as subtle coincidences and enhanced natural abilities**
+- **No formal training exists** - abilities develop instinctively over time
+
+#### **Titan-Touched Talents**
+
+**Tier 1: Awakening**
+- **Blessed Instincts** *(Passive)*: Once per session, may upgrade the ability of any skill check before rolling
+- **Titan's Mark** *(Passive)*: Other creatures can sense something different about you. Add ⬜ to Coercion checks, but add ⬛ to some social interactions
+- **Uncanny Luck** *(Active)*: Spend 1 strain to reroll any dice pool, but must accept the second result
+
+**Tier 2: Manifestation**
+- **Forest Whispers** *(Active)*: Once per session, gain insight about immediate area or recent events (GM provides one useful piece of information)
+- **Primal Presence** *(Passive)*: When dealing with non-sapient animals, may use Coercion or Charm without penalty
+- **Survivor's Edge** *(Passive)*: When reduced to half wounds or strain, gain ⬜ to all checks until fully healed
+
+**Tier 3: Integration**
+- **Titan's Shadow** *(Active)*: Once per session, may add ⬜⬜⬜ to any check related to survival, combat, or protecting others
+- **Deep Knowing** *(Active)*: Spend 2 strain to ask the GM one question about the current situation and receive a truthful answer
+- **Pack Leader** *(Passive)*: Allies within Short range gain ⬜ to checks when you spend strain to assist them
+
+#### **Acquiring Titan-Touched Status**
+- **Direct Titan Encounter:** Survive a face-to-face meeting with a giant creature
+- **Profound Trauma:** Experience something that fundamentally changes your worldview
+- **Spiritual Awakening:** Deep meditation or religious experience in sacred locations
+- **Inherited Sensitivity:** Very rare, passed down through bloodlines (1 in 1000 creatures)
+
+#### **Social Implications**
+- **Urban Skepticism:** Most city dwellers dismiss titan-touched abilities as coincidence or delusion
+- **Ranger Respect:** Rangers recognize and value these abilities, even if they don't understand them
+- **Religious Significance:** Titan Speakers often display these phenomena, reinforcing their spiritual authority
+- **Scientific Denial:** Academics and intellectuals actively debunk claims of supernatural abilities
+
+### **Power Manifestations by Titan Type**
+
+#### **Deer-Blessed** *(The Fortunate)*
+- Abilities manifest as incredible timing and serendipitous events
+- Enhanced intuition about people's true intentions
+- Uncanny ability to find exactly what they need when they need it
+- Sometimes experience prophetic dreams or visions
+
+**Sample Powers:**
+- **Serendipity:** Beneficial coincidences occur more frequently
+- **True Sight:** Can sense when others are lying or hiding something
+- **Path Finding:** Always know the best route to take, even in unfamiliar territory
+
+#### **Bear-Marked** *(The Fierce)*
+- Abilities manifest as enhanced physical presence and primal instincts
+- Intimidating aura that affects both creatures and animals
+- Enhanced strength and endurance during crisis situations
+- Natural leadership in dangerous situations
+
+**Sample Powers:**
+- **Primal Roar:** Voice can carry incredible distances and inspire fear
+- **Iron Will:** Resistance to fear, intimidation, and mental influence
+- **Protective Fury:** Enhanced combat abilities when defending others
+
+#### **Wolf-Touched** *(The Hunters)*
+- Extremely rare due to limited wolf contact in the region
+- Enhanced pack instincts and ability to coordinate with others
+- Predatory awareness and tracking abilities
+- Instinctive understanding of hierarchy and dominance
+
+**Sample Powers:**
+- **Pack Sense:** Awareness of allies' conditions and intentions
+- **Hunter's Instinct:** Enhanced tracking and pursuit abilities
+- **Alpha Presence:** Natural leadership and ability to command respect
+
+#### **Moose-Blessed** *(The Wise)*
+- Rarest manifestation, tied to deep forest wisdom
+- Connection to seasonal cycles and weather patterns
+- Enhanced understanding of natural systems and ecology
+- Ability to sense disturbances in the forest's balance
+
+**Sample Powers:**
+- **Weather Sense:** Predict weather changes and natural disasters
+- **Forest Speech:** Limited communication with non-sapient forest creatures
+- **Seasonal Wisdom:** Enhanced knowledge of natural cycles and timing
+
+### **Using Magic in Campaigns**
+
+#### **Rarity Guidelines**
+- **1 in 100 creatures** might have some minor sensitivity
+- **1 in 1000 creatures** have noticeable abilities
+- **1 in 10,000 creatures** have significant powers
+- **Player characters** are exceptional and may have higher rates
+
+#### **Discovery and Development**
+- Abilities often manifest during stress or crisis
+- Development is instinctive, not learned
+- No teachers or schools exist for these phenomena
+- Powers may fade if not used or may grow stronger with experience
+
+#### **Campaign Integration**
+- **Urban Fantasy:** Focus on how abilities affect daily life in the city
+- **Mystery:** Investigate unexplained phenomena and their sources
+- **Social Drama:** Deal with skepticism, fear, or exploitation of abilities
+- **Environmental:** Use powers to protect the forest and its creatures
+
+#### **GM Guidelines**
+- **Keep it Subtle:** Powers should enhance rather than dominate gameplay
+- **Maintain Mystery:** Never fully explain how or why abilities work
+- **Social Consequences:** Consider how others react to unexplained phenomena
+- **Narrative Focus:** Use powers to drive story rather than solve problems easily
+
+---
+
 ## **GM Guidance**
 
 ### **Tone and Atmosphere**

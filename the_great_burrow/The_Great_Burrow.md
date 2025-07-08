@@ -37,6 +37,8 @@ Built on and around "The Old Giant," a massive fallen oak, Scurry Island sits is
 
 The giants aren't inherently malevolent - they simply exist at a scale that makes coexistence nearly impossible. The Great Burrow has evolved elaborate warning systems, evacuation protocols, and offering stations to minimize catastrophic encounters. Some spiritual movements like the Titan Mysteries believe these giants carry divine messages and should be appeased rather than resisted.
 
+Survivors of direct titan encounters sometimes report strange experiences - impossible luck, uncanny intuition, or moments of inexplicable strength. Most citizens dismiss these as trauma responses or exaggerated tales, but Rangers and those who work closely with titan survivors know there's often more to these stories than mere coincidence.
+
 ### **Natural Predators**
 - **Hawks**: Control daytime surface travel, forcing covered routes and buddy systems
 - **Owls**: Silent death in the night shift, especially dangerous in The Branchx

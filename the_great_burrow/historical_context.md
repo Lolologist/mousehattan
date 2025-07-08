@@ -314,6 +314,12 @@ The city's prosperity and security have always depended on its relationships wit
 - **Damwright the Builder:** Beaver who engineered the original water management system
 - **Warren Deepdigger:** Rabbit who established the first agricultural cooperatives
 
+### **The Titan-Touched Legends**
+- **Swiftpaw the Blessed:** Chipmunk courier who survived a deer encounter and reportedly could predict weather changes days in advance
+- **Ironheart the Bear-Marked:** Badger Ranger whose strength became legendary after a bear spared his life
+- **Whisperwind the Seer:** Opossum who claimed visions from a moose encounter, though most dismissed her prophecies as madness
+- **Gentleclaw the Fortunate:** Mouse trader whose uncanny luck in business was attributed to a mysterious forest encounter
+
 ### **Crisis Leaders**
 - **General Ironpaw:** Badger who led the defense during the Species Wars
 - **Ranger Captain Swiftclaw:** Legendary Ranger who established many current protocols

@@ -46,10 +46,13 @@ The spiritual landscape of The Great Burrow reflects its diverse species and com
 - **Giant Reading**: Interpreting titan movements as omens or messages
 - **The Stillness**: Meditative practices during giant encounters
 - **Titan Dreams**: Seeking visions and guidance through dream interpretation
+- **Blessing Recognition**: Acknowledging when titans have "touched" survivors with unexplained abilities
 
 **Followers**: Rangers, Scurry Island residents, and creatures who have survived direct giant encounters. Growing movement among those concerned about increasing titan activity.
 
 **Sacred Sites**: The Ranger Memorial on Scurry Island, offering stations throughout the forest, sites of significant giant encounters.
+
+**The Titan-Touched**: Titan Speakers often display uncanny abilities - predicting weather changes, sensing approaching giants from impossible distances, or demonstrating inexplicable luck during dangerous situations. While skeptics dismiss these as coincidence or trained observation, believers see them as proof of the titans' divine nature. Some Speakers report receiving "blessings" during close encounters: a deer's gentle touch granting prophetic dreams, surviving a bear's attention leading to moments of impossible strength, or a moose's presence bringing deep understanding of forest rhythms. These phenomena reinforce the Speakers' spiritual authority, though they remain mysterious even to those who experience them.
 
 ---
 
