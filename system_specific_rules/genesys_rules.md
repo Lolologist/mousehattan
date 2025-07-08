@@ -20,21 +20,21 @@ The Great Burrow is a **Modern Urban Fantasy** setting with elements of **Steamp
 Rather than using traditional fantasy races, characters choose from woodland creature species that function as archetypes, each providing different starting characteristics and special abilities.
 
 #### **Mice** *(The Traditionalists)*
-- **Brawn 1, Agility 3, Intellect 3, Cunning 2, Willpower 2, Presence 2**
+- **Brawn 1, Agility 2, Intellect 3, Cunning 2, Willpower 2, Presence 2**
 - **Wound Threshold:** 8 + Brawn
 - **Strain Threshold:** 12 + Willpower
 - **Starting XP:** 100
 - **Special Abilities:**
   - **Tunnel Sense:** Remove ⬛ from Navigation checks in underground environments
-  - **Precise Work:** Add ⬜ to all Mechanics and Computers checks
+  - **Precise Work:** Add ⬜ to all Mechanics checks
   - **Social Networks:** Start with one additional contact in Mousehattan
-- **Starting Skills:** Choose 2 from: Charm, Deception, Knowledge (Business), Mechanics, Negotiation, Streetwise
+- **Starting Skills:** Choose 2 from: Charm, Deception, Knowledge (City), Mechanics, Negotiation, Streetwise
 
 #### **Rats** *(The Entrepreneurs)*
-- **Brawn 2, Agility 2, Intellect 2, Cunning 3, Willpower 2, Presence 2**
+- **Brawn 2, Agility 2, Intellect 2, Cunning 3, Willpower 2, Presence 1**
 - **Wound Threshold:** 10 + Brawn
 - **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 110
+- **Starting XP:** 100
 - **Special Abilities:**
   - **Adaptable:** Once per session, may add ⬜ to any skill check
   - **Network Builder:** Reduce difficulty of Streetwise checks by 1 (minimum ◆)
@@ -42,18 +42,18 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Starting Skills:** Choose 2 from: Coercion, Deception, Negotiation, Skulduggery, Streetwise, Vigilance
 
 #### **Squirrels** *(The Climbers)*
-- **Brawn 2, Agility 3, Intellect 2, Cunning 2, Willpower 2, Presence 2**
+- **Brawn 2, Agility 3, Intellect 2, Cunning 2, Willpower 1, Presence 2**
 - **Wound Threshold:** 9 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 110
+- **Strain Threshold:** 10 + Willpower
+- **Starting XP:** 100
 - **Special Abilities:**
   - **Arboreal Movement:** Ignore difficult terrain when climbing, add ⬜ to Athletics (climbing) checks
   - **Territorial Instinct:** Add ⬜ to Vigilance checks in familiar territory
   - **Hoarder's Memory:** Add ⬜ to Knowledge checks about valuable items or resources
-- **Starting Skills:** Choose 2 from: Athletics, Coordination, Perception, Survival, Vigilance, Knowledge (Geography)
+- **Starting Skills:** Choose 2 from: Athletics, Coordination, Perception, Survival, Vigilance, Knowledge (City)
 
 #### **Chipmunks** *(The Couriers)*
-- **Brawn 1, Agility 4, Intellect 2, Cunning 2, Willpower 2, Presence 2**
+- **Brawn 1, Agility 3, Intellect 2, Cunning 2, Willpower 2, Presence 2**
 - **Wound Threshold:** 8 + Brawn
 - **Strain Threshold:** 11 + Willpower
 - **Starting XP:** 100
@@ -61,29 +61,29 @@ Rather than using traditional fantasy races, characters choose from woodland cre
   - **Speed Burst:** Once per encounter, may move to any location within Medium range as an incidental
   - **Cheek Pouches:** Can carry small items without encumbrance penalty
   - **Route Knowledge:** Remove ⬛ from Streetwise checks related to navigation
-- **Starting Skills:** Choose 2 from: Athletics, Coordination, Perception, Piloting, Streetwise, Vigilance
+- **Starting Skills:** Choose 2 from: Athletics, Coordination, Perception, Vehicles, Streetwise, Vigilance
 
 #### **Beavers** *(The Builders)*
-- **Brawn 3, Agility 1, Intellect 3, Cunning 2, Willpower 3, Presence 1**
+- **Brawn 3, Agility 1, Intellect 2, Cunning 2, Willpower 2, Presence 2**
 - **Wound Threshold:** 12 + Brawn
-- **Strain Threshold:** 12 + Willpower
-- **Starting XP:** 90
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
 - **Special Abilities:**
   - **Master Builder:** Add ⬜ to all Mechanics checks involving construction
   - **Aquatic:** Can hold breath for extended periods, swim at full speed
   - **Sturdy:** Increase soak value by 1
-- **Starting Skills:** Choose 2 from: Athletics, Mechanics, Knowledge (Engineering), Resilience, Survival, Vigilance
+- **Starting Skills:** Choose 2 from: Athletics, Mechanics, Knowledge (Science), Resilience, Survival, Vigilance
 
 #### **Otters** *(The Watercreatures)*
-- **Brawn 2, Agility 3, Intellect 2, Cunning 2, Willpower 2, Presence 2**
+- **Brawn 2, Agility 3, Intellect 2, Cunning 2, Willpower 1, Presence 2**
 - **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 110
+- **Strain Threshold:** 10 + Willpower
+- **Starting XP:** 100
 - **Special Abilities:**
   - **Aquatic Mastery:** Add ⬜⬜ to all Athletics checks in water
   - **Playful Nature:** Add ⬜ to Charm checks, remove ⬛ from social interactions
   - **Slippery:** Add ⬜ to Coordination checks to escape restraints
-- **Starting Skills:** Choose 2 from: Athletics, Charm, Coordination, Perception, Piloting, Survival
+- **Starting Skills:** Choose 2 from: Athletics, Charm, Coordination, Perception, Vehicles, Survival
 
 #### **Rabbits** *(The Cooperators)*
 - **Brawn 2, Agility 2, Intellect 2, Cunning 2, Willpower 2, Presence 3**
@@ -94,12 +94,23 @@ Rather than using traditional fantasy races, characters choose from woodland cre
   - **Community Bonds:** Add ⬜ to Leadership and Charm checks
   - **Danger Sense:** Add ⬜ to Initiative checks
   - **Large Family:** Start with additional family contacts
-- **Starting Skills:** Choose 2 from: Charm, Knowledge (Agriculture), Leadership, Medicine, Negotiation, Survival
+- **Starting Skills:** Choose 2 from: Charm, Knowledge (Science), Leadership, Medicine, Negotiation, Survival
+
+#### **Guinea Pigs** *(The Innovators)*
+- **Brawn 1, Agility 2, Intellect 2, Cunning 2, Willpower 2, Presence 3**
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 110
+- **Special Abilities:**
+  - **Community Minded:** Add ⬜ to Leadership checks, may use Leadership for group decisions
+  - **Insect Whisperer:** Add ⬜ to Animal Handling checks with insects
+  - **Mountain Heritage:** Add ⬜ to Survival checks in difficult terrain
+- **Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Leadership, Medicine, Survival, Charm
 
 #### **Opossums** *(The Survivors)*
-- **Brawn 2, Agility 2, Intellect 2, Cunning 3, Willpower 3, Presence 1**
+- **Brawn 2, Agility 2, Intellect 2, Cunning 3, Willpower 2, Presence 1**
 - **Wound Threshold:** 11 + Brawn
-- **Strain Threshold:** 12 + Willpower
+- **Strain Threshold:** 11 + Willpower
 - **Starting XP:** 100
 - **Special Abilities:**
   - **Play Dead:** Once per encounter, may become incapacitated to avoid further attacks
@@ -108,7 +119,7 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Starting Skills:** Choose 2 from: Cool, Skulduggery, Stealth, Streetwise, Survival, Vigilance
 
 #### **Raccoons** *(The Operators)*
-- **Brawn 2, Agility 3, Intellect 2, Cunning 3, Willpower 2, Presence 1**
+- **Brawn 2, Agility 3, Intellect 2, Cunning 2, Willpower 2, Presence 1**
 - **Wound Threshold:** 10 + Brawn
 - **Strain Threshold:** 11 + Willpower
 - **Starting XP:** 100
@@ -117,6 +128,83 @@ Rather than using traditional fantasy races, characters choose from woodland cre
   - **Mask of Innocence:** Add ⬜ to Deception checks
   - **Washing Ritual:** Can "clean" stolen goods to reduce suspicion
 - **Starting Skills:** Choose 2 from: Deception, Mechanics, Skulduggery, Stealth, Streetwise, Vigilance
+
+#### **Moles** *(The Underground Specialists)*
+- **Brawn 2, Agility 1, Intellect 3, Cunning 2, Willpower 2, Presence 2**
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+- **Special Abilities:**
+  - **Underground Navigation:** Remove ⬛⬛ from Navigation checks underground
+  - **Vibration Sense:** Can detect movement through solid surfaces within Short range
+  - **Tunnel Vision:** Add ⬛ to Perception checks in bright light
+- **Starting Skills:** Choose 2 from: Mechanics, Knowledge (Science), Navigation, Perception, Vehicles, Vigilance
+
+#### **Skunks** *(The Enforcers)*
+- **Brawn 2, Agility 2, Intellect 2, Cunning 2, Willpower 3, Presence 1**
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 100
+- **Special Abilities:**
+  - **Natural Deterrent:** Add ⬜⬜ to Coercion checks, enemies must make Fear checks to attack
+  - **Chemical Defense:** Once per encounter, may force all creatures at Engaged range to make Resilience check or be stunned
+  - **Reputation:** Add ⬜ to social checks based on respect/fear
+- **Starting Skills:** Choose 2 from: Coercion, Cool, Discipline, Resilience, Streetwise, Vigilance
+
+#### **Badgers** *(The Old Guard)*
+- **Brawn 3, Agility 2, Intellect 2, Cunning 2, Willpower 2, Presence 1**
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+- **Special Abilities:**
+  - **Territorial:** Add ⬜⬜ to combat checks when defending property or family
+  - **Burrow Rights:** Start with property ownership and legal standing
+  - **Fierce Reputation:** Add ⬜ to Coercion checks, remove ⬛ from Discipline checks
+- **Starting Skills:** Choose 2 from: Brawl, Coercion, Knowledge (City), Negotiation, Resilience, Vigilance
+
+#### **Ferrets** *(The Deal Makers)*
+- **Brawn 1, Agility 3, Intellect 2, Cunning 2, Willpower 2, Presence 2**
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+- **Special Abilities:**
+  - **Hyperactive:** May take one additional maneuver per turn without suffering strain
+  - **Flexible:** Add ⬜ to Coordination checks, can fit through impossibly small spaces
+  - **Deal Sense:** Add ⬜ to Negotiation and Streetwise checks involving commerce
+- **Starting Skills:** Choose 2 from: Coordination, Deception, Negotiation, Skulduggery, Streetwise, Vigilance
+
+#### **Weasels** *(The Information Brokers)*
+- **Brawn 1, Agility 2, Intellect 2, Cunning 3, Willpower 2, Presence 2**
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+- **Special Abilities:**
+  - **Infiltrator:** Add ⬜ to Stealth checks, can fit through very small spaces
+  - **Information Network:** Start with contacts in multiple burrows
+  - **Flexible Morality:** Add ⬜ to Deception checks, remove ⬛ from social checks with criminals
+- **Starting Skills:** Choose 2 from: Deception, Perception, Skulduggery, Stealth, Streetwise, Vigilance
+
+#### **Bats** *(The Night Shift)*
+- **Brawn 1, Agility 3, Intellect 2, Cunning 2, Willpower 2, Presence 2**
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+- **Special Abilities:**
+  - **Echolocation:** Can "see" in complete darkness, add ⬜ to Perception checks in darkness
+  - **Flight:** Can fly at normal movement speed
+  - **Nocturnal:** Remove ⬛ from all checks made during night hours
+- **Starting Skills:** Choose 2 from: Athletics, Coordination, Navigation, Perception, Stealth, Vigilance
+
+#### **Shrews** *(The Insect Whisperers)*
+- **Brawn 1, Agility 2, Intellect 2, Cunning 2, Willpower 2, Presence 3**
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 110
+- **Special Abilities:**
+  - **Ultrasonic Communication:** Can communicate with insects through whistles
+  - **Hypermetabolism:** Must eat frequently, but gain ⬜ to Resilience checks against toxins
+  - **Insect Partnership:** Add ⬜⬜ to Animal Handling checks with insects
+- **Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Medicine, Perception, Survival, Vigilance
 
 ---
 
@@ -164,16 +252,50 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 ---
 
-## **New Skills**
+## **Skills Reference**
 
-### **Animal Handling** *(Intellect)*
-Used to work with insects, manage livestock, and communicate with non-sapient creatures. Essential for Hives agriculture and various transportation methods.
+### **Social Skills**
+- **Charm (Presence):** Persuade to do a favor, appeal to someone's better nature, flirt and seduce, make themselves look good, perform in front of an audience. *Countered by Cool*
+- **Coercion (Willpower):** Issue threats, interrogate prisoners, use intimidation. *Countered by Discipline*
+- **Deception (Cunning):** Tell lies, mislead people, wear disguises. *Countered by Vigilance*
+- **Leadership (Presence):** Rally allies from fear, convince crowds, lead groups. *Countered by Discipline*
+- **Negotiation (Presence):** Haggle over purchases, sell goods, broker agreements. *Countered by Negotiation*
 
-### **Knowledge (Titans)** *(Intellect)*
-Understanding of giant creature behavior, ecology, and survival tactics. Critical for Rangers and anyone living near titan territories.
+### **Magic Skills** *(Titan-Touched Abilities)*
+- **Deer (Intellect):** Stealth, mental manipulation, prediction, luck manipulation
+- **Wolf (Cunning):** Pack coordination, enhanced social skills, heightened senses
+- **Moose (Willpower):** Resiliency, weather control, telepathy, forest wisdom
+- **Bear (Brawn):** Physical augmentation, aggression, increased damage
 
-### **Knowledge (Underworld)** *(Intellect)*
-Information about criminal organizations, black markets, and illegal activities throughout The Great Burrow.
+### **Knowledge Skills**
+- **Knowledge (Science) (Intellect):** Physics, chemistry, biology, engineering, agriculture
+- **Knowledge (City) (Intellect):** Physical area and cultural knowledge, politics, the underworld
+- **Knowledge (Titans) (Cunning):** Titan behavior, survival tactics, appeasement methods
+
+### **Combat Skills**
+- **Brawl (Brawn):** Fight with bare hands, pin, grapple, hold someone, martial arts
+- **Melee (Brawn):** Fight with weapons, duels, armed combat
+- **Ranged - Light (Agility):** Smaller hand-held projectile weapons
+- **Ranged - Heavy (Agility):** Larger two-handed projectile weapons and emplacements
+
+### **General Skills**
+- **Animal Handling (Willpower):** Handle non-sapient animals and insects, essential for Hives agriculture
+- **Athletics (Brawn):** Climb, swim, jump, run for extended periods
+- **Cool (Presence):** Initiative in aware situations, stay calm, gambling, keep nerve
+- **Coordination (Agility):** Swing on ropes, walk narrow surfaces, squeeze into spaces, escape restraints
+- **Discipline (Willpower):** Confront terror, keep sanity, heal strain, meditate
+- **Mechanics (Intellect):** Repair damage, identify parts, design devices, sabotage, build items
+- **Medicine (Intellect):** Heal wounds, counteract poison, cure disease, medical procedures
+- **Navigation (Intellect):** Read maps, set courses, plot routes under stress
+- **Perception (Cunning):** Search for clues, study landscape, conduct surveillance
+- **Resilience (Brawn):** Go without sleep, fight off toxins, endure hostile environments
+- **Riding (Agility):** Control mounts, mounted combat, calm panicked animals
+- **Skulduggery (Cunning):** Pick pockets, pick locks, set traps, study security, distract opponents
+- **Stealth (Agility):** Hide, tail someone, infiltrate, move quietly
+- **Streetwise (Cunning):** Find black markets, understand slang, approach criminals, navigate cities
+- **Survival (Cunning):** Find food and water, notice weather, follow maps, hunt in wilderness
+- **Vehicles (Agility):** Operate vehicles safely, dangerous driving, pursue or evade
+- **Vigilance (Willpower):** Initiative in ambush situations, catch lies, notice details
 
 ---
 
@@ -269,12 +391,6 @@ Can help creatures disappear from their old lives and start new ones. Once per s
 
 When titans (bears, deer, moose, etc.) appear, use these special rules:
 
-#### **Titan Threat Levels**
-- **Distant:** Titan visible but not immediate threat. Vigilance checks to track movement.
-- **Approaching:** Titan moving toward area. Begin evacuation procedures.
-- **Present:** Titan in immediate area. All creatures must take cover or flee.
-- **Hostile:** Titan actively threatening creatures. Combat or desperate escape.
-
 #### **Titan Combat**
 - **Titans are Silhouette 4-6** depending on species
 - **Cannot be directly fought** by player characters under normal circumstances
@@ -359,33 +475,6 @@ Track reputation with different factions using a simple scale:
 
 ---
 
-## **Adventure Frameworks**
-
-### **Session Structure**
-
-#### **Opening** (15 minutes)
-- Check faction relationships and reputation changes
-- Handle ongoing obligations and contacts
-- Introduce session's main challenge or opportunity
-
-#### **Investigation/Preparation** (60-90 minutes)
-- Gather information through social encounters
-- Navigate burrow politics and species relationships
-- Acquire necessary resources or allies
-- Deal with complications and obstacles
-
-#### **Climax** (30-45 minutes)
-- Confront main challenge (social, environmental, or combat)
-- Make crucial decisions affecting community
-- Handle consequences of previous actions
-- Resolve immediate crisis
-
-#### **Resolution** (15 minutes)
-- Determine long-term consequences
-- Update reputation and relationships
-- Distribute rewards (money, favors, information)
-- Set up future adventures
-
 ### **Campaign Themes**
 
 #### **Urban Survival**
@@ -425,12 +514,6 @@ What passes for magic comes from direct encounters with the giants:
 
 ### **Mechanical Implementation**
 
-#### **Titan-Touched as Force Sensitive**
-Use the Force and Destiny rules with significant modifications:
-- **Force Rating never exceeds 2** for any character
-- **No lightsabers or traditional Force powers**
-- **Powers manifest as subtle coincidences and enhanced natural abilities**
-- **No formal training exists** - abilities develop instinctively over time
 
 #### **Titan-Touched Talents**
 
@@ -446,7 +529,7 @@ Use the Force and Destiny rules with significant modifications:
 
 **Tier 3: Integration**
 - **Titan's Shadow** *(Active)*: Once per session, may add ⬜⬜⬜ to any check related to survival, combat, or protecting others
-- **Deep Knowing** *(Active)*: Spend 2 strain to ask the GM one question about the current situation and receive a truthful answer
+- **Deep Knowing** *(Active)*: Spend 2 strain and a story point to ask the GM one question about the current situation and receive a truthful answer
 - **Pack Leader** *(Passive)*: Allies within Short range gain ⬜ to checks when you spend strain to assist them
 
 #### **Acquiring Titan-Touched Status**
