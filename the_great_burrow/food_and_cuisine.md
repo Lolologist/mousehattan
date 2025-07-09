@@ -128,11 +128,11 @@ Food in The Great Burrow is far more than sustenance - it's culture, politics, e
 **Clientele:** Construction workers, union members, practical eaters
 **Innovation:** Portable meals designed for eating while working
 
-#### **The Hive Mind** *(The Hives)*
-**Concept:** Experimental cuisine using insect-derived ingredients
-**Signature:** "Beetle Crunch Salad" - traditional greens with roasted beetle protein
-**Clientele:** Adventurous eaters, agricultural workers, health enthusiasts
-**Controversy:** Many creatures find insect consumption disturbing
+#### **The Crossroads Kitchen** *(The Hives)*
+**Concept:** Multi-cultural fusion representing the diverse immigrant communities
+**Signature:** "Caravan Feast" - dishes from multiple regions served family-style
+**Clientele:** Working families, immigrants, cultural food enthusiasts
+**Innovation:** Rotating menus featuring different immigrant community cuisines
 
 #### **Waterfront Fusion** *(Lin's Brook)*
 **Concept:** Combining otter freshness with beaver heartiness

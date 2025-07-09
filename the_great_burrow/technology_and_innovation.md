@@ -123,12 +123,13 @@ Burrow A → [Ant Highway] → Relay Station → [Ant Highway] → Burrow B
 
 ### **The Hives Innovation District**
 **Location:** Specialized workshops throughout The Hives
-**Focus:** Insect technology development and training
+**Focus:** Logistics technology, manufacturing innovation, and cross-cultural technical exchange
 **Key Facilities:**
-- **The Breeding Labs:** Developing new insect varieties
-- **Training Centers:** Teaching insects complex tasks
-- **Integration Workshops:** Combining insect tech with traditional crafts
-- **Research Libraries:** Documenting insect behavior and capabilities
+- **The Logistics Labs:** Developing efficient cargo handling and distribution systems
+- **Cross-Cultural Workshops:** Combining techniques from different immigrant communities
+- **Manufacturing Centers:** Scaling insect technology for mass production
+- **The Exchange Hub:** Technical knowledge sharing between species and communities
+- **Innovation Incubators:** Supporting new entrepreneurs from diverse backgrounds
 
 ### **Underground Innovation Labs**
 **Location:** Hidden workshops in abandoned tunnel sections

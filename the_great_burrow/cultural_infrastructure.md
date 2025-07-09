@@ -26,13 +26,13 @@ The Great Burrow's cultural life extends far beyond survival and commerce, encom
 - **Notable Productions:** "The Nutcracker's Revenge," "Bridges of Madison County (Tree)"
 - **Cultural Impact:** Voice of working-class concerns and aspirations
 
-#### **The Hive Mind Collective** *(The Hives)*
-- **Location:** Multiple venues throughout the burrow
-- **Format:** Rotating performances, community participation
-- **Programming:** Multi-species collaborations, experimental works
-- **Audience:** Diverse, emphasis on community involvement
-- **Notable Productions:** "The Pollination Cycle," "Harmony in Six Parts"
-- **Cultural Impact:** Promotes inter-species cooperation and understanding
+#### **The Crossroads Theater** *(The Hives)*
+- **Location:** Multiple venues throughout the burrow, rotating between districts
+- **Format:** Community-based performances, cultural exchange programming
+- **Programming:** Immigrant stories, fusion works, democratic town halls, cultural celebrations
+- **Audience:** Most diverse in the city, heavy working-class and immigrant attendance
+- **Notable Productions:** "Journey to the Great Interchange," "Voices of the Grasslands," "The Marmot's Tale"
+- **Cultural Impact:** Showcases immigrant experiences and promotes cultural understanding
 
 #### **Death Theater** *(Scurry Island)*
 - **Location:** Various underground venues
@@ -58,12 +58,12 @@ The Great Burrow's cultural life extends far beyond survival and commerce, encom
 - **Accessibility:** Free and open to all
 - **Medium:** Bark carvings, rope sculptures, found object installations
 
-#### **The Hives Artisan Cooperative**
-- **Focus:** Functional art using natural materials
-- **Products:** Woven grass textiles, honey-based sculptures, insect-inspired jewelry
-- **Philosophy:** Art as community expression, not individual achievement
-- **Markets:** Regular sales at community gatherings
-- **Innovation:** Incorporating guinea pig textile techniques
+#### **The Hives Cultural Collective**
+- **Focus:** Multicultural art celebrating immigrant traditions and fusion
+- **Products:** Prairie dog pottery, marmot stonework, guinea pig textiles, fusion jewelry, collaborative murals
+- **Philosophy:** Art as bridge between cultures, celebrating diversity while building unity
+- **Markets:** Regular cultural festivals and the Great Interchange art market
+- **Innovation:** Cross-cultural artistic techniques creating entirely new art forms
 
 #### **Underground Art Scene** *(Scurry Island)*
 - **Venues:** Hidden galleries in abandoned tunnels
@@ -339,10 +339,10 @@ The Great Burrow's cultural life extends far beyond survival and commerce, encom
 - **Canopy Arts Fair:** Showcasing local artistic talent
 
 #### **The Hives**
-- **First Flight Festival:** Celebrating new bee colonies
-- **Harvest Dance:** Mimicking bee waggle dances
-- **Pollination Parade:** Multi-species cooperation celebration
-- **Honey Moon:** Peak production celebration
+- **Cultural Crossroads Festival:** Celebrating immigrant communities and cultural fusion
+- **Democracy Days:** Prairie dog-inspired town hall celebrations and civic engagement
+- **The Great Interchange Fair:** Annual celebration of trade, transportation, and diversity
+- **Harmony Harvest:** Multi-cultural feast combining traditions from all immigrant communities
 
 #### **Lin's Brook**
 - **Dam Day:** Annual celebration of the Great Dam's founding

@@ -71,7 +71,7 @@ The second quarter-century saw The Great Burrow transform from a survival allian
 
 **The Merchant Guilds:** Formal trading organizations emerged, creating the first large-scale commercial enterprises and establishing trade routes to distant communities.
 
-**The Innovation Boom:** This period saw major technological advances including improved construction techniques, better water management, and the development of insect agriculture in what would become The Hives.
+**The Innovation Boom:** This period saw major technological advances including improved construction techniques, better water management, and the development of insect agriculture in what would become The Hives. The establishment of The Hives as a trade hub also began during this period, as its location made it a natural stopping point for caravans from the southern grasslands.
 
 **Population Growth:** The city's population tripled during this period as word of its prosperity spread throughout the forest region.
 
@@ -108,7 +108,7 @@ The final phase of the growth period saw The Great Burrow extend its influence b
 
 **Colonial Attempts:** Several unsuccessful attempts were made to establish satellite settlements, leading to conflicts with existing communities and bandit groups.
 
-**The Immigration Wave:** The city's prosperity attracted large numbers of immigrants from throughout the forest region, leading to both cultural enrichment and social tensions.
+**The Immigration Wave:** The city's prosperity attracted large numbers of immigrants from throughout the forest region, leading to both cultural enrichment and social tensions. This period saw the first major waves of prairie dog immigration from the southern grasslands and marmot families from the distant mountain ranges, both groups bringing new cultural traditions and democratic governance ideas that would later influence The Hives' political development.
 
 ---
 

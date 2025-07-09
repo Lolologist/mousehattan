@@ -26,11 +26,11 @@ While The Great Burrow dominates the central forest region, it exists within a b
 **Primary Species:** Prairie dogs, ground squirrels, various rabbit communities  
 **Trade Goods:**
 - **Exports to Great Burrow:** Grains, grassland herbs, woven grass goods, dried flowers
-- **Imports from Great Burrow:** Tree nuts, wooden tools, insect products, construction expertise
+- **Imports from Great Burrow:** Tree nuts, wooden tools, manufactured goods, construction expertise
 
-**Relationship:** Friendly and regular. These communities share agricultural interests with The Hives and often send young creatures to learn advanced farming techniques. Trade routes are relatively safe but require coordination with caravan guides.
+**Relationship:** Friendly and regular. These communities have strong cultural ties with The Hives through prairie dog immigration and shared democratic traditions. The Hives serves as the primary entry point for grassland trade, with established caravan routes and cultural exchange programs.
 
-**Cultural Notes:** More egalitarian than forest communities, with less species-based hierarchy. Known for their storytelling traditions and seasonal festivals. Strong oral history culture.
+**Cultural Notes:** More egalitarian than forest communities, with democratic decision-making traditions that have influenced Hives politics. Known for their storytelling traditions and seasonal festivals. Many prairie dog families maintain connections between the settlements and The Hives.
 
 ---
 
@@ -57,6 +57,19 @@ While The Great Burrow dominates the central forest region, it exists within a b
 **Relationship:** Sporadic and dangerous. These communities live closer to titan territories and have developed extreme survival cultures. Trade occurs mainly through Ranger contacts and requires significant security measures.
 
 **Cultural Notes:** Highly militaristic and survival-focused. Respect strength above all else and view southern communities as weak and decadent. Often serve as early warning system for major titan movements.
+
+---
+
+### **Highland Territories** *(Mountain Communities)*
+**Location:** Distant mountain ranges visible from The Great Burrow's highest points  
+**Primary Species:** Marmots, mountain goats, various alpine-adapted creatures  
+**Trade Goods:**
+- **Exports to Great Burrow:** Worked stone, mineral deposits, alpine herbs, weather prediction knowledge
+- **Imports from Great Burrow:** Forest foods, manufactured goods, lowland textiles, honey
+
+**Relationship:** Seasonal and weather-dependent. Mountain passes are only accessible during certain times of year, making trade irregular but valuable. Many marmot families have migrated to The Hives while maintaining cultural connections to their highland origins.
+
+**Cultural Notes:** Patient, methodical cultures adapted to harsh seasonal extremes. Value craftsmanship and durability over speed. Strong traditions of weather prediction and seasonal preparation. Marmot immigrants to The Hives often serve as cultural bridges between mountain and forest communities.
 
 ---
 

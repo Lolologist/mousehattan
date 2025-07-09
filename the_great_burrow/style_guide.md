@@ -47,7 +47,7 @@ Each burrow/borough has distinct economic specializations:
 
 The Branchx: Construction, courier services, acorn harvesting
 Mousehattan: Finance, trading, "human artifact" commerce
-The Hives: Honey production, pollination services, arts/crafts
+The Hives: Logistics & distribution, manufacturing, cultural fusion, external trade
 Lin's Brook: Fishing, dam construction, water management
 Scurry Island: Black market, unconventional services, "authentic" forest experiences
 
@@ -102,7 +102,7 @@ Some services/areas only available with sufficient local standing
 
 The Branchx: Gang territory disputes, construction accidents, gentrification protests
 Mousehattan: Financial crimes, family evictions, artifact smuggling
-The Hives: Inter-species cultural conflicts, colony territorial disputes
+The Hives: Immigration tensions, trade route disruptions, cultural integration challenges
 Lin's Brook: Water rights disputes, fishing territory conflicts, industrial accidents
 Scurry Island: Black market operations, isolation/ferry problems, "authentic forest" tourism
 

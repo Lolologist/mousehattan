@@ -43,11 +43,11 @@ Root   Junc.  Comb   Cross
 - **Special Features:** Waterproof sections, emergency drainage systems
 
 #### **Green Line: Mousehattan ↔ The Hives**
-- **Route:** Grand Central → Honeycomb Central → Field's Edge
-- **Travel Time:** 25 minutes express, 40 minutes local
-- **Frequency:** Every 10 minutes during peak hours
-- **Challenges:** Insect interference, seasonal agricultural traffic
-- **Special Features:** Insect-friendly design, agricultural cargo sections
+- **Route:** Grand Central → The Great Interchange → Border Camps
+- **Travel Time:** 20 minutes express, 35 minutes local
+- **Frequency:** Every 8 minutes during peak hours
+- **Challenges:** Heavy caravan traffic, diverse passenger needs
+- **Special Features:** Multi-cultural signage, cargo handling facilities
 
 #### **Yellow Line: The Branchx ↔ Lin's Brook**
 - **Route:** Grove Junction → Tunnel Crossing → Creek Crossing
@@ -79,12 +79,12 @@ Root   Junc.  Comb   Cross
 - **Architecture:** Natural cave system expanded by mole engineers
 - **Challenges:** Root growth requiring constant maintenance
 
-#### **Honeycomb Central** *(The Hives)*
-- **Platforms:** 3 platforms, Green line terminus
-- **Daily Traffic:** 15,000+ passengers
-- **Features:** Agricultural market, insect observation areas
-- **Architecture:** Integrated with natural hive structures
-- **Special:** Insect-friendly design with specialized ventilation
+#### **The Great Interchange** *(The Hives)*
+- **Platforms:** 6 platforms, major multi-line hub
+- **Daily Traffic:** 35,000+ passengers
+- **Features:** Multi-cultural markets, caravan coordination center, currency exchange
+- **Architecture:** Massive underground complex with multiple levels
+- **Special:** Multi-lingual signage, cargo handling facilities, external trade connections
 
 #### **Creek Crossing** *(Lin's Brook)*
 - **Platforms:** 5 platforms, major interchange

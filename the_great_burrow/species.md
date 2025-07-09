@@ -146,13 +146,65 @@
 
 **Current Status:** Successful enough to cause resentment, still maintaining cultural identity
 
-**Common Locations:** The Hives (primary), New Meadow district, agricultural zones
+**Common Locations:** The Hives (primary), Innovation District, agricultural zones
 
 **Species Sayings:**
 - *"The mountain remembers"* (honor your origins)
 - *"Many pelts, warm warren"* (cooperation brings comfort)
 - *"Whistle while you work"* (joy in labor)
 - *"Even beetles know a guinea pig gathering"* (our communities are vibrant)
+
+---
+
+### **Prairie Dogs** *(Grassland Democrats)*
+
+**Background:** Recent immigrants from the southern grasslands who brought democratic traditions and community organization skills to The Great Burrow.
+
+**Cultural Traits:**
+- Highly social with complex democratic decision-making processes
+- Natural community organizers who believe in collective action
+- Excellent at early warning systems and group coordination
+- Value consensus and shared responsibility over individual leadership
+
+**Vocal Patterns:** Clear, projected speech designed to carry across open spaces. Use lots of collective pronouns and democratic language. Speak in organized, turn-taking patterns that reflect their town-hall meeting culture. Rich vocabulary for describing group dynamics and community organization.
+
+**Occupations:** Community organizers, democratic facilitators, grain processors, logistics coordinators, social workers
+
+**Current Status:** Growing influence in Hives politics, adapting grassland culture to forest life
+
+**Common Locations:** The Hives (Grassland Quarter), community centers, political venues
+
+**Species Sayings:**
+- *"The burrow decides together"* (democratic decision-making)
+- *"Many voices, clear choice"* (consensus through discussion)
+- *"Stand tall, see far"* (vigilance and perspective)
+- *"The grassland teaches patience"* (long-term thinking)
+
+---
+
+### **Marmots** *(Mountain Craftscreatures)*
+
+**Background:** Highland immigrants who brought stone-working expertise and alpine survival traditions from the distant mountain ranges.
+
+**Cultural Traits:**
+- Master craftscreatures specializing in stone and mineral work
+- Strong seasonal awareness and weather prediction abilities
+- Tight family groups with multi-generational knowledge sharing
+- Value durability and quality over speed and quantity
+
+**Vocal Patterns:** Slow, measured speech with technical precision about materials and construction. Use lots of geological and weather terminology. Speak with the patience of creatures who work with stone and seasonal cycles. Rich vocabulary for describing craftsmanship and natural phenomena.
+
+**Occupations:** Stone workers, mineral processors, weather predictors, master craftscreatures, construction specialists
+
+**Current Status:** Establishing themselves as essential specialists, maintaining mountain traditions
+
+**Common Locations:** The Hives (Mountain Slopes), construction sites, craft workshops
+
+**Species Sayings:**
+- *"Stone remembers the mountain"* (quality endures)
+- *"Slow chisel, strong foundation"* (patience in craftsmanship)
+- *"The peak sees all seasons"* (long-term perspective)
+- *"Hard work, lasting results"* (effort creates permanence)
 
 ---
 

@@ -86,7 +86,7 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Starting Skills:** Choose 2 from: Athletics, Charm, Coordination, Perception, Vehicles, Survival
 
 #### **Rabbits** *(The Cooperators)*
-- **Brawn 2, Agility 2, Intellect 2, Cunning 2, Willpower 2, Presence 3**
+- **Brawn 2, Agility 2, Intellect 1, Cunning 2, Willpower 2, Presence 3**
 - **Wound Threshold:** 10 + Brawn
 - **Strain Threshold:** 11 + Willpower
 - **Starting XP:** 110
@@ -152,7 +152,7 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Starting Skills:** Choose 2 from: Coercion, Cool, Discipline, Resilience, Streetwise, Vigilance
 
 #### **Badgers** *(The Old Guard)*
-- **Brawn 3, Agility 2, Intellect 2, Cunning 2, Willpower 2, Presence 1**
+- **Brawn 3, Agility 2, Intellect 2, Cunning 1, Willpower 2, Presence 2**
 - **Wound Threshold:** 12 + Brawn
 - **Strain Threshold:** 11 + Willpower
 - **Starting XP:** 100
@@ -174,7 +174,7 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Starting Skills:** Choose 2 from: Coordination, Deception, Negotiation, Skulduggery, Streetwise, Vigilance
 
 #### **Weasels** *(The Information Brokers)*
-- **Brawn 1, Agility 2, Intellect 2, Cunning 3, Willpower 2, Presence 2**
+- **Brawn 2, Agility 2, Intellect 1, Cunning 3, Willpower 2, Presence 2**
 - **Wound Threshold:** 8 + Brawn
 - **Strain Threshold:** 11 + Willpower
 - **Starting XP:** 100
@@ -508,6 +508,10 @@ Veteran of multiple titan encounters. Add ⬜⬜ to all combat checks against la
 
 #### **Underground Railroad** *(Active)*
 Can help creatures disappear from their old lives and start new ones. Once per session, can provide false identity, safe passage, or sanctuary for any creature.
+
+#### **Titan Affinity** *(Passive)*
+*Prerequisite: Survived an encounter with a Titan, or DM approval*
+One of the Titan-related skills becomes a career skill for you, based on the titan you have encountered.
 
 ### **Tier 4 Talents**
 

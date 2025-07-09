@@ -35,12 +35,12 @@ The Great Burrow operates under a loose confederation system where each burrow m
 - **Tail Vote**: Direct democracy for major decisions (literally counted by tail-raising)
 - **Law**: "Every creature earns their perch"
 
-### **The Hives - Cooperative Consensus**
-- **The Hive Mind**: Extended family councils making decisions by discussion
+### **The Hives - Democratic Consensus**
+- **The Diversity Council**: Representatives from each major community group
 - **Species Circles**: Each major species group has internal governance
-- **The Buzz**: Community meetings where all voices are heard
-- **Elder Warrens**: Respected families provide guidance, not commands
-- **Law**: "The swarm decides together"
+- **The Forum**: Democratic town-hall meetings influenced by prairie dog traditions
+- **Elder Circles**: Respected families provide guidance, not commands
+- **Law**: "Every creature finds their voice in the swarm"
 
 ### **Lin's Brook - Guild Confederation**
 - **The Dam Council**: Representatives from major construction and trade guilds
