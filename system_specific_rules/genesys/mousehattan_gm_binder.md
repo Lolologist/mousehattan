@@ -744,6 +744,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Starting Skills:** Choose 2 from: Charm, Deception, Knowledge (City), Mechanics, Negotiation, Streetwise
 
+**Background:** Descendants of the original wall-carvers. Mousehattan IS mouse town in their minds.
+
+**Cultural Traits:**
+- Obsessed with genealogy and wall-rights dating back generations
+- Sophisticated taste in aged cheeses and preserved goods
+- Navigate social networks as skillfully as tunnels
+- Believe in "proper" ways of doing everything
+
+**Vocal Patterns:** Precise, articulated speech with old-fashioned vocabulary. Use formal titles and proper grammar even in casual conversation. Speak softly but expect to be heard.
+
+**Occupations:** Bankers, lawyers, Wall Street traders, gallery owners, old-school deli operators
+
+**Species Sayings:**
+- *"The walls remember"* (history and tradition matter)
+- *"A mouse can nibble through anything, given time"* (persistence wins)
+- *"Know your tunnels, know your exits"* (always have a backup plan)
+- *"Cheese ages, roots decay"* (some things improve with time, others don't)
+
 ### Rats *(The Entrepreneurs)*
 
 <div class="archetype">
@@ -765,6 +783,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Survivor's Instinct:** Add <span class='boost'>b</span> to Vigilance and Cool checks
 
 **Starting Skills:** Choose 2 from: Coercion, Deception, Negotiation, Skulduggery, Streetwise, Vigilance
+
+**Background:** Larger, louder, and less concerned with tradition. They're changing Mousehattan whether the mice like it or not.
+
+**Cultural Traits:**
+- "Bigger is better" mentality
+- Network aggressively across species lines
+- Early adopters of new technology and methods
+- Work hard, party harder philosophy
+
+**Vocal Patterns:** Loud, confident speech with lots of emphasis and gesturing. Mix business jargon with street slang. Speak over others and interrupt frequently.
+
+**Occupations:** Tech entrepreneurs, club owners, real estate developers, "import/export"
+
+**Species Sayings:**
+- *"Make the hole bigger"* (don't accept limitations)
+- *"Every wall's got a weak spot"* (there's always a way)
+- *"Swim or sink"* (adapted from ship rat heritage)
+- *"The fattest rat gets noticed"* (success makes you a target)
 
 \columnbreak
 
@@ -790,6 +826,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Starting Skills:** Choose 2 from: Athletics, Coordination, Perception, Survival, Vigilance, Knowledge (City)
 
+**Background:** Multi-generational families who built the canopy infrastructure. Consider themselves the "true" Branchx natives.
+
+**Cultural Traits:**
+- Obsessed with height hierarchy - your branch level indicates social status
+- Natural hoarders who judge others by their winter storage
+- Incredibly territorial about acorn groves
+- Master builders who take pride in rope bridge craftsmanship
+
+**Vocal Patterns:** Quick, clipped speech with dropped consonants when excited. Strong neighborhood accents that vary by tree cluster. Tendency to speak faster when nervous or territorial.
+
+**Occupations:** Construction workers, bridge builders, acorn harvesters, union organizers, canopy cops
+
+**Species Sayings:**
+- *"High branch, warm winter"* (success brings security)
+- *"Never trust a ground-dweller with your nuts"* (be careful who you confide in)
+- *"Shake the tree, see what falls"* (test someone's true nature)
+- *"A squirrel's tail tells no lies"* (body language reveals truth)
+
 ### Chipmunks *(The Couriers)*
 
 <div class="archetype">
@@ -811,6 +865,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Route Knowledge:** Remove <span class='setback'>b</span> from Streetwise checks related to navigation
 
 **Starting Skills:** Choose 2 from: Athletics, Coordination, Perception, Vehicles, Streetwise, Vigilance
+
+**Background:** Smaller, faster, and willing to take risks squirrels won't. The courier culture of The Branchx.
+
+**Cultural Traits:**
+- Speed is everything - slow chipmunks don't eat
+- Cheek-pouch capacity is a point of pride
+- Less concerned with height, more with route efficiency
+- Form tight courier crews that become chosen families
+
+**Vocal Patterns:** Rapid-fire delivery with lots of slang and abbreviated words. Use hand gestures extensively while talking. Often finish each other's sentences in crew groups.
+
+**Occupations:** Messengers, courier service, small-item smugglers, tunnel maintenance
+
+**Species Sayings:**
+- *"Full cheeks, empty promises"* (don't overcommit)
+- *"The fastest route ain't always up"* (unconventional solutions work)
+- *"Stripe pride"* (chipmunk solidarity)
+- *"Winter comes for the slow"* (urgency in everything)
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -839,6 +911,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Starting Skills:** Choose 2 from: Athletics, Mechanics, Knowledge (Science), Resilience, Survival, Vigilance
 
+**Background:** THE infrastructure species. Their dams and lodges shaped Lin's Brook.
+
+**Cultural Traits:**
+- Judge others by the quality of their work
+- Suspicious of anything "artisanal" or fancy
+- Family lodges passed down for generations
+- Take pride in practical problem-solving
+
+**Vocal Patterns:** Deliberate, methodical speech with construction terminology. Speak in measured cadences like they're explaining complex engineering. Use lots of metaphors about building and water flow.
+
+**Occupations:** Dam builders, construction workers, water management, lumber processing
+
+**Species Sayings:**
+- *"Busy as a beaver"* (worn as a badge of honor)
+- *"Still water, strong dam"* (quiet competence is best)
+- *"You can't slap sense into soft wood"* (some things can't be fixed)
+- *"Gnaw your own stick"* (mind your own business)
+
 ### Rabbits *(The Cooperators)*
 
 <div class="archetype">
@@ -860,6 +950,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - **Large Family:** Start with additional family contacts
 
 **Starting Skills:** Choose 2 from: Charm, Knowledge (Science), Leadership, Medicine, Negotiation, Survival
+
+**Background:** First to master beekeeping, their families control much of the honey trade.
+
+**Cultural Traits:**
+- Measure wealth in hives, not coins
+- Large families are status symbols
+- Incredibly protective of "trade secrets"
+- Natural diggers who build the best warrens
+
+**Vocal Patterns:** Warm, measured speech with agricultural metaphors. Speak in collective terms about family and community. Use lots of diminutives and endearments.
+
+**Occupations:** Beekeepers, honey merchants, warren architects, garden designers
+
+**Species Sayings:**
+- *"Lucky rabbit's foot"* (said ironically when things go wrong)
+- *"Breed like rabbits, work like bees"* (family and labor go together)
+- *"Every kit needs a warren"* (everyone deserves a home)
+- *"Thump twice for danger"* (traditional warning system)
 
 \columnbreak
 
@@ -885,6 +993,24 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Leadership, Medicine, Survival, Charm
 
+**Background:** Mountain immigrants who traveled through the southern meadows to reach The Great Burrow, bringing revolutionary terracing techniques and strong communal traditions.
+
+**Cultural Traits:**
+- Community-minded, decisions made in groups through squeaking councils
+- Natural whistlers who adapted their language for beetle-communication
+- Bring mountain sensibilities to forest life
+- See potential where others see problems
+
+**Vocal Patterns:** Rapid, musical speech with rolling R's and melodic intonation. Frequently switch between Common Forest and their native Andean dialect mid-sentence. Use collective "we" instead of "I."
+
+**Occupations:** Agricultural consultants, terrace engineers, textile weavers, fusion restaurateurs, beetle-whisperers
+
+**Species Sayings:**
+- *"The mountain remembers"* (honor your origins)
+- *"Many pelts, warm warren"* (cooperation brings comfort)
+- *"Whistle while you work"* (joy in labor)
+- *"Even beetles know a guinea pig gathering"* (our communities are vibrant)
+
 <div class='example'>
 
 ##### Character Creation Example
@@ -892,11 +1018,807 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 </div>
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Additional Species
+
+Beyond the core species, The Great Burrow hosts many other creatures who contribute to the rich tapestry of urban forest life.
+
+## Otters *(The Watercreatures)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">1</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower  
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Aquatic Excellence:** Add <span class='boost'>b</span><span class='boost'>b</span> to all swimming checks, hold breath for extended periods
+- **Playful Competitor:** Add <span class='boost'>b</span> to Cool checks during stressful social situations
+- **Water Sense:** Remove <span class='setback'>b</span> from Navigation checks near water
+
+**Starting Skills:** Choose 2 from: Athletics, Coordination, Charm, Perception, Survival, Vehicles
+
+**Background:** The fishers, swimmers, and waterfront workers who bring life to Lin's Brook.
+
+**Cultural Traits:**
+- Playful attitude masks serious work ethic
+- Tight family groups that fish together
+- Natural swimmers who pity "dry-landers"
+- Competitive about everything, especially sliding
+
+**Vocal Patterns:** Fluid, expressive speech with lots of water metaphors. Speak in overlapping conversations like they're used to talking over rushing water. Use playful teasing and competitive banter.
+
+**Occupations:** Fishers, dock workers, ferry operators, swimming instructors
+
+**Species Sayings:**
+- *"Slick as an otter's slide"* (smooth operation)
+- *"Fish don't catch themselves"* (hard work required)
+- *"Play in the current, work against it"* (know when to have fun)
+- *"Keep your whiskers dry"* (stay out of trouble)
+
+### Opossums *(The Survivors)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Play Dead:** Once per session, may immediately end engagement by feigning death (requires Deception vs. Perception)
+- **Scavenger's Eye:** Add <span class='boost'>b</span> to Perception checks when searching for useful items
+- **Nocturnal:** Remove <span class='setback'>b</span> from checks made in darkness
+
+**Starting Skills:** Choose 2 from: Deception, Skulduggery, Streetwise, Survival, Vigilance, Cool
+
+**Background:** Masters of playing dead to society while thriving in the shadows.
+
+**Cultural Traits:**
+- "Pretend to be less than you are" philosophy
+- Nocturnal by preference, not just nature
+- Incredibly adaptable to any situation
+- Dark sense of humor about being outcasts
+
+**Vocal Patterns:** Slow, drawling speech that can suddenly become sharp and precise. Use lots of folksy sayings and dark humor. Speak quietly so others have to lean in to listen.
+
+**Occupations:** Black market traders, night workers, scavengers, "problem solvers"
+
+**Species Sayings:**
+- *"Play dead 'til you're ready"* (strategic patience)
+- *"Hanging by my tail"* (barely managing)
+- *"Every garbage got treasure"* (opportunity in everything)
+- *"Hiss first, ask questions later"* (defensive by nature)
+
+\columnbreak
+
+### Raccoons *(The Operators)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 10 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Nimble Fingers:** Add <span class='boost'>b</span><span class='boost'>b</span> to Skulduggery checks involving manual dexterity
+- **Mask of Innocence:** Add <span class='boost'>b</span> to Deception checks when appearing innocent
+- **Washing Ritual:** Can "clean" stolen goods, reducing difficulty of selling by 1
+
+**Starting Skills:** Choose 2 from: Deception, Skulduggery, Streetwise, Coordination, Vigilance, Negotiation
+
+**Background:** The ones who make Scurry Island's black market actually function.
+
+**Cultural Traits:**
+- "Washing" items is both literal and metaphorical (money laundering)
+- Incredible manual dexterity they lord over others
+- Form loose "rings" instead of traditional families
+- Navigate between legal and illegal with ease
+
+**Vocal Patterns:** Smooth, persuasive speech with lots of hand gestures. Excellent at code-switching between different social groups. Use euphemisms and double meanings constantly.
+
+**Occupations:** Smugglers, fence operators, lock "specialists," legitimate-front businesses
+
+**Species Sayings:**
+- *"Clean paws, dirty deals"* (appearance matters)
+- *"Five fingers, five opportunities"* (multiple angles always)
+- *"The mask stays on"* (never reveal everything)
+- *"One creature's trash..."* (you know the rest)
+
+### Badgers *(The Old Guard)*
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">1</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 14 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Territorial Defender:** Add <span class='boost'>b</span><span class='boost'>b</span> to combat checks when defending owned property
+- **Intimidating Presence:** Add <span class='boost'>b</span> to Coercion checks
+- **Ancient Rights:** Start with inherited property or land rights
+
+**Starting Skills:** Choose 2 from: Brawl, Coercion, Knowledge (City), Negotiation, Resilience, Vigilance
+
+**Background:** Ancient families who predate the city. They own land and judge everyone else as newcomers.
+
+**Cultural Traits:**
+- Incredibly territorial and traditional
+- Maintain ancestral burrows like fortresses
+- Natural fighters who settle disputes physically
+- Suspicious of "city ways" but too invested to leave
+
+**Vocal Patterns:** Gruff, no-nonsense speech with old-fashioned vocabulary. Speak in short, declarative sentences. Use lots of territorial and property metaphors.
+
+**Occupations:** Landlords, old-money investors, traditional crafts, dispute mediators
+
+**Species Sayings:**
+- *"The burrow remembers"* (we were here first)
+- *"Claw law"* (might makes right)
+- *"City soil ain't forest earth"* (progress has a cost)
+- *"Stand your ground"* (never back down)
+
+### Prairie Dogs *(The Democrats)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">3</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Democratic Process:** Add <span class='boost'>b</span><span class='boost'>b</span> to Leadership checks when organizing groups
+- **Early Warning:** Add <span class='boost'>b</span> to Initiative checks and Vigilance checks to spot danger
+- **Community Organizer:** Reduce difficulty of social checks in group settings by 1
+
+**Starting Skills:** Choose 2 from: Charm, Leadership, Negotiation, Perception, Vigilance, Knowledge (City)
+
+**Background:** Recent immigrants from the southern grasslands who brought democratic traditions and community organization skills to The Great Burrow.
+
+**Cultural Traits:**
+- Highly social with complex democratic decision-making processes
+- Natural community organizers who believe in collective action
+- Excellent at early warning systems and group coordination
+- Value consensus and shared responsibility over individual leadership
+
+**Vocal Patterns:** Clear, projected speech designed to carry across open spaces. Use lots of collective pronouns and democratic language. Speak in organized, turn-taking patterns.
+
+**Occupations:** Community organizers, democratic facilitators, grain processors, logistics coordinators, social workers
+
+**Species Sayings:**
+- *"The burrow decides together"* (democratic decision-making)
+- *"Many voices, clear choice"* (consensus through discussion)
+- *"Stand tall, see far"* (vigilance and perspective)
+- *"The grassland teaches patience"* (long-term thinking)
+
+\columnbreak
+
+### Marmots *(The Craftscreatures)*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Mountain Wisdom:** Add <span class='boost'>b</span> to Knowledge (Science) checks related to geology and weather
+- **Master Craftscreature:** Add <span class='boost'>b</span><span class='boost'>b</span> to Mechanics checks involving stone or mineral work
+- **Seasonal Awareness:** Add <span class='boost'>b</span> to Survival checks
+
+**Starting Skills:** Choose 2 from: Mechanics, Knowledge (Science), Survival, Resilience, Perception, Medicine
+
+**Background:** Highland immigrants who brought stone-working expertise and alpine survival traditions from the distant mountain ranges.
+
+**Cultural Traits:**
+- Master craftscreatures specializing in stone and mineral work
+- Strong seasonal awareness and weather prediction abilities
+- Tight family groups with multi-generational knowledge sharing
+- Value durability and quality over speed and quantity
+
+**Vocal Patterns:** Slow, measured speech with technical precision about materials and construction. Use lots of geological and weather terminology. Speak with the patience of creatures who work with stone.
+
+**Occupations:** Stone workers, mineral processors, weather predictors, master craftscreatures, construction specialists
+
+**Species Sayings:**
+- *"Stone remembers the mountain"* (quality endures)
+- *"Slow chisel, strong foundation"* (patience in craftsmanship)
+- *"The peak sees all seasons"* (long-term perspective)
+- *"Hard work, lasting results"* (effort creates permanence)
+
+### Moles *(The Underground Elite)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Underground Navigation:** Remove <span class='setback'>b</span><span class='setback'>b</span> from Navigation checks underground
+- **Tremor Sense:** Add <span class='boost'>b</span><span class='boost'>b</span> to Perception checks using vibration
+- **Tunnel Vision:** Upgrade difficulty of visual Perception checks by 1, but immune to visual distractions
+
+**Starting Skills:** Choose 2 from: Mechanics, Navigation, Perception, Vehicles, Knowledge (City), Vigilance
+
+**Background:** THE subway operators. They built and maintain the Great Underground, making them essential to city life.
+
+**Cultural Traits:**
+- Navigate by touch and sound, not sight
+- Obsessed with soil quality and tunnel integrity
+- Form work crews that communicate through vibrations
+- Surprisingly wealthy from transit monopoly
+
+**Vocal Patterns:** Quiet, precise speech with technical terminology about underground systems. Often speak without looking directly at others. Use lots of tactile and auditory descriptions.
+
+**Occupations:** Subway operators, tunnel engineers, underground police, soil analysts
+
+**Species Sayings:**
+- *"Dig deep, breathe shallow"* (work hard but stay humble)
+- *"The earth tells truth"* (foundation matters)
+- *"Surface problems, underground solutions"* (we keep things running)
+- *"Vibrations don't lie"* (trust your instincts)
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Skunks *(The Enforcers)*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Chemical Defense:** Once per encounter, may force all creatures within Short range to make Average <span class='difficulty'>d</span><span class='difficulty'>d</span> Resilience check or be Staggered for 2 rounds
+- **Intimidating Reputation:** Add <span class='boost'>b</span><span class='boost'>b</span> to Coercion checks
+- **Calm Authority:** Add <span class='boost'>b</span> to Cool and Leadership checks
+
+**Starting Skills:** Choose 2 from: Coercion, Cool, Leadership, Vigilance, Negotiation, Knowledge (City)
+
+**Background:** Nobody messes with skunks. They've parlayed this into security and enforcement roles.
+
+**Cultural Traits:**
+- Natural confidence from their defense mechanism
+- Form small but tight family units
+- Surprisingly sophisticated and well-dressed
+- Take pride in never having to use their spray
+
+**Vocal Patterns:** Calm, measured speech that commands attention. Never raise their voices but somehow always get heard. Use precise language and avoid ambiguity.
+
+**Occupations:** Security, bodyguards, waste management, chemical processing
+
+**Species Sayings:**
+- *"Lift the tail, end the tale"* (threats end conversations)
+- *"Black and white, clear as night"* (no ambiguity)
+- *"Reputation travels upwind"* (your past precedes you)
+- *"Spray once, walk forever alone"* (nuclear options have consequences)
+
+### Ferrets *(The Dealers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">4</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
+<span class="pre">3</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 10 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Hyperactive:** May perform 1 additional maneuver per turn without strain cost
+- **Deal Maker:** Add <span class='boost'>b</span> to Negotiation and Streetwise checks
+- **Flexible:** Add <span class='boost'>b</span> to Coordination checks involving squeezing through spaces
+
+**Starting Skills:** Choose 2 from: Coordination, Negotiation, Streetwise, Charm, Skulduggery, Perception
+
+**Background:** Hyperactive deal-makers who thrive in the city's fast pace. Natural middlemen.
+
+**Cultural Traits:**
+- Can't sit still, always working multiple angles
+- Form business "kits" rather than traditional families
+- Obsessive collectors of shiny objects
+- Dance through legal grey areas
+
+**Vocal Patterns:** Extremely rapid speech that jumps between topics. Use lots of slang and made-up words. Speak with infectious enthusiasm about everything.
+
+**Occupations:** Brokers, messengers, fences, entertainment promoters, "consultants"
+
+**Species Sayings:**
+- *"War dance first, negotiate later"* (intimidation tactics)
+- *"If it shines, it's mine"* (everything has value)
+- *"Sleep when you're dead"* (constant motion)
+- *"Slip through, slide by"* (flexibility is key)
+
+\columnbreak
+
+### Porcupines *(The Artists)*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Quill Defense:** When attacked in melee, attacker suffers 1 strain (2 strain on critical hit)
+- **Artistic Vision:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks involving artistic creation
+- **Defensive Stance:** Add <span class='boost'>b</span> to defense when not moving
+
+**Starting Skills:** Choose 2 from: Cool, Discipline, Mechanics, Medicine, Perception, Knowledge (City)
+
+**Background:** Natural armor makes them perfect guards, but they're tired of being typecast.
+
+**Cultural Traits:**
+- Constantly fighting "all quills, no brains" stereotype
+- Actually quite artistic and philosophical
+- Form collective artist communities
+- Use shed quills for various crafts
+
+**Vocal Patterns:** Thoughtful, deliberate speech with artistic vocabulary. Often pause mid-sentence to consider their words carefully. Use lots of metaphors about protection and vulnerability.
+
+**Occupations:** Guards, artists, quill-crafters, acupuncturists, philosophers
+
+**Species Sayings:**
+- *"Quills out, walls up"* (defensive stance)
+- *"Every point has a purpose"* (nothing is without meaning)
+- *"Back off means back off"* (clear boundaries)
+- *"Soft belly, sharp back"* (vulnerability and strength)
+
+### Weasels *(The Information Brokers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">4</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Information Network:** Once per session, may know a useful rumor or secret
+- **Serpentine Movement:** Add <span class='boost'>b</span><span class='boost'>b</span> to Stealth and Coordination checks in tight spaces
+- **Social Chameleon:** Add <span class='boost'>b</span> to Deception checks when mimicking social groups
+
+**Starting Skills:** Choose 2 from: Deception, Perception, Skulduggery, Streetwise, Vigilance, Charm
+
+**Background:** The gossips, spies, and information dealers who know everyone's business.
+
+**Cultural Traits:**
+- Incredibly flexible, physically and morally
+- Trade in secrets more than goods
+- Form loose networks rather than families
+- Can literally get into anywhere
+
+**Vocal Patterns:** Smooth, insinuating speech that draws others into conversation. Masters of asking leading questions. Use lots of euphemisms and coded language.
+
+**Occupations:** Spies, journalists, private investigators, couriers, bartenders
+
+**Species Sayings:**
+- *"Weasel in, truth out"* (we find what's hidden)
+- *"Every hole has a secret"* (information is everywhere)
+- *"Bend don't break"* (adaptability is survival)
+- *"Pop goes the weasel"* (sudden revelations)
+
+\pagebreakNum
+
+### Groundhogs *(The Bureaucrats)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Weather Prediction:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks related to predicting weather or seasonal changes
+- **Bureaucratic Procedure:** Add <span class='boost'>b</span> to Knowledge (City) checks involving regulations or paperwork
+- **Seasonal Slow:** During winter months, upgrade difficulty of Athletics checks by 1 but gain <span class='boost'>b</span> to all mental skills
+
+**Starting Skills:** Choose 2 from: Knowledge (City), Knowledge (Science), Negotiation, Perception, Cool, Discipline
+
+**Background:** Their weather prediction tradition evolved into complex bureaucratic roles.
+
+**Cultural Traits:**
+- Obsessed with patterns and predictions
+- Natural bureaucrats who love paperwork
+- Hibernate partially, leading to seasonal government slowdowns
+- Take their shadow-seeing traditions VERY seriously
+
+**Vocal Patterns:** Formal, bureaucratic speech with lots of qualifiers and subclauses. Speak in official terminology even in casual conversation. Use weather metaphors for everything.
+
+**Occupations:** Bureaucrats, weather predictors, record keepers, seasonal planners
+
+**Species Sayings:**
+- *"Six more weeks"* (delays are inevitable)
+- *"Check your shadow"* (examine yourself)
+- *"Forms in triplicate"* (proper procedure matters)
+- *"Spring comes when it comes"* (patience with natural cycles)
+
+### Bats *(The Night Shift)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">4</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Echolocation:** Remove <span class='setback'>b</span><span class='setback'>b</span> from Perception checks in darkness, add <span class='boost'>b</span> to Navigation checks
+- **Flight:** Can fly at speed 2, ignoring terrain
+- **Night Vision:** Remove <span class='setback'>b</span> from all checks made in darkness
+
+**Starting Skills:** Choose 2 from: Perception, Navigation, Vehicles, Cool, Vigilance, Athletics
+
+**Background:** The only flying mammals, they dominate nighttime aerial courier and reconnaissance work.
+
+**Cultural Traits:**
+- Echolocation gives them unique perspective
+- Form massive colonies but value individual achievement
+- Bridge the gap between ground and canopy
+- Mysterious reputation they cultivate
+
+**Vocal Patterns:** High-pitched, precise speech with excellent diction. Often speak in technical terms about navigation and acoustics. Use lots of spatial and directional language.
+
+**Occupations:** Night couriers, aerial reconnaissance, night doctors, sound engineers
+
+**Species Sayings:**
+- *"Blind as a bat"* (said sarcastically - they see everything)
+- *"Hang together or fall alone"* (community matters)
+- *"Echo tells truth"* (listen more than you speak)
+- *"Night flight, day fright"* (own your time)
+
+\columnbreak
+
+### Foxes *(The Cunning Outcasts)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">4</span>
+<span class="cun">4</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 80
+
+**Special Abilities:**
+- **Cunning Hunter:** Add <span class='boost'>b</span><span class='boost'>b</span> to Skulduggery and Deception checks
+- **Predator Heritage:** Must make Hard <span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span> Discipline check when around small creatures to avoid intimidating them
+- **Quick Thinking:** Once per session, upgrade any skill check twice instead of once
+
+**Starting Skills:** Choose 2 from: Deception, Skulduggery, Negotiation, Cool, Perception, Knowledge (City)
+
+**Background:** Usually predators, but some have chosen to integrate into society. Never fully trusted.
+
+**Cultural Traits:**
+- Must constantly prove their "civilized" status
+- Often the smartest creature in the room
+- Natural loners who struggle with city life
+- Use their reputation strategically
+
+**Vocal Patterns:** Articulate, careful speech that sounds almost too polished. Use sophisticated vocabulary to prove their intelligence. Speak with slight hesitation, choosing words carefully.
+
+**Occupations:** Lawyers, negotiators, private investigators, problem solvers
+
+**Species Sayings:**
+- *"Trust a fox to be a fox"* (nature is nature)
+- *"Every chicken has my name on it"* (fighting instincts)
+- *"Clever is as clever does"* (prove your worth)
+- *"Hunt alone, live alone"* (independence has a price)
+
+### Dogs *(The Loyal Companions)*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">2</span>
+<span class="int">1</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">3</span>
+</div>
+
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Pack Loyalty:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks when helping allies or defending family
+- **Enhanced Senses:** Add <span class='boost'>b</span> to Perception checks using smell or hearing
+- **Wolf Heritage:** May cause fear in other creatures; once per session, add <span class='boost'>b</span> to Coercion checks
+
+**Starting Skills:** Choose 2 from: Athletics, Cool, Leadership, Perception, Vigilance, Discipline
+
+**Background:** Rare but valued members of society, dogs carry the burden of being distant cousins to the titan Wolves.
+
+**Cultural Traits:**
+- Intensely loyal to chosen families and communities
+- Natural protectors with strong territorial instincts
+- Struggle with their reputation due to wolf heritage
+- Form tight pack bonds with other species
+
+**Vocal Patterns:** Warm, earnest speech with pack-oriented language. Use lots of loyalty and family metaphors. Speak with conviction and sincerity.
+
+**Occupations:** Security guards, family protectors, emotional support workers, community mediators, search and rescue
+
+**Species Sayings:**
+- *"Pack first, self second"* (loyalty above all)
+- *"A good nose knows"* (trust your instincts)
+- *"Howl with the family, hunt with the pack"* (different roles for different groups)
+- *"The wolf's shadow doesn't define the dog"* (you are not your ancestors)
+
+### Cats *(The Independent Observers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">4</span>
+<span class="int">3</span>
+<span class="cun">3</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Feline Reflexes:** Add <span class='boost'>b</span><span class='boost'>b</span> to Initiative and Coordination checks
+- **Night Hunter:** Remove <span class='setback'>b</span> from Stealth and Perception checks in low light
+- **Independent:** Add <span class='boost'>b</span> to checks made when working alone
+
+**Starting Skills:** Choose 2 from: Stealth, Perception, Cool, Coordination, Vigilance, Skulduggery
+
+**Background:** Sophisticated and somewhat aloof, cats maintain their independence while participating in city life.
+
+**Cultural Traits:**
+- Fiercely independent but capable of deep loyalty
+- Natural hunters with excellent night vision and reflexes
+- Maintain dignity and composure in most situations
+- Form selective social bonds rather than broad communities
+
+**Vocal Patterns:** Precise, measured speech with careful word choice. Use hunting and territory metaphors. Speak quietly but expect to be heard.
+
+**Occupations:** Private investigators, night watchmen, independent contractors, mediators, quality inspectors
+
+**Species Sayings:**
+- *"Nine lives, one purpose"* (resilience with focus)
+- *"The mouse reveals the maze"* (small details show big patterns)
+- *"Hunt alone, sleep together"* (independence and companionship both matter)
+- *"Not all who prowl are predators"* (don't judge by appearance)
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Corvids *(The Alien Intelligence)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">4</span>
+<span class="cun">4</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 80
+
+**Special Abilities:**
+- **Murder Memory:** Once per session, may recall any detail witnessed by any corvid in the city within the last month
+- **Flight:** Can fly at speed 3, excellent aerial maneuverability
+- **Gift Exchange:** Can trade shiny objects for information and favors from other corvids
+
+**Starting Skills:** Choose 2 from: Perception, Streetwise, Cool, Coercion, Knowledge (City), Vigilance
+
+**Background:** The only truly sapient birds in the forest, corvids exist in a complex relationship with mammalian society.
+
+**Cultural Traits:**
+- Think in patterns and systems mammals can't comprehend
+- Communicate through complex calls, gestures, and gift exchanges
+- Form "murders" (family groups) with intricate hierarchies
+- Collect shiny objects for reasons they won't explain
+
+**Vocal Patterns:** Harsh, staccato speech with clicking consonants and sudden tonal shifts. Often speak in riddles. Use present tense for past events and past tense for future ones.
+
+**Occupations:** Information brokers, "protection" services, aerial reconnaissance, problem solvers, enforcers
+
+**Species Sayings:**
+- *"The murder remembers"* (collective memory spans generations)
+- *"Shiny things hide dark truths"* (appearances deceive)
+- *"Sky sees all, sky tells nothing"* (knowledge has power)
+- *"Caw once for warning, twice for war"* (escalation is deliberate)
+
+### Shrews *(The Insect Whisperers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">1</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 8 + Willpower
+- **Starting XP:** 110
+
+**Special Abilities:**
+- **Insect Communication:** Can communicate with insects through ultrasonic whistles, add <span class='boost'>b</span><span class='boost'>b</span> to Animal Handling checks with insects
+- **Hyperactive Metabolism:** Must eat every 4 hours or suffer strain, but add <span class='boost'>b</span> to Athletics checks
+- **Tiny Size:** Add <span class='boost'>b</span><span class='boost'>b</span> to Stealth checks, but increase difficulty of Brawl checks by 1
+
+**Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Survival, Perception, Medicine, Mechanics
+
+**Background:** The smallest mammals with the biggest appetites and the unique ability to communicate with beetles and other insects.
+
+**Cultural Traits:**
+- Metabolisms so fast they're always eating or working
+- Each family has unique whistle-patterns passed down generations
+- Natural partnerships with beetle colonies they see as extended family
+
+**Vocal Patterns:** Extremely rapid, high-pitched speech that sounds almost like squeaking to larger creatures. Often whistle while talking, creating complex layered communication.
+
+**Occupations:** Beetle herders, insect behavioral specialists, composting managers, pest negotiators
+
+**Species Sayings:**
+- *"A beetle knows an honest whistle"* (truth is recognized)
+- *"Fast heart, faster hands"* (speed in everything)
+- *"You can't rush good compost"* (quality takes time)
+- *"Hungry shrew, busy shrew"* (necessity drives work)
+
+\columnbreak
+
+## Cultural Notes for Game Masters
+
+### Mixed Heritage and Adoption
+
+Cross-species relationships have become increasingly common in The Great Burrow's urban environment. These relationships face both social challenges and practical considerations.
+
+**Common Pairings:**
+- Mouse-Rat families often bridge old money and new money cultures
+- Squirrel-Chipmunk partnerships share canopy lifestyle but different approaches
+- Beaver-Otter couples share aquatic focus but different work philosophies
+- Rabbit-Guinea Pig families create strong agricultural cooperation bonds
+
+**Mixed-Heritage Children:**
+- Are physically one parent's species but may show subtle influences from both
+- Often create new traditions blending both parents' backgrounds
+- May face acceptance issues from traditional communities
+- Natural bridge-builders between different species communities
+
+### Regional and Class Variations
+
+**Urban vs. Rural Differences:**
+- City Mice: Sophisticated, formal, focused on finance and precision
+- Rural Mice: More practical, less formal, focused on traditional crafts
+- Dock Rats vs. Business Rats: Different values around risk and cooperation
+- Canopy vs. Ground Squirrels: Ongoing tensions over status and resources
+
+### Vocal Pattern Guidelines for Roleplay
+
+**NYC Cultural Influences:**
+- Working Class: Chipmunks, squirrels, beavers, otters reflect NYC working-class speech
+- Business/Professional: Mice, rats, some rabbits show professional communication
+- Immigrant Communities: Guinea pigs represent code-switching speech patterns
+- Neighborhood Variations: Each burrow has distinct local speech patterns
+
+**General Guidelines:**
+- Species provide baseline tendencies, but individual variation is common
+- Neighborhood and occupation often influence speech more than species
+- Younger creatures have more mixed speech patterns from inter-species contact
+- Stress can cause creatures to revert to more species-typical patterns
+
 <div class='note'>
 
-#### <u>Additional Species</u>
+#### <u>Species Longevity and Lifecycle</u>
 
-The Core Rulebook includes 16 different species, including Opossums (The Survivors), Raccoons (The Operators), Otters (The Watercreatures), Badgers (The Old Guard), and many others. Each brings unique abilities and cultural perspectives to the Great Burrow.
+Different species have varying lifespans that affect career planning and social dynamics:
+
+**Short-lived Species (6-10 years):** Mice, rats - fast-paced lives with intense focus
+**Medium-lived Species (10-16 years):** Squirrels, rabbits, guinea pigs - long-term planning
+**Long-lived Species (30-40 years):** Beavers, badgers - extensive institutional memory
+
+This creates intergenerational dynamics where longer-lived species serve as mentors and institutional memory, while shorter-lived species drive innovation and change.
 
 </div>
 
@@ -2579,7 +3501,823 @@ Welcome to The Great Burrow - where every dawn brings opportunity and danger in 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
+# Additional Species Archetypes
+
+Beyond the core six species, The Great Burrow houses many other creatures, each bringing unique abilities and cultural perspectives.
+
+## Water Species
+
+### Otters *(The Water Workers)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">1</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 10 + Willpower  
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Aquatic Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to all Athletics checks in water
+- **Playful Nature:** Add <span class='boost'>b</span> to Charm checks, remove <span class='setback'>b</span> from social interactions
+- **Slippery:** Add <span class='boost'>b</span> to Coordination checks to escape restraints
+
+**Starting Skills:** Choose 2 from: Athletics, Coordination, Mechanics, Resilience, Streetwise, Survival, Vigilance, Vehicles
+
+### Muskrats *(The Marsh Dwellers)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 110
+
+**Special Abilities:**
+- **Marsh Navigation:** Remove <span class='setback'>b</span> from movement in wetlands and marshy terrain
+- **Small Craft:** Add <span class='boost'>b</span> to Vehicles checks when piloting small boats
+- **Resourceful:** Once per session, may produce a useful common item from "somewhere"
+
+**Starting Skills:** Choose 2 from: Athletics, Coordination, Survival, Vehicles, Vigilance, Streetwise
+
+\columnbreak
+
+## Underworld Species
+
+### Opossums *(The Survivors)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Play Dead:** Once per encounter, may become incapacitated to avoid further attacks
+- **Scavenger:** Add <span class='boost'>b</span> to Survival checks to find resources
+- **Nocturnal:** Remove <span class='setback'>b</span> from checks made in darkness
+
+**Starting Skills:** Choose 2 from: Cool, Deception, Skulduggery, Stealth, Streetwise, Survival, Vigilance
+
+### Raccoons *(The Operators)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 10 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Dexterous Paws:** Add <span class='boost'>b</span> to Skulduggery checks involving fine manipulation
+- **Natural Fence:** Reduce difficulty of selling stolen goods by 1
+- **Mask of Innocence:** Add <span class='boost'>b</span> to Deception checks to appear harmless
+
+**Starting Skills:** Choose 2 from: Coordination, Deception, Skulduggery, Stealth, Streetwise, Vigilance
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Traditional Species
+
+### Badgers *(The Old Guard)*
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">1</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Territorial:** Add <span class='boost'>b</span><span class='boost'>b</span> to combat checks when defending property or family
+- **Burrow Rights:** Start with property ownership and legal standing
+- **Fierce Reputation:** Add <span class='boost'>b</span> to Coercion checks, remove <span class='setback'>b</span> from Discipline checks
+
+**Starting Skills:** Choose 2 from: Brawl, Coercion, Discipline, Knowledge (City), Leadership, Vigilance
+
+### Weasels *(The Information Brokers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">4</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Infiltrator:** Add <span class='boost'>b</span> to Stealth checks, can fit through very small spaces
+- **Information Network:** Start with contacts in multiple burrows
+- **Flexible Morality:** Add <span class='boost'>b</span> to Deception checks, remove <span class='setback'>b</span> from social checks with criminals
+
+**Starting Skills:** Choose 2 from: Deception, Perception, Skulduggery, Stealth, Streetwise, Vigilance
+
+\columnbreak
+
+## Specialized Species
+
+### Shrews *(The Insect Whisperers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">2</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 7 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Insect Communication:** Can communicate with non-sapient insects through ultrasonic whistles
+- **High Metabolism:** Require more food, but gain <span class='boost'>b</span> to all checks after eating
+- **Tiny Size:** Add <span class='boost'>b</span> to Stealth checks, but reduce Encumbrance Threshold by 2
+
+**Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Medicine, Perception, Survival
+
+### Moles *(The Underground Masters)*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Tunneling Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to excavation and underground navigation
+- **Sensitive Touch:** Can navigate by touch alone, remove <span class='setback'>b</span> from checks in total darkness
+- **Underground Network:** Start with transportation contacts throughout the Great Underground
+
+**Starting Skills:** Choose 2 from: Athletics, Knowledge (Science), Mechanics, Navigation, Perception, Survival
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Governance & Politics
+
+The Great Burrow operates under a complex system that balances burrow autonomy with city-wide cooperation.
+
+## The Inter-Burrow Council
+
+### Structure and Powers
+- **Composition:** Two representatives from each burrow (10 total)
+- **Meeting Location:** Rotates between burrows quarterly
+- **Powers:** Infrastructure funding, titan response, inter-burrow disputes, trade regulation
+- **Limitations:** Cannot override burrow-specific laws or cultural practices
+
+### Current Representatives
+- **Mousehattan:** Councilmouse Goldwhisker (old money), Councilrat Steeltail (new money)
+- **The Branchx:** Councilsquirrel Oakheart (traditional), Councilchipmunk Swiftstripe (union)
+- **The Hives:** Councilrabbit Honeycomb (agricultural), Councilpig Whistlebelly (innovation)
+- **Lin's Brook:** Councilbeaver Strongdam (builders), Councilotter Shellcracker (dockworkers)
+- **Scurry Island:** Councilpossum Deadtail (old families), Ranger-Commander Scarback (military)
+
+## Individual Burrow Systems
+
+### Mousehattan - Corporate Oligarchy
+- **The Root Board:** Informal council of family heads and crime bosses
+- **Acorn Exchange Authority:** Financial market regulation
+- **District Wardens:** Appointed local management
+- **Law:** "What's good for business is good for the burrow"
+
+### The Branchx - Union Democracy
+- **Nutcracker Assembly:** Union and family representatives
+- **Height Council:** Traditional squirrel ceremonial roles
+- **Tail Vote:** Direct democracy by literally raising tails
+- **Law:** "Every creature earns their perch"
+
+### The Hives - Democratic Consensus
+- **Diversity Council:** Multi-community representation
+- **Species Circles:** Internal group governance
+- **The Forum:** Town-hall style meetings
+- **Law:** "Every creature finds their voice in the swarm"
+
+\columnbreak
+
+### Lin's Brook - Guild Confederation
+- **Dam Council:** Guild representatives
+- **Water Rights Court:** Ancient stream access management
+- **Tide Speakers:** Elected neighborhood positions
+- **Law:** "Strong dams, fair currents"
+
+### Scurry Island - Survival Hierarchy
+- **Trunk Council:** Whoever maintains order and respect
+- **Ranger Command:** Military authority during titan threats
+- **Sanctuary Keepers:** Neutral safe zone enforcement
+- **Law:** "Survive first, argue later"
+
+<div class='note'>
+
+#### <u>Political Movements</u>
+
+**The Traditionalists:** Preserve burrow autonomy and species-specific governance
+**The Unionists:** Worker rights and cross-species solidarity  
+**The Progressives:** Modernization and technological advancement
+**Rangers First:** Titan defense and military preparedness
+**The Naturalists:** Environmental protection and sustainable development
+
+</div>
+
+## Current Political Crises
+
+### The Infrastructure Question
+- Aging Great Underground needs massive investment
+- Competing proposals for funding and management
+- Political fight over construction contracts
+
+### The Titan Response Debate
+- Increasing giant activity near the city
+- Ranger expansion vs. civilian evacuation improvements
+- Religious movements claiming giants are angry about growth
+
+### Economic Inequality
+- Wealth gap between burrows growing
+- Gentrification displacing traditional communities
+- Debate over minimum wage and worker protections
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Organized Crime & The Underworld
+
+Crime in The Great Burrow operates as a parallel economy and shadow government, providing services the legal system cannot or will not offer.
+
+## The Rat Syndicates *(Mousehattan)*
+
+### The Longtail Family *(Traditional Power)*
+- **Territory:** Lower Mousehattan, waterfront smuggling
+- **Leadership:** Don Salvatore "Big Sal" Longtail
+- **Specialties:** Protection rackets, loan sharking, tunnel smuggling
+- **Code:** "The family provides" - honor-based obligations
+- **Allies:** Traditional mouse families, conservative business interests
+- **Enemies:** The Gray Coats, reform movements
+
+### The Whisker Brotherhood *(New Money)*
+- **Territory:** Financial district, new developments
+- **Leadership:** Capo Regina "Whiskers" McGillicuddy  
+- **Specialties:** Business fraud, gambling, real estate schemes
+- **Code:** "Make holes bigger" - expansion at any cost
+- **Allies:** Rat entrepreneurs, corrupt officials
+- **Enemies:** Longtail traditionalists, union organizers
+
+### The Gray Coats *(Rising Power)*
+- **Territory:** Times Squeak, entertainment districts
+- **Leadership:** Boss Tommy "Gray Tail" Rattington
+- **Specialties:** Entertainment rackets, drug trade, youth recruitment
+- **Code:** "New city, new rules" - rejecting old ways
+- **Allies:** Young creatures, progressive businesses
+- **Enemies:** Both established families, law enforcement
+
+## Regional Crime Operations
+
+### The Silverclaw Family *(Lin's Brook)*
+- **Territory:** Waterfront, ferry operations
+- **Leadership:** Mother Marta Silverclaw (ancient otter)
+- **Specialties:** Smuggling, dock worker protection, ferry "insurance"
+- **Operations:** Less subtle than Mousehattan families, more blue-collar
+- **Code:** "Wet paws, clean money" - honest work when possible
+
+### The Shadow Runners *(Scurry Island)*
+- **Territory:** Black markets, Ranger recruitment
+- **Leadership:** The Council of Masks (anonymous leaders)
+- **Specialties:** Contraband trading, document forging, exile services
+- **Operations:** Most sophisticated fence operations in the city
+- **Code:** "What's lost stays lost" - perfect operational security
+
+\columnbreak
+
+<div class='note'>
+
+#### <u>Crime Family Services</u>
+
+**Protection Rackets:** Often provide actual security from worse threats
+**Loan Sharking:** Financial services for creatures banks won't serve
+**Dispute Resolution:** Faster than legal courts, enforceable results
+**Black Market Goods:** Items not available through legal channels
+**Information Brokerage:** Intelligence networks spanning the city
+**Smuggling Operations:** Moving goods past regulations and taxes
+
+</div>
+
+## Criminal Hierarchies and Codes
+
+### Family Structure
+- **Don/Boss:** Family head, makes major decisions
+- **Underboss:** Second in command, daily operations  
+- **Consigliere:** Advisor, dispute mediation
+- **Capo:** Lieutenant, territory management
+- **Soldier:** Made member, enforcement
+- **Associate:** Works with family, not full member
+
+### The Criminal Economy
+- **Territory Rights:** Families respect each other's areas
+- **The Accommodation:** Police understand some crime is inevitable
+- **Information Trade:** Knowledge as valuable as goods
+- **Recruitment Patterns:** Desperate creatures, family connections
+- **Tribute Systems:** Everyone pays someone for protection
+
+### Notable Criminal Enterprises
+- **The Floating Casino:** Gambling boat moving between jurisdictions
+- **The Tunnel Express:** Smuggling network using abandoned subway routes
+- **The Night Markets:** Black market goods sold after legitimate businesses close
+- **The Document Mills:** False identification and citizenship papers
+- **The Giant Insurance Scam:** Fake titan damage claims
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Technology & Innovation
+
+## Insect-Based Technology
+
+The Great Burrow's technology relies on cooperation with non-sapient insects rather than mechanical devices.
+
+### Agricultural Systems
+- **Beetle Farming:** Managed beetle colonies for soil aeration and waste processing
+- **Bee Partnerships:** Honey production through carefully maintained hive relationships  
+- **Ant Labor:** Organized ant colonies for construction and transportation
+- **Silkworm Operations:** Spider silk production for rope and fabric manufacturing
+
+### Communication Technology
+- **Messenger Services:** Trained beetles for package delivery
+- **Signal Networks:** Cricket orchestras for long-distance communication
+- **Emergency Systems:** Firefly networks for warning signals
+- **Information Processing:** Ant-based counting and calculation systems
+
+### Transportation Innovation
+- **Underground Propulsion:** Mole-powered train systems
+- **Cargo Networks:** Beetle-drawn cart systems
+- **Emergency Transport:** Bat courier services for urgent needs
+- **Water Transport:** Beaver-engineered boats and ferry systems
+
+### Construction Technology
+- **Web Architecture:** Spider silk structural engineering
+- **Living Buildings:** Growing structures using trained plant growth
+- **Water Management:** Beaver dam engineering principles
+- **Excavation Systems:** Coordinated burrowing using multiple species
+
+\columnbreak
+
+<div class='note'>
+
+#### <u>Innovation Centers</u>
+
+**The Hives Innovation District:** Cross-cultural fusion of techniques
+**Mousehattan Engineering Firms:** Precision manufacturing and finance tech
+**Lin's Brook Workshops:** Practical construction and water management
+**Branchx Construction Cooperatives:** Democratic technology development
+**Scurry Island Survival Tech:** Improvised solutions for extreme conditions
+
+</div>
+
+## Economic Innovation
+
+### Financial Systems
+- **Acorn Standardization:** Quality grading and exchange rate management
+- **Credit Systems:** Reputation-based lending across burrows
+- **Investment Cooperatives:** Community-owned business development
+- **Insurance Markets:** Risk pooling for titan encounters and disasters
+- **Trade Documentation:** Standardized contracts and shipping manifests
+
+### Manufacturing Advances
+- **Assembly Line Production:** Multi-species collaborative manufacturing
+- **Quality Control:** Species-specific expertise ensuring standards
+- **Specialization Networks:** Burrow-based production advantages
+- **Distribution Systems:** Underground and surface logistics coordination
+
+## Social Innovation
+
+### Community Organization
+- **Democratic Innovations:** New forms of consensus-building across species
+- **Conflict Resolution:** Inter-species mediation and justice systems
+- **Education Systems:** Multi-cultural learning environments
+- **Integration Programs:** Supporting immigrant and refugee communities
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Religion & Spirituality
+
+## Major Spiritual Traditions
+
+### The Old Growth Faith
+- **Core Belief:** The forest as a living entity with consciousness and will
+- **Sacred Sites:** Ancient trees, especially the Trading Oak and the Old Giant
+- **Practices:** Tree meditation, root reading, bark offerings
+- **Clergy:** Grove Keepers (usually badgers and older squirrels)
+- **Holy Days:** First Leaf (spring awakening), Root Deep (autumn grounding)
+
+### The Great Harmony
+- **Core Belief:** All creatures interconnected in cosmic balance
+- **Sacred Sites:** The Great Interchange, multi-species gathering places
+- **Practices:** Multi-species meditation circles, cooperative work as worship
+- **Clergy:** Harmony Speakers (diverse species, elected positions)
+- **Holy Days:** Unity Dawn (summer solstice), Balance Night (autumn equinox)
+
+### The Titan Mysteries
+- **Core Belief:** Giants carry divine messages and spiritual power
+- **Sacred Sites:** Titan footprints, offering stations, survivor monuments
+- **Practices:** Dream interpretation, offering ceremonies, survival rituals
+- **Clergy:** Oracle-Survivors (creatures who've encountered titans directly)
+- **Holy Days:** Giant's Rest (whenever titans are spotted), Memorial of the Taken
+
+### The Deep Current *(Lin's Brook Tradition)*
+- **Core Belief:** Water as spiritual life force connecting all things
+- **Sacred Sites:** The Great Dam, spring sources, tidal pools
+- **Practices:** Tide meditation, water blessing ceremonies, flow readings
+- **Clergy:** Current Readers (beavers and otters with spiritual calling)
+- **Holy Days:** Spring Flow (flood season), Deep Water (winter ice)
+
+\columnbreak
+
+### The Great Burrow *(Urban Spirituality)*
+- **Core Belief:** The city itself as sacred achievement of cooperation
+- **Sacred Sites:** Grand Central Burrow, construction sites, union halls
+- **Practices:** Building blessings, innovation worship, community service
+- **Clergy:** Work Blessed (craftscreatures recognized for spiritual dedication)
+- **Holy Days:** Foundation Day (city anniversary), Builder's Rest (construction season end)
+
+### The Shadow Path *(Scurry Island)*
+- **Core Belief:** Accepting harsh realities while maintaining dignity and hope
+- **Sacred Sites:** The Ranger Memorial, Root Town sanctuaries, exile shrines
+- **Practices:** Survival meditation, ancestor honoring, truth telling
+- **Clergy:** Shadow Speakers (usually opossums and reformed criminals)
+- **Holy Days:** Night of Truths (winter solstice), Dawn of Chances (spring equinox)
+
+<div class='note'>
+
+#### <u>Religious Tensions & Cooperation</u>
+
+**Syncretism:** Many creatures blend traditions, especially immigrants
+**Seasonal Cooperation:** Joint celebrations during city-wide festivals  
+**Political Influence:** Religious leaders often mediating disputes
+**Titan Response:** Competing approaches to giant encounters
+**Social Justice:** Religious movements supporting workers' rights and equality
+
+</div>
+
+## Spiritual Practices in Daily Life
+
+### Community Rituals
+- **Morning Blessings:** Work crews starting with brief spiritual moments
+- **Meal Sharing:** Religious significance of communal dining
+- **Crisis Response:** Spiritual leaders coordinating disaster relief
+- **Life Transitions:** Birth, naming, coming of age, partnership, death ceremonies
+
+### Personal Spirituality
+- **Meditation Practices:** Species-specific spiritual disciplines
+- **Seasonal Observances:** Individual marking of natural cycles
+- **Ancestor Veneration:** Honoring family and species heritage
+- **Vision Quests:** Young creatures seeking spiritual direction
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# External Relations & Trade
+
+## Regional Trading Partners
+
+### The Pine Barrens Confederation *(Western Frontier)*
+
+<div class='note'>
+
+#### <u>Trade Profile</u>
+
+**Distance:** 3-day journey by caravan, weather permitting
+**Population:** ~15,000 creatures across scattered settlements
+**Government:** Loose confederation of family territories
+**Primary Species:** Pine martens, porcupines, northern squirrel subspecies
+
+</div>
+
+**Exports to Great Burrow:**
+- Pine nuts and conifer seeds (winter staples)
+- Medicinal bark and forest remedies
+- Resin for waterproofing and preservation
+- Winter furs and cold-weather gear
+- Survival equipment and wilderness guides
+
+**Imports from Great Burrow:**
+- Honey and agricultural products
+- Manufactured goods and metal tools
+- Acorn products and tree nuts
+- Construction expertise and engineering
+
+**Relationship Status:** Cautious but profitable. Pine Barrens creatures are traditional and suspicious of urban ways but need sophisticated products. Trade requires Ranger escorts due to bandit activity on routes.
+
+### Meadowbrook Settlements *(Southern Grasslands)*
+
+**Exports to Great Burrow:**
+- Grains and grass seeds
+- Grassland herbs and medicinal plants
+- Woven grass goods and textiles
+- Dried flowers and prairie specialties
+
+**Imports from Great Burrow:**
+- Tree nuts and forest products
+- Wooden tools and construction materials
+- Manufactured goods and honey
+- Engineering expertise for irrigation
+
+**Relationship Status:** Friendly and regular. Strong cultural ties with The Hives through immigration and shared democratic traditions. Seasonal trading expeditions bring cultural exchange.
+
+\columnbreak
+
+### Coastal Tidepools *(Eastern Seaboard)*
+
+**Exports to Great Burrow:**
+- Salt for preservation and trade
+- Seaweed and ocean vegetables
+- Shells for decoration and tools
+- Dried fish and seafood delicacies
+- Pearls and rare ocean finds
+
+**Imports from Great Burrow:**
+- Fresh water (precious on coast)
+- Forest foods and tree products
+- Manufactured goods and honey
+- Underground engineering expertise
+
+**Relationship Status:** Irregular but valuable. Small, scattered communities make trade logistics difficult. Weather and tides affect reliability. High value, low volume transactions.
+
+## The Bandit Problem
+
+### Major Outlaw Groups
+
+**The Broken Claw Gang**
+- **Leader:** "Iron Back" Grimjaw (disgraced badger)
+- **Territory:** Mountain passes between Pine Barrens and Great Burrow
+- **Specialty:** Caravan ambushes, protection rackets
+- **Size:** ~50 members, seasonal recruitment
+
+**Whisker's Crew**
+- **Leader:** "Fast Tooth" Ratsby (rat entrepreneur gone wrong)
+- **Territory:** Southern trade routes to Meadowbrook
+- **Specialty:** Sophisticated robbery, false guide services
+- **Size:** ~30 members, highly mobile
+
+**The Feral Pack**
+- **Leader:** Unknown (rumors of a "gone wild" fox)
+- **Territory:** Northern wastes, titan territory
+- **Specialty:** Extreme violence, trophy taking
+- **Size:** ~20 members, most dangerous
+
+### Bandit Economics
+- Force expensive Ranger escorts for valuable shipments
+- Create longer "safe routes" that increase transport costs
+- Drive up import prices through supply disruption
+- Limit small trader operations to established routes only
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Master Timeline
+
+## The Founding Era *(150-120 Years Ago)*
+
+### The Great Convergence *(150 Years Ago)*
+A series of disasters forced scattered settlements to unite: the Terrible Winter that lasted 8 months, multiple bear encounters destroying isolated communities, harvest failures, and the Great Storm that devastated traditional territories. Survivors gathered at the current site of The Great Burrow.
+
+### The Acorn Compact *(148 Years Ago)*
+Legendary agreement establishing principles of mutual aid, shared defense, and peaceful dispute resolution. Created the foundation for inter-species cooperation and the basic legal framework still used today.
+
+### First Infrastructure *(145-130 Years Ago)*
+- **The Great Underground:** Initial tunnel system connecting major settlements
+- **Bridge Networks:** Canopy connections enabling The Branchx development
+- **Water Management:** Early dam systems creating Lin's Brook as viable community
+- **The Trading Oak:** Establishment of central commerce and government
+
+## Growth and Crisis *(120-60 Years Ago)*
+
+### The Species Wars *(82-76 Years Ago)*
+Economic inequality and cultural conflicts erupted into the most serious internal strife in city history. Traditional mouse families clashed with emerging rat entrepreneurs, while working-class species fought against both. Resolution came through the Great Compromise establishing current burrow autonomy system.
+
+### The Great Compromise *(76 Years Ago)*
+- Established the Five-Burrow system with significant autonomy
+- Created the Inter-Burrow Council for city-wide coordination
+- Recognized species-specific governance while maintaining city unity
+- Set precedent for democratic participation across species lines
+
+### The Great Flood *(59 Years Ago)*
+Catastrophic flooding caused by unusual spring conditions and upstream giant activity. Demonstrated both city vulnerability and resilience, leading to improved emergency planning, infrastructure hardening, and social welfare programs.
+
+\columnbreak
+
+## The Modern Era *(60 Years Ago-Present)*
+
+### Innovation Period *(45-30 Years Ago)*
+- **Insect Agriculture Revolution:** Guinea pig innovations transforming food production
+- **Transportation Improvements:** Expansion of Great Underground system
+- **Cross-Species Integration:** Increasing cooperation and intermarriage
+- **Economic Diversification:** Growth beyond traditional species-based occupations
+
+### Prosperity Decades *(30-10 Years Ago)*
+- **Regional Dominance:** The Great Burrow becomes major cultural and economic center
+- **Population Growth:** Immigration from across the forest region
+- **Infrastructure Expansion:** Modern transportation and communication systems
+- **Cultural Renaissance:** Arts, entertainment, and education flourishing
+
+### Current Challenges *(10 Years Ago-Present)*
+- **Gentrification Crisis:** Wealthy interests displacing traditional communities
+- **Environmental Pressures:** Increasing titan activity and climate changes
+- **Economic Inequality:** Growing wealth gaps testing cooperative principles
+- **Political Tensions:** Debates over centralization vs. burrow autonomy
+
+### Recent Major Events
+
+**The Great Trampling *(20 Years Ago)*:** Most destructive single titan encounter in city history. Bear rampage through Mousehattan resulted in major infrastructure damage and evacuation protocol reforms.
+
+**The Ferry Crisis *(5 Years Ago)*:** Complete breakdown of Scurry Island ferry service led to isolation crisis and political tensions over infrastructure investment priorities.
+
+**The Honey Wars *(3 Years Ago)*:** Price manipulation scandal in agricultural markets exposed corruption in Hives governance and led to democratic reforms.
+
+**The Underground Strike *(Last Year)*:** Mole transportation workers organized first city-wide work stoppage, paralyzing Great Underground and forcing negotiations over working conditions.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Index
+
+<div class="wide">
+
+<center>
+
+## Comprehensive Index
+
+</center>
+
+</div>
+
+<div style="margin-top:25px;"></div>
+
+<span class="index-letter">A</span>
+<ul class="index">
+<li><span>Acorn Economy</span><span>2512</span></li>
+<li><span>Adventure Themes</span><span>2250</span></li>
+<li><span>Arts & Entertainment</span><span>1044</span></li>
+</ul>
+
+<span class="index-letter">B</span>
+<ul class="index">
+<li><span>Badgers</span><span>Additional Species</span></li>
+<li><span>Beavers</span><span>820</span></li>
+<li><span>The Branchx</span><span>1538, 677</span></li>
+</ul>
+
+<span class="index-letter">C</span>
+<ul class="index">
+<li><span>Careers</span><span>908</span></li>
+<li><span>Chipmunks</span><span>793</span></li>
+<li><span>Communication Systems</span><span>1113</span></li>
+<li><span>Crime & Families</span><span>Organized Crime</span></li>
+</ul>
+
+<span class="index-letter">E</span>
+<ul class="index">
+<li><span>Environmental Rules</span><span>1374</span></li>
+<li><span>Equipment & Gear</span><span>1165</span></li>
+<li><span>External Relations</span><span>Trade Relations</span></li>
+</ul>
+
+<span class="index-letter">F</span>
+<ul class="index">
+<li><span>Five Burrows Overview</span><span>672</span></li>
+<li><span>Food & Cuisine</span><span>2005</span></li>
+</ul>
+
+<span class="index-letter">G</span>
+<ul class="index">
+<li><span>GM Guidance</span><span>2329</span></li>
+<li><span>Governance & Politics</span><span>Politics</span></li>
+<li><span>Great Underground</span><span>2084</span></li>
+<li><span>Guinea Pigs</span><span>866</span></li>
+</ul>
+
+\columnbreak
+
+<span class="index-letter">H</span>
+<ul class="index">
+<li><span>The Hives</span><span>1679, 680</span></li>
+</ul>
+
+<span class="index-letter">L</span>
+<ul class="index">
+<li><span>Lin's Brook</span><span>1797, 683</span></li>
+</ul>
+
+<span class="index-letter">M</span>
+<ul class="index">
+<li><span>Master Timeline</span><span>Timeline</span></li>
+<li><span>Mice</span><span>725</span></li>
+<li><span>Moles</span><span>Additional Species</span></li>
+<li><span>Mousehattan</span><span>2171, 674</span></li>
+</ul>
+
+<span class="index-letter">O</span>
+<ul class="index">
+<li><span>Opossums</span><span>Additional Species</span></li>
+<li><span>Organized Crime</span><span>Crime & Underworld</span></li>
+<li><span>Otters</span><span>Additional Species</span></li>
+</ul>
+
+<span class="index-letter">R</span>
+<ul class="index">
+<li><span>Rabbits</span><span>842</span></li>
+<li><span>Raccoons</span><span>Additional Species</span></li>
+<li><span>Random Encounters</span><span>2533</span></li>
+<li><span>Rats</span><span>747</span></li>
+<li><span>Religion & Spirituality</span><span>Religion</span></li>
+<li><span>Reputation System</span><span>1460</span></li>
+</ul>
+
+<span class="index-letter">S</span>
+<ul class="index">
+<li><span>Scurry Island</span><span>686</span></li>
+<li><span>Shrews</span><span>Additional Species</span></li>
+<li><span>Skills Reference</span><span>984</span></li>
+<li><span>Social Mechanics</span><span>1458</span></li>
+<li><span>Species as Archetypes</span><span>719</span></li>
+<li><span>Squirrels</span><span>771</span></li>
+</ul>
+
+<span class="index-letter">T</span>
+<ul class="index">
+<li><span>Talents</span><span>1306</span></li>
+<li><span>Technology & Innovation</span><span>Technology</span></li>
+<li><span>Titan Encounters</span><span>1376</span></li>
+</ul>
+
+<span class="index-letter">W</span>
+<ul class="index">
+<li><span>Weasels</span><span>Additional Species</span></li>
+</ul>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
 \pagebreakNum
 <style>
-    #p16{ display: none;}
+    #p17{ display: none;}
 </style>
