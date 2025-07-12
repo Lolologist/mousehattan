@@ -5,13 +5,14 @@
 
 The Great Burrow spans a few square miles of ancient mixed hardwood forest
 Each burrow represents a distinct forest microhabitat based on real-life NYC influences.
-Creatures are "critter-sized" - think mice, squirrels, beavers, - not tiny bug-scale, and not large-scale (e.g., deer/bears.) Sapient creatures in this setting are mammals. Not birds, and not amphibians/reptiles, and not insects; just mammals.
+Creatures are "critter-sized" - think mice, squirrels, beavers, - not tiny bug-scale, and not large-scale (e.g., deer/bears.) Sapient creatures in this setting are mammals, plus corvids (crows, ravens, etc.). Corvids are sapient but operate as NPCs only - they are not playable species. No other birds, amphibians, reptiles, or insects are sapient; just mammals and corvids.
+- non-sapient creatures are 'fair game' at the dinner table; hunting birds may be harder given the nearer parity in size compared to humans, and a frog might be able to fight back a fair deal before you're eating from legs, but creatures have to eat!
 The forest itself is the world, not a reclaimed human cityscape - humans are not present in this world at all.
 East River and West River separate Mousehattan from the other Burrows.
 
 ### Tone & Atmosphere
 
-Use NYC boroughs as organizational/cultural reference, not literal building material - refer to them ALWAYS a a burrow, not a borough, though the nomenclature is mostly for setting consistency; they're definitely boroughs in all but name
+Use NYC boroughs as organizational/cultural reference, not literal building material - refer to them ALWAYS as a burrow, not a borough, though the nomenclature is mostly for setting consistency; they're definitely boroughs in all but name
 Include real-world urban tensions (gentrification, economic disparity, cultural conflicts) as background texture, not central focus
 Maintain a balance between cozy woodland charm and gritty urban realism
 The city exists in constant tension with natural predators and seasonal pressures - bears are as fearsome as other settings' giants and trolls, deer are humongous usually-benign creatures, almost seen as spirits of the woods that can bring weal and woe, and so on.
@@ -23,7 +24,7 @@ The Branchx (pronounced Branks) (Bronx) - emphasizes tree/canopy living
 Mousehattan (Manhattan) - the vertical, ambitious heart of the city
 The Hives (Queens) - multicultural, living amongst myriad insect colonies
 Lin's Brook (Brooklyn) - waterfront working-class community
-Scurry Island (Staten Island) - isolated, misfit borough/burrow
+Scurry Island (Staten Island) - isolated, misfit burrow
 
 ### Transportation System
 
@@ -43,7 +44,7 @@ The Pine Barrens - western frontier coniferous forest
 #### Economic Systems
 
 Acorn-based economy with commodity trading (nuts, berries, seeds, mushrooms)
-Each burrow/borough has distinct economic specializations:
+Each burrow has distinct economic specializations:
 
 The Branchx: Construction, courier services, acorn harvesting
 Mousehattan: Finance, trading, "human artifact" commerce
@@ -110,7 +111,7 @@ Scurry Island: Black market operations, isolation/ferry problems, "authentic for
 
 Predator incursions disrupting normal life
 Transportation system failures
-Inter-borough political disputes
+Inter-burrow political disputes
 Seasonal crisis management
 Resource shortages or distribution problems
 

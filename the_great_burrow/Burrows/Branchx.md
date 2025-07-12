@@ -1,7 +1,7 @@
-# **The Branchx - The Canopy Commons**
+# **The Branchx: The Canopy Commons**
 
 ## **Overview**
-High above the forest floor, where ancient oaks and maples create a natural metropolis of branches and hollows, The Branchx (prnounced "branks") sprawls through the canopy like a three-dimensional maze of working-class pride and territorial ambition. This is where The Great Burrow reaches for the sky, where rope bridges span between tree-nations, and where the divide between "high branch" and "low branch" shapes everything from politics to romance.
+High above the forest floor, where ancient oaks and maples create a natural metropolis of branches and hollows, The Branchx (pronounced "branks," though some non-natives call it "Branches") sprawls through the canopy like a three-dimensional maze of working-class pride and territorial ambition. This is where The Great Burrow reaches for the sky, where rope bridges span between tree-nations, and where the divide between "high branch" and "low branch" shapes everything from politics to romance.
 
 ---
 
@@ -37,47 +37,47 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 
 ### **Districts**
 
-#### **Old Grove Heights** (Traditional Power)
+#### **Old Grove Heights: Traditional Power**
 - Highest branches of the Ancient Grove
 - Multi-generational squirrel families
 - Best acorn access and winter sun
 - Exclusive hollow clubs
 - "Where decisions fall from"
 
-#### **Working Branch** (Industrial Center)
+#### **Working Branch: Industrial Center**
 - Mid-level branches, dense with activity
 - Construction staging areas
 - Rope and bridge workshops
 - Union halls and organizing spaces
 - Shift change creates "rush hour" chaos
 
-#### **The Tangles** (Dense Neighborhoods)
+#### **The Tangles: Dense Neighborhoods**
 - Where secondary branches create maze-like communities
 - Chipmunk courier stations
 - Cheap nest rentals
 - Vibrant street life
 - "Every branch has a story"
 
-#### **Ground Scrape** (Lower Levels)
+#### **Ground Scrape: Lower Levels**
 - Just above predator reach
 - Recent immigrants and struggling families
 - Night shift workers
 - "Gateway to the canopy"
 - Constant vigilance required
 
-#### **New Growth** (Gentrifying Edge)
+#### **New Growth: Gentrifying Edge**
 - Young trees being developed
 - Mousehattan money building "tree houses"
 - Artisanal acorn preparations
 - Conflicts over development rights
 - "Not real Branchx" say locals
 
-#### **The Crow Zones** (Rough Territory)
-- Branches too close to crow nests
-- Gang territories and black markets
-- "Protection" from aerial threats
-- Where troublemakers get pushed
-- Complex relationship with corvids
+#### **The Corvid Zones: Rough Territory**
+- Branches too close to crow and raven nests
+- Mammalian groups serving corvid interests
+- "Protection" from aerial threats (for a price)
+- Where desperate creatures make dangerous bargains
+- Complex asymmetrical relationship with corvid intelligence
 
 ---
 
@@ -107,12 +107,12 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 
 ## **Demographics & Culture**
 
-### **Population Breakdown**
-- **60% Squirrels**: Traditional majority, various subspecies
-- **25% Chipmunks**: Essential courier class
-- **10% Flying Squirrels**: Elite transport and message services
-- **3% Mice**: Usually Mousehattan gentrifiers or climbers
-- **2% Others**: Including reformed rats, adventurous voles
+### **Population Breakdown** *(Total: ~18,000)*
+- **60% Squirrels** (10,800): Traditional majority, various subspecies
+- **25% Chipmunks** (4,500): Essential courier class
+- **10% Flying Squirrels** (1,800): Elite transport and message services
+- **3% Mice** (540): Usually Mousehattan gentrifiers or climbers
+- **2% Others** (360): Including reformed rats, adventurous voles
 
 ### **Social Hierarchy**
 
@@ -179,12 +179,12 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 - "Neither hawk nor storm" motto
 - Information brokering sideline
 
-### **Crow-Affiliated Groups**
-- **The Black Feathers**: Young squirrels working with crows
-- **Shiny Things**: Stealing for corvid bosses
-- **The Murder Boys**: Most violent gang
-- Complex protection/exploitation relationships
-- "Better the crow you know..."
+### **Corvid-Serving Groups**
+- **The Black Feathers**: Young squirrels serving corvid interests in exchange for aerial protection
+- **Shiny Things**: Creatures who steal specific items that corvids mysteriously desire
+- **The Murder's Paws**: Violent enforcers carrying out corvid agenda they don't fully understand
+- Asymmetrical protection/exploitation relationships where mammals serve unknowable corvid purposes
+- "Better the crow's favor than the hawk's hunger..."
 
 ### **Traditional Families**
 - **The Oakheart Clan**: Oldest squirrel lineage

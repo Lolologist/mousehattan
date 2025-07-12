@@ -15,15 +15,17 @@ The Great Burrow's transportation network is a marvel of inter-species engineeri
     Grand Central Burrow
     /    |    |    \
    /     |    |     \
-Deep   Grove  Honey  Creek
-Root   Junc.  Comb   Cross
+Deep   Grove  Great  Creek
+Root   Junc.  Inter. Cross
  |      |      |      |
 [Branchx] [Branchx] [Hives] [Lin's Brook]
-              |
-         [Ferry Terminal]
-              |
-        [Scurry Island]
-        (Often Flooded)
+                            |
+                       [Ferry Terminal]
+                            |
+                      (Water Connection)
+                            |
+                    [Scurry Island]
+                    (Ferry Service Only)
 ```
 
 ### **Main Lines**
@@ -56,39 +58,33 @@ Root   Junc.  Comb   Cross
 - **Challenges:** Longest route, crosses multiple geological zones
 - **Special Features:** Mid-route maintenance stations
 
-#### **Orange Line: Scurry Island Connection**
-- **Route:** Creek Crossing → Ferry Terminal → Island Central
-- **Travel Time:** Variable (depends on ferry service and flooding)
-- **Frequency:** Irregular, weather dependent
-- **Challenges:** Frequent flooding, ferry breakdowns, isolation
-- **Special Features:** Amphibious design, emergency protocols
 
 ### **Station Infrastructure**
 
 #### **Grand Central Burrow** *(Mousehattan Hub)*
 - **Platforms:** 8 platforms serving all major lines
-- **Daily Traffic:** 50,000+ passengers
+- **Daily Traffic:** 8,500+ passengers
 - **Features:** Shopping, dining, information services
 - **Architecture:** Carved into the Trading Oak's root system
 - **Security:** Heavy guard presence, crime family influence
 
 #### **Deep Root Station** *(The Branchx)*
 - **Platforms:** 4 platforms, primarily Red and Yellow lines
-- **Daily Traffic:** 25,000+ passengers
+- **Daily Traffic:** 3,800+ passengers
 - **Features:** Union information center, worker services
 - **Architecture:** Natural cave system expanded by mole engineers
 - **Challenges:** Root growth requiring constant maintenance
 
 #### **The Great Interchange** *(The Hives)*
 - **Platforms:** 6 platforms, major multi-line hub
-- **Daily Traffic:** 35,000+ passengers
+- **Daily Traffic:** 6,200+ passengers
 - **Features:** Multi-cultural markets, caravan coordination center, currency exchange
 - **Architecture:** Massive underground complex with multiple levels
 - **Special:** Multi-lingual signage, cargo handling facilities, external trade connections
 
 #### **Creek Crossing** *(Lin's Brook)*
 - **Platforms:** 5 platforms, major interchange
-- **Daily Traffic:** 30,000+ passengers
+- **Daily Traffic:** 4,500+ passengers
 - **Features:** Ferry connections, waterfront services
 - **Architecture:** Reinforced against flooding
 - **Challenges:** Tidal variations, water damage

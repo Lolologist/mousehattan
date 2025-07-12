@@ -1,76 +1,77 @@
-# **Scurry Island - The Forgotten Burrow**
+# **Scurry Island: The Forgotten Burrow**
 
 ## **Overview**
-Built on and around the massive fallen oak known as "The Old Giant," Scurry Island sits isolated in the central clearing where the forest opens to meadow. Connected to the rest of The Great Burrow by an unreliable ferry system and dangerous surface routes, this is where creatures go to disappear, reinvent themselves, or make their fortune in the shadow economy. It's also home to the Rangers - those brave or foolish enough to venture beyond the city into the Deep Woods to face the titans that threaten civilization.
+Built on a true island in the western waters beyond the mainland forest, Scurry Island sits isolated across dangerous straits. The island's rocky shores and dense woodland interior provide perfect cover for those seeking to disappear from mainland law. Connected to the rest of The Great Burrow only by an unreliable ferry system, this is where creatures go to disappear, reinvent themselves, or make their fortune in the shadow economy. It's also home to the Rangers - those brave or foolish enough to venture beyond the city into the Deep Woods to face the titans that threaten civilization.
 
 ---
 
 ## **Geography & Infrastructure**
 
-### **The Fallen Giant**
-- **The Trunk**: Main thoroughfare, hollowed by generations into a covered market street
-- **Root Town**: Maze-like neighborhood built in the exposed root system
-- **The Crown**: Dried branches form vertical neighborhoods, most dangerous
-- **Bark Flats**: Peeled sections where temporary structures cluster
-- **The Heartwood**: Deep interior chambers, some say it still lives
+### **Island Geography**
+- **The Harbor**: Rocky natural harbor where ferries dock and black market goods change hands
+- **Old Town**: Original settlement built around ancient oak groves on higher ground
+- **The Lowlands**: Marshy areas prone to flooding, home to the desperate and forgotten
+- **The Heights**: Rocky uplands where the Ranger Station commands views of the mainland
+- **Hidden Coves**: Secluded inlets perfect for smuggling operations
 
 ### **Natural Boundaries**
-- **Meadow Approach**: Open ground makes surface travel deadly during day
-- **The Crossing Waters**: Small stream separating island from mainland
-- **Scrubland Border**: Where forest gives way to grass
-- **The Western View**: Clear sightline to the Deep Woods
-- **Underground Gaps**: The Great Underground doesn't properly connect
+- **Open Waters**: The bay provides natural protection but limits escape routes
+- **Rocky Shores**: Treacherous coastline discourages casual visitors
+- **Tidal Flats**: Areas that flood at high tide, creating temporary isolation
+- **The Western Frontier**: Clear sightline from the island to the Deep Woods beyond
+- **Ferry Routes**: Three water channels, but only one regularly navigable
 
 ### **Infrastructure Challenges**
 - **Ferry Dependence**: Three boats, two usually broken
-- **Surface Paths**: Marked by Ranger posts but still dangerous
-- **Makeshift Bridges**: Privately built, privately maintained
-- **Power Issues**: No major root systems for stability
-- **Water Scarcity**: Stream water must be hauled up
+- **Island Paths**: Internal routes that become treacherous during storms
+- **Storm Exposure**: No mainland shelter from harsh weather
+- **Resource Scarcity**: Everything must be imported or scavenged locally
+- **Fresh Water**: Rainwater collection and small springs supplement ferry deliveries
 
 ### **Districts**
 
-#### **Ferry Landing** (Gateway)
+#### **Ferry Landing: Gateway**
 - Where newcomers arrive and oldtimers leave
 - Black market goods change hands
 - Ranger recruitment office
 - "Last Stop Tavern"
 - Immigration paperwork (rarely checked)
 
-#### **Root Town** (Old Scurry)
+#### **Old Town: Historic Center**
 - Original opossum and raccoon families
-- Defensive maze layout
-- Night markets in the tangles
+- Defensive warren layout in ancient oak groves
+- Night markets among the old trees
 - Traditional "dead playing" theaters
 - Sanctuary rules enforced
 
-#### **Trunk Hollow** (Commercial Core)
-- Main market running through the fallen oak
+#### **Harbor Market: Commercial Core**
+- Main bazaar near the ferry docks
 - Everything for sale, few questions asked
 - Ranger supply shops
 - Fence operations
 - 24-hour activity
 
-#### **The Crown Heights** (Vertical Slum)
-- Cheapest housing in dead branches
-- Constantly shifting as wood breaks
-- Gang territories divided by height
+#### **The Lowland Shanties: Poor Quarter**
+- Cheapest housing in flood-prone areas
+- Constantly shifting as structures wash away
+- Gang territories divided by high/low ground
 - Emergency shelter for the desperate
-- "One storm from collapse"
+- "One storm from homeless"
 
-#### **Ranger Station** (Western Edge)
-- Fortified compound facing the Deep Woods
-- Training grounds and armory
+#### **Ranger Station: The Heights**
+- Fortified compound on the island's highest point
+- Training grounds and armory overlooking the mainland
 - Trophy hall of titan artifacts
 - Medical facility for the wounded
 - The Wall of the Fallen
+- Signal towers for communicating with mainland
 
-#### **The Underground** (Hidden Network)
-- Tunnels dug into earth beneath the trunk
+#### **The Warrens: Hidden Network**
+- Tunnels dug into the island's rocky interior
 - Smuggling routes and hiding places
 - Fighting pits and gambling dens
-- Emergency shelters for titan attacks
-- "What happens underground..."
+- Emergency shelters for storms and raids
+- "What happens in the deep..."
 
 ---
 
@@ -115,13 +116,13 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 
 ## **Demographics & Culture**
 
-### **Population Breakdown**
-- **30% Opossums**: Masters of survival and adaptation
-- **25% Raccoons**: Running most "businesses"
-- **15% Rangers**: Mixed species, temporary residents
-- **10% Fugitives**: From justice or debts elsewhere
-- **10% Ferrets/Weasels**: Information and contraband
-- **10% Others**: The desperate, dreamers, and lost
+### **Population Breakdown** *(Total: ~10,000)*
+- **30% Opossums** (3,000): Masters of survival and adaptation
+- **25% Raccoons** (2,500): Running most "businesses"
+- **15% Rangers** (1,500): Mixed species, temporary residents
+- **10% Fugitives** (1,000): From justice or debts elsewhere
+- **10% Ferrets/Weasels** (1,000): Information and contraband
+- **10% Others** (1,000): The desperate, dreamers, and lost
 
 ### **Social Structure**
 
@@ -417,4 +418,4 @@ Built on and around the massive fallen oak known as "The Old Giant," Scurry Isla
 - New predator species arriving
 - Western frontier changing
 
-This is Scurry Island: where the forgotten forge their own future, where Rangers stand between civilization and chaos, and where every creature knows that survival isn't about playing dead - it's about being ready for whatever comes from the west. Where the fallen trunk shelters the fallen creatures, where black markets fund white knights, and where every dawn might bring titans or opportunity. The burrow that shouldn't exist, filled with creatures who refuse to give up, in the shadow of giants and the shelter of the dead.
+Scurry Island remains The Great Burrow's most isolated and dangerous community, where survival skills matter more than social status, where the forgotten can reinvent themselves, and where Rangers continue their eternal vigil against the titans that threaten civilization.

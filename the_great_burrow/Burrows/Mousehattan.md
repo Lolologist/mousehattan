@@ -1,4 +1,4 @@
-# **Mousehattan - The Vertical Metropolis** (Revised)
+# **Mousehattan: The Vertical Metropolis** (Revised)
 
 ## **Overview**
 The beating heart of The Great Burrow, Mousehattan rises from a natural rocky outcropping where ancient oak root systems have created a vertical maze of tunnels, chambers, and carved spaces. This is where fortunes are made and lost, where ambition drives creatures to work themselves to exhaustion, and where the old ways clash with new money in a never-ending dance of power and progress.
@@ -28,30 +28,30 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 
 ### **Districts**
 
-#### **Wall Street** (Financial District)
+#### **Wall Street: Financial District**
 - Literally carved into the main rock wall beneath the Trading Oak
 - Home to the Acorn Exchange and major trading houses
 - Ancient counting rooms with notched-stick tallying systems
 - The Root Vaults: Where the oldest families store their acorn wealth
 
-#### **Times Squeak** (Entertainment District)
+#### **Times Squeak: Entertainment District**
 - Where five major tunnels converge beneath interlocking roots
 - 24-hour activity with performance spaces and taverns
 - Firefly Lantern District: Managed firefly colonies for lighting
 - Famous for its roasted seed vendors and street performers
 
-#### **The Upper East Roots** (Old Money Residential)
+#### **The Upper East Roots: Old Money Residential**
 - Carved into the most stable oak root systems
 - Multi-generation family warrens with private entrances
 - The Acorn Club: Exclusive social organization
 - Gallery Row: Displaying rare seeds and natural art
 
-#### **Midtown Tunnels** (Commercial Center)
+#### **Midtown Tunnels: Commercial Center**
 - Busy shopping districts and merchant headquarters
 - The Great Bazaar: Indoor market spanning three levels
 - Craftsmouse Quarter: Traditional trades and apprenticeships
 
-#### **The Village Burrows** (Bohemian Quarter)
+#### **The Village Burrows: Bohemian Quarter**
 - Maze-like informal tunnels housing artists and radicals
 - Cheapest rents but most "character"
 - Underground printing presses (bark-carved blocks)
@@ -91,14 +91,14 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 
 ## **The Underground Economy (Organized Crime)**
 
-### **The Rat Syndicate** (Primary Mafia)
+### **The Rat Syndicate: Primary Mafia**
 - **The Longtail Family**: Controls waterfront smuggling
 - **The Whisker Brotherhood**: Runs protection rackets
 - **The Gray Coats**: Newest family, challenging old territories
 - **Code of the Sewers**: Never betray family, honor among thieves
 - **Typical Operations**: "Insurance," gambling, illegal seed trade
 
-### **The Weasel Network** (Secondary/Competing)
+### **The Weasel Network: Secondary/Competing**
 - More loosely organized than rats
 - Specialize in information brokerage and blackmail
 - "The Flex" - their ability to slip through anything
@@ -116,12 +116,12 @@ The beating heart of The Great Burrow, Mousehattan rises from a natural rocky ou
 
 ## **Demographics & Culture**
 
-### **Population Breakdown**
-- **40% Mice**: Mostly old families and their descendants
-- **25% Rats**: Including both legitimate businesscreatures and "connected" families
-- **15% Voles**: Middle management and service workers
-- **10% Hamsters**: Merchants and storage specialists
-- **10% Others**: Shrews (analysts), Weasels (information), Ferrets (deal-makers)
+### **Population Breakdown** *(Total: ~28,000)*
+- **40% Mice** (11,200): Mostly old families and their descendants
+- **25% Rats** (7,000): Including both legitimate businesscreatures and "connected" families
+- **15% Voles** (4,200): Middle management and service workers
+- **10% Hamsters** (2,800): Merchants and storage specialists
+- **10% Others** (2,800): Shrews (analysts), Weasels (information), Ferrets (deal-makers)
 
 ### **Social Stratification**
 

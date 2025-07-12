@@ -4,25 +4,25 @@
 
 In the heart of an ancient mixed hardwood forest, where massive oaks drop their bounty and maples paint autumn gold, lies The Great Burrow - a sprawling metropolis of woodland creatures that rivals any great city in scope, ambition, and complexity. Here, five distinct burrows pulse with life, connected by the engineering marvel of the Great Underground subway system, divided by the East and West Rivers, and united in their constant vigilance against the titans that walk the earth. From the vertical maze of Mousehattan's carved stone chambers to the canopy highways of The Branchx, from the buzzing agricultural powerhouse of The Hives to the working waterfront of Lin's Brook, and finally to the forgotten island where Rangers stand between civilization and chaos.
 
-This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the shadows while mice cling to old money and older traditions. It's a place where shrews whistle commands to beetle workforces, where guinea pig innovations revolutionize ancient farming, where opossums run black markets and raccoons launder money with literal paw-washing. Your species, your burrow, and your branch height may determine your starting point - but in a city built by tiny paws with impossible ambition, every creature has a chance to climb higher, dig deeper, or disappear entirely into the spaces between.
+This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the shadows while mice cling to old money and older traditions. It's a place where shrews whistle commands to beetle workforces, where guinea pig innovations revolutionize ancient farming, where opossums run black markets and raccoons launder money with literal paw-washing. Your species, your burrow, and your branch height may determine your starting point - but in a city of 100,000 creatures built by tiny paws with impossible ambition, every creature has a chance to climb higher, dig deeper, or disappear entirely into the spaces between.
 
 ---
 
 ## **The Five Burrows**
 
-### **Mousehattan** - *The Vertical Metropolis*
-Rising from a rocky outcropping where ancient oak roots penetrate stone, Mousehattan is the beating heart of commerce and ambition. The Acorn Exchange trading floor, carved into the base of the Trading Oak, sets prices that ripple across the forest, while Wall Street (literally carved into walls) houses the financial powers that can make or break a creature's fortune. Old mouse families with their precise, articulated speech and formal manners clash with new rat money - loud, confident entrepreneurs who interrupt conversations and make holes bigger. The Longtail and Whisker crime families control the shadows with codes like "the family provides," ensuring everyone pays their "insurance." Seven vertical levels from Sub-Basement to Crown create a rigid hierarchy where your address determines your status, and Times Squeak never sleeps under its managed firefly lighting.
+### **Mousehattan: The Vertical Metropolis**
+Rising from a rocky outcropping where ancient oak roots penetrate stone, Mousehattan is the beating heart of commerce and ambition. The Acorn Exchange trading floor, carved into the base of the Trading Oak, sets prices that ripple across the forest, while Wall Street (literally carved into walls) houses the financial powers that can make or break a creature's fortune. Old mouse families with their precise, articulated speech and formal manners clash with new rat money - loud, confident entrepreneurs who interrupt conversations and make holes bigger. The Longtail Family and Whisker Brotherhood control the shadows with codes like "the family provides," ensuring everyone pays their "insurance." Seven vertical levels from Sub-Basement to Crown create a rigid hierarchy where your address determines your status, and Times Squeak never sleeps under its managed firefly lighting.
 
-### **The Branchx** - *The Canopy Commons*
-High in the ancient grove where oak and maple create natural highways, The Branchx sprawls through three dimensions of working-class pride. Here, your branch height literally determines your social status - "high branch, warm winter" as they say. The failed tunnel system stands as a monument to broken promises, while the Nutcracker Union ensures construction crews get their due with the threat that they "break more than nuts." Hawks patrol the daylight, making every trip a calculated risk that forces covered routes and buddy systems. Chipmunk couriers with their rapid-fire delivery and route-number slang race through territories divided between old squirrel families and crow-affiliated gangs. The rope bridge network spans 47 major crossings, and emergency bark slides provide rapid descent - though climbing back up is always harder.
+### **The Branchx: The Canopy Commons**
+High in the ancient grove where oak and maple create natural highways, The Branchx sprawls through three dimensions of working-class pride. Here, your branch height literally determines your social status - "high branch, warm winter" as they say. The failed tunnel system stands as a monument to broken promises, while the Nutcracker Union ensures construction crews get their due with the threat that they "break more than nuts." Hawks patrol the daylight, making every trip a calculated risk that forces covered routes and buddy systems. Chipmunk couriers with their rapid-fire delivery and route-number slang race through territories divided between old squirrel families and corvid-allied groups who serve the unknowable agenda of their feathered patrons. The rope bridge network spans 47 major crossings, and emergency bark slides provide rapid descent - though climbing back up is always harder.
 
-### **The Hives** - *The Crossroads Community*
+### **The Hives: The Crossroads Community**
 Sprawling across the meadow clearings where forest meets grassland, The Hives buzzes with the energy of The Great Burrow's most diverse community. Here, prairie dogs from the southern grasslands organize democratic town halls next to traditional rabbit warrens, while mountain marmots work stone alongside guinea pig agricultural innovators. This is where external trade routes converge, where caravans from distant communities first enter the city, and where the scent of a dozen different cuisines mingles in the evening air. The Great Interchange connects three Underground lines in a massive transportation hub, while the Sorting Yards process goods from across the forest region. It's a place where "everyone finds their place in the swarm" - not through ancient bloodlines, but through hard work, community spirit, and the endless creativity that emerges when different cultures collide and cooperate. Yet beneath this cooperative surface, urban pressures mount: the Honeycomb Family's agricultural protection rackets, infrastructure strain from rapid growth, border bandit problems affecting trade routes, and the constant challenge of balancing diversity with unity in an increasingly complex community.
 
-### **Lin's Brook** - *The Working Waterfront*
-Where Whisker Creek meets tidal waters, Lin's Brook embodies blue-collar pride and aquatic expertise. The Great Dam and its secondary structures create the infrastructure that powers workshops around the clock, while beaver lodge complexes house multi-generational families who judge others by the quality of their work. Otter clans run the docks with their fluid, expressive speech full of water metaphors, operating ferry services and competitive slide-racing venues. The Silverclaw crime family controls protection rackets with less subtlety than their Mousehattan counterparts, while gentrification creeps into Greenbank with "artisanal" shops and craft breweries. When giants come to drink or fish, the entire burrow knows the evacuation slides by heart - this is where The Great Burrow gets built, one dam at a time.
+### **Lin's Brook: The Working Waterfront**
+Where Whisker Creek flows into the East River, Lin's Brook embodies blue-collar pride and aquatic expertise. The Great Dam and its secondary structures create the infrastructure that powers workshops around the clock, while beaver lodge complexes house multi-generational families who judge others by the quality of their work. Otter clans run the docks with their fluid, expressive speech full of water metaphors, operating ferry services and competitive slide-racing venues. The Silverclaw Family controls waterfront protection rackets with less subtlety than their Mousehattan counterparts, while gentrification creeps into Greenbank with "artisanal" shops and craft breweries. When giants come to drink or fish, the entire burrow knows the evacuation slides by heart - this is where The Great Burrow gets built, one dam at a time.
 
-### **Scurry Island** - *The Forgotten Burrow*
+### **Scurry Island: The Forgotten Burrow**
 Built on and around "The Old Giant," a massive fallen oak, Scurry Island sits isolated in the central clearing. Connected only by three unreliable ferries (two usually broken) and dangerous surface routes, it's become the black market capital where opossums master the art of "playing dead" to society while thriving in the shadows. Raccoons run sophisticated fence operations, literally "washing" stolen goods with their dexterous paws. The Ranger Station on the western edge houses the elite warriors who venture into the Deep Woods to face titans - "between the city and the dark" as their oath states. Here, creatures come to disappear into Root Town's defensive maze, reinvent themselves in the Trunk Hollow markets, or die trying to protect others from the giants that walk.
 
 ---
@@ -33,7 +33,7 @@ Built on and around "The Old Giant," a massive fallen oak, Scurry Island sits is
 - **Bears**: Could cause total evacuations, physically capable of destroying an entire district. The Great Trampling 20 years ago remains the most destructive single titan encounter in the city's history
 - **Deer**: Their movements reshape landscapes, antler rubs devastate trees, but also leave unexplainable boons for wanderers of the deep forest. The Antler Scrape against the Trading Oak caused week-long evacuations
 - **Moose**: Rarest but most feared, their feeding can topple ancient oaks and disrupt entire ecosystems. Their upstream activity contributed to the Great Flood disaster
-- **Wild Boars**: Their rooting collapses tunnel systems, and while smaller than other titans, they're more common and wildly unpredictable
+- **Wild boars**: Their rooting collapses tunnel systems, and while smaller than other titans, they're more common and wildly unpredictable
 
 The giants aren't inherently malevolent - they simply exist at a scale that makes coexistence nearly impossible. The Great Burrow has evolved elaborate warning systems, evacuation protocols, and offering stations to minimize catastrophic encounters. Some spiritual movements like the Titan Mysteries believe these giants carry divine messages and should be appeased rather than resisted.
 
@@ -63,9 +63,9 @@ Organized bandit groups like the Broken Claw Gang and Whisker's Crew control key
 The marvel of mole engineering, this subway system connects all five burrows through natural tunnels, hollow logs, and carved passages. Express routes follow main arteries while local service winds through neighborhoods. Stations include:
 - Grand Central Burrow (Mousehattan hub)
 - Deep Root and Grove Junction (The Branchx)
-- Honeycomb Central (The Hives)
-- Creek Crossing and Dockside (Lin's Brook)
-- Ferry Terminal (Scurry Island - often flooded)
+- The Great Interchange (The Hives)
+- Creek Crossing and Dockside Terminal (Lin's Brook)
+- Ferry Terminal (Scurry Island - ferry service only)
 
 ### **Transportation Methods**
 - **Underground Trains**: Pushed by mole work crews
@@ -249,12 +249,12 @@ Recent decades have seen unprecedented prosperity alongside growing challenges. 
 - **Beavers**: Master builders who judge others by work quality, speaking in deliberate construction metaphors with slight Canadian-influenced patterns
 - **Otters**: Waterfront workers with fluid, expressive speech full of water metaphors, competitive about everything especially sliding
 - **Rabbits**: Agricultural aristocracy measuring wealth in hives, speaking in collective terms with warm, measured speech patterns
-- **Guinea Pigs**: Recent immigrants from "Beyond the Southern Meadows" with musical, rolling speech and revolutionary terracing techniques
+- **Guinea pigs**: Mountain immigrants who traveled through the southern meadows, bringing highland terracing techniques and musical, rolling speech patterns
 - **Opossums**: Survivalist philosophers who "play dead" to society while thriving in shadows, masters of saying one thing while meaning another
 - **Raccoons**: Clever operators who literally "wash" stolen goods, smooth and persuasive with lots of hand gestures and euphemisms
 
 ### **Specialized Roles**
-- **Moles**: THE subway operators who built and maintain the Great Underground, speaking quietly with technical terminology
+- **Moles**: The subway operators who built and maintain the Great Underground, speaking quietly with technical terminology
 - **Shrews**: Insect whisperers in flat caps who whistle ultrasonic commands to beetle workforces
 - **Corvids**: The alien intelligence - sapient birds with harsh, staccato speech who think in patterns mammals can't comprehend
 - **Rangers**: Elite warriors from various species who venture into the Deep Woods, bound by the oath "between the city and the dark"
@@ -263,7 +263,7 @@ Recent decades have seen unprecedented prosperity alongside growing challenges. 
 
 ## **The Great Burrow at a Glance**
 
-This is a city of impossible ambition built by tiny paws, where every creature knows their place but dreams of more. Where ancient oaks shelter million-creature dreams and fallen logs become Main Street. Where the subway rumbles through roots while hawks circle overhead. Where crime families offer protection from worse fates and unions stand between workers and exploitation.
+This is a city of impossible ambition built by tiny paws, where every creature knows their place but dreams of more. Where ancient oaks shelter a hundred thousand dreams and fallen logs become Main Street. Where the subway rumbles through roots while hawks circle overhead. Where crime families offer protection from worse fates and unions stand between workers and exploitation.
 
 It's New York City if Manhattan was a granite outcrop carved by mice, if Brooklyn's waterfront was run by beavers and otters, if Queens was an agricultural powerhouse of managed insects, if the Bronx hung in the canopy fighting gentrification, and if Staten Island was where you went to disappear or become a hero.
 

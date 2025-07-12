@@ -1,7 +1,7 @@
-# **Lin's Brook - The Working Waterfront**
+# **Lin's Brook: The Working Waterfront**
 
 ## **Overview**
-Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the burrow that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers. It's a place of calloused paws, water-slicked fur, and pride in honest work, even as the currents of change threaten to sweep away generations of tradition.
+Where Whisker Creek flows into the East River, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the burrow that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers. It's a place of calloused paws, water-slicked fur, and pride in honest work, even as the currents of change threaten to sweep away generations of tradition.
 
 ---
 
@@ -30,42 +30,42 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 
 ### **Districts**
 
-#### **Old Damside** (Historic Heart)
+#### **Old Damside: Historic Heart**
 - Original beaver settlement around the Great Dam
 - Multi-generational lodge complexes
 - Traditional workshops and sawmills
 - The Beaver Guild Hall
 - Morning fish markets
 
-#### **Otter's Landing** (Waterfront Commerce)
+#### **Otter's Landing: Waterfront Commerce**
 - Docks, warehouses, and trading posts
 - Otter-run ferry terminals
 - Competitive slide-racing venues
 - 24-hour dockworker taverns
 - Ship-building yards
 
-#### **The Mills** (Industrial Center)
+#### **The Mills: Industrial Center**
 - Water-powered workshops
 - Lumber processing (carefully harvested deadfall)
 - Craftscreature quarters
 - Apprentice dormitories
 - The Innovation District (controversial)
 
-#### **Greenbank** (Gentrifying Waterfront)
+#### **Greenbank: Gentrifying Waterfront**
 - Former industrial areas becoming "artisanal"
 - Converted warehouses housing galleries
 - Craft breweries and "small-batch" smokehouses
 - Rising rents pushing out working families
 - Weekend "authentic markets"
 
-#### **The Wetlands Ward** (Marsh Communities)
+#### **The Wetlands Ward: Marsh Communities**
 - Muskrat neighborhoods in the reedy edges
 - Frog and toad settlements (recent arrivals)
 - Seasonal flooding shapes life
 - Night chorus venues
 - Medicinal herb gathering
 
-#### **Downstream** (Rough Neighborhood)
+#### **Downstream: Rough Neighborhood**
 - Where the poorest creatures wash up
 - Flood-prone, first to evacuate
 - Black market river trade
@@ -98,13 +98,12 @@ Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks
 
 ## **Demographics & Culture**
 
-### **Population Breakdown**
-- **35% Beavers**: The founding creatures and infrastructure masters
-- **30% Otters**: Waterfront workers and fishercreatures
-- **15% Muskrats**: Marsh dwellers and small-craft builders
-- **10% Mice/Voles**: Dry-land workers and merchants
-- **5% Frogs/Toads**: Newest arrivals, underwater specialists
-- **5% Others**: Including some reformed "river rats"
+### **Population Breakdown** *(Total: ~20,000)*
+- **35% Beavers** (7,000): The founding creatures and infrastructure masters
+- **30% Otters** (6,000): Waterfront workers and fishercreatures
+- **20% Muskrats** (4,000): Marsh dwellers and small-craft builders
+- **10% Mice/Voles** (2,000): Dry-land workers and merchants
+- **5% Others** (1,000): Including some reformed "river rats"
 
 ### **Social Structure**
 

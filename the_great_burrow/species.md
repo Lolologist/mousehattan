@@ -6,7 +6,7 @@
 
 ## **The Branchx Species**
 
-### **Squirrels** *(Traditional Residents)*
+### **Squirrels: Traditional Residents**
 
 **Background:** Multi-generational families who built the canopy infrastructure. Consider themselves the "true" Branchx natives.
 
@@ -30,7 +30,7 @@
 
 ---
 
-### **Chipmunks** *(Working Class Heroes)*
+### **Chipmunks: Working Class Heroes**
 
 **Background:** Smaller, faster, and willing to take risks squirrels won't. The courier culture of The Branchx.
 
@@ -56,7 +56,7 @@
 
 ## **Mousehattan Species**
 
-### **Mice** *(Old Money Families)*
+### **Mice: Old Money Families**
 
 **Background:** Descendants of the original wall-carvers. Mousehattan IS mouse town in their minds.
 
@@ -80,7 +80,7 @@
 
 ---
 
-### **Rats** *(New Money Entrepreneurs)*
+### **Rats: New Money Entrepreneurs**
 
 **Background:** Larger, louder, and less concerned with tradition. They're changing Mousehattan whether the mice like it or not.
 
@@ -106,7 +106,7 @@
 
 ## **The Hives Species**
 
-### **Rabbits** *(Agricultural Aristocracy)*
+### **Rabbits: Agricultural Aristocracy**
 
 **Background:** First to master beekeeping, their families control much of the honey trade.
 
@@ -130,9 +130,9 @@
 
 ---
 
-### **Guinea Pigs** *(Andean Innovators)*
+### **Guinea pigs: Andean Innovators**
 
-**Background:** Arrived from "Beyond the Southern Meadows" bringing revolutionary agricultural techniques and strong communal traditions.
+**Background:** Mountain immigrants who traveled through the southern meadows to reach The Great Burrow, bringing revolutionary terracing techniques and strong communal traditions from their highland origins.
 
 **Cultural Traits:**
 - Community-minded, decisions made in groups through squeaking councils
@@ -156,7 +156,7 @@
 
 ---
 
-### **Prairie Dogs** *(Grassland Democrats)*
+### **Prairie dogs: Grassland Democrats**
 
 **Background:** Recent immigrants from the southern grasslands who brought democratic traditions and community organization skills to The Great Burrow.
 
@@ -182,7 +182,7 @@
 
 ---
 
-### **Marmots** *(Mountain Craftscreatures)*
+### **Marmots: Mountain Craftscreatures**
 
 **Background:** Highland immigrants who brought stone-working expertise and alpine survival traditions from the distant mountain ranges.
 
@@ -210,7 +210,7 @@
 
 ## **Lin's Brook Species**
 
-### **Beavers** *(Master Builders)*
+### **Beavers: Master Builders**
 
 **Background:** THE infrastructure species. Their dams and lodges shaped Lin's Brook.
 
@@ -234,7 +234,7 @@
 
 ---
 
-### **Otters** *(Waterfront Culture)*
+### **Otters: Waterfront Culture**
 
 **Background:** The fishers, swimmers, and waterfront workers who bring life to Lin's Brook.
 
@@ -260,7 +260,7 @@
 
 ## **Scurry Island Species**
 
-### **Opossums** *(Survivalist Philosophers)*
+### **Opossums: Survivalist Philosophers**
 
 **Background:** Masters of playing dead to society while thriving in the shadows.
 
@@ -284,7 +284,7 @@
 
 ---
 
-### **Raccoons** *(Clever Operators)*
+### **Raccoons: Clever Operators**
 
 **Background:** The ones who make Scurry Island's black market actually function.
 
@@ -310,7 +310,7 @@
 
 ## **Additional Forest Species**
 
-### **Moles** *(Underground Specialists)*
+### **Moles: Underground Specialists**
 
 **Background:** THE subway operators. They built and maintain the Great Underground, making them essential to city life.
 
@@ -334,7 +334,7 @@
 
 ---
 
-### **Skunks** *(Respect Through Fear)*
+### **Skunks: Respect Through Fear**
 
 **Background:** Nobody messes with skunks. They've parlayed this into security and enforcement roles.
 
@@ -358,7 +358,7 @@
 
 ---
 
-### **Badgers** *(Old Forest Nobility)*
+### **Badgers: Old Forest Nobility**
 
 **Background:** Ancient families who predate the city. They own land and judge everyone else as newcomers.
 
@@ -382,7 +382,7 @@
 
 ---
 
-### **Ferrets** *(Chaotic Energy)*
+### **Ferrets: Chaotic Energy**
 
 **Background:** Hyperactive deal-makers who thrive in the city's fast pace. Natural middlemen.
 
@@ -406,7 +406,7 @@
 
 ---
 
-### **Porcupines** *(Defensive Specialists)*
+### **Porcupines: Defensive Specialists**
 
 **Background:** Natural armor makes them perfect guards, but they're tired of being typecast.
 
@@ -430,7 +430,7 @@
 
 ---
 
-### **Weasels** *(Information Brokers)*
+### **Weasels: Information Brokers**
 
 **Background:** The gossips, spies, and information dealers who know everyone's business.
 
@@ -454,7 +454,7 @@
 
 ---
 
-### **Groundhogs** *(Weather Prophets & Bureaucrats)*
+### **Groundhogs: Weather Prophets & Bureaucrats**
 
 **Background:** Their weather prediction tradition evolved into complex bureaucratic roles.
 
@@ -478,7 +478,7 @@
 
 ---
 
-### **Bats** *(Night Shift Elite)*
+### **Bats: Night Shift Elite**
 
 **Background:** The only flying mammals, they dominate nighttime aerial courier and reconnaissance work.
 
@@ -502,7 +502,7 @@
 
 ---
 
-### **Foxes** *(Cunning Outcasts)*
+### **Foxes: Cunning Outcasts**
 
 **Background:** Usually predators, but some have chosen to integrate into society. Never fully trusted.
 
@@ -526,31 +526,10 @@
 
 ---
 
-### **Frogs & Toads** *(Amphibious Adaptors)*
-
-**Background:** Recent arrivals from marsh areas, bringing water-adaptation skills to the city.
-
-**Cultural Traits:**
-- Must stay moist, leading to unique neighborhood needs
-- Natural swimmers who work underwater construction
-- Incredible vocal range makes them natural announcers
-- Seasonal behavior changes with temperature
-
-**Vocal Patterns:** Deep, resonant voices with excellent projection. Speak in rhythmic patterns that sometimes sound like chanting. Use lots of water and seasonal metaphors. Excellent at vocal mimicry and can adopt other creatures' speech patterns when needed.
-
-**Common Locations:** Lin's Brook, storm sewers, fountain districts
-
-**Occupations:** Underwater welders, storm system maintenance, town criers, singers
-
-**Species Sayings:**
-- *"Wet skin, clear mind"* (stay true to your needs)
-- *"The spring chorus decides"* (community voice matters)
-- *"Hop now, swim later"* (adapt to circumstances)
-- *"Catch flies, not feelings"* (practicality over emotion)
 
 ---
 
-### **Dogs** *(Loyal Companions)*
+### **Dogs: Loyal Companions**
 
 **Background:** Rare but valued members of society, dogs carry the burden of being distant cousins to the titan Wolves that roam the far wilderness. Most dogs in The Great Burrow are descendants of those who fled the northern territories generations ago.
 
@@ -575,7 +554,7 @@
 
 ---
 
-### **Cats** *(Independent Observers)*
+### **Cats: Independent Observers**
 
 **Background:** Sophisticated and somewhat aloof, cats maintain their independence while participating in city life. Unlike their larger cousins (lynx, cougars) from distant territories, domestic cats have adapted to urban cooperation while retaining their autonomous nature.
 
@@ -600,7 +579,7 @@
 
 ---
 
-### **Corvids** *(The Alien Intelligence)*
+### **Corvids: The Alien Intelligence**
 
 **Background:** The only truly sapient birds in the forest, corvids exist in a complex relationship with mammalian society - neither fully integrated nor completely separate. Their intelligence operates on fundamentally different principles than mammalian thinking.
 
@@ -636,7 +615,7 @@
 
 ---
 
-### **Shrews** *(Insect Whisperers)*
+### **Shrews: Insect Whisperers**
 
 **Background:** The smallest mammals with the biggest appetites and the unique ability to communicate with beetles and other insects through ultrasonic whistles.
 
@@ -662,7 +641,7 @@
 
 ## **External Species** *(From Trade Relations)*
 
-### **Pine Martens** *(Western Frontier)*
+### **Pine martens: Western Frontier**
 
 **Background:** From the Pine Barrens Confederation, these creatures represent the traditional forest communities beyond The Great Burrow's influence.
 

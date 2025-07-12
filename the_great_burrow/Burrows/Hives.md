@@ -1,4 +1,4 @@
-# **The Hives - The Crossroads Community**
+# **The Hives: The Crossroads Community**
 
 ## **Overview**
 Sprawling across the meadow clearings where forest meets grassland, The Hives earned its name from the dense, interconnected burrow complexes that honeycomb the rolling hills - and from being the buzzing center of activity where creatures from across the forest region come to trade, work, and build new lives. This is The Great Burrow's most diverse community, where prairie dogs from the southern grasslands live next to mountain marmots, where traditional rabbit warrens neighbor innovative guinea pig terraces, and where the scent of a dozen different cuisines mingles in the evening air. It's a place where "everyone finds their place in the swarm" - not through ancient bloodlines, but through hard work, community spirit, and the endless creativity that emerges when different cultures collide and cooperate.
@@ -30,56 +30,56 @@ Sprawling across the meadow clearings where forest meets grassland, The Hives ea
 
 ### **Districts**
 
-#### **Central Commons** (The Heart)
+#### **Central Commons: The Heart**
 - The Great Interchange Underground station
 - Multi-cultural markets and food courts
 - Community meeting halls and event spaces
 - The Diversity Council chambers
 - Tourist information and cultural orientation
 
-#### **Meadow Heights** (Established Families)
+#### **Meadow Heights: Established Families**
 - Traditional rabbit warrens with honey operations
 - Multi-generational family compounds
 - The old Hive Registry and historical society
 - Premium residential areas with garden plots
 - Conservative community leadership
 
-#### **Grassland Quarter** (Prairie Immigrants)
+#### **Grassland Quarter: Prairie Immigrants**
 - Prairie dog settlements with distinctive architecture
 - Wide, communal burrow systems
 - Grain processing and storage facilities
 - Community kitchens and social halls
 - Democratic town-hall style governance
 
-#### **Mountain Slopes** (Highland Immigrants)
+#### **Mountain Slopes: Highland Immigrants**
 - Marmot families with alpine traditions
 - Stone-working and mineral processing
 - Terraced gardens and water management
 - Seasonal celebration grounds
 - Craft workshops specializing in mountain techniques
 
-#### **Innovation District** (Mixed Community)
+#### **Innovation District: Mixed Community**
 - Guinea pig agricultural experiments
 - Cross-cultural fusion workshops
 - Young families from multiple species
 - Experimental housing cooperatives
 - The Integration Center for newcomers
 
-#### **The Yards** (Industrial Zone)
+#### **The Yards: Industrial Zone**
 - Warehouses and distribution centers
 - Beetle-powered manufacturing
 - Repair shops and maintenance facilities
 - Transportation company headquarters
 - Worker housing and union halls
 
-#### **Night Market** (Entertainment District)
+#### **Night Market: Entertainment District**
 - After-hours dining and entertainment
 - Cultural performance venues
 - Firefly-lit evening markets
 - Mixed-species social clubs
 - The artistic community hub
 
-#### **Border Camps** (Temporary Housing)
+#### **Border Camps: Temporary Housing**
 - Seasonal worker accommodations
 - New arrival processing centers
 - Caravan support services
@@ -90,16 +90,16 @@ Sprawling across the meadow clearings where forest meets grassland, The Hives ea
 
 ## **Demographics & Culture**
 
-### **Population Breakdown**
-- **20% Rabbits**: Established families, traditional honey operations
-- **18% Prairie Dogs**: Grassland immigrants, community organizers
-- **15% Voles & Field Mice**: Working class, service industries
-- **12% Guinea Pigs**: Agricultural innovators, recent immigrants
-- **10% Marmots**: Mountain immigrants, craftscreatures and builders
-- **8% Hamsters**: Merchant families, storage and logistics
-- **7% Hedgehogs**: Night shift workers, entertainment industry
-- **5% Shrews**: Insect specialists, technical workers
-- **5% Mixed/Other**: Various species in smaller numbers
+### **Population Breakdown** *(Total: ~24,000)*
+- **20% Rabbits** (4,800): Established families, traditional honey operations
+- **18% Prairie Dogs** (4,320): Grassland immigrants, community organizers
+- **15% Voles & Field Mice** (3,600): Working class, service industries
+- **12% Guinea Pigs** (2,880): Agricultural innovators, recent immigrants
+- **10% Marmots** (2,400): Mountain immigrants, craftscreatures and builders
+- **8% Hamsters** (1,920): Merchant families, storage and logistics
+- **7% Hedgehogs** (1,680): Night shift workers, entertainment industry
+- **5% Shrews** (1,200): Insect specialists, technical workers
+- **5% Mixed/Other** (1,200): Various species in smaller numbers
 
 ### **Cultural Dynamics**
 
@@ -227,7 +227,7 @@ Sprawling across the meadow clearings where forest meets grassland, The Hives ea
 
 ## **Urban Tensions & Challenges**
 
-### **The Honeycomb Family - Organized Crime**
+### **The Honeycomb Family: Organized Crime**
 The Hives' prosperity hasn't gone unnoticed by criminal elements. The **Honeycomb Family**, a rabbit-run organization that evolved from traditional beekeeping dynasties, now controls significant portions of the burrow's economy through "agricultural protection" services.
 
 #### **Operations & Influence**
