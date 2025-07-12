@@ -100,6 +100,13 @@ Two prominent citizens challenge each other to a duel over a matter of honor, an
 - Environmental threats and ecological disasters
 - Inter-species cooperation and communication challenges
 - Trade disputes and market competition
+- Immigration tensions and integration challenges
+- Border bandit problems affecting trade routes
+- Predator vulnerability in open meadow spaces
+- Infrastructure breakdown and overcrowding issues
+- Honeycomb Family organized crime operations
+- Democratic friction and representation struggles
+- Economic inequality and gentrification pressure
 
 ### **Lin's Brook Adventures**
 - Water rights disputes and dam maintenance

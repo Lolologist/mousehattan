@@ -234,13 +234,13 @@ Patch survived a deer encounter on Scurry Island that left her with uncanny intu
 - **80 acorns** in savings
 
 ### **Background & Personality**
-Clover immigrated from the Southern Meadows with revolutionary agricultural techniques. She's become a bridge between traditional Hives agriculture and innovative guinea pig methods. Her natural leadership and community focus make her a respected voice in trade negotiations and agricultural planning.
+Clover immigrated from the Southern Meadows with revolutionary agricultural techniques, but implementing change in The Hives has proven more challenging than expected. While she's made progress bridging traditional rabbit agriculture and innovative guinea pig methods, she faces constant resistance from established honey families, economic pressures from the Honeycomb Family's "quality assurance" requirements, and the daily struggle of organizing a diverse community with competing interests. Her natural leadership and community focus make her a determined advocate for agricultural workers and fair trade practices, though she's learned that idealism must be tempered with pragmatic politics.
 
-**Speech Pattern:** Musical guinea pig speech with collective terms and agricultural metaphors. "The community grows together" and "Every seed needs the right soil."
+**Speech Pattern:** Musical guinea pig speech with collective terms and agricultural metaphors, though sometimes showing strain from constant organizing work. "The community grows together, but the soil needs tending" and "Every seed needs the right soil, but some ground is harder to break."
 
 ### **Connections**
-- **Knows Gilda "Spark" Brightwhisker:** Gilda has designed processing equipment for Clover's agricultural operations
-- **Knows Slink Shadowtail:** Despite different approaches, they respect each other's business acumen
+- **Knows Gilda "Spark" Brightwhisker:** Gilda has designed processing equipment for Clover's agricultural operations, often working for reduced rates to support community projects
+- **Knows Slink Shadowtail:** Slink has provided security for Clover's agricultural operations when traditional families or the Honeycomb Family applied pressure
 
 ---
 
