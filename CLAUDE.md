@@ -68,11 +68,12 @@ When exploring the setting:
 2. Check `style_guide.md` for consistency rules
 3. Reference `species.md` for character details
 4. Dive into specific `Burrows/` files as needed
+5. If working on Genesys-specific material, reference the system_specific_rules/genesys folder.
 
 ### Consistency Checks
 - Always verify species details against `species.md`
 - Check tone balance against `style_guide.md` 
-- Ensure burrow descriptions match established geography
+- Ensure burrow descriptions match established geography, tone, and materials
 - Maintain the "cozy woodland charm + gritty urban realism" balance
 
 ### When Making Changes
@@ -109,7 +110,7 @@ Use another sub-agent for the `misc/` folder to access specialized topics:
 - Crime family politics and protection rackets
 
 ## Important: Collaboration Approach
-This is an **update and consistency pass** project. Err on the side of "pause for clarification as you go" rather than "bulldoze without clarity." This is a collaboration - ask questions, solicit feedback, and maintain ongoing dialogue about changes and their implications for the setting.
+This is a **collaborative** project. Err on the side of "pause for clarification as you go" rather than "bulldoze without clarity." Ask questions, solicit feedback, and maintain ongoing dialogue about changes and their implications for the setting. Feel free to make (and then delete when done with) files for TODOs or questions with larger amounts of material surrounding them for human review.
 
 ## Species Quick Reference
 - **Mice**: Old money, precise speech, formal manners
