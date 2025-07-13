@@ -623,12 +623,12 @@
 
 Welcome to the forest metropolis where tiny paws built impossible dreams. The Great Burrow is a sprawling city of woodland creatures that rivals any great metropolis in scope, ambition, and complexity. From the vertical maze of Mousehattan's carved stone chambers to the canopy highways of The Branchx, from the buzzing agricultural powerhouse of The Hives to the working waterfront of Lin's Brook, and finally to the forgotten island where Rangers stand between civilization and chaos.
 
-     This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the shadows while mice cling to old money and older traditions. It's a place where shrews whistle commands to beetle workforces, where guinea pig innovations revolutionize ancient farming, where opossums run black markets and raccoons launder money with literal paw-washing.
+This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the shadows while mice cling to old money and older traditions. It's a place where shrews whistle commands to beetle workforces, where guinea pig innovations revolutionize ancient farming, where opossums run black markets and raccoons launder money with literal paw-washing.
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
-\pagebreakNum
+
 
 # Setting Overview for Genesys
 
@@ -673,33 +673,45 @@ Yet the creatures of The Great Burrow have built a thriving civilization through
 ## The Five Burrows
 
 ### Mousehattan - The Vertical Metropolis
-The beating heart of commerce and ambition, carved into a rocky outcropping where ancient oak roots create natural highways. Wall Street is literally carved into walls, while Times Squeak never sleeps under managed firefly lighting.
+The beating heart of commerce and ambition, carved into a rocky outcropping where ancient oak roots create natural highways. Wall Street is literally carved into walls, while Times Squeak never sleeps under managed firefly lighting. This vertical city rises through seven distinct levels from Sub-Basement to Crown Level, housing 28,000 creatures in a maze of root highways and carved chambers.
 
+**Notable Features:** The Acorn Exchange trading floor built into the Trading Oak's hollow, the Whiskers Building (12 stories of carved stone), Gallery Row displaying rare seeds, and the infamous underground Squeakeasy run by the Longtail crime family. The district operates on "acorn time" with dawn-to-dusk financial markets driving the entire burrow's rhythm.
+
+**Demographics:** 40% mice (old money families), 25% rats (business and crime), 15% voles (middle management), 10% hamsters (merchants), 10% others.
 
 ### The Branchx - The Canopy Commons
-Working-class pride in three-dimensional tree cities. 47 major rope bridge crossings, emergency bark slides for rapid descent.
+Working-class pride in three-dimensional tree cities spanning five massive oaks and seven grand maples. 47 major rope bridge crossings connect the vertical neighborhoods, while emergency bark slides provide rapid descent during predator attacks. The canopy stretches across seven branch levels from "Ground Scrape" to "Crown Touch," housing 18,000 creatures in nest complexes and hollow expansions.
+
+**Cultural Identity:** Construction IS The Branchx - from the Nutcracker Union that controls building projects to the rope weavers whose craft passes through generations. The failed tunnel system below serves as both reminder of broken promises and convenient smuggling network. Corvid zones add danger where desperate creatures make deals with crow gangs for aerial protection.
+
+**Demographics:** 60% squirrels (traditional majority), 25% chipmunks (courier class), 10% flying squirrels (premium transport), 5% others including mice gentrifiers.
 
 ### The Hives - The Crossroads Community
-Most diverse burrow. Prairie dog democratic halls, rabbit warrens, mountain marmots, guinea pig agricultural innovation.
+The Great Burrow's most diverse district, sprawling across meadow clearings where forest meets grassland. This buzzing center of 24,000 creatures earned its name from dense, interconnected burrow complexes honeyccombing the rolling hills. Prairie dog democratic councils share space with traditional rabbit warrens, while guinea pig agricultural terraces demonstrate innovative farming techniques adapted from mountain traditions.
+
+**Economic Hub:** The Great Interchange where three Underground lines converge makes this the logistics capital. 30% of the economy runs on processing external trade, with caravan grounds hosting traders from distant communities. The Sorting Yards warehouse district processes goods from across the forest region, while mixed-species workshops produce fusion crafts combining multiple cultural traditions.
+
+**Cultural Melting Pot:** "Everyone finds their place in the swarm" through cooperation rather than bloodlines. The Integration Center helps newcomers adapt, while cross-cultural families pioneer new ways of living. Night markets buzz with firefly light as creatures enjoy cuisine from across the known world.
 
 ### Lin's Brook - The Working Waterfront
-Blue-collar waterfront where Whisker Creek meets tidal waters. Great Dam powers workshops, otter clans run ferries.
+Blue-collar waterfront pride where Whisker Creek meets the East River's tidal waters. The Great Dam powers water-driven workshops through Mill Falls, while seven secondary dams create distinct neighborhoods. This engineering marvel houses 20,000 creatures who know that high tide means water work while low tide brings maintenance and repairs.
 
-### Scurry Island - The Forgotten Burrow
-Built on fallen oak "The Old Giant." Shadow economy home and Ranger base facing Deep Woods titans.
+**Working Culture:** The Dockworkers Union (otter-dominated) shares power with the Builders Guild (beaver-led but increasingly diverse). Traditional industries like sustainable lumber harvesting and fishing feed the entire Great Burrow, while gentrifying Greenbank converts old warehouses into artisanal workshops - to the disgust of working families priced out of their ancestral lodges.
 
-**Key Areas:** Trunk (market), Root Town (residential), Crown (vertical neighborhoods), Heartwood (deep chambers)
-
-**Rangers:** Elite scouts led by badger Watch Commander, recruiting desperate creatures.
-
-**Demographics:** 30% Opossums, 25% Raccoons, 15% Rangers, 30% Others
-
-**Economy:** Black market, contraband, titan evacuation services
-
+**Water Life:** Complex tail-slap communications coordinate flood protocols for when titans wade through. The Silverclaw crime family controls north dock "protection" while rival otter clans maintain ancient fishing territory disputes. Every kit learns to read currents before they can properly swim.
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
+
+### Scurry Island - The Forgotten Burrow
+Isolated on a true island across dangerous straits, this 10,000-creature community serves as both shadow economy hub and last line of defense against Deep Woods titans. The rocky shores and dense interior provide perfect cover for those seeking to disappear from mainland law. Connected only by three ferries (two usually broken), this is where the desperate, the criminal, and the brave Rangers make their home.
+
+**The Ranger Corps:** Elite scouts operate from fortified Heights overlooking the mainland. Led by a one-eyed badger Watch Commander, they recruit society's desperate to face bears, moose, and worse. Equipment includes poison-tipped porcupine quills, flash powder, and scent bombs. The Wall of the Fallen honors those who stood "between the city and the dark."
+
+**Shadow Economy:** Everything has a price in Harbor Market - from forged documents to concentrated fermented sap. The Fence Lords control major operations while opossum and raccoon families run traditional "businesses." Old Town enforces sanctuary rules even as the Lowland Shanties flood with each storm. Underground fighting pits and gambling dens hide in the Warrens, where "what happens in the deep stays in the deep."
+
+
 
 ## Infrastructure & Technology
 
@@ -726,7 +738,7 @@ Trains are pushed by mole work crews who know every tunnel by vibration. Monthly
 ### Transportation Methods
 Beyond the Underground, creatures navigate via rope bridges (47 major crossings in The Branchx), ferry services (when operational), courier networks, and private options from otter swimming services to rare bat flights. Emergency bark slides provide rapid descent in the canopy, though climbing back up is always harder.
 
-\columnbreak
+\pagebreakNum
 
 ## Economy & Commerce
 
@@ -923,13 +935,15 @@ An informal council where major family representatives meet quarterly to resolve
 - Specialties: High-end protection, construction permits
 - Ritual: Whisker-touching initiation ceremonies
 
+\columnbreak
+
 **The Gray Coats** - Rising Force
 - Territory: Village Burrows, young professional areas
 - Leadership: Lucia "The Shadow" Gray
 - Specialties: Tech fraud, identity theft, blackmail
 - Signature: Gray vests marking full members
 
-\columnbreak
+\pagebreakNum
 
 ### Other Burrow Syndicates
 
@@ -952,6 +966,7 @@ An informal council where major family representatives meet quarterly to resolve
 - Black market masters and document forgers
 - Council leadership of proven operators
 - "Everything has value to someone"
+
 
 ## Criminal Economics
 
@@ -1147,6 +1162,8 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
+\pagebreakNum
+
 ### Beavers *(The Builders)*
 
 <div class="archetype">
@@ -1179,7 +1196,6 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Sayings:** *"Busy as a beaver"* / *"Still water, strong dam"*
 
-\pagebreakNum
 
 ### Rabbits *(The Cooperators)*
 
@@ -1237,8 +1253,6 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Background:** Mountain immigrants bringing revolutionary terracing and communal traditions.
 
-\columnbreak
-
 **Cultural Traits:** Group decision-making through squeaking councils, beetle-communication whistlers, mountain-to-forest adaptation specialists.
 
 **Vocal Patterns:** Musical speech with rolling R's, Common Forest/Andean dialect switching, collective "we" instead of "I."
@@ -1251,7 +1265,6 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 ##### Character Creation Example
 Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agility 2, Intellect 3, Cunning 2, Willpower 2, Presence 2) and decides to play an up-and-coming trader from Mousehattan. She chooses Charm and Negotiation as her starting skills and takes the Acorn Trader career for additional business skills.
-
 </div>
 
 <div class="footnote">THE GREAT BURROW<BR />
@@ -1262,7 +1275,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 # Additional Species
 
 
-## Otters *(The Watercreatures)*
+### Otters *(The Watercreatures)*
 
 <div class="archetype">
 <span class="bra">2</span>
@@ -1314,6 +1327,8 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - **Scavenger's Eye:** Add <span class='boost'>b</span> to Perception for useful items
 - **Nocturnal:** Remove <span class='setback'>b</span> from checks in darkness
 
+\columnbreak
+
 **Starting Skills:** Choose 2 from: Deception, Skulduggery, Streetwise, Survival, Vigilance, Cool
 
 **Background:** Shadow economy masters using "play dead" philosophy.
@@ -1358,6 +1373,9 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 **Occupations:** Smuggling, fence operations, lock "specialization," legitimate fronts
 
 **Sayings:** *"Clean paws, dirty deals"* / *"Five fingers, five opportunities"*
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
@@ -1479,11 +1497,14 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 **Cultural Traits:** Touch/sound navigation, soil quality obsession, vibration crew communication, wealthy from transit monopoly.
 
-**Vocal Patterns:** Quiet technical speech, no direct eye contact, tactile/auditory descriptions.
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
-**Occupations:** Subway operation, tunnel engineering, underground police, soil analysis
+**Vocal Patterns:** Quiet technical speech, no direct eye contact, tactile/auditory descriptions.
+
+**Occupations:** Subway operation, tunnel engineering, underground police, soil analysiss
 
 **Sayings:** *"Dig deep, breathe shallow"*
 
@@ -1541,6 +1562,8 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 **Starting Skills:** Choose 2 from: Coordination, Negotiation, Streetwise, Charm, Skulduggery, Perception
 
+\columnbreak
+
 **Background:** Hyperactive deal-makers who thrive in the city's fast pace. Natural middlemen.
 
 **Cultural Traits:**
@@ -1592,6 +1615,11 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 **Vocal Patterns:** Thoughtful, deliberate speech with artistic vocabulary. Often pause mid-sentence to consider their words carefully. Use lots of metaphors about protection and vulnerability.
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 **Occupations:** Guards, artists, quill-crafters, acupuncturists, philosophers
 
 **Species Sayings:**
@@ -1600,7 +1628,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"Back off means back off"* (clear boundaries)
 - *"Soft belly, sharp back"* (vulnerability and strength)
 
-\pagebreakNum
+
 
 ### Weasels *(The Information Brokers)*
 
@@ -1686,6 +1714,9 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"Forms in triplicate"* (proper procedure matters)
 - *"Spring comes when it comes"* (patience with natural cycles)
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
 \pagebreakNum
 
 ### Bats *(The Night Shift)*
@@ -1728,6 +1759,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"Echo tells truth"* (listen more than you speak)
 - *"Night flight, day fright"* (own your time)
 
+\columnbreak
 
 ### Foxes *(The Cunning Outcasts)*
 
@@ -1769,6 +1801,13 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"Clever is as clever does"* (prove your worth)
 - *"Hunt alone, live alone"* (independence has a price)
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+\pagebreakNum
+
 ### Dogs *(The Loyal Companions)*
 
 <div class="archetype">
@@ -1793,8 +1832,6 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 **Background:** Rare but valued members of society, dogs carry the burden of being distant cousins to the titan Wolves.
 
-\pagebreakNum
-
 **Cultural Traits:**
 - Intensely loyal to chosen families and communities
 - Natural protectors with strong territorial instincts
@@ -1810,6 +1847,8 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"A good nose knows"* (trust your instincts)
 - *"Howl with the family, hunt with the pack"* (different roles for different groups)
 - *"The wolf's shadow doesn't define the dog"* (you are not your ancestors)
+
+\columnbreak
 
 ### Cats *(The Independent Observers)*
 
@@ -1843,9 +1882,6 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 **Vocal Patterns:** Precise, measured speech with careful word choice. Use hunting and territory metaphors. Speak quietly but expect to be heard.
 
-
-\columnbreak
-
 **Occupations:** Private investigators, night watchmen, independent contractors, mediators, quality inspectors
 
 **Species Sayings:**
@@ -1854,9 +1890,11 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"Hunt alone, sleep together"* (independence and companionship both matter)
 - *"Not all who prowl are predators"* (don't judge by appearance)
 
+
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
+\pagebreakNum
 
 ### Shrews *(The Insect Whisperers)*
 
@@ -1897,6 +1935,77 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"You can't rush good compost"* (quality takes time)
 - *"Hungry shrew, busy shrew"* (necessity drives work)
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+### Voles *(The Middle Managers)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 9 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 110
+
+**Special Abilities:**
+- **Reliable Workers:** Once per session, may reroll any failed skill check
+- **Administrative Mind:** Add <span class='boost'>b</span> to all Knowledge checks related to bureaucracy or organization
+- **Unnoticed:** Often overlooked, add <span class='boost'>b</span> to Stealth checks in social situations
+
+**Starting Skills:** Choose 2 from: Knowledge (City), Negotiation, Perception, Vigilance, Discipline, Cool
+
+**Background:** The backbone of Mousehattan's service economy, voles keep the city running through quiet competence and administrative expertise.
+
+**Cultural Traits:**
+- Masters of middle management and bureaucratic systems
+- Excellent at remembering details and following procedures
+- Often underestimated but essential to city operations
+- Strong work ethic with emphasis on reliability over ambition
+
+**Vocal Patterns:** Measured, professional speech with careful word choice. Tend to speak in passive voice and use qualifying statements. Never interrupt superiors.
+
+
+### Hamsters *(The Hoarders)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">1</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Cheek Pouches:** Can carry items up to Encumbrance 3 without penalty
+- **Storage Expert:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks involving organizing or finding stored items
+- **Hibernation Heritage:** Can survive on minimal resources, reduce lifestyle costs by 50%
+
+**Starting Skills:** Choose 2 from: Negotiation, Knowledge (City), Mechanics, Perception, Vigilance, Survival
+
+**Background:** Natural merchants and storage specialists, hamsters run many of Mousehattan's warehouses and trading posts.
+
+**Cultural Traits:**
+- Obsessive about storage and organization systems
+- Natural traders with excellent memory for inventory
+- Tendency to prepare for worst-case scenarios
+- Strong family businesses passed through generations
+
+**Vocal Patterns:** Slightly muffled speech (cheek pouches), rapid listing of items and prices. Excel at mental mathematics and speak in merchant shorthand.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
 \pagebreakNum
 
 ## Cultural Notes for Game Masters
@@ -1933,6 +2042,8 @@ Cross-species relationships have become increasingly common in The Great Burrow'
 - Immigrant Communities: Guinea pigs represent code-switching speech patterns
 - Neighborhood Variations: Each burrow has distinct local speech patterns
 
+\columnbreak
+
 **General Guidelines:**
 - Species provide baseline tendencies, but individual variation is common
 - Neighborhood and occupation often influence speech more than species
@@ -1946,262 +2057,14 @@ Cross-species relationships have become increasingly common in The Great Burrow'
 Different species have varying lifespans that affect career planning and social dynamics:
 
 **Short-lived Species (6-10 years):** Mice, rats - fast-paced lives with intense focus
+
 **Medium-lived Species (10-16 years):** Squirrels, rabbits, guinea pigs - long-term planning
+
 **Long-lived Species (30-40 years):** Beavers, badgers - extensive institutional memory
 
 This creates intergenerational dynamics where longer-lived species serve as mentors and institutional memory, while shorter-lived species drive innovation and change.
 
 </div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# Additional Species Archetypes
-
-Beyond the core six species, The Great Burrow houses many other creatures, each bringing unique abilities and cultural perspectives.
-
-## Water Species
-
-### Otters *(The Water Workers)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">1</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 10 + Willpower  
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Aquatic Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to all Athletics checks in water
-- **Playful Nature:** Add <span class='boost'>b</span> to Charm checks, remove <span class='setback'>b</span> from social interactions
-- **Slippery:** Add <span class='boost'>b</span> to Coordination checks to escape restraints
-
-**Starting Skills:** Choose 2 from: Athletics, Coordination, Mechanics, Resilience, Streetwise, Survival, Vigilance, Vehicles
-
-### Muskrats *(The Marsh Dwellers)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">2</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 110
-
-**Special Abilities:**
-- **Marsh Navigation:** Remove <span class='setback'>b</span> from movement in wetlands and marshy terrain
-- **Small Craft:** Add <span class='boost'>b</span> to Vehicles checks when piloting small boats
-- **Resourceful:** Once per session, may produce a useful common item from "somewhere"
-
-**Starting Skills:** Choose 2 from: Athletics, Coordination, Survival, Vehicles, Vigilance, Streetwise
-
-
-
-## Underworld Species
-
-### Opossums *(The Survivors)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">2</span>
-<span class="int">2</span>
-<span class="cun">3</span>
-<span class="wil">2</span>
-<span class="pre">1</span>
-</div>
-
-- **Wound Threshold:** 11 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Play Dead:** Once per encounter, may become incapacitated to avoid further attacks
-- **Scavenger:** Add <span class='boost'>b</span> to Survival checks to find resources
-- **Nocturnal:** Remove <span class='setback'>b</span> from checks made in darkness
-
-**Starting Skills:** Choose 2 from: Cool, Deception, Skulduggery, Stealth, Streetwise, Survival, Vigilance
-
-\columnbreak
-
-### Raccoons *(The Operators)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">3</span>
-<span class="wil">1</span>
-<span class="pre">1</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 10 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Dexterous Paws:** Add <span class='boost'>b</span> to Skulduggery checks involving fine manipulation
-- **Natural Fence:** Reduce difficulty of selling stolen goods by 1
-- **Mask of Innocence:** Add <span class='boost'>b</span> to Deception checks to appear harmless
-
-**Starting Skills:** Choose 2 from: Coordination, Deception, Skulduggery, Stealth, Streetwise, Vigilance
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Traditional Species
-
-### Badgers *(The Old Guard)*
-
-<div class="archetype">
-<span class="bra">4</span>
-<span class="agi">1</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">3</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 12 + Brawn
-- **Strain Threshold:** 12 + Willpower
-- **Starting XP:** 90
-
-**Special Abilities:**
-- **Territorial:** Add <span class='boost'>b</span><span class='boost'>b</span> to combat checks when defending property or family
-- **Burrow Rights:** Start with property ownership and legal standing
-- **Fierce Reputation:** Add <span class='boost'>b</span> to Coercion checks, remove <span class='setback'>b</span> from Discipline checks
-
-**Starting Skills:** Choose 2 from: Brawl, Coercion, Discipline, Knowledge (City), Leadership, Vigilance
-
-\columnbreak
-
-### Weasels *(The Information Brokers)*
-
-<div class="archetype">
-<span class="bra">1</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">4</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 8 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Infiltrator:** Add <span class='boost'>b</span> to Stealth checks, can fit through very small spaces
-- **Information Network:** Start with contacts in multiple burrows
-- **Flexible Morality:** Add <span class='boost'>b</span> to Deception checks, remove <span class='setback'>b</span> from social checks with criminals
-
-**Starting Skills:** Choose 2 from: Deception, Perception, Skulduggery, Stealth, Streetwise, Vigilance
-
-\columnbreak
-
-## Specialized Species
-
-### Moles *(The Underground Masters)*
-
-<div class="archetype">
-<span class="bra">3</span>
-<span class="agi">1</span>
-<span class="int">3</span>
-<span class="cun">3</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 11 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Tunneling Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to excavation and underground navigation
-- **Sensitive Touch:** Can navigate by touch alone, remove <span class='setback'>b</span> from checks in total darkness
-- **Underground Network:** Start with transportation contacts throughout the Great Underground
-
-**Starting Skills:** Choose 2 from: Athletics, Knowledge (Science), Mechanics, Navigation, Perception, Survival
-
-### Voles *(The Middle Managers)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">2</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 9 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 110
-
-**Special Abilities:**
-- **Reliable Workers:** Once per session, may reroll any failed skill check
-- **Administrative Mind:** Add <span class='boost'>b</span> to all Knowledge checks related to bureaucracy or organization
-- **Unnoticed:** Often overlooked, add <span class='boost'>b</span> to Stealth checks in social situations
-
-**Starting Skills:** Choose 2 from: Knowledge (City), Negotiation, Perception, Vigilance, Discipline, Cool
-
-**Background:** The backbone of Mousehattan's service economy, voles keep the city running through quiet competence and administrative expertise.
-
-**Cultural Traits:**
-- Masters of middle management and bureaucratic systems
-- Excellent at remembering details and following procedures
-- Often underestimated but essential to city operations
-- Strong work ethic with emphasis on reliability over ambition
-
-**Vocal Patterns:** Measured, professional speech with careful word choice. Tend to speak in passive voice and use qualifying statements. Never interrupt superiors.
-
-\columnbreak
-
-### Hamsters *(The Hoarders)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">1</span>
-<span class="int">2</span>
-<span class="cun">3</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Cheek Pouches:** Can carry items up to Encumbrance 3 without penalty
-- **Storage Expert:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks involving organizing or finding stored items
-- **Hibernation Heritage:** Can survive on minimal resources, reduce lifestyle costs by 50%
-
-**Starting Skills:** Choose 2 from: Negotiation, Knowledge (City), Mechanics, Perception, Vigilance, Survival
-
-**Background:** Natural merchants and storage specialists, hamsters run many of Mousehattan's warehouses and trading posts.
-
-**Cultural Traits:**
-- Obsessive about storage and organization systems
-- Natural traders with excellent memory for inventory
-- Tendency to prepare for worst-case scenarios
-- Strong family businesses passed through generations
-
-**Vocal Patterns:** Slightly muffled speech (cheek pouches), rapid listing of items and prices. Excel at mental mathematics and speak in merchant shorthand.
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
