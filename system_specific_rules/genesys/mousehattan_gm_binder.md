@@ -857,8 +857,6 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
-\pagebreakNum
-
 ### Beavers *(The Builders)*
 
 <div class="archetype">
@@ -890,6 +888,8 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 **Occupations:** Dam building, construction, water management, lumber processing
 
 **Sayings:** *"Busy as a beaver"* / *"Still water, strong dam"*
+
+\pagebreakNum
 
 ### Rabbits *(The Cooperators)*
 
@@ -947,6 +947,8 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 
 **Background:** Mountain immigrants bringing revolutionary terracing and communal traditions.
 
+\columnbreak
+
 **Cultural Traits:** Group decision-making through squeaking councils, beetle-communication whistlers, mountain-to-forest adaptation specialists.
 
 **Vocal Patterns:** Musical speech with rolling R's, Common Forest/Andean dialect switching, collective "we" instead of "I."
@@ -969,7 +971,6 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 # Additional Species
 
-\columnBreak
 
 ## Otters *(The Watercreatures)*
 
@@ -1437,7 +1438,6 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"Echo tells truth"* (listen more than you speak)
 - *"Night flight, day fright"* (own your time)
 
-\columnBreak
 
 ### Foxes *(The Cunning Outcasts)*
 
@@ -1668,6 +1668,214 @@ This creates intergenerational dynamics where longer-lived species serve as ment
 
 \pagebreakNum
 
+# Additional Species Archetypes
+
+Beyond the core six species, The Great Burrow houses many other creatures, each bringing unique abilities and cultural perspectives.
+
+## Water Species
+
+### Otters *(The Water Workers)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">1</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 10 + Willpower  
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Aquatic Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to all Athletics checks in water
+- **Playful Nature:** Add <span class='boost'>b</span> to Charm checks, remove <span class='setback'>b</span> from social interactions
+- **Slippery:** Add <span class='boost'>b</span> to Coordination checks to escape restraints
+
+**Starting Skills:** Choose 2 from: Athletics, Coordination, Mechanics, Resilience, Streetwise, Survival, Vigilance, Vehicles
+
+### Muskrats *(The Marsh Dwellers)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 110
+
+**Special Abilities:**
+- **Marsh Navigation:** Remove <span class='setback'>b</span> from movement in wetlands and marshy terrain
+- **Small Craft:** Add <span class='boost'>b</span> to Vehicles checks when piloting small boats
+- **Resourceful:** Once per session, may produce a useful common item from "somewhere"
+
+**Starting Skills:** Choose 2 from: Athletics, Coordination, Survival, Vehicles, Vigilance, Streetwise
+
+
+
+## Underworld Species
+
+### Opossums *(The Survivors)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Play Dead:** Once per encounter, may become incapacitated to avoid further attacks
+- **Scavenger:** Add <span class='boost'>b</span> to Survival checks to find resources
+- **Nocturnal:** Remove <span class='setback'>b</span> from checks made in darkness
+
+**Starting Skills:** Choose 2 from: Cool, Deception, Skulduggery, Stealth, Streetwise, Survival, Vigilance
+
+\columnbreak
+
+### Raccoons *(The Operators)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 10 + Brawn
+- **Strain Threshold:** 10 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Dexterous Paws:** Add <span class='boost'>b</span> to Skulduggery checks involving fine manipulation
+- **Natural Fence:** Reduce difficulty of selling stolen goods by 1
+- **Mask of Innocence:** Add <span class='boost'>b</span> to Deception checks to appear harmless
+
+**Starting Skills:** Choose 2 from: Coordination, Deception, Skulduggery, Stealth, Streetwise, Vigilance
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Traditional Species
+
+### Badgers *(The Old Guard)*
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">1</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 12 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 90
+
+**Special Abilities:**
+- **Territorial:** Add <span class='boost'>b</span><span class='boost'>b</span> to combat checks when defending property or family
+- **Burrow Rights:** Start with property ownership and legal standing
+- **Fierce Reputation:** Add <span class='boost'>b</span> to Coercion checks, remove <span class='setback'>b</span> from Discipline checks
+
+**Starting Skills:** Choose 2 from: Brawl, Coercion, Discipline, Knowledge (City), Leadership, Vigilance
+
+\columnbreak
+
+### Weasels *(The Information Brokers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">4</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 8 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Infiltrator:** Add <span class='boost'>b</span> to Stealth checks, can fit through very small spaces
+- **Information Network:** Start with contacts in multiple burrows
+- **Flexible Morality:** Add <span class='boost'>b</span> to Deception checks, remove <span class='setback'>b</span> from social checks with criminals
+
+**Starting Skills:** Choose 2 from: Deception, Perception, Skulduggery, Stealth, Streetwise, Vigilance
+
+\columnbreak
+
+## Specialized Species
+
+### Shrews *(The Insect Whisperers)*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">2</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">1</span>
+</div>
+
+- **Wound Threshold:** 7 + Brawn
+- **Strain Threshold:** 12 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Insect Communication:** Can communicate with non-sapient insects through ultrasonic whistles
+- **High Metabolism:** Require more food, but gain <span class='boost'>b</span> to all checks after eating
+- **Tiny Size:** Add <span class='boost'>b</span> to Stealth checks, but reduce Encumbrance Threshold by 2
+
+**Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Medicine, Perception, Survival
+
+\columnbreak
+
+### Moles *(The Underground Masters)*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 100
+
+**Special Abilities:**
+- **Tunneling Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to excavation and underground navigation
+- **Sensitive Touch:** Can navigate by touch alone, remove <span class='setback'>b</span> from checks in total darkness
+- **Underground Network:** Start with transportation contacts throughout the Great Underground
+
+**Starting Skills:** Choose 2 from: Athletics, Knowledge (Science), Mechanics, Navigation, Perception, Survival
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 # Careers
 
 ## Burrow-Specific Careers
@@ -1720,22 +1928,6 @@ Traders in goods and services that exist outside the legal economy.
 **Skills:** Deception, Negotiation, Skulduggery, Streetwise, Vigilance, Knowledge (City), Cool, Perception
 **Starting Equipment:** Contraband goods, hidden storage, criminal contacts
 
-<div class='note'>
-
-#### <u>Career Advancement</u>
-
-Characters can advance within careers or cross-train as they gain experience. Careers reflect skills, social connections, and cultural understanding.
-
-</div>
-
-<div class='example'>
-
-##### Career in Action
-Marcus the rat started as a Dock Worker in Lin's Brook but has been taking jobs from the Whisker Family crime organization. His player is spending XP to learn skills from the Crime Family Associate career, representing his growing involvement in organized crime.
-
-Meanwhile, his childhood friend Bella the mouse parlayed her Construction Worker background into becoming a Union Organizer, using her understanding of working conditions to advocate for better treatment of laborers.
-
-</div>
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -1795,6 +1987,86 @@ Meanwhile, his childhood friend Bella the mouse parlayed her Construction Worker
 \pagebreakNum
 
 
+# Equipment and Gear
+
+## Species Manufacturing Differences
+
+Different species bring their unique cultural approaches and natural abilities to crafting, resulting in distinct variations of standard equipment.
+
+### Mouse-Made Equipment
+- **Modifications:** Add <span class='boost'>b</span> to Mechanics checks when using tools, +1 Accurate quality to ranged weapons
+- **Price:** +50% (precision craftsmanship)
+- **Aesthetics:** Incredibly detailed and precise construction with intricate engravings
+
+### Rat-Made Equipment
+- **Modifications:** Reduce rarity by 1 (mass production), +1 Encumbrance (bulkier but functional)
+- **Price:** -25% (efficient manufacturing)
+- **Aesthetics:** Practical, robust construction focused on reliability over elegance
+
+### Beaver-Made Equipment
+- **Modifications:** +1 Defense (armor), +1 Damage (weapons), +1 Encumbrance (heavier construction)
+- **Price:** +25% (superior materials and construction)
+- **Aesthetics:** Incredibly sturdy construction built to last generations
+
+### Raccoon-Made Equipment
+- **Modifications:** Add Concealable quality, +1 <span class='boost'>b</span> to Skulduggery checks when using tools, rarity +1
+- **Price:** +30% (specialized criminal applications)
+- **Aesthetics:** Cleverly disguised equipment that appears innocent but serves multiple purposes
+
+<div class='example'>
+
+##### Using Species Manufacturing
+A **Mouse-made Needle Sword** would have Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 52 acorns (35 + 50%), *Pierce 1, Accurate 1*
+
+A **Beaver-made Bark Plate** would have Soak +4 (+3 base +1 species), Defense 1, Encumbrance 5 (+1 species), Price 375 acorns (300 + 25%), *Cumbersome 1*
+
+</div>
+
+\columnbreak
+
+## Weapons
+
+### Improvised Weapons
+- **Thorn Spear:** Damage 3, Crit 4, Range [Engaged], Encumbrance 2, Price 5 acorns
+- **Sling:** Damage 4, Crit 4, Range [Medium], Encumbrance 1, Price 10 acorns
+- **Claw Guards:** Damage 2, Crit 3, Range [Engaged], Encumbrance 1, Price 15 acorns, *Defensive 1*
+- **Acorn Cap Shield:** Defense +1, Encumbrance 2, Price 8 acorns, *Defensive 1*
+- **Sharpened Stick:** Damage 2, Crit 5, Range [Engaged], Encumbrance 1, Price 2 acorns
+
+### Traditional Weapons
+- **Nutcracker Club:** Damage 4, Crit 4, Range [Engaged], Encumbrance 3, Price 20 acorns, *Knockdown*
+- **Bark Bow:** Damage 5, Crit 3, Range [Long], Encumbrance 2, Price 40 acorns, *Prepare 1*
+- **Needle Sword:** Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 35 acorns, *Pierce 1*
+- **Stone Axe:** Damage 5, Crit 3, Range [Engaged], Encumbrance 3, Price 25 acorns, *Vicious 1*
+
+### Specialized Weapons
+- **Beetle Prod:** Damage 2, Crit 5, Range [Engaged], Encumbrance 1, Price 30 acorns, *Stun Damage*
+- **Fishing Spear:** Damage 4, Crit 3, Range [Short], Encumbrance 2, Price 18 acorns, *Accurate 1* (underwater)
+- **Climbing Pick:** Damage 3, Crit 4, Range [Engaged], Encumbrance 1, Price 22 acorns, *Pierce 1, Defensive 1*
+
+### Ranger Equipment
+- **Poison Dart:** Damage 3, Crit 2, Range [Short], Encumbrance 0, Price 25 acorns, *Poison (stun)*
+- **Entanglement Net:** Damage 1, Crit 6, Range [Short], Encumbrance 2, Price 50 acorns, *Ensnare 2*
+- **Ranger Crossbow:** Damage 6, Crit 3, Range [Long], Encumbrance 3, Price 150 acorns, *Accurate 1, Prepare 1*
+
+## Armor
+
+### Light Armor
+- **Work Clothes:** Soak +1, Defense 0, Encumbrance 1, Price 20 acorns
+- **Leather Vest:** Soak +1, Defense 1, Encumbrance 1, Price 45 acorns
+- **Courier Gear:** Soak +1, Defense 1, Encumbrance 1, Price 60 acorns, *Reduces falling damage by 1*
+
+### Heavy Armor
+- **Ranger Gear:** Soak +2, Defense 1, Encumbrance 3, Price 200 acorns, *Environmental protection*
+- **Bark Plate:** Soak +3, Defense 1, Encumbrance 4, Price 300 acorns, *Cumbersome 1*
+- **Shell Armor:** Soak +4, Defense 0, Encumbrance 5, Price 450 acorns, *Cumbersome 2, made from large insect shells*
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+
 # Arts and Entertainment
 
 The Great Burrow's cultural life reflects diverse species and unique urban forest challenges.
@@ -1821,7 +2093,7 @@ The Great Burrow's cultural life reflects diverse species and unique urban fores
 - **Audience:** Most diverse in the city, heavy working-class and immigrant attendance
 - **Cultural Impact:** Showcases immigrant experiences and promotes cultural understanding
 
-\\columnbreak
+\columnbreak
 
 ## Visual Arts
 
@@ -1862,7 +2134,7 @@ The Great Burrow's cultural life reflects diverse species and unique urban fores
 <div class=\"footnote\">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
-\\pagebreakNum
+\pagebreakNum
 
 ## Communication Systems
 
@@ -1878,7 +2150,7 @@ The Great Burrow's cultural life reflects diverse species and unique urban fores
 - **Underground Mail:** Secure tunnel-based communications, weather-independent and confidential
 - **Crow Network:** Information brokerage with corvids, payment in shiny objects or favors
 
-\\columnbreak
+\columnbreak
 
 ### Public Information Systems
 - **Town Criers:** Frogs and toads making public announcements at major gathering places
@@ -1914,73 +2186,6 @@ Community bonding during the darkest time. Underground gatherings with storytell
 <div class=\"footnote\">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
-\\pagebreakNum
-
-# Equipment and Gear
-
-## Species Manufacturing Differences
-
-Different species bring their unique cultural approaches and natural abilities to crafting, resulting in distinct variations of standard equipment.
-
-### Mouse-Made Equipment
-- **Modifications:** Add <span class='boost'>b</span> to Mechanics checks when using tools, +1 Accurate quality to ranged weapons
-- **Price:** +50% (precision craftsmanship)
-- **Aesthetics:** Incredibly detailed and precise construction with intricate engravings
-
-### Rat-Made Equipment
-- **Modifications:** Reduce rarity by 1 (mass production), +1 Encumbrance (bulkier but functional)
-- **Price:** -25% (efficient manufacturing)
-- **Aesthetics:** Practical, robust construction focused on reliability over elegance
-
-### Beaver-Made Equipment
-- **Modifications:** +1 Defense (armor), +1 Damage (weapons), +1 Encumbrance (heavier construction)
-- **Price:** +25% (superior materials and construction)
-- **Aesthetics:** Incredibly sturdy construction built to last generations
-
-### Raccoon-Made Equipment
-- **Modifications:** Add Concealable quality, +1 <span class='boost'>b</span> to Skulduggery checks when using tools, rarity +1
-- **Price:** +30% (specialized criminal applications)
-- **Aesthetics:** Cleverly disguised equipment that appears innocent but serves multiple purposes
-
-<div class='example'>
-
-##### Using Species Manufacturing
-A **Mouse-made Needle Sword** would have Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 52 acorns (35 + 50%), *Pierce 1, Accurate 1*
-
-A **Beaver-made Bark Plate** would have Soak +4 (+3 base +1 species), Defense 1, Encumbrance 5 (+1 species), Price 375 acorns (300 + 25%), *Cumbersome 1*
-
-</div>
-
-\columnbreak
-
-## Weapons
-
-### Traditional Weapons
-- **Nutcracker Club:** Damage 4, Crit 4, Range [Engaged], Encumbrance 3, Price 20 acorns, *Knockdown*
-- **Bark Bow:** Damage 5, Crit 3, Range [Long], Encumbrance 2, Price 40 acorns, *Prepare 1*
-- **Needle Sword:** Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 35 acorns, *Pierce 1*
-- **Stone Axe:** Damage 5, Crit 3, Range [Engaged], Encumbrance 3, Price 25 acorns, *Vicious 1*
-
-### Ranger Equipment
-- **Poison Dart:** Damage 3, Crit 2, Range [Short], Encumbrance 0, Price 25 acorns, *Poison (stun)*
-- **Entanglement Net:** Damage 1, Crit 6, Range [Short], Encumbrance 2, Price 50 acorns, *Ensnare 2*
-- **Ranger Crossbow:** Damage 6, Crit 3, Range [Long], Encumbrance 3, Price 150 acorns, *Accurate 1, Prepare 1*
-
-## Armor
-
-### Light Armor
-- **Work Clothes:** Soak +1, Defense 0, Encumbrance 1, Price 20 acorns
-- **Leather Vest:** Soak +1, Defense 1, Encumbrance 1, Price 45 acorns
-- **Courier Gear:** Soak +1, Defense 1, Encumbrance 1, Price 60 acorns, *Reduces falling damage by 1*
-
-### Heavy Armor
-- **Ranger Gear:** Soak +2, Defense 1, Encumbrance 3, Price 200 acorns, *Environmental protection*
-- **Bark Plate:** Soak +3, Defense 1, Encumbrance 4, Price 300 acorns, *Cumbersome 1*
-- **Shell Armor:** Soak +4, Defense 0, Encumbrance 5, Price 450 acorns, *Cumbersome 2, made from large insect shells*
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
 \pagebreakNum
 
 ## Insect-Powered Technology
@@ -2012,7 +2217,6 @@ A **Beaver-made Bark Plate** would have Soak +4 (+3 base +1 species), Defense 1,
 - **Ferry Ticket:** Single crossing to Scurry Island, Price 2 acorns
 - **Courier Service:** Message delivery, Price 1-5 acorns depending on distance
 
-\columnbreak
 
 <div class='note'>
 
@@ -2029,7 +2233,10 @@ Trade also happens through barter, especially for specialized services and rare 
 
 </div>
 
+
+\columnbreak
 <div class='example'>
+
 
 ##### Equipment in Action
 Vera the chipmunk courier is upgrading her gear. She purchases a **Squirrel-made** rope harness for climbing, which reduces the weight by 1 Encumbrance (minimum 0) and adds Superior quality for climbing applications. 
@@ -2086,7 +2293,25 @@ Having survived a direct titan encounter, add <span class='boost'>b</span> to al
 ### Master Craftscreature *(Passive)*
 Choose one type of crafting (construction, insect management, etc.). Add <span class='boost'>b</span><span class='boost'>b</span> to all related checks. Reduce time and cost of creating items by 25%.
 
-\columnbreak
+\pagebreakNum
+
+## Tier 3 Talents
+
+### Burrow Boss *(Passive)*
+Leadership position in burrow hierarchy. Add <span class='boost'>b</span><span class='boost'>b</span> to Leadership checks. Can call upon significant resources and followers. Gain political influence but also enemies.
+
+### Ranger Elite *(Passive)*
+Veteran of multiple titan encounters. Add <span class='boost'>b</span><span class='boost'>b</span> to all combat checks against large creatures. Gain access to advanced Ranger equipment and tactics.
+
+### Underground Railroad *(Active)*
+Can help creatures disappear from their old lives and start new ones. Once per session, can provide false identity, safe passage, or sanctuary for any creature.
+
+### Titan Affinity *(Passive)*
+*Prerequisite: Survived an encounter with a Titan, or DM approval*
+One of the Titan-related skills becomes a career skill for you, based on the titan you have encountered.
+
+
+\pagebreakNum
 
 ## Species-Specific Talents
 
@@ -2110,15 +2335,9 @@ Your hoarding instincts are legendary. Increase your Encumbrance Threshold by 3.
 
 Your construction expertise is unmatched. When making Mechanics checks related to building or repair, add <span class='boost'>b</span><span class='boost'>b</span> to the check and reduce the time required by half.
 
-<div class='note'>
+\pagebreakNum
 
-#### <u>Titan-Touched Abilities</u>
 
-Some talents reflect the mysterious phenomena that occasionally manifest in creatures who have survived direct encounters with the giants. These abilities are subtle and rare, often dismissed by urban dwellers as coincidence or delusion.
-
-**Titan Affinity** allows characters to develop magical skills based on which titan they encountered, representing the deep psychological and spiritual impact of such experiences.
-
-</div>
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -3329,206 +3548,6 @@ Welcome to The Great Burrow - where every dawn brings opportunity and danger in 
 12. Harvest festival chaos
 
 </div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-# Additional Species Archetypes
-
-Beyond the core six species, The Great Burrow houses many other creatures, each bringing unique abilities and cultural perspectives.
-
-## Water Species
-
-### Otters *(The Water Workers)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">1</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 10 + Willpower  
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Aquatic Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to all Athletics checks in water
-- **Playful Nature:** Add <span class='boost'>b</span> to Charm checks, remove <span class='setback'>b</span> from social interactions
-- **Slippery:** Add <span class='boost'>b</span> to Coordination checks to escape restraints
-
-**Starting Skills:** Choose 2 from: Athletics, Coordination, Mechanics, Resilience, Streetwise, Survival, Vigilance, Vehicles
-
-### Muskrats *(The Marsh Dwellers)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">2</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 110
-
-**Special Abilities:**
-- **Marsh Navigation:** Remove <span class='setback'>b</span> from movement in wetlands and marshy terrain
-- **Small Craft:** Add <span class='boost'>b</span> to Vehicles checks when piloting small boats
-- **Resourceful:** Once per session, may produce a useful common item from "somewhere"
-
-**Starting Skills:** Choose 2 from: Athletics, Coordination, Survival, Vehicles, Vigilance, Streetwise
-
-\columnbreak
-
-## Underworld Species
-
-### Opossums *(The Survivors)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">2</span>
-<span class="int">2</span>
-<span class="cun">3</span>
-<span class="wil">2</span>
-<span class="pre">1</span>
-</div>
-
-- **Wound Threshold:** 11 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Play Dead:** Once per encounter, may become incapacitated to avoid further attacks
-- **Scavenger:** Add <span class='boost'>b</span> to Survival checks to find resources
-- **Nocturnal:** Remove <span class='setback'>b</span> from checks made in darkness
-
-**Starting Skills:** Choose 2 from: Cool, Deception, Skulduggery, Stealth, Streetwise, Survival, Vigilance
-
-### Raccoons *(The Operators)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">3</span>
-<span class="wil">1</span>
-<span class="pre">1</span>
-</div>
-
-- **Wound Threshold:** 10 + Brawn
-- **Strain Threshold:** 10 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Dexterous Paws:** Add <span class='boost'>b</span> to Skulduggery checks involving fine manipulation
-- **Natural Fence:** Reduce difficulty of selling stolen goods by 1
-- **Mask of Innocence:** Add <span class='boost'>b</span> to Deception checks to appear harmless
-
-**Starting Skills:** Choose 2 from: Coordination, Deception, Skulduggery, Stealth, Streetwise, Vigilance
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Traditional Species
-
-### Badgers *(The Old Guard)*
-
-<div class="archetype">
-<span class="bra">4</span>
-<span class="agi">1</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">3</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 12 + Brawn
-- **Strain Threshold:** 12 + Willpower
-- **Starting XP:** 90
-
-**Special Abilities:**
-- **Territorial:** Add <span class='boost'>b</span><span class='boost'>b</span> to combat checks when defending property or family
-- **Burrow Rights:** Start with property ownership and legal standing
-- **Fierce Reputation:** Add <span class='boost'>b</span> to Coercion checks, remove <span class='setback'>b</span> from Discipline checks
-
-**Starting Skills:** Choose 2 from: Brawl, Coercion, Discipline, Knowledge (City), Leadership, Vigilance
-
-### Weasels *(The Information Brokers)*
-
-<div class="archetype">
-<span class="bra">1</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">4</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 8 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Infiltrator:** Add <span class='boost'>b</span> to Stealth checks, can fit through very small spaces
-- **Information Network:** Start with contacts in multiple burrows
-- **Flexible Morality:** Add <span class='boost'>b</span> to Deception checks, remove <span class='setback'>b</span> from social checks with criminals
-
-**Starting Skills:** Choose 2 from: Deception, Perception, Skulduggery, Stealth, Streetwise, Vigilance
-
-\columnbreak
-
-## Specialized Species
-
-### Shrews *(The Insect Whisperers)*
-
-<div class="archetype">
-<span class="bra">1</span>
-<span class="agi">2</span>
-<span class="int">3</span>
-<span class="cun">2</span>
-<span class="wil">3</span>
-<span class="pre">1</span>
-</div>
-
-- **Wound Threshold:** 7 + Brawn
-- **Strain Threshold:** 12 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Insect Communication:** Can communicate with non-sapient insects through ultrasonic whistles
-- **High Metabolism:** Require more food, but gain <span class='boost'>b</span> to all checks after eating
-- **Tiny Size:** Add <span class='boost'>b</span> to Stealth checks, but reduce Encumbrance Threshold by 2
-
-**Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Medicine, Perception, Survival
-
-### Moles *(The Underground Masters)*
-
-<div class="archetype">
-<span class="bra">3</span>
-<span class="agi">1</span>
-<span class="int">3</span>
-<span class="cun">3</span>
-<span class="wil">2</span>
-<span class="pre">2</span>
-</div>
-
-- **Wound Threshold:** 11 + Brawn
-- **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
-
-**Special Abilities:**
-- **Tunneling Mastery:** Add <span class='boost'>b</span><span class='boost'>b</span> to excavation and underground navigation
-- **Sensitive Touch:** Can navigate by touch alone, remove <span class='setback'>b</span> from checks in total darkness
-- **Underground Network:** Start with transportation contacts throughout the Great Underground
-
-**Starting Skills:** Choose 2 from: Athletics, Knowledge (Science), Mechanics, Navigation, Perception, Survival
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
