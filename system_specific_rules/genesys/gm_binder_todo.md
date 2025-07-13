@@ -76,9 +76,6 @@
 - [ ] **Voles** - Mentioned in various demographics but no archetype stats
 - [ ] **Hamsters** - Referenced in Hives demographics but no archetype
 - [ ] **Pine Martens** - Referenced in Pine Barrens trade but no archetype
-- [ ] **Corvids** - Critical to The Branchx but need full archetype treatment
-- [ ] **Mixed Heritage Rules** - For cross-species relationships and children
-- [ ] **Disability Accommodations** - Mentioned in species.md but not in rules
 - [ ] **Species Aging Differences** - Important for long campaigns
 
 ### 2. Organized Crime Expansion (from misc/organized_crime.md)

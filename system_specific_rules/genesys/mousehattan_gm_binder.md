@@ -3335,31 +3335,27 @@ Each season brings different challenges and opportunities:
 ## Environmental Hazard Tables
 
 ### Titan Encounter Table (d100)
-| Roll | Titan Type | Threat Level | Typical Response |
-|:---:|:---|:---:|:---|
-| 01-40 | None | - | Normal operations |
-| 41-60 | Deer | Moderate | Evacuate upper levels |
-| 61-75 | Wild Boar | High | Tunnel collapse risk |
-| 76-85 | Bear | Extreme | Full evacuation |
-| 86-95 | Multiple | Critical | City-wide emergency |
-| 96-00 | Moose | Catastrophic | Abandon district |
+  - **01-40:** None — Normal operations
+  - **41-60:** Deer (Moderate) — Evacuate upper levels
+  - **61-75:** Wild Boar (High) — Tunnel collapse risk
+  - **76-85:** Bear (Extreme) — Full evacuation
+  - **86-95:** Multiple (Critical) — City-wide emergency
+  - **96-00:** Moose (Catastrophic) — Abandon district
 
 ### Predator Activity by Time (d100)
-| Roll | Dawn | Day | Dusk | Night |
-|:---:|:---|:---|:---|:---|
-| 01-30 | Hawks | Clear | Hawks | Owls |
-| 31-50 | Foxes | Hawks | Foxes | Snakes |
-| 51-70 | Clear | Clear | Snakes | Foxes |
-| 71-85 | Multiple | Corvids | Multiple | Multiple |
-| 86-00 | Surprise | Clear | Surprise | Surprise |
+
+- **01-30:** Dawn: Hawks — Day: Clear — Dusk: Hawks — Night: Owls
+- **31-50:** Dawn: Foxes — Day: Hawks — Dusk: Foxes — Night: Snakes
+- **51-70:** Dawn: Clear — Day: Clear — Dusk: Snakes — Night: Foxes
+- **71-85:** Dawn: Multiple — Day: Corvids — Dusk: Multiple — Night: Multiple
+- **86-00:** Dawn: Surprise — Day: Clear — Dusk: Surprise — Night: Surprise
 
 ### Weather Severity Table
-| Season | Minor (<span class='difficulty'>d</span>) | Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>) | Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>) |
-|:---|:---|:---|:---|
-| Spring | Light rain | Flooding risk | Flash floods |
-| Summer | Hot day | Heat wave | Drought |
-| Autumn | Wind | Storm | Hurricane |
-| Winter | Cold snap | Snow | Blizzard |
+
+- **Spring:** Minor (<span class='difficulty'>d</span>): Light rain — Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>): Flooding risk — Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>): Flash floods
+- **Summer:** Minor (<span class='difficulty'>d</span>): Hot day — Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>): Heat wave — Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>): Drought
+- **Autumn:** Minor (<span class='difficulty'>d</span>): Wind — Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>): Storm — Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>): Hurricane
+- **Winter:** Minor (<span class='difficulty'>d</span>): Cold snap — Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>): Snow — Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>): Blizzard
 
 ### Environmental Difficulty Modifiers
 - **Heavy Rain:** Add <span class='setback'>b</span> to physical activities
@@ -3372,31 +3368,28 @@ Each season brings different challenges and opportunities:
 \columnbreak
 
 ### Titan Warning Times
-| Detection Method | Warning Time | Evacuation Difficulty |
-|:---|:---:|:---:|
-| Ranger Scouts | 30 minutes | <span class='ability'>d</span><span class='ability'>d</span> |
-| Crow Allies | 20 minutes | <span class='difficulty'>d</span><span class='difficulty'>d</span> |
-| Ground Tremors | 10 minutes | <span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span> |
-| Visual Sighting | 5 minutes | <span class='challenge'>c</span><span class='difficulty'>d</span><span class='difficulty'>d</span> |
-| No Warning | 0 minutes | <span class='challenge'>c</span><span class='challenge'>c</span><span class='difficulty'>d</span> |
+
+- **Ranger Scouts:** 30 minutes warning — Evacuation Difficulty: <span class='ability'>d</span><span class='ability'>d</span>
+- **Crow Allies:** 20 minutes warning — Evacuation Difficulty: <span class='difficulty'>d</span><span class='difficulty'>d</span>
+- **Ground Tremors:** 10 minutes warning — Evacuation Difficulty: <span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>
+- **Visual Sighting:** 5 minutes warning — Evacuation Difficulty: <span class='challenge'>c</span><span class='difficulty'>d</span><span class='difficulty'>d</span>
+- **No Warning:** 0 minutes warning — Evacuation Difficulty: <span class='challenge'>c</span><span class='challenge'>c</span><span class='difficulty'>d</span>
 
 ### Predator Escape Options
-| Situation | Escape Method | Skill Check |
-|:---|:---|:---|
-| Open Ground | Sprint to cover | Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>) |
-| Near Trees | Climb to safety | Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span>) |
-| Near Water | Dive and swim | Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span>) |
-| In Group | Defensive circle | Cool (<span class='difficulty'>d</span>) + numbers |
-| Underground | Duck into tunnel | Perception (<span class='difficulty'>d</span><span class='difficulty'>d</span>) to find |
+
+- **Open Ground:** Sprint to cover — Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>)
+- **Near Trees:** Climb to safety — Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span>)
+- **Near Water:** Dive and swim — Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span>)
+- **In Group:** Defensive circle — Cool (<span class='difficulty'>d</span>) + numbers
+- **Underground:** Duck into tunnel — Perception (<span class='difficulty'>d</span><span class='difficulty'>d</span>) to find
 
 ### Infrastructure Damage
-| Event | Damage Type | Repair Time |
-|:---|:---|:---:|
-| Titan Step | Tunnel collapse | 2-7 days |
-| Flooding | Water damage | 1-3 weeks |
-| Wind Storm | Bridge damage | 3-5 days |
-| Predator | Rope/wood damage | 1-2 days |
-| Fire | Structure loss | Rebuild needed |
+
+- **Titan Step:** Tunnel collapse — 2-7 days repair
+- **Flooding:** Water damage — 1-3 weeks repair
+- **Wind Storm:** Bridge damage — 3-5 days repair
+- **Predator:** Rope/wood damage — 1-2 days repair
+- **Fire:** Structure loss — Rebuild needed
 
 <div class='example'>
 
@@ -4561,60 +4554,53 @@ These details make The Great Burrow feel like a real place where real creatures 
 #### <u>Quick Reference Tables</u>
 
 ##### Seasonal Challenges
-| Season | Environmental | Social | Economic |
-|:---:|:---:|:---:|:---:|
-| **Spring** | Flooding, construction season | Mating season tensions | Building boom, trade revival |
-| **Summer** | Heat, drought, peak titans | Tourism, social events | Peak trading, water costs |
-| **Autumn** | Storms, preparation pressure | Harvest celebrations | Economic boom, hoarding |
-| **Winter** | Cold, limited travel | Family gatherings, strain | Food scarcity, high costs |
+
+- **Spring:** Environmental: Flooding, construction season — Social: Mating season tensions — Economic: Building boom, trade revival
+- **Summer:** Environmental: Heat, drought, peak titans — Social: Tourism, social events — Economic: Peak trading, water costs
+- **Autumn:** Environmental: Storms, preparation pressure — Social: Harvest celebrations — Economic: Economic boom, hoarding
+- **Winter:** Environmental: Cold, limited travel — Social: Family gatherings, strain — Economic: Food scarcity, high costs
 
 ##### Titan Encounter Responses
-| Titan Type | Warning Time | Evacuation Scale | Duration |
-|:---:|:---:|:---:|:---:|
-| **Bear** | 30 minutes | City-wide | 2-6 hours |
-| **Deer** | 60 minutes | Affected districts | 1-3 hours |
-| **Moose** | 2+ hours | Regional | 4-12 hours |
-| **Wild Boar** | 15 minutes | Local areas | 30 minutes-2 hours |
+
+- **Bear:** 30 minutes warning — City-wide evacuation — 2-6 hours duration
+- **Deer:** 60 minutes warning — Affected districts evacuation — 1-3 hours duration
+- **Moose:** 2+ hours warning — Regional evacuation — 4-12 hours duration
+- **Wild Boar:** 15 minutes warning — Local areas evacuation — 30 minutes-2 hours duration
 
 ##### Crime Family Territory
-| Family | Primary Burrow | Activities | Approach |
-|:---:|:---:|:---:|:---:|
-| **Longtail** | Mousehattan | Traditional protection | Honor, respect |
-| **Whisker** | Mousehattan | Modern rackets | Business, profit |
-| **Silverclaw** | Lin's Brook | Waterfront, smuggling | Practical, direct |
-| **Shadow Runners** | Scurry Island | Black market, information | Survival, pragmatic |
+
+- **Longtail:** Mousehattan — Traditional protection — Honor, respect
+- **Whisker:** Mousehattan — Modern rackets — Business, profit
+- **Silverclaw:** Lin's Brook — Waterfront, smuggling — Practical, direct
+- **Shadow Runners:** Scurry Island — Black market, information — Survival, pragmatic
 
 </div>
 
 ##### Adventure Complications
 
-| <span class='dice'>d</span><span class='dice'>d</span> | Complication |
-|:---:|:---|
-| 2-3 | Titan spotted approaching the area |
-| 4-5 | Predator attack disrupts plans |
-| 6-7 | Weather turns dangerous |
-| 8-9 | Crime family gets involved |
-| 10-11 | Union strike affects transportation |
-| 12 | Government investigation launched |
+- **2-3:** Titan spotted approaching the area
+- **4-5:** Predator attack disrupts plans
+- **6-7:** Weather turns dangerous
+- **8-9:** Crime family gets involved
+- **10-11:** Union strike affects transportation
+- **12:** Government investigation launched
 
 \columnbreak
 
 ##### Random Encounters
 
-| <span class='dice'>d</span><span class='dice'>d</span> | Underground | Surface | Canopy |
-|:---:|:---|:---|:---|
-| 2-3 | Tunnel flooding | Hawk patrol | Bridge maintenance |
-| 4-5 | Train breakdown | Giant footprint | Nest robbers |
-| 6-7 | Lost tourist | Market crowd | Rope bridge traffic |
-| 8-9 | Crime family meeting | Street performance | Squirrel territory dispute |
-| 10-11 | Mole strike | Courier race | Construction accident |
-| 12 | Emergency evacuation | Titan offering ceremony | Crow gang recruitment |
+- **2-3:** Underground: Tunnel flooding — Surface: Hawk patrol — Canopy: Bridge maintenance
+- **4-5:** Underground: Train breakdown — Surface: Giant footprint — Canopy: Nest robbers
+- **6-7:** Underground: Lost tourist — Surface: Market crowd — Canopy: Rope bridge traffic
+- **8-9:** Underground: Crime family meeting — Surface: Street performance — Canopy: Squirrel territory dispute
+- **10-11:** Underground: Mole strike — Surface: Courier race — Canopy: Construction accident
+- **12:** Underground: Emergency evacuation — Surface: Titan offering ceremony — Canopy: Crow gang recruitment
 
 <div class='read'>
 
 *"The Great Burrow never sleeps. From the pre-dawn preparation of seed vendors to the after-midnight meetings in hidden speakeasies, this city pulses with the energy of creatures who refuse to be small. Every tunnel tells a story, every bridge represents a dream made real, and every citizen embodies the audacious spirit that built civilization in the shadow of giants."*
 
- From "A Newcomer's Guide to The Great Burrow" by Scholar Brightwhisker
+From "A Newcomer's Guide to The Great Burrow" by Scholar Brightwhisker
 
 </div>
 
