@@ -625,6 +625,12 @@ Welcome to the forest metropolis where tiny paws built impossible dreams. The Gr
 
 This is a city where squirrels build rope bridges between skyscrapers of bark and leaf, where beaver-engineered dams power workshops that never sleep, where organized crime families of rats control the shadows while mice cling to old money and older traditions. It's a place where shrews whistle commands to beetle workforces, where guinea pig innovations revolutionize ancient farming, where opossums run black markets and raccoons launder money with literal paw-washing.
 
+<div class='read'>
+
+*The morning mist rises from the forest floor as the first bell chimes from Mousehattan's Root Cathedral. Across the Great Burrow, ten thousand creatures stir to life. In The Branchx, squirrels leap between rope bridges, their morning chatter mixing with the creak of wood and the distant cry of a hawk. Below, in the Underground tunnels, mole work crews push the first trains of the day through passages that smell of earth and old roots. This is your city—dangerous, beautiful, and alive with possibility.*
+
+</div>
+
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
@@ -657,6 +663,20 @@ The giants aren't inherently malevolent - they simply exist at a scale that make
 - **Snakes**: Seasonal terror in the canopy
 - **Corvids**: Complex relationship - sometimes protection, sometimes threat
 
+<div class='note'>
+
+#### <u>Running Predator Encounters</u>
+
+When players encounter predators, create tension through:
+- **Perception checks** to spot them early
+- **Cool checks** to avoid panicking
+- **Stealth vs Vigilance** opposed checks
+- **Chase scenes** using range bands
+
+Remember: Predators shouldn't be constant combat - they're environmental hazards that shape behavior and create dramatic moments.
+
+</div>
+
 \columnbreak
 
 <div class='note'>
@@ -673,6 +693,13 @@ Yet the creatures of The Great Burrow have built a thriving civilization through
 ## The Five Burrows
 
 ### Mousehattan - The Vertical Metropolis
+
+<div class='read'>
+
+*You emerge from the Underground into Times Squeak just as the firefly lanterns flicker to life. The scent of roasted seeds fills your nostrils as vendors hawk their wares. Above, through gaps in the root ceiling, you glimpse the legendary Whiskers Building rising twelve stories of carved stone. A well-dressed mouse brushes past, muttering about acorn futures, while a rat in a sharp vest argues loudly into a beetle-phone about "making the hole bigger." Welcome to Mousehattan, where fortunes are made before dawn and lost before dusk.*
+
+</div>
+
 The beating heart of commerce and ambition, carved into a rocky outcropping where ancient oak roots create natural highways. Wall Street is literally carved into walls, while Times Squeak never sleeps under managed firefly lighting. This vertical city rises through seven distinct levels from Sub-Basement to Crown Level, housing 28,000 creatures in a maze of root highways and carved chambers.
 
 **Notable Features:** The Acorn Exchange trading floor built into the Trading Oak's hollow, the Whiskers Building (12 stories of carved stone), Gallery Row displaying rare seeds, and the infamous underground Squeakeasy run by the Longtail crime family. The district operates on "acorn time" with dawn-to-dusk financial markets driving the entire burrow's rhythm.
@@ -680,6 +707,13 @@ The beating heart of commerce and ambition, carved into a rocky outcropping wher
 **Demographics:** 40% mice (old money families), 25% rats (business and crime), 15% voles (middle management), 10% hamsters (merchants), 10% others.
 
 ### The Branchx - The Canopy Commons
+
+<div class='read'>
+
+*The rope bridge sways beneath your paws, a hundred tail-lengths above the forest floor. To your left, a chipmunk courier races past, cheeks bulging with messages, her crew tattoo visible on her shoulder. The afternoon sun filters through leaves, casting everything in green-gold light. From somewhere above comes the rhythmic hammering of the Nutcracker Union at work—building, always building, reaching ever higher. A squirrel matron passes, her tail held high with third-branch pride, while below, new immigrants scramble for space on the dangerous lower levels. This is The Branchx, where height is everything and everyone knows their place.*
+
+</div>
+
 Working-class pride in three-dimensional tree cities spanning five massive oaks and seven grand maples. 47 major rope bridge crossings connect the vertical neighborhoods, while emergency bark slides provide rapid descent during predator attacks. The canopy stretches across seven branch levels from "Ground Scrape" to "Crown Touch," housing 18,000 creatures in nest complexes and hollow expansions.
 
 **Cultural Identity:** Construction IS The Branchx - from the Nutcracker Union that controls building projects to the rope weavers whose craft passes through generations. The failed tunnel system below serves as both reminder of broken promises and convenient smuggling network. Corvid zones add danger where desperate creatures make deals with crow gangs for aerial protection.
@@ -694,6 +728,13 @@ The Great Burrow's most diverse district, sprawling across meadow clearings wher
 **Cultural Melting Pot:** "Everyone finds their place in the swarm" through cooperation rather than bloodlines. The Integration Center helps newcomers adapt, while cross-cultural families pioneer new ways of living. Night markets buzz with firefly light as creatures enjoy cuisine from across the known world.
 
 ### Lin's Brook - The Working Waterfront
+
+<div class='read'>
+
+*The morning shift bell clangs across the waterfront as fog rolls off Whisker Creek. An otter surfaces near the dock, fish writhing in her jaws, while beaver work crews inspect the Great Dam's mighty timbers. The air tastes of salt, sawdust, and honest sweat. A young rat loads cargo, dreaming of something more than dock work, while old-timers mutter about gentrification creeping in from Greenbank. The tide is turning—in more ways than one. This is Lin's Brook, where the water never lies and every creature knows the value of a hard day's work.*
+
+</div>
+
 Blue-collar waterfront pride where Whisker Creek meets the East River's tidal waters. The Great Dam powers water-driven workshops through Mill Falls, while seven secondary dams create distinct neighborhoods. This engineering marvel houses 20,000 creatures who know that high tide means water work while low tide brings maintenance and repairs.
 
 **Working Culture:** The Dockworkers Union (otter-dominated) shares power with the Builders Guild (beaver-led but increasingly diverse). Traditional industries like sustainable lumber harvesting and fishing feed the entire Great Burrow, while gentrifying Greenbank converts old warehouses into artisanal workshops - to the disgust of working families priced out of their ancestral lodges.
@@ -705,6 +746,13 @@ Blue-collar waterfront pride where Whisker Creek meets the East River's tidal wa
 \pagebreakNum
 
 ### Scurry Island - The Forgotten Burrow
+
+<div class='read'>
+
+*The ferry lurches as it approaches Scurry Island's ramshackle dock. Through the mist, you see them—Rangers, standing watch on the Heights, quills and crossbows ready. Below, the Harbor Market sprawls in chaotic glory, where anything can be bought if you know the right creature to ask. An opossum plays dead in an alley while picking pockets. A one-eyed badger spits tobacco juice and sizes you up. "First time on the Island?" she growls. "Then remember the rules: mind your business, pay your debts, and when the titan bell rings—you run like hell or you die standing." Welcome to the last free place in The Great Burrow.*
+
+</div>
+
 Isolated on a true island across dangerous straits, this 10,000-creature community serves as both shadow economy hub and last line of defense against Deep Woods titans. The rocky shores and dense interior provide perfect cover for those seeking to disappear from mainland law. Connected only by three ferries (two usually broken), this is where the desperate, the criminal, and the brave Rangers make their home.
 
 **The Ranger Corps:** Elite scouts operate from fortified Heights overlooking the mainland. Led by a one-eyed badger Watch Commander, they recruit society's desperate to face bears, moose, and worse. Equipment includes poison-tipped porcupine quills, flash powder, and scent bombs. The Wall of the Fallen honors those who stood "between the city and the dark."
@@ -714,6 +762,12 @@ Isolated on a true island across dangerous straits, this 10,000-creature communi
 
 
 ## Infrastructure & Technology
+
+<div class='read'>
+
+*"Next stop, Grand Central Burrow!" The mole conductor's voice carries over the rumble of the Underground train. You grip the root-fiber strap as the car sways through a particularly tight turn. Around you, the morning commute presses close—a beaver engineer studying blueprint scratches on bark, two mice debating interest rates, a drowsy opossum heading home from night shift. The train car smells of earth, sweat, and that particular Underground mixture of mushroom and metal. Through the carved windows, tunnel lights flash past in hypnotic rhythm. This is how The Great Burrow moves, deep beneath predator and titan alike.*
+
+</div>
 
 ### The Great Underground
 The marvel of mole engineering, this subway system connects all five burrows through natural tunnels, hollow logs, and carved passages. Express routes follow main arteries while local service winds through neighborhoods.
@@ -842,6 +896,22 @@ Recent decades brought unprecedented prosperity alongside new challenges:
 - **Fall:** Harvest determines winter survival
 - **Winter:** Food politics dominate, heating becomes currency
 
+<div class='note'>
+
+#### <u>Seasonal Campaign Hooks</u>
+
+**Spring:** Flood rescue missions, romance subplots, new construction conflicts
+
+**Summer:** Water shortage negotiations, tourist-related crimes, heat-induced tensions
+
+**Fall:** Harvest sabotage mysteries, storage facility heists, preparation panics
+
+**Winter:** Food smuggling operations, warmth-based social dynamics, isolation stories
+
+Use seasons to drive urgency and change available resources/obstacles.
+
+</div>
+
 ### Social Hierarchy
 1. **Old Money:** Ancient families with prime territory rights
 2. **New Rich:** Entrepreneurs, crime families, innovators
@@ -894,6 +964,12 @@ This is life in The Great Burrow - dangerous, difficult, but never dull.
 \pagebreakNum
 
 # The Shadow Network - Organized Crime
+
+<div class='read'>
+
+*The back room of the Squeakeasy reeks of fermented berries and fear. Don Salvatore Longtail sits behind his oak-burl desk, one paw resting on a ledger, the other hidden beneath. His whiskers twitch once—the only sign he's heard your proposal. Behind him, two gray-coated rats crack their knuckles. "You come to my establishment," the Don says slowly, each word precise as a needle, "on the day of my daughter's tail-binding, and you ask me this favor? Tell me, friend—what makes you think the Longtail Family needs anything from you?" The silence that follows is heavy as winter snow.*
+
+</div>
 
 In the shadows between legitimate business and outright banditry lies The Great Burrow's complex criminal underworld. These organizations follow their own codes, respect their own territories, and handle their own justice.
 
@@ -1008,6 +1084,12 @@ Criminal families provide protection that often includes genuine services - defe
 
 # Species as Archetypes
 
+<div class='read'>
+
+*"You can tell everything about a creature by how they enter a room," old Grandmother Hazelnut used to say. And here in The Great Burrow, she was right. Watch the mouse pause at the threshold, checking exits and evaluating everyone's social standing. See the rat burst through, loud and confident, already talking about their next big score. Notice how the squirrel immediately scans for the highest perch, while the beaver examines the craftsmanship of the doorframe. Each species carries ten thousand years of instinct into this modern city—and in a world of giants and predators, those instincts keep you alive.*
+
+</div>
+
 Rather than using traditional fantasy races, characters choose from woodland creature species that function as archetypes, each providing different starting characteristics and special abilities.
 
 ## The Core Species
@@ -1048,6 +1130,20 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - *"A mouse can nibble through anything, given time"* (persistence wins)
 - *"Know your tunnels, know your exits"* (always have a backup plan)
 - *"Cheese ages, roots decay"* (some things improve with time, others don't)
+
+<div class='note'>
+
+#### <u>Roleplaying Different Species</u>
+
+Help players embody their species through:
+- **Physical mannerisms**: Mice groom whiskers when nervous, rats gesture broadly
+- **Speech patterns**: Reference the vocal patterns section
+- **Cultural values**: What matters to their species?
+- **Instinctive reactions**: Prey species freeze, predator species investigate
+
+Encourage species-specific solutions to problems!
+
+</div>
 
 \columnbreak
 
@@ -2117,6 +2213,21 @@ Labor activists working to improve conditions and rights for the city's working 
 **Skills:** Charm, Coercion, Leadership, Negotiation, Perception, Streetwise, Knowledge (City), Cool
 **Starting Equipment:** Union materials, worker contacts, meeting spaces
 
+<div class='note'>
+
+#### <u>Labor Conflicts as Adventures</u>
+
+Union stories provide non-combat challenges:
+- **Negotiation scenes** with management
+- **Rally organization** requiring Leadership
+- **Strike-breaking** attempts by crime families
+- **Sabotage investigations** at work sites
+- **Protection** of union leaders from thugs
+
+These create moral dilemmas and social encounters!
+
+</div>
+
 ### Black Market Dealer
 Traders in goods and services that exist outside the legal economy.
 
@@ -2183,6 +2294,12 @@ Traders in goods and services that exist outside the legal economy.
 
 
 # Equipment and Gear
+
+<div class='read'>
+
+*The weapon merchant spreads her wares across the moth-silk cloth. "Mouse-made," she says, lifting a needle sword that gleams with precision, "notice the balance, the engravings—five generations of technique in every fold." She sets it down, picks up a brutal nutcracker club. "Now this—pure Branchx work. Beaver-carved, squirrel-tested, could crack a giant's acorn or a rival's skull." Her raccoon paws dance over the goods with practiced ease. "Everything has its purpose, its maker, its story. The question is—what story do you want to tell?"*
+
+</div>
 
 ## Species Manufacturing Differences
 
@@ -2346,7 +2463,31 @@ A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add <spa
 
 Each burrow has its own distinct character, challenges, and opportunities. Understanding the neighborhoods and notable locations helps bring The Great Burrow to life.
 
+<div class='read'>
+
+*From the observation deck atop the Whiskers Building, you can see it all. To the north, The Branchx sways in the morning breeze, rope bridges catching the light like spider silk. East, across the river, The Hives buzzes with activity as beetle-drawn carts haul the day's harvest. The scent of Lin's Brook's fish market carries on the wind, mixing with factory smoke. And there, barely visible through the morning haze, Scurry Island lurks—a shadow on the water where desperate creatures make desperate choices. Five burrows, five ways of life, one Great Burrow. The city spreads before you like a promise—or a threat.*
+
+</div>
+
 ## Mousehattan - The Vertical Metropolis
+
+Rising from a rocky outcropping where ancient oak roots penetrate stone, Mousehattan is the beating heart of commerce and ambition. Three massive oaks—the Trading Oak, the Council Oak, and the Old Growth—create a natural vertical city where fortunes are made and lost, where the old ways clash with new money in a never-ending dance of power and progress.
+
+### Geography & Infrastructure
+
+#### The Vertical City
+- **The Rock**: A natural granite outcropping forms the backbone, chambers carved over generations
+- **Root Highways**: Oak roots create natural "avenues" running through the stone
+- **Seven Levels**: From the Sub-Basement tunnels to the Crown Level penthouses
+- **Natural Springs**: Three underground springs with ancient water rights
+- **The Great Underground Hub**: Central station connecting all five burrows
+
+#### Transportation Systems
+- **Vertical Shafts**: Rope and pulley systems between levels, operated by union crews
+- **Root Runners**: Elite messenger mice who know every shortcut and hidden passage
+- **Bark Slides**: Polished channels for rapid descent (climbing back up costs extra)
+- **The Express**: Direct Underground service to other burrows for premium prices
+- **Private Lifts**: Wealthy families maintain personal vertical transport
 
 ### Districts
 
@@ -2356,6 +2497,8 @@ Literally carved into the main rock wall beneath the Trading Oak, this is the ec
 - **Root Vaults**: Ancient storage chambers where old families keep their wealth
 - **Counting Rooms**: Traditional notched-stick tallying systems still in use
 - **Grove Rights Office**: Where oak territory ownership is registered
+- **Futures Pit**: Where next season's acorn prices are frantically negotiated
+- **The Stone Steps**: Where bankrupt traders traditionally announce ruin
 
 #### Times Squeak (Entertainment District)
 Where five major tunnels converge beneath interlocking roots, buzzing with 24-hour activity.
@@ -2363,6 +2506,10 @@ Where five major tunnels converge beneath interlocking roots, buzzing with 24-ho
 - **The Squeak**: Famous performance venue for death theater and comedy
 - **Roasted Seed Row**: Street vendors selling traditional and fusion snacks
 - **The Moonlight Market**: After-hours trading in "fell off the tree" goods
+- **Pleasure Dens**: Fermented root beer halls and honey lounges
+- **The Never-Dark**: Underground plaza lit continuously by captive fireflies
+
+\columnbreak
 
 #### Upper East Roots (Old Money Residential)
 Carved into the most stable oak root systems, home to established families.
@@ -2370,9 +2517,8 @@ Carved into the most stable oak root systems, home to established families.
 - **Gallery Row**: Displaying rare seeds, pressed leaves, and natural art
 - **Private Warren Entrances**: Multi-generation family homes with dedicated access
 - **The Four Hundred Hall**: Meeting place for descendants of original settlers
-
-
-\columnbreak
+- **Root Gardens**: Private cultivation chambers for rare plants
+- **The Grooming Parlors**: Where status is displayed through whisker styling
 
 #### Midtown Tunnels (Commercial Center)
 Busy shopping districts and merchant headquarters serving all creatures.
@@ -2380,6 +2526,8 @@ Busy shopping districts and merchant headquarters serving all creatures.
 - **Craftsmouse Quarter**: Traditional trades, apprenticeship guilds
 - **Honey Board**: Where Hives products are priced daily
 - **Fur & Whisker**: Grooming and social networking center
+- **The Goods Yards**: Warehouses storing commodities from all burrows
+- **Messenger Central**: Where courier services compete for contracts
 
 #### Village Burrows (Bohemian Quarter)
 Maze-like informal tunnels housing artists, radicals, and newcomers.
@@ -2387,149 +2535,1794 @@ Maze-like informal tunnels housing artists, radicals, and newcomers.
 - **Underground Press Alley**: Bark-carved printing blocks, radical publications
 - **Cheap Rent Warrens**: Most affordable housing, most "character"
 - **The Gnaw**: 24-hour diner for night workers and bohemians
+- **Radical Row**: Where union organizers and political activists meet
+- **The Burrow Cooperative**: Experimental communal living arrangements
 
-### Notable Locations
-- **Grand Central Burrow**: All Underground lines converge here, architectural marvel
-- **The Whiskers Building**: Tallest carved structure at 12 stories, mixed use
-- **Root Cathedral**: Natural chamber where three oaks meet, used for ceremonies
-- **The Squeakeasy**: Hidden bar run by Longtail Family, password required
-- **Claw & Associates**: Most prestigious law firm, handles inter-burrow disputes
+#### The Sub-Basements (Forgotten Depths)
+Deep tunnels below official city levels, home to the desperate and the hidden.
+- **The Forgotten Deeps**: Pre-city excavations, rumors of giant bones
+- **Tunnel Rat Territory**: Where those who can't afford proper housing dwell
+- **The Black Channels**: Smuggling routes known only to crime families
+- **Old Mine Shafts**: Abandoned borings, now shelter for the desperate
+- **The Bone Yards**: Where they say the first giants fell
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
-## The Branchx - The Canopy Commons
+### The Kaiju Creatures & City Defenses
 
-### Districts
+#### The Giants That Walk
+The creatures of Mousehattan live in constant awareness of the titans that could end everything with a single misstep.
 
-#### Old Grove (Traditional Heights)
-The original canopy settlement, where height equals status.
-- **Branch Level Courts**: Squirrel family compounds at premium heights
-- **The High Branch Club**: Exclusive venue for upper canopy families
-- **Covered Bridges**: Ancient rope and bark constructions, heavily maintained
-- **Emergency Bark Slides**: Rapid evacuation routes installed after hawk attacks
+- **Bears ("The Mountain That Moves")**: Full evacuations when one approaches. The Great Trampling of 20 years ago still shapes city planning.
+- **Deer ("The Antlered Spirits")**: Can step over the East River in shallow spots. The Antler Scrape incident shut down the Trading Oak for weeks.
+- **Moose ("The Darkness")**: Rare but most feared. Their movement literally reshapes landscapes.
+- **Wild Boars ("Earth Shakers")**: Their rooting can collapse entire tunnel systems overnight.
 
-#### New Growth (Working Neighborhoods)
-Recently expanded areas housing construction workers and their families.
-- **Union Hall**: Nutcracker Union headquarters, center of organizing
-- **Tool Libraries**: Communal equipment sharing for construction crews
-- **Worker Taverns**: After-shift gathering places with cheap root beer
-- **The Failed Tunnel Entrance**: Sealed but still a landmark of broken promises
+#### Defense Systems
+- **The Watch**: Elite scouts monitor giant movements, using coded bell signals
+- **Deep Shelters**: Reinforced chambers in every district for "Titan Events"
+- **The Bells of Mousehattan**: Five great bells that ring evacuation patterns
+- **Offering Stations**: Strategic food piles to divert giants from populated areas
+- **The Stillness Protocol**: When giants pass, absolute silence is law
 
-#### The Tangles (Mixed Housing)
-Where different species intermingle in complex rope-and-platform neighborhoods.
-- **Courier Central**: Chipmunk racing clubs and dispatch offices
-- **Mixed Markets**: Species-diverse shopping with unusual goods
-- **Platform Parks**: Public spaces built around major tree junctions
-- **Community Centers**: Cross-species gathering places
+<div class='note'>
+
+#### <u>Mousehattan Sayings</u>
+
+- "Every acorn has two sides" (opportunity and danger)
+- "The oak remembers" (old debts are never forgotten)
+- "Connected from root to crown" (having full protection)
+- "The family provides" (mafia code)
+- "Giants walk where they will" (acceptance of the uncontrollable)
+- "Make your hole bigger" (rat entrepreneurial spirit)
+- "Three acorns for luck" (traditional blessing)
+- "Deep pockets, shallow roots" (new money insult)
+
+</div>
+
+### Demographics & Culture
+
+#### Population Breakdown (Total: ~28,000)
+- **40% Mice** (11,200): Old families, bankers, traditionalists
+- **25% Rats** (7,000): Entrepreneurs, "connected" families, new money
+- **15% Voles** (4,200): Middle management, service workers
+- **10% Hamsters** (2,800): Merchants, storage specialists
+- **5% Weasels** (1,400): Information brokers, fixers
+- **3% Shrews** (840): Analysts, accountants, detail workers
+- **2% Others** (560): Ferrets (dealmakers), visiting species
 
 \columnbreak
 
-#### Corvid Corner (Allied Territory)
-Where crow allies maintain their embassy and trading posts.
-- **The Crow's Nest**: Diplomatic compound off-limits to most mammals
-- **Shiny Things Market**: Corvid-run trading post for unusual items
-- **Message Towers**: Where crow-carried communications are dispatched
-- **The Black Feather**: Tavern where treaties were signed
+#### Social Stratification
 
-### Notable Locations
-- **Grove Junction Station**: Major Underground stop with famous mosaic murals
-- **Bridge 42**: Longest span in the burrow, engineering marvel
-- **Nutcracker Arena**: Where construction competitions are held
-- **The Splinter**: Notorious tough bar in the lower branches
-- **Height Court**: Where branch-level disputes are settled
+**The Establishment (Old Money)**
+- **The Four Hundred**: Direct descendants of the original oak-carvers
+- **Acorn Nobility**: Families controlling prime harvest territories for generations
+- **The Root Board**: Informal council of major family heads who set policy
+- **Grove Rights Holders**: Ancient claims to specific oak territories
+
+**The Connected (Crime Families)**
+- **Made Creatures**: Full members of the major syndicates
+- **Associates**: Working with but not sworn to families
+- **The Respected**: Those who pay protection and stay quiet
+- **The Watched**: Potential problems or informants
+
+**The Strivers (Working Class)**
+- **Union Members**: Protected by various trade organizations
+- **Free Workers**: Unaffiliated, vulnerable to exploitation
+- **The Climbers**: Young ambitious creatures from other burrows
+- **Night Shift**: Those who work dangerous hours for better pay
+
+### The Underground Economy
+
+#### The Rat Syndicate (La Cosa Nostra)
+The dominant organized crime structure, built on old-country traditions and new-world ambition.
+
+**Major Families:**
+- **The Longtail Family**: Controls waterfront smuggling and dock unions. Run by Don Silvio "The Distinguised" Longtail.
+- **The Whisker Brotherhood**: Protection rackets and construction. Led by Capo Antonio "Sharp Tooth" Whisker.
+- **The Gray Coats**: Newest family challenging old territories. Young, aggressive, led by Vinnie "The Nose" Graycoat.
+
+**Operations:**
+- **"Insurance"**: Protection money from every business
+- **The Numbers**: Illegal acorn lottery running daily
+- **Seed Running**: Smuggling rare seeds between burrows
+- **Union Control**: Influence over dock and construction workers
+- **Loan Sharking**: Acorns at impossible interest rates
+
+#### The Weasel Network
+A looser confederation specializing in information and flexibility.
+- **The Flex**: Their ability to slip through anything, physically and socially
+- **Information Brokerage**: "We know what you did last autumn"
+- **Blackmail Rings**: Compromising information on establishment figures
+- **Message "Delays"**: Courier services that read interesting mail
+- **The Mediators**: Playing all sides in family conflicts
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
-## The Hives - The Crossroads Community
+### Daily Life in Mousehattan
 
-### Districts
+#### Work Culture
+The city runs on rigid schedules tied to the Acorn Exchange bell.
 
-#### Central Market (The Great Interchange)
-The beating commercial heart where all trade routes converge.
-- **The Sorting Yards**: Where goods are distributed to local merchants
-- **Three-Line Platform**: Underground junction connecting major routes
-- **Wholesale Row**: Bulk goods from external settlements
-- **Currency Exchange**: Converting between acorns and barter goods
+- **The Dawn Bell**: Markets open, the city springs to life
+- **Morning Climb**: Thousands ascending from deep warrens to work levels
+- **Whisker Break**: Traditional mid-morning grooming and networking hour
+- **The Closing Bell**: End of official trading, beginning of nightlife
+- **The Night Shift**: When the real city emerges—dangerous but profitable
 
-#### Prairie Dog Quarter (Democratic Hub)
-Home to the grassland settlers and their consensus governance.
-- **Circle Halls**: Open democratic forums for community decisions
-- **The Burrow Network**: Interconnected family tunnels with communal spaces
-- **Grassland Goods**: Shops specializing in prairie imports
-- **Town Crier Platforms**: Where daily news is announced
+#### Food & Dining
 
-#### Rabbit Warrens (Agricultural Nobility)
-Traditional farming families with extensive underground complexes.
-- **Honey Vaults**: Climate-controlled storage for valuable bee products
-- **The Agricultural Exchange**: Seed and harvest futures trading
-- **Warren Mansions**: Multi-level family compounds with private gardens
-- **Heritage Seed Library**: Preserving traditional varieties
+**Traditional Establishments:**
+- **Sal's Seedcake**: "Best in the city" (Whisker Brotherhood protected)
+- **The Gnaw**: 24-hour diner for night shift workers
+- **Mama's Nut House**: Classic vole-run family restaurant
+- **The Acorn & Stem**: Upscale dining for business meetings
+
+**Trendy Spots:**
+- **Honey Lounges**: Expensive Hives imports, firefly ambiance
+- **Fusion Holes**: Mixing cuisines from all five burrows
+- **Root Beer Gardens**: Fermented sap served in carved acorn shells
+- **Underground Supper Clubs**: Secret dining experiences
+
+**Street Food:**
+- Roasted seeds with exotic spices
+- Fermented root beer from barrel carts
+- Fresh sprout salads in leaf wraps
+- Candied bark strips (sweet and savory)
+
+#### Entertainment & Nightlife
+
+**High Culture:**
+- **The Metropolitan Nest**: Opera and classical performances
+- **Gallery Row**: Seed sculptures and pressed flower art
+- **The Acorn Club**: Where deals happen over aged root beer
+
+**Popular Entertainment:**
+- **Times Squeak Shows**: Death theater, comedy, acrobatics
+- **Firefly Fights**: Controversial betting on insect battles
+- **The Squeakeasy Chain**: Hidden bars throughout the city
+- **Dance Burrows**: Where young creatures court and posture
+
+**The Seedier Side:**
+- **The Moonlight Market**: Anything for sale after dark
+- **Gambling Dens**: From dice to racing beetles
+- **Scent Parlors**: Exotic pheromone experiences
+- **Fight Clubs**: Illegal but tolerated if discrete
 
 \columnbreak
 
-#### Mountain Quarter (Innovation District)
-Where guinea pig settlers brought new techniques and perspectives.
-- **Terracing Demonstrations**: Showing new agricultural methods
-- **The Innovation Hub**: Experimentation with insect partnerships
-- **Mountain Crafts Market**: Unique goods from highland traditions
-- **Community Kitchens**: Shared cooking spaces with fusion cuisine
+### Notable Personalities
 
-### Notable Locations
-- **The Great Interchange**: Massive Underground station, three levels
-- **Beetle Racing Arena**: Popular entertainment and gambling venue
-- **The Honeycomb**: Finest restaurant in the burrow, reservation only
-- **Unity Gardens**: Public space celebrating species cooperation
-- **The Democratic Archive**: Records of all community decisions
+#### The Power Brokers
+- **Victoria Silverpaw**: Matriarch of the oldest mouse banking family
+- **Commissioner Bruno Tailslash**: Head of Burrow Security (quietly "connected")
+- **Judge Cornelius Whiskerworth**: Incorruptible... mostly
+- **Councilmouse Penelope Quicktail**: Reform candidate with dangerous ideas
+
+#### The Connected
+- **Don Silvio "The Distinguished" Longtail**: Most powerful crime boss
+- **Stella "The Shriek" Weaselton**: Information broker extraordinaire
+- **Fat Tony Cheesewhisker**: Runs the biggest gambling operation
+- **The Ferret Sisters**: Mysterious fixers who "solve problems"
+
+#### The Operators
+- **Maxine "Max" Scurry**: Best Root Runner in the city
+- **Professor Algernon Nibbles**: Radical writer and troublemaker
+- **Rosie Redtail**: Owns three honey lounges, knows everyone's secrets
+- **Charlie "The Nose" Snifferton**: Can smell a bad deal from three tunnels away
+
+### Adventure Hooks
+
+#### Crime & Corruption
+- **Family War**: The Gray Coats moving on Longtail territory
+- **The Big Score**: Someone's planning to rob the Acorn Exchange
+- **Witness Protection**: Protecting a rat who's ready to testify
+- **Union Trouble**: Construction unions split between families
+- **The Cleaner**: Someone's eliminating witnesses before a big trial
+
+#### Financial Intrigue
+- **Market Manipulation**: Someone's cornering acorn futures
+- **The Counterfeit Seeds**: Fake rare seeds flooding the market
+- **Inheritance Dispute**: Old family fortune, multiple claimants
+- **The Audit**: Investigating massive fraud at a major trading house
+- **Hostile Takeover**: Crime family moving into legitimate business
+
+#### Social Tensions
+- **The Revolutionary**: Organizing workers against both families and establishment
+- **Gentrification Wars**: Village Burrows residents fighting development
+- **The Blackmail Ring**: Someone has dirt on half the Root Board
+- **Species Tension**: Mice establishment vs. rat new money boiling over
+- **The Underground Railroad**: Helping creatures escape crime family debts
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
-## Lin's Brook - The Working Waterfront
+#### Titan-Related Crises
+- **The Prophet**: Titan-touched mouse claims to speak for the giants
+- **Offering Theft**: Someone's stealing from giant-distraction food stores
+- **The Shelter Scandal**: Deep Shelters sold to highest bidders only
+- **Bear Sign**: Fresh markings suggest a den dangerously close
+- **The Unbeliever**: Influential creature denying giant danger
+
+#### Mystery & Investigation
+- **The Missing Messenger**: Root Runner vanished with sensitive information
+- **Museum Heist**: Priceless pre-city artifacts stolen
+- **The Ghost**: Someone's impersonating a dead crime boss
+- **Serial Killer**: Someone's hunting specific types of creatures
+- **The Mole**: Crime family infiltrator in the government
+
+<div class='example'>
+
+##### A Day in Mousehattan
+Dawn Bell rings at 6 AM sharp. Amelia Quickwhisker, junior analyst at Claw & Associates, begins her climb from Level 3 warren to the Midtown offices. She grabs fermented seeds from a cart, dodges a Root Runner, and checks the Acorn Exchange early numbers on the public boards.
+
+At work, she notices unusual trading patterns—someone's buying up Lin's Brook shipping futures. During Whisker Break, she overhears two rats discussing "insurance" for her firm. The closing bell at 6 PM doesn't end her day; there's a client dinner at The Acorn & Stem.
+
+Walking home through Times Squeak, she's careful to look confident but not wealthy. The Moonlight Market is setting up, and she recognizes a weasel from the Gray Coats watching her building. Tomorrow she'll take a different route. In Mousehattan, paranoia is just good sense.
+
+</div>
+
+### Relationships with Other Burrows
+
+#### Economic Ties
+- **The Branchx**: Source of construction labor and some muscle
+- **The Hives**: Honey futures drive major market sector
+- **Lin's Brook**: Shipping controlled by Longtail Family interests
+- **Scurry Island**: Where deals happen that can't happen here
+
+#### Criminal Networks
+- **Protection Rackets**: Extending into Branchx construction
+- **Smuggling Routes**: Through Lin's Brook docks to Scurry Island
+- **Information Networks**: Weasels have creatures in every burrow
+- **Money Laundering**: "Investments" in other burrow businesses
+
+#### Cultural Exchange
+- **Gentrification**: Mousehattan money changing other burrows
+- **Brain Drain**: Ambitious creatures drawn to the vertical city
+- **Cultural Appropriation**: Establishment mice adopting "quaint" customs
+- **Underground Movements**: Revolutionary ideas spreading outward
+
+\columnbreak
+
+<div class='note'>
+
+#### <u>GM Tips for Mousehattan</u>
+
+**Emphasize Vertical Space**
+Remember creatures are constantly climbing up or down. Social status literally relates to elevation. Use vertical chase scenes and the constant threat of falling.
+
+**Layer the Corruption**
+Everyone's connected to someone. The honest cop has a cousin in the mob. The reformer takes campaign contributions from crime families. Nothing is simple.
+
+**Giants as Weather**
+Treat titan appearances like severe weather events. Regular creatures have evacuation plans, emergency supplies, and titan insurance. It's a fact of life that shapes everything.
+
+**Old vs. New Money**
+Play up tension between established mouse families and ambitious rat entrepreneurs. Use architecture to show this—ancient carved chambers vs. new flashy construction.
+
+**The Code**
+Whether criminal or establishment, everyone follows unwritten rules. Breaking these codes has consequences. Even heroes need to navigate these social expectations.
+
+</div>
+
+### Unique Mousehattan Elements
+
+#### The Acorn Economy
+- Morning trading bells set the day's prices
+- Futures markets for next season's harvest
+- Complex derivatives based on weather patterns
+- Underground markets in "pre-dropped" acorns
+- Currency speculation between burrow economies
+
+#### Vertical Transportation Rights
+- Ancient elevator shaft claims passed through families
+- Public vs. private lift access creating social friction
+- Root Runner guilds controlling message routes
+- Bootleg slides carved by criminal elements
+- The politics of who maintains the ropes
+
+#### Seasonal Challenges
+- **Spring**: Flooding in lower levels from snow melt
+- **Summer**: Heat in upper levels, titans most active
+- **Autumn**: Harvest season chaos and market volatility
+- **Winter**: Heating costs and hoarding accusations
+
+This is Mousehattan: where ambition builds as high as the oaks, where everyone knows someone who knows someone, and where the bells that warn of giants also ring in each day's opportunities. In the vertical city, you're always climbing toward something—or falling from it.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# The Branchx - The Canopy Commons
+
+High above the forest floor, where ancient oaks and maples create a natural metropolis of branches and hollows, The Branchx sprawls through the canopy like a three-dimensional maze of working-class pride and territorial ambition.
+
+## Geography & Infrastructure
+
+### The Vertical Territory
+- **The Ancient Grove:** Five massive oaks and seven grand maples form the core
+- **Branch Levels:** Seven distinct heights, from "Ground Scrape" to "Crown Touch"
+- **The Squirrel Highways:** Major branches worn smooth by generations of travel
+- **Hollow Neighborhoods:** Natural tree cavities expanded into communities
+- **The Gap:** Dangerous open space between tree clusters, crossed by bridges
+
+### Canopy Architecture
+- **Nest Complexes:** Woven structures anchored to major branches
+- **Bridge Network:** 47 major crossings, hundreds of minor ones
+- **Vertical Territories:** Each family controls trunk-to-crown rights in their tree
+- **Emergency Descents:** Bark-stripped slides for rapid evacuation
+
+\columnbreak
 
 ### Districts
 
-#### Dockside (The Wet Works)
-Where water meets commerce in endless activity.
-- **Ferry Terminals**: Departures to Scurry Island (when running)
-- **Fish Markets**: Dawn auctions of the night's catch
-- **Otter Slide Complex**: Competitive racing venue and transit system
-- **The Salty Whisker**: Roughest tavern on the waterfront
+#### Old Grove Heights *(Traditional Power)*
+Highest branches of the Ancient Grove. Multi-generational squirrel families with the best acorn access and winter sun.
 
-#### Dam District (Power Center)
-The engineering heart providing energy to workshops.
-- **The Great Dam**: Marvel of beaver engineering, tours available
-- **Power Distribution**: Water wheels driving workshop machinery
-- **Engineer's Guild**: Beaver-dominated but accepting apprentices
-- **Dam View Overlook**: Tourist spot and romantic meeting place
+#### Working Branch *(Industrial Center)*
+Mid-level branches dense with construction staging areas, rope workshops, and union halls.
 
-#### Old Town (Traditional Neighborhood)
-Original settlement predating the dam construction.
-- **Water Rights Court**: Ancient institution managing stream access
-- **Heritage Workshops**: Traditional crafts passed down generations
-- **The Current**: Historic tavern where dam plans were drawn
-- **Memorial Grove**: Honoring those lost in the Great Flood
+#### The Tangles *(Dense Neighborhoods)*
+Where secondary branches create maze-like communities. Chipmunk courier stations and cheap nest rentals.
 
-#### Greenbank (Gentrification Ground Zero)
-Former working-class area transforming rapidly.
-- **Artisanal Row**: Craft breweries and specialty goods shops
-- **The Conflict Zone**: Where old-timers clash with newcomers
-- **Priced Out Memorial**: Graffiti wall documenting displacement
-- **The Last Honest Bar**: Holdout against gentrification
+#### Ground Scrape *(Lower Levels)*
+Just above predator reach. Recent immigrants and struggling families maintaining constant vigilance.
+
+#### New Growth *(Gentrifying Edge)*
+Young trees being developed with Mousehattan money creating conflicts over development rights.
+
+#### The Crow Zones *(Rough Territory)*
+Branches too close to crow nests. Gang territories with complex relationships with corvids.
+
+## Predator Reality & Defense
+
+### Aerial Threats
+- **Hawks:** Daytime terror, forcing covered travel
+- **Owls:** Night shift's nightmare, silent death
+- **Crows:** Sometimes allies, sometimes threats, always complicated
+- **Snakes:** Climbing varieties create seasonal panic
+
+### Defense Systems
+- **The Watch:** Rotating sentries with alarm calls
+- **Overhead Cover:** Woven canopies over major routes
+- **Crow Negotiations:** Protection deals with corvid gangs
+- **The Screamers:** Chipmunks whose only job is alarm calls
+
+### Cultural Impact
+- **Never Travel Alone:** Buddy system ingrained from birth
+- **Branch Patterns:** Routes memorized to avoid open sky
+- **Peak Hours:** Dawn and dusk are "death times"
+- **The Taken:** Memorial walls for those lost to hawks
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Demographics & Culture
+
+### Population Breakdown *(Total: ~18,000)*
+- **60% Squirrels (10,800):** Traditional majority, various subspecies
+- **25% Chipmunks (4,500):** Essential courier class
+- **10% Flying Squirrels (1,800):** Elite transport and message services
+- **3% Mice (540):** Usually Mousehattan gentrifiers or climbers
+- **2% Others (360):** Including reformed rats, adventurous voles
+
+### Social Hierarchy - The Height System
+
+#### Crown Touch Elite *(Levels 6-7)*
+- **The Acorn Lords:** Control prime harvest territories passed through generations
+- **Bridge Barons:** Families who built and maintain major crossing monopolies
+- **The Old Nests:** Generational wealth measured in hollow ownership
+- **Winter Cache Dynasties:** Those who never experience hunger season
+- **Height Rights:** Legal documents proving branch ownership going back centuries
+
+#### High Branch Comfortable *(Levels 4-5)*
+- **Skilled Crafters:** Master builders, rope weavers, bridge engineers
+- **Union Officers:** Those who've risen through the ranks to leadership
+- **Established Merchants:** Running shops for generations
+- **Professional Couriers:** Elite messengers with perfect safety records
+- **Branch Managers:** Literally managing specific tree territories
+
+#### Working Branches *(Levels 2-3)*
+- **Construction Crews:** The backbone of Branchx identity
+- **Apprentice Crafters:** Learning trades, hoping to rise
+- **Day Laborers:** Taking whatever work is available
+- **Night Shift Workers:** Higher pay for predator-risk hours
+- **Maintenance Teams:** Keeping bridges and routes safe
+
+#### Ground Scrape Struggling *(Level 1)*
+- **New Arrivals:** Earning their first branch rights
+- **The Nestless:** Sleeping in communal shelters or borrowed spaces
+- **Failed Climbers:** Those who fell from higher status
+- **Gang Prospects:** Young creatures seeing crime as only option
+- **The Forgotten:** Elderly or injured with no family support
+
+### The Families and Gangs
+
+#### The Nutcracker Union - Power Through Solidarity
+
+The most powerful organization in The Branchx, combining legitimate labor representation with less savory enforcement activities.
+
+**Leadership Structure:**
+- **Big Boss Hazelnut:** A scarred gray squirrel who rose from construction to control the union
+- **The Council of Seven:** Representatives from major trades (construction, rope-making, bridge-building, etc.)
+- **Shop Stewards:** On-site representatives who ensure compliance and collect dues
+- **The Breakers:** Enforcement wing handling "difficult negotiations"
+
+**Operations:**
+- Controls all major construction hiring - no union card, no work
+- "Insurance" services protecting job sites from "accidents"
+- Pension fund management (with creative accounting)
+- Strike organization and scab deterrence
+- Political influence through campaign contributions
+
+**Union Culture:**
+- Morning shape-up at Union Tree determines day's work assignments
+- Elaborate initiation rituals for new members
+- Widows and orphans fund for those lost to work accidents
+- "Coffee and acorns" meetings where real business happens
+- The union card is more valuable than most creatures' life savings
+
+#### The Tailwind Gang - Speed Above All
+
+Chipmunk-dominated courier collective that's evolved into a powerful information network.
+
+**Organization:**
+- **Streak Swiftcheek:** Legendary racer turned gang leader
+- **Route Bosses:** Control specific message paths and territories
+- **Runners:** Young chipmunks proving themselves
+- **The Weather Eyes:** Scouts who monitor conditions
+- **The Memory Bank:** Elders who remember every route and shortcut
+
+**Operations:**
+- Message delivery monopoly on time-sensitive communications
+- Information brokering - they read the mail
+- Racing circuit with heavy betting
+- Route protection from rival gangs
+- Training academy for young runners
+
+#### Corvid-Affiliated Groups - Serving Unknown Masters
+
+**The Black Feathers:** Mysterious squirrels and other creatures who've made dark bargains
+- Provide ground intelligence to crow networks
+- Guaranteed protection from hawk attacks (mostly)
+- Required to steal specific items crows designate
+- Marked by small crow feather worn behind ear
+- "Better to serve the clever than feed the hungry"
+
+**Shiny Things Collective:** Thieves with corvid connections
+- Steal items of no mammalian value but corvid interest
+- Payment in protection and occasional warnings
+- Never fully understand what crows want or why
+- Complex drop-off rituals at designated "gift trees"
+
+**The Murder's Paws:** Most feared gang in the canopy
+- Direct enforcement arm of crow interests
+- Led by "Blackbeak's Voice" - a squirrel who claims to speak for crows
+- Territory includes prime branches near corvid roosts
+- Even other gangs avoid confrontation with them
+- Rumors of strange corvid magic and intelligence
+
+#### Traditional Families - Old Branch Aristocracy
+
+**The Oakheart Clan:** First Family of The Branchx
+- Trace lineage to original canopy settlers
+- Control three of the five Ancient Grove oaks
+- Elaborate family tree (literally) carved into heartwood
+- Bitter rivals with upstart Mapleseed Collective
+- Matriarch Silviana Oakheart rules from Crown Touch mansion
+
+**Swiftbranch Dynasty:** Flying squirrel elite
+- Monopoly on night-time transport services
+- Intermarried with Mousehattan banking families
+- Private gliding academy for family members only
+- Control the most profitable zip-line routes
+- Young rebels increasingly joining gangs instead
+
+**The Mapleseed Collective:** Progressive coalition
+- Alliance of middle-branch families pushing reform
+- Advocate for public branch ownership
+- Run cooperative businesses and schools
+- Led by Councilsquirrel Marcus Redtail
+- Target of both union and traditional family harassment
+
+\columnbreak
+
+<div class='note'>
+
+#### <u>Branchx Sayings</u>
+
+- "High branch, warm winter" (elevation equals security)
+- "Every bridge sways" (nothing is certain)
+- "Nuts before glory" (practical priorities)
+- "The hawk's shadow" (constant danger)
+- "Branch born, sky sworn" (pride in canopy life)
+- "Splinters build character" (hard work virtue)
+- "A crow's promise" (something you can't trust)
+- "Union strong, union long" (solidarity motto)
+- "Check your knots twice" (always verify safety)
+- "The fall remembers" (past failures haunt you)
+
+</div>
+
+## Daily Life & Economy
+
+### Work Culture - The Rhythm of the Canopy
+
+#### The Daily Cycle
+- **Pre-Dawn Shape-Up (5 AM):** Workers gather at Union Tree for assignments
+- **Dawn Patrol (5:30 AM):** Checking overnight storm damage and predator signs
+- **Morning Shift (6 AM - 2 PM):** Prime working hours with maximum light
+- **Whisker Break (10 AM):** Traditional work stoppage for grooming and gossip
+- **Afternoon Shift (2 PM - 6 PM):** Second crews take over major projects
+- **Sunset Scramble (6 PM):** Desperate race to safety as predators emerge
+- **Night Shift (7 PM - 3 AM):** Dangerous work with double pay and death benefits
+
+#### Seasonal Patterns
+- **Spring:** Bridge repair season after winter damage
+- **Summer:** Major construction projects while weather holds
+- **Autumn:** Frantic acorn harvest requiring every available paw
+- **Winter:** Indoor work - rope making, tool repair, planning
+
+### Traditional Industries
+
+#### Construction - The Pride of The Branchx
+- **Nest Building:** From simple shelters to elaborate multi-family complexes
+- **Bridge Engineering:** Secret techniques passed through apprenticeships
+- **Hollow Expansion:** Carefully carving without killing trees
+- **Platform Construction:** Work spaces suspended between branches
+- **Emergency Reinforcement:** Storm-proofing and predator-proofing
+
+**Construction Hierarchy:**
+- Master Builders (10+ years experience)
+- Journeycreatures (3-10 years)
+- Apprentices (1-3 years)
+- Helpers (entry level)
+- Tool-carriers (children learning the trade)
+
+#### Rope Making - The Binding Trade
+- **Spider Silk Harvesting:** Dangerous negotiations with web-builders
+- **Bark Fiber Processing:** Stripping, soaking, and weaving
+- **Vine Cultivation:** Growing specific species for strength
+- **Quality Testing:** Lives depend on rope integrity
+- **Specialty Products:** From climbing lines to bridge cables
+
+#### Acorn Economy - Seasonal Lifeblood
+
+**Territory System:**
+- Ancient rights to specific trees and branches
+- Harvest licenses sold by controlling families
+- Share-cropping arrangements for poorer creatures
+- Territorial disputes settled by union or violence
+
+**Processing Industry:**
+- Fresh consumption vs. storage preparation
+- 67 traditional preparation methods
+- Fermentation for winter preservation
+- Grinding for flour and meal
+- Export preparation for other burrows
+
+### Underground Economy
+
+#### The Crow Market - Where Things "Fall"
+- **Location:** Hidden platforms in the Crow Zones
+- **Hours:** Dusk to midnight, corvid protection guaranteed
+- **Goods:** Items of dubious origin, no questions asked
+- **Currency:** Barter, favors, or corvid tokens
+- **Protection:** Pay the crows or become prey
+
+#### Protection Rackets - Safety for Sale
+- **Hawk Insurance:** Pay for crow interference during attacks
+- **Bridge Tolls:** "Maintenance fees" for safe crossing
+- **Construction Site Security:** Preventing "accidents"
+- **Night Shift Protection:** Escorts through dangerous hours
+- **Territory Taxes:** Pay to work certain branches
+
+#### Information Networks
+- **Message Interception:** Couriers who read interesting mail
+- **Gossip Markets:** Trading social intelligence
+- **Height Papers:** Forged documents for social climbing
+- **Union Cards:** Black market membership for non-citizens
+- **Route Maps:** Secret paths sold to smugglers
+
+<div class='example'>
+
+##### A Day in the Life: Nutkin Firmgrip, Construction Worker
+
+Nutkin wakes at 4:30 AM in his Level 2 family nest, shared with six relatives. Coffee—bitter bark tea—and yesterday's acorn cake before the climb to Union Tree. At shape-up, Boss Hazelnut assigns him to bridge repair on the dangerous Gap crossing. 
+
+The crew takes the long route, avoiding Crow Zone territories where the Murder's Paws extracted "tolls" last week. Work is hard but steady—replacing rotted planks while watching for hawks. During Whisker Break, talk turns to the new Mousehattan development. "Taking our best branches," someone spits.
+
+Lunch on the designated break-branch: shared seedcakes and gossip. Nutkin's cousin mentions the Tailwind Gang is recruiting. Better money, but dangerous work. The afternoon shift sees a close call—a hawk's shadow sends everyone scrambling for cover. Mitch Quicktail is too slow. The memorial fund will need contributions.
+
+Sunset scramble is chaos—hundreds of workers racing darkness home. Nutkin makes it to his branch as the first owl hoots. Dinner is communal stew in the courtyard. His daughter shows him her climbing progress. His son talks about joining the union. 
+
+Night brings exhausted sleep and dreams of higher branches. Tomorrow, if the weather holds and the hawks are hunting elsewhere, he'll do it all again. It's a hard life, but it's his life. Branch born, sky sworn.
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Notable Locations in The Branchx
+
+### Historic Sites
+- **The First Bridge:** Monument to canopy connection, still maintained but no longer used
+- **Oldoak Hollow:** Where the burrow was founded, now a museum
+- **The Memorial Wall:** Names of the hawk-taken, updated monthly
+- **Union Tree:** Where labor first organized, still hosts morning shape-up
+- **The Broken Branch:** Site of the Great Fall disaster 40 years ago
+
+### Working Landmarks
+- **The Nutcracker Hall:** Union headquarters, social center, and hiring hall
+- **Central Crossing:** Busiest bridge intersection, five routes converge
+- **The Tunnel Terminal:** Where underground dreams died, now storage
+- **Shift-Change Square:** Where crews gather morning and evening
+- **The Tool Library:** Communal equipment maintained by the union
+
+### Social Venues
+- **The Knothole:** Roughest bar in the canopy, union-protected
+- **Acorn Cap:** Working-class social club, cheap drinks and solidarity
+- **The Racing Branch:** Courier competition venue, heavy betting
+- **Tail's End:** Where old squirrels tell stories over fermented sap
+- **The Crow's Laugh:** Dangerous bar in the Crow Zones
+
+### Hidden Spots
+- **Crow's Nest Neutral:** Where deals get made under corvid protection
+- **The Broken Tunnel:** Smuggler's highway beneath the canopy
+- **Ghost Hollow:** Abandoned after hawk attack, said to be haunted
+- **The Undergrowth:** Secret ground-level meeting spot for radicals
+- **Cache Valley:** Hidden between branches, emergency food stores
+
+## Notable Personalities
+
+### Union Leadership
+- **"Big Boss" Hazelnut Graysquirrel:** Union president, former construction worker with scars to prove it. Fair but ruthless when crossed. "The union is family, and family comes first."
+- **Maple Quickpaw:** Secretary-Treasurer, knows where every acorn is buried. Rumored to have dirt on half the government.
+- **Bruno "The Breaker" Heavytail:** Head of union enforcement. Missing an ear from a crow encounter. "Accidents happen to those who forget to pay dues."
+
+### Gang Leaders
+- **Streak Swiftcheek:** Tailwind Gang boss, still the fastest chipmunk in the canopy despite his age. Controls all major courier routes. "Information is speed, speed is power."
+- **"Blackbeak's Voice":** Leader of the Murder's Paws, a gray squirrel who claims to speak for the crows. No one knows his real name. Even other gangs fear him.
+- **Silky Darknose:** Runs the Shiny Things Collective. Female flying squirrel with connections throughout the underworld. "The crows want what they want."
+
+### Traditional Powers
+- **Matriarch Silviana Oakheart:** Rules the oldest squirrel clan from her Crown Touch mansion. 80 years old and sharp as a hawk's talon. "Height is in the blood, child."
+- **Lord Reginald Swiftbranch III:** Flying squirrel aristocrat who controls night transport. Educated in Mousehattan but came home to rule. "We glide above your petty conflicts."
+- **Councilsquirrel Marcus Redtail:** Leader of the progressive Mapleseed Collective. Pushing for public branch ownership. "The canopy belongs to all who work it."
+
+### Street-Level Heroes
+- **Nutkin Firmgrip:** Respected construction foreman who looks out for his crew. Lost his brother to a hawk, raises his nephew. "Check your knots twice, live to check tomorrow."
+- **Chatter Speedwhisker:** Young chipmunk courier who knows every shortcut. Feeds information to both sides for survival. "I just deliver messages, don't write them."
+- **Old Tom Scarbranch:** Retired bridge builder who runs a shelter for the nestless. Union pension keeps him comfortable. "Every creature deserves a warm branch."
+
+### The Dangerous
+- **Slash Redclaw:** Psychotic enforcer for the Murder's Paws. Takes payment in pain. "The crows like screaming."
+- **The Ferret:** Information broker who somehow operates in The Branchx despite the species prejudice. No one knows where she nests. "Everything has a price, especially secrets."
+- **Thistle Sharptooth:** Rogue union breaker who hires out to whoever pays. Survived three assassination attempts. "Solidarity is just another word for target."
+
+\columnbreak
+
+## Cultural Details & Traditions
+
+### The Height Hierarchy in Practice
+The vertical nature of Branchx society creates constant reminders of status:
+- **Branch Etiquette:** Lower branch creatures must yield right-of-way
+- **Vertical Addresses:** Nest locations include height designations
+- **Climbing Permits:** Official documents required for accessing higher levels
+- **Social Climbing:** Literal term for improving one's position
+- **The Fall:** Social disgrace literally described as "falling to Ground Scrape"
+
+### Crow Relations - A Complex Dance
+The relationship between mammals and corvids remains mysterious and unsettling:
+- **The Tribute Trees:** Specific locations where offerings are left for crows
+- **Crow Tongue:** Mammals who claim to understand corvid speech (usually mad)
+- **Protection Zones:** Areas where crow alliance guarantees safety from hawks
+- **The Black Market:** Literally named for crow-controlled trade
+- **Corvid Court:** When crows judge mammalian disputes (rare but binding)
+
+### Union Culture & Working Pride
+- **The Morning Whistle:** Traditional call to work, blown from Union Tree
+- **Tool Blessing:** Ritual before dangerous jobs, "May your grip stay true"
+- **The Widow's Share:** Portion of every job goes to support bereaved families
+- **Apprentice Hazing:** Elaborate pranks that build solidarity
+- **The Password:** Secret union phrases change weekly
+
+### Seasonal Celebrations
+- **First Leaf Festival:** Spring celebration of survival and new growth
+- **The Harvest Dance:** Autumn acorn celebration, branch-shaking competitions
+- **Bridge Day:** Honors builders and commemorates those lost to falls
+- **The Night of Tails:** Midwinter festival where creatures show off grooming
+- **Crow's Peace:** One night per year when corvids guarantee no attacks
+
+<div class='note'>
+
+#### <u>More Branchx Cultural Elements</u>
+
+**Food Specialties:**
+- Fermented acorn mash (working creature's drink)
+- Bark-strip jerky for quick energy
+- Seed-cake rolls sold at shift change
+- "Crow's Gift" (mysterious berries that appear after tributes)
+
+**Music & Entertainment:**
+- Branch drumming communication/music
+- Tail acrobatics competitions
+- Death-defying bridge racing
+- Work songs that coordinate construction
+- Whisker theater (improvised comedy)
+
+**Superstitions:**
+- Crossed branches bring bad luck
+- Never build on a branch where someone fell
+- Owl pellets under the nest prevent night attacks
+- A crow feather in your nest means you're marked
+- White squirrels are either blessed or cursed
+
+</div>
+
+## Adventure Hooks
+
+### Working-Class Drama
+- **Strike Breaking:** Mousehattan money hiring scabs for new development, union planning violent response
+- **The Fallen Brother:** Young squirrel must choose between family in union and lover in the gangs
+- **Bridge Collapse Mystery:** Investigation reveals corruption in construction contracts
+- **The Gentrification War:** Old families losing branch rights to wealthy newcomers
+- **Pension Fund Theft:** Someone's embezzling from the union, retirees are desperate
+
+### Canopy Noir
+- **The Missing Courier:** Chipmunk vanishes with evidence of crow conspiracy
+- **Protection Racket War:** Black Feathers vs. Murder's Paws for territory control
+- **High Branch Murder:** Socialite pushed or fell? Everyone has motives
+- **The Tunnel Body:** Corpse in abandoned section opens old wounds
+- **Blackmail Branch:** Someone's photographing prominent creatures in compromising positions
+
+### Survival Horror
+- **New Hawk Tactics:** Predator learning to counter traditional defenses
+- **The Crow Demands:** Corvids want something impossible, threaten to withdraw protection
+- **Storm Season:** Multi-day tempest traps creatures without supplies
+- **The Ground Surge:** Predators driving prey up from below
+- **Night Terror:** Something's hunting that isn't an owl
+
+### Political Intrigue
+- **Union Election:** Corruption, violence, and Mousehattan interference
+- **The Branch Rebellion:** Young creatures reject height hierarchy violently
+- **Cross-Species Alliance:** Secret marriage between squirrel nobility and chipmunk courier
+- **The Acorn Cartel:** Families conspiring to corner harvest market
+- **Revolutionary Cells:** Ground Scrape organizing against entire system
+
+### The Corvid Mystery
+- **The Speaking Squirrel:** Someone claims true communication with crows
+- **The Great Gathering:** All corvids leaving creates panic and opportunity
+- **Shiny Thing Syndrome:** Crows demanding specific item no one understands
+- **The Black Wing Prophecy:** Ancient warning about corvid intentions surfacing
+- **Feather Fever:** Crow-gifted feathers granting strange abilities
+
+## Relationships with Other Burrows
+
+### With Mousehattan
+- **Love/Hate Dynamic:** Need their money, resent their attitude
+- **Labor Export:** Many squirrels commute for construction contracts
+- **Gentrification Pressure:** Wealthy mice buying up prime branches
+- **Cultural Clash:** "Soft-pawed acorn counters" vs. "primitive branch-swingers"
+- **Underground Connections:** Direct service, but delayed "for maintenance"
+
+### With Lin's Brook
+- **Working-Class Solidarity:** Natural allies in labor struggles
+- **Trade Competition:** Both bid for major construction projects
+- **Union Cooperation:** Share organizing strategies and strike support
+- **Cultural Exchange:** Intermarriage common between communities
+- **Mutual Respect:** "Water workers understand honest labor"
+
+### With The Hives
+- **Trade Partners:** Honey for construction materials
+- **Neutral Ground:** Neither threatens the other's interests
+- **Skill Recognition:** Respect for different but equal expertise
+- **Limited Mixing:** Some marriage connections, mostly professional
+- **Stereotype:** "Ground dwellers, but hardworking ones"
+
+### With Scurry Island
+- **Criminal Pipeline:** Where troublemakers flee to disappear
+- **Black Market:** Illegal goods flow both directions
+- **Shared Resentment:** Both looked down upon by Mousehattan
+- **Escape Route:** Underground railroad for creatures in trouble
+- **Dark Reputation:** "Even they got out—what's your excuse?"
+
+## GM Tips for The Branchx
+
+<div class='note'>
+
+#### <u>Running The Branchx</u>
+
+**Emphasize Verticality**
+Every scene should reinforce the three-dimensional nature of the canopy. Describe movements as climbs, leaps, and scrambles. Use height differences to show social status.
+
+**Constant Predator Pressure**
+The hawk's shadow should appear regularly. Make players paranoid about open sky. Use weather to increase or decrease threat levels.
+
+**Union Politics**
+The Nutcracker Union touches everything. Even non-labor stories should acknowledge their influence. They're both protectors and oppressors.
+
+**Corvid Ambiguity**
+Never fully explain crow motivations. They're alien intelligences with incomprehensible goals. Protection comes with costs no one understands.
+
+**Class Consciousness**
+Working-class pride battles economic anxiety. Characters should feel tension between solidarity and personal advancement.
+
+</div>
+
+### Unique Branchx Elements
+
+#### The Construction Culture
+- **Tool Worship:** Personal tools passed through generations with names and histories
+- **Site Superstitions:** Elaborate rituals before starting new projects
+- **The Measure:** Traditional building standards based on squirrel body lengths
+- **Wood Whispering:** Master builders who "hear" what the tree wants
+- **Failure Shame:** Collapsed structures haunt builders forever
+
+#### The Courier Networks
+- **Route Secrecy:** Paths passed from master to apprentice only
+- **Speed Trials:** Monthly races determine route assignments
+- **Weather Readers:** Specialists who predict flying conditions
+- **The Memory Run:** Couriers who memorize messages, never write
+- **Blood Bonds:** Courier partnerships sealed with ritual
+
+#### The Height Economy
+- **Branch Futures:** Speculation on which trees will grow tallest
+- **Vertical Taxes:** Higher branches pay more but get better services
+- **Lift Cartels:** Control of vertical transport creates fortunes
+- **The Fall Insurance:** Policies covering social and literal dropping
+- **Nest Flipping:** Buying low branches, improving, selling high
+
+#### Survival Adaptations
+- **Hawk Drills:** Every kit knows seventeen different alarm calls
+- **Camouflage Fashion:** Clothing designed to blend with bark
+- **The Scatter:** Choreographed escape patterns for groups
+- **Dummy Nests:** Decoys to confuse predators
+- **Silent Running:** Moving through branches without sound
+
+This is The Branchx: where height determines worth, where every creature lives one shadow from death, where working-class pride built a vertical city reaching for the sky while keeping roots in tradition. Where bridges connect more than trees—they connect communities fighting to survive in a canopy that changes faster than a squirrel can climb. Where "earning your perch" means more than finding a branch—it means defending your right to exist in the only home your family has ever known.
+
+In The Branchx, you're always climbing toward something—or falling from it. The question is: will you rise by lifting others, or by stepping on their backs? Either way, check your knots twice, watch the sky, and remember—every branch sways, but the union stands strong.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# The Hives - The Crossroads Community
+
+Sprawling across the meadow clearings where forest meets grassland, The Hives earned its name from the dense, interconnected burrow complexes that honeycomb the rolling hills. This is The Great Burrow's most diverse community, where prairie dogs from the southern grasslands live next to mountain marmots, where traditional rabbit warrens neighbor innovative guinea pig terraces, and where the scent of a dozen different cuisines mingles in the evening air.
+
+"Everyone finds their place in the swarm" isn't just a saying here—it's a way of life. In The Hives, success comes not through ancient bloodlines or crime family connections, but through hard work, community spirit, and the endless creativity that emerges when different cultures collide and cooperate.
+
+## Geography & Infrastructure
+
+### The Crossroads Location
+The Hives occupies the strategic position where forest meets grassland, creating natural convergence points for trade and migration. Rolling hills provide defensive positions while meadow clearings offer space for markets and gatherings.
+
+- **Gateway Hills:** Rolling terrain that naturally funnels trade routes from the southern grasslands
+- **The Convergence:** Where multiple streams meet, creating natural stopping points for caravans
+- **Meadow Flats:** Open areas perfect for markets, festivals, and temporary camps
+- **Burrow Heights:** Terraced hillsides packed with multi-family housing complexes
+- **The Commons:** Central gathering spaces shared by multiple neighborhoods
+
+### Transportation Hub
+As The Great Burrow's logistics capital, The Hives processes goods from across the known world. The burrow's prosperity depends on maintaining these vital trade connections.
+
+- **Caravan Grounds:** Staging areas where external traders set up temporary camps, complete with rest houses, repair shops, and supply stores
+- **The Great Interchange:** Where three Underground lines converge in a massive station handling 35,000+ daily passengers
+- **Wagon Ways:** Wide paths designed for heavy freight from distant communities, maintained by cooperative work crews
+- **The Sorting Yards:** Warehouse district where goods are processed, sorted, and distributed to all five burrows
+- **Border Crossings:** Informal checkpoints where Rangers verify incoming traders and check for contraband
+
+\columnbreak
+
+### Mixed Infrastructure
+The Hives showcases how different species' building traditions can combine to create something new and functional.
+
+- **Insect Partners:** Beetles for heavy hauling, ants for micro-delivery, fireflies for lighting, all working in carefully negotiated partnerships
+- **Traditional Warrens:** Multi-generational rabbit tunnel systems with sophisticated ventilation
+- **Terrace Communities:** Guinea pig-style hillside housing adapted by other species
+- **Workshop Districts:** Small manufacturing and repair facilities often sharing tools and expertise
+- **Cultural Centers:** Community buildings serving different immigrant populations
+
+### Districts
+
+#### Central Commons *(The Heart)*
+The beating heart of The Hives, where all communities converge. The Great Interchange dominates the underground levels while markets and meeting spaces fill the surface.
+
+- The Great Interchange Underground station with multi-lingual signage
+- Multi-cultural markets open from dawn to midnight
+- Community meeting halls designed for different species' needs
+- The Diversity Council chambers with translation services
+- Tourist information and cultural orientation centers
+
+#### Meadow Heights *(Established Families)*
+The oldest district, where traditional rabbit families maintain their ancestral warrens and honey operations.
+
+- Traditional rabbit warrens with honey production facilities
+- Multi-generational family compounds with private gardens
+- The old Hive Registry and historical society
+- Premium residential areas with established property rights
+- Conservative community leadership resisting rapid change
+
+#### Grassland Quarter *(Prairie Immigrants)*
+A piece of the southern plains transplanted to the forest, where prairie dog communities maintain their democratic traditions.
+
+- Prairie dog settlements with distinctive circular architecture
+- Wide, communal burrow systems designed for group living
+- Grain processing and storage facilities using traditional methods
+- Community kitchens where meals are shared events
+- Democratic town-hall style governance with regular votes
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+#### Mountain Slopes *(Highland Immigrants)*
+Where marmot families from the high country have recreated their alpine communities with adapted techniques.
+
+- Marmot settlements built into hillsides with natural drainage
+- Stone-working and mineral processing workshops
+- Terraced gardens using mountain water management techniques
+- Seasonal celebration grounds for solstice festivals
+- Craft workshops specializing in mountain techniques
+
+#### Innovation District *(Mixed Community)*
+The newest and most experimental district where young families from different species create fusion communities.
+
+- Guinea pig agricultural experiments with vertical farming
+- Cross-cultural fusion workshops teaching combined techniques
+- Young families from multiple species living as neighbors
+- Experimental housing cooperatives with shared facilities
+- The Integration Center for newcomers learning city ways
+
+#### The Yards *(Industrial Zone)*
+The engine of The Hives' economy, processing goods from across the region.
+
+- Warehouses storing everything from pine nuts to seaweed
+- Beetle-powered manufacturing using sustainable practices
+- Repair shops fixing caravan wagons and trade goods
+- Transportation company headquarters coordinating shipments
+- Worker housing and union halls organizing fair labor
+
+#### Night Market *(Entertainment District)*
+When the sun sets, this district comes alive with music, food, and celebration.
+
+- After-hours dining featuring fusion cuisine experiments
+- Cultural performance venues showcasing homeland traditions
+- Firefly-lit evening markets selling exotic goods
+- Mixed-species social clubs breaking down barriers
+- The artistic community hub fostering creative collaboration
+
+#### Border Camps *(Temporary Housing)*
+The ever-changing edges where new arrivals first experience The Hives.
+
+- Seasonal worker accommodations during harvest times
+- New arrival processing centers with basic services
+- Caravan support services for traveling merchants
+- Emergency housing during predator alerts or floods
+- Ranger coordination facilities monitoring approaches
+
+\columnbreak
+
+## Demographics & Culture
+
+### Population Breakdown *(Total: ~24,000)*
+The Hives' strength lies in its diversity, with no single species holding overwhelming majority.
+
+- **20% Rabbits** (4,800): Established families controlling traditional honey operations and old warren properties
+- **18% Prairie Dogs** (4,320): Grassland immigrants bringing democratic traditions and grain expertise
+- **15% Voles & Field Mice** (3,600): Working class backbone in service and logistics industries
+- **12% Guinea Pigs** (2,880): Recent immigrants revolutionizing agriculture with terracing innovations
+- **10% Marmots** (2,400): Mountain folk bringing stone-craft and weather wisdom
+- **8% Hamsters** (1,920): Merchant families specializing in storage and inventory management
+- **7% Hedgehogs** (1,680): Night shift specialists in entertainment and security
+- **5% Shrews** (1,200): Technical experts managing insect partnerships
+- **5% Mixed/Other** (1,200): Dozens of species in smaller numbers
+
+### Cultural Dynamics
+
+#### The Established Community
+The original inhabitants struggle to maintain their traditions while adapting to change.
+
+- **Old Warren Families:** Rabbit dynasties tracing lineage to The Hives' founding, controlling prime honey territories
+- **The Founding Principles:** Original cooperative values emphasizing mutual aid over individual profit
+- **Cultural Preservation:** Maintaining forest traditions while selectively adopting innovations
+- **Economic Stability:** Established businesses and property ownership creating generational wealth
+
+#### The Grassland Wave
+Prairie dog communities brought new ideas about governance and community organization.
+
+- **Prairie Dog Collectives:** Democratic decision-making through regular assemblies and consensus building
+- **Grain Culture:** Diversifying beyond honey with sophisticated grain storage and processing
+- **Social Innovation:** New forms of community cooperation like shared child-rearing
+- **Integration Challenges:** Adapting open-plains culture to enclosed forest life
+
+<div class='note'>
+
+#### <u>Hives Sayings</u>
+
+- "Every creature finds their place in the swarm" (everyone belongs somewhere)
+- "Many burrows, one community" (unity in diversity)
+- "The hive remembers all its workers" (honoring everyone's contributions)
+- "Sweet as cooperation" (highest compliment for working together)
+- "Busy as the Crossroads" (constantly active and productive)
+- "Different flowers, same garden" (diversity creating beauty)
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+#### The Mountain Communities
+Marmot families from the high country bring specialized skills and alpine wisdom.
+
+- **Marmot Crafters:** Master stone-workers creating lasting infrastructure from local materials
+- **Alpine Traditions:** Seasonal festivals tied to mountain weather patterns and celestial events
+- **Water Management:** Advanced terracing and irrigation techniques preventing erosion
+- **Weather Wisdom:** Generations of knowledge predicting seasonal changes
+
+#### The New Generation
+Young creatures born in The Hives create fusion cultures their parents never imagined.
+
+- **Cross-Cultural Families:** Inter-species relationships producing new family structures
+- **Innovation Pioneers:** Combining traditions to solve problems in unexpected ways
+- **Urban Adaptation:** Forest-born creatures fully embracing city life and opportunities
+- **Cultural Bridge-Builders:** Translating between communities and mediating conflicts
+
+## Economy
+
+### Primary Industries
+The Hives' economy thrives on diversity and interconnection.
+
+- **Logistics & Distribution (30%):** Processing goods from external trade, managing warehouse districts, coordinating shipments
+- **Small Manufacturing (25%):** Textiles combining multiple traditions, fusion crafts, household goods
+- **Agriculture & Food (20%):** Honey production, grain processing, fusion cuisine restaurants
+- **Services (15%):** Shops catering to diverse tastes, repair services, cultural businesses
+- **Transportation (10%):** Caravan support, Underground operations, courier networks
+
+### The Trade Hub
+The Hives' position makes it the natural gateway for external commerce.
+
+- **External Goods Processing:** Sorting, grading, and repackaging for urban markets
+- **Caravan Services:** Rest houses, wagon repair, supply provisioning, guide services
+- **Currency Exchange:** Converting between acorn standard and regional trade goods
+- **Information Brokerage:** News from distant communities commands premium prices
+- **Seasonal Markets:** Major trading festivals during spring arrivals and autumn departures
+
+### Manufacturing Diversity
+Small workshops demonstrate the power of cultural fusion.
+
+- **Textile Fusion:** Prairie dog weaving meets rabbit fur processing meets guinea pig dyeing
+- **Food Processing:** Preserving techniques from multiple traditions extend shelf life
+- **Craft Workshops:** Marmot stone-carving tools modified for beaver woodworking
+- **Repair Services:** Fixing everything from mountain gear to grassland wagons
+- **Custom Work:** Specialized items for different species' anatomical needs
+
+\columnbreak
+
+### Cultural Economy
+The Hives' diversity creates unique economic opportunities.
+
+- **Restaurants:** From traditional warren cooking to grassland barbecue to fusion experiments
+- **Entertainment:** Music halls where prairie dog drums meet rabbit flutes
+- **Education:** Language schools, cultural orientation, inter-species etiquette classes
+- **Arts & Crafts:** Traditional expressions and shocking fusion pieces
+- **Tourism:** "Authentic diversity experiences" draw visitors from homogeneous burrows
+
+## Daily Life
+
+### Community Rhythms
+Life in The Hives follows patterns that accommodate multiple species' needs.
+
+- **Dawn Markets:** Fresh goods arrive via Underground, early traders get best selection
+- **Morning Commute:** Thousands heading to other burrows for work pack the Interchange
+- **Midday Convergence:** Peak activity as caravans arrive and markets buzz
+- **Afternoon Workshops:** Manufacturing and craft production in full swing
+- **Evening Gatherings:** Community meals in public spaces, cultural events beginning
+- **Night Markets:** Entertainment district comes alive with music and exotic foods
+
+### Cultural Fusion in Practice
+
+#### Language Mixing
+The Hives has developed its own dialect combining words from multiple languages. A typical conversation might include prairie dog technical terms, rabbit formal address, guinea pig musical intonations, and marmot weather words.
+
+<div class='example'>
+
+##### A Day in the Crossroads Market
+
+"*Buenos días*, Grandfather Chen! Your *terraza* vegetables look *geschmack* today!"
+
+"*Ahoy* there, young Pip! Try these *nouvelle* carrot-grain cakes - my daughter's *fusion création*!"
+
+"*Wunderbar*! Hey, *amigo*, you hear about the *kerfuffle* at the Interchange? Some *haute monde* mouse from Mousehattan made *ein gross faux pas* about prairie dog housing!"
+
+"*Ay, Dios mío*! These city folk need to learn - *hier* in The Hives, we respect *alle* creatures!"
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+#### Fusion Cuisine
+The Hives' restaurants showcase culinary innovation born from cultural collision.
+
+- **Honey-Glazed Grain Balls:** Rabbit sweetness meets prairie dog staples
+- **Mountain Berry Salsa:** Marmot preserves with guinea pig spices
+- **Five-Culture Stew:** Each community contributes one ingredient
+- **Fusion Bakeries:** Combining baking traditions produces unique breads
+- **Street Food Innovation:** Portable foods adapted for multiple species
+
+#### Hybrid Celebrations
+Festivals blend traditions creating entirely new celebrations.
+
+- **Convergence Festival:** Annual celebration where each community showcases culture
+- **Harvest Harmony:** Combining autumn traditions from grassland and forest
+- **New Year Fusion:** Multiple calendar systems create week-long celebration
+- **Unity Feast:** Monthly communal meals in each district
+- **Children's Day:** Young creatures learn about all cultures through play
+
+### Housing Diversity
+Architecture reflects the community's varied needs and traditions.
+
+- **Traditional Warrens:** Rabbit-style multi-generational complexes with modern amenities
+- **Prairie Compounds:** Open communal spaces with minimal privacy but maximum community
+- **Mountain Terraces:** Hillside construction using marmot engineering principles
+- **Innovation Cooperatives:** Experimental housing mixing all architectural styles
+- **Temporary Accommodations:** Flexible spaces for seasonal workers and new arrivals
+
+### Work Culture
+The Hives' cooperative spirit extends to the workplace.
+
+- **Cooperative Pride:** Success measured by benefit to community, not individual wealth
+- **Skills Sharing:** Regular workshops where creatures teach their specialties
+- **Flexible Arrangements:** Accommodating different species' schedules and needs
+- **Union Organization:** Worker solidarity crosses species lines in pursuit of fairness
+- **Entrepreneurship:** Small businesses supported by community micro-loans
+
+## Notable Locations
+
+### Community Centers
+- **The Great Hall:** Multi-purpose space hosting everything from weddings to political debates, designed to accommodate creatures of all sizes
+- **Cultural Quarter:** Separate buildings for prairie dog assemblies, rabbit warren councils, marmot stone circles
+- **The Integration Center:** One-stop shop for new arrivals - housing assistance, language classes, job placement
+- **Community Kitchens:** Shared cooking facilities where fusion cuisine is born
+- **The Forum:** Open-air democratic meeting space modeled on prairie dog traditions
+
+\columnbreak
+
+### Economic Hubs
+- **The Exchange:** Central marketplace where anything can be bought, sold, or traded
+- **Caravan Square:** Dusty plaza where external traders conduct business and share news
+- **Workshop Row:** Concentration of small manufacturers sharing tools and expertise
+- **The Sorting Yards:** Massive warehouse complex processing regional trade
+- **Union Hall:** Headquarters for United Workers Alliance, crossing species lines
+
+### Cultural Venues
+- **The Harmony Theater:** Performance space with rotating stages for different cultural needs
+- **Festival Grounds:** Open meadow reserved for celebrations and large gatherings
+- **The Gallery Walk:** Artist studios and exhibition spaces showcasing fusion art
+- **Music Gardens:** Outdoor venues designed with natural acoustics
+- **The Story Circle:** Traditional gathering space where elders share cultural histories
+
+### Traditional Sites
+Despite rapid growth, The Hives preserves its historical roots.
+
+- **The First Hive:** Original honey operation turned into working museum
+- **Warren Prime:** Ancestral rabbit tunnels with memorial plaques
+- **The Cooperation Stone:** Monument where species first agreed to share the land
+- **Elder Grove:** Sacred trees where community ceremonies occur
+
+<div class='note'>
+
+#### <u>The Great Interchange</u>
+
+The Underground station serves as The Hives' beating heart. Three levels accommodate different traffic:
+
+**Upper Level:** Local shuttles to nearby districts
+**Middle Level:** Express services to other burrows  
+**Lower Level:** Freight and cargo operations
+
+During rush hour, specialized "pushers" help pack commuters into overcrowded cars while multilingual announcements attempt to maintain order. The station's famous Food Court offers cuisine from every corner of The Hives, making it a destination in itself.
+
+</div>
+
+## Governance & Politics
+
+### The Diversity Council
+The Hives pioneered inclusive governance accommodating multiple decision-making traditions.
+
+**Structure:**
+- **Community Representatives:** Each major ethnic group sends delegates
+- **Rotating Leadership:** Council chair position rotates between communities monthly
+- **Translation Services:** Ensuring all voices are literally understood
+- **Consensus Requirements:** Major decisions need 75% agreement
+- **Veto Powers:** Any community can block actions affecting them directly
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+**Functions:**
+- **Resource Allocation:** Distributing public funds fairly between districts
+- **Cultural Mediation:** Resolving conflicts between different traditions
+- **External Relations:** Coordinating with other burrows and trade partners
+- **Emergency Response:** Managing crises requiring community-wide action
+- **Development Planning:** Balancing growth with community character
+
+### Community Organizations
+Grassroots groups provide the real governance in daily life.
+
+- **Neighborhood Associations:** Hyperlocal governance for specific blocks
+- **Cultural Societies:** Preserving homeland traditions while adapting to city life
+- **Worker Cooperatives:** Democratic ownership of businesses and workshops
+- **Youth Councils:** Giving voice to the fusion generation
+- **Elder Circles:** Wisdom keepers advising on traditional matters
+
+### Political Movements
+The Hives' diversity creates a complex political landscape.
+
+- **The Integrationists:** Promoting cultural fusion and shared identity
+- **The Preservationists:** Maintaining distinct cultural boundaries
+- **The Progressives:** Embracing change and experimentation
+- **The Cooperatives:** Expanding democratic economics
+- **The Regionalists:** Strengthening ties with homeland communities
+
+## Urban Tensions & Challenges
+
+### The Honeycomb Family: Agricultural Mafia
+Not all of The Hives' prosperity comes from honest work. The Honeycomb Family evolved from traditional beekeeping dynasties into a sophisticated criminal organization.
+
+#### Operations & Influence
+- **Honey Trade Control:** Manipulating prices through "quality certification" requirements
+- **Caravan "Insurance":** Protection services that create the threats they guard against
+- **Market Stall "Permits":** Unofficial fees for prime selling locations
+- **Labor "Mediation":** Resolving disputes in ways that benefit family interests
+- **Political Influence:** Subtle corruption maintaining the cooperative facade
+
+#### Methods & Philosophy
+Unlike Mousehattan's violent syndicates, the Honeycomb Family operates through economic pressure and social manipulation.
+
+- **Agricultural Traditions:** Using farmer respectability as cover for crime
+- **Community Integration:** Family members serve on councils and charity boards
+- **Soft Power:** Preferring bankruptcy to bloodshed
+- **Protection Services:** Actually providing security while extracting tribute
+- **Information Networks:** Knowing everyone's business through "friendly concern"
+
+\columnbreak
+
+### Infrastructure Crisis
+
+#### The Great Interchange Breakdown
+The massive transportation hub is failing under pressure no one anticipated during construction.
+
+**Physical Problems:**
+- **Platform Overcrowding:** Dangerous crushes during rush hours
+- **Tunnel Degradation:** Water seepage weakening support structures
+- **Signal Failures:** Outdated systems causing regular delays
+- **Ventilation Issues:** Air quality declining in deeper levels
+
+**Political Problems:**
+- **Funding Disputes:** Burrows arguing over who pays for repairs
+- **Mole Engineer Strikes:** Demanding hazard pay for dangerous conditions
+- **Maintenance Corruption:** Repair funds disappearing into connected paws
+
+#### Housing Shortage
+Rapid population growth has overwhelmed The Hives' inclusive housing policies.
+
+- **Overcrowded Warrens:** Designed for 4 creatures housing 12
+- **Tent Cities:** "Temporary" camps becoming permanent slums
+- **Rising Rents:** Established families profiting from newcomer desperation
+- **Speculation:** Mousehattan investors buying properties sight unseen
+- **Cultural Displacement:** Traditional neighborhoods losing character to gentrification
+
+### Social Tensions
+
+#### Integration vs. Preservation
+The fundamental question of The Hives: How much change is too much?
+
+- **Language Conflicts:** Which dialect to use in schools and official business
+- **Cultural Appropriation:** Fusion going too far, disrespecting traditions
+- **Religious Differences:** Sacred practices clashing with secular governance
+- **Educational Disputes:** What history to teach the fusion generation
+- **Festival Conflicts:** Limited public space causing scheduling battles
+
+#### Economic Inequality
+Despite cooperative ideals, wealth gaps are widening.
+
+- **Established vs. Newcomer:** Old families controlling prime resources
+- **Skills Premium:** Technical workers earning multiples of laborers
+- **Property Concentration:** Land rights inherited, not earned
+- **Capital Access:** New businesses can't compete with established ones
+- **Generational Mobility:** Young creatures seeing no path to prosperity
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Environmental & Security Challenges
+
+#### Predator Vulnerability
+The Hives' open meadow location makes it the most exposed burrow to aerial threats.
+
+- **Hawk Hunting Grounds:** Open spaces provide perfect attack approaches
+- **Limited Cover:** Few trees or structures for quick shelter
+- **Surface Dependencies:** Many activities require above-ground exposure
+- **Evacuation Challenges:** Diverse population has different mobility needs
+- **Border Length:** Extensive perimeter impossible to fully monitor
+
+#### Seasonal Extremes
+Weather hits The Hives harder than the forest-sheltered burrows.
+
+- **Spring Flooding:** Meadow streams overflow into lower districts
+- **Summer Droughts:** Water shortages affecting dense population
+- **Autumn Fires:** Dry grass creates serious risks
+- **Winter Exposure:** Less natural insulation than forested areas
+- **Climate Unpredictability:** Traditional weather wisdom failing
+
+### The Beetle Uprising
+The Hives' economy depends on insect partnerships, but the relationship is fraying.
+
+#### Growing Tensions
+- **Overwork:** Beetles pushed beyond sustainable limits
+- **Pheromone Resistance:** Some insects developing immunity to control scents
+- **Organization:** Beetles beginning to coordinate across handlers
+- **Sabotage:** "Accidents" increasing in frequency
+- **Demands:** Shorter hours, better food, breeding rights
+
+#### Economic Impact
+- **Shipping Delays:** Packages arriving late or not at all
+- **Manufacturing Slowdowns:** Beetle-powered equipment failing
+- **Agricultural Crisis:** Honey production dropping without beetle assistance
+- **Public Services:** Waste management and construction suffering
+- **Black Market:** Illegal pheromones and beetle-trading emerging
+
+## Opportunities Amid Challenges
+
+### Innovation Through Adversity
+The Hives' diversity becomes its greatest strength during crises.
+
+- **Cross-Cultural Solutions:** Each tradition contributing unique approaches
+- **Rapid Adaptation:** Diverse communities pivoting quickly to new realities
+- **Mutual Aid Networks:** Different groups supporting each other
+- **Creative Economics:** New business models emerging from necessity
+- **Social Innovation:** Pioneering inclusive governance structures
+
+### Competitive Advantages
+- **Cultural Diversity:** Multiple perspectives preventing blind spots
+- **Trade Hub Status:** Central location ensuring economic relevance
+- **Community Spirit:** Cooperative traditions building resilience
+- **Adaptability:** Constant change making flexibility normal
+- **External Relationships:** Strong connections with homeland communities
+
+\columnbreak
+
+## Notable NPCs
+
+### The Power Brokers
+
+#### Councilrabbit Honeycomb
+**Elder Mother Beatrice Honeyclover**
+- Leader of both legitimate honey business and criminal enterprise
+- Grandmother persona hiding ruthless intelligence
+- "Sweet as cooperation" while controlling the sugar supply
+- Genuinely believes crime provides community stability
+
+#### Councilpig Whistlebelly
+**Professor Gustavo Terrazamor**
+- Agricultural innovator and integration advocate
+- Speaks five languages with musical guinea pig accent
+- Pioneered vertical farming in abandoned tunnels
+- Building cross-species progressive coalition
+
+#### Chief Mediator Brownfur
+**Marcus "Peace-Maker" Brownfur** (Prairie Dog)
+- Diversity Council's primary conflict resolver
+- Famous for talking down species riots
+- Maintains neutral stance despite pressure
+- Secret romantic relationship crossing enemy communities
+
+### The Connected
+
+#### Little Honey
+**Salvatore "Sally Honey" Mellifera** (Rabbit)
+- Honeycomb Family's chief enforcer
+- Appears as bumbling sweet-seller
+- Controls market stall "permits"
+- Never been seen to commit violence personally
+
+#### The Beetle Whisperer
+**Thrix-ka** (Shrew)
+- Only creature who truly understands beetles
+- Negotiating between insects and mammals
+- Rumored to be organizing beetle unions
+- May be planning something bigger
+
+### The Operators
+
+#### Mama Terrace
+**Elena Cascada-Morales** (Guinea Pig)
+- Runs three restaurants and informal banking
+- Helps new immigrants navigate the system
+- Information broker with ethics
+- Knows everyone's grandmother
+
+#### The Festival King
+**Chester "Party Time" Brightstripe** (Chipmunk)
+- Organizes cultural celebrations
+- Somehow profits from free events
+- Connected to every community
+- May be Intelligence Service asset
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### The Innovators
+
+#### The Fusion Chef
+**Marie-Cloudette Whiskerling** (Field Mouse)
+- Created honey-grain-beetle fusion cuisine
+- Restaurant is neutral ground for all factions
+- Uses food to bridge cultural divides
+- Hiding escaped creatures in secret basement
+
+#### Young Terrace
+**Miguel "Mikey T" Terrazamor** (Guinea Pig)
+- Councilpig Whistlebelly's rebellious son
+- Running underground fusion music clubs
+- Dating outside his species and class
+- Building youth movement across communities
+
+## Adventure Hooks
+
+### Cultural Conflicts
+- **Festival Sabotage:** Someone's trying to ruin Convergence Festival, destroying community unity
+- **The Translation Crisis:** Universal translator beetles suddenly refuse to work, chaos ensues
+- **Sacred Ground:** Development threatening multiple communities' religious sites
+- **Culture War:** Extremists pushing for species separation gain momentum
+
+### Economic Mysteries  
+- **The Honey Heist:** Someone's replacing real honey with synthetic, economy in freefall
+- **Warehouse Wars:** Goods disappearing between arrival and distribution
+- **Counterfeit Goods:** Fake products destroying The Hives' reputation
+- **The Grain Conspiracy:** Prairie dog merchants being systematically ruined
+
+### Political Intrigue
+- **Council Corruption:** Evidence emerges of vote-buying in Diversity Council
+- **The Succession Crisis:** Honeycomb Family matriarch dying, war brewing
+- **External Influence:** Mousehattan trying to economically colonize The Hives
+- **Democratic Breakdown:** Consensus system failing, violence threatening
+
+### Infrastructure Disasters
+- **The Great Collapse:** Interchange tunnel system failing, thousands trapped
+- **Beetle Strike:** Insects refuse to work, economy grinding to halt
+- **Water Wars:** Drought pitting communities against each other
+- **The Tent City Fire:** Disaster in temporary housing threatens thousands
+
+### Community Challenges
+- **The Integration Test:** High-profile inter-species marriage causing riots
+- **Youth Exodus:** Entire generation leaving for other burrows
+- **The Plague:** Disease spreading through overcrowded housing
+- **Cultural Preservation:** Last speakers of homeland languages dying
+
+\columnbreak
+
+### Predator Crises
+- **Hawk Season:** Aerial predators discovering the exposed market squares
+- **The Titan Passage:** Giant deer migration path shifting through The Hives
+- **Underground Predator:** Something hunting in the deep tunnels
+- **The Swarm:** Predatory wasps establishing hive near border
+
+## The Future of The Hives
+
+### Emerging Trends
+- **Cultural Synthesis:** New shared identity emerging from fusion
+- **Economic Innovation:** Cooperative models spreading to other burrows
+- **Political Evolution:** Direct democracy experiments expanding
+- **Regional Leadership:** Becoming model for inclusive communities
+
+### Challenges Ahead
+- **Sustainable Growth:** Managing expansion without losing character
+- **Cultural Balance:** Preserving diversity while building unity
+- **Economic Justice:** Ensuring prosperity reaches all communities
+- **External Pressure:** Resisting exploitation by wealthier burrows
+
+### Potential Futures
+
+#### The Melting Pot Path
+Full integration creating new hybrid culture, loss of distinct traditions but stronger unified identity.
+
+#### The Mosaic Path  
+Maintaining separate communities within shared framework, risking fragmentation but preserving diversity.
+
+#### The Innovation Path
+Becoming the creative capital through cultural fusion, risking commercialization of traditions.
+
+#### The Breakdown Path
+Tensions exploding into conflict, communities retreating into ethnic enclaves, cooperative dream dying.
+
+<div class='example'>
+
+##### Running Adventures in The Hives
+
+The Hives works best for stories about community, identity, and cooperation. Focus on:
+
+- **Cultural misunderstandings** creating conflict
+- **Economic pressures** testing community bonds  
+- **Infrastructure** as both problem and solution
+- **Diversity** as strength and challenge
+- **Innovation** born from fusion
+
+Let players navigate between communities, building bridges or watching them burn.
+
+</div>
+
+This is The Hives: where the forest meets the grasslands, where ancient traditions meet innovative solutions, and where creatures from across the region come together to build something greater than the sum of their parts. A community that proves diversity is strength, cooperation is prosperity, and that home is not where you come from, but where you choose to build your life alongside others who share your dreams.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Lin's Brook - The Working Waterfront
+
+Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the burrow that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers.
+
+## Geography & Infrastructure
+
+### The Waterscape
+- **Whisker Creek:** The lifeblood, flowing from the northern forests to join the East River
+- **The Tidal Reach:** Where creek meets river, creating daily rhythm of high/low water
+- **Mill Falls:** Three sets of beaver-engineered drops powering workshops
+- **The Wetlands:** Marshy edges where specialized communities thrive
+- **Mud Flats:** Exposed at low tide, rich gathering grounds
+
+### Dam Infrastructure
+- **The Great Dam:** Master work of beaver engineering, creates the Mill Pond
+- **Secondary Dams:** Seven smaller structures controlling flow and creating neighborhoods
+- **Lodge Complexes:** Multi-family structures built into dam faces
+- **Emergency Breaks:** Designed to fail safely during giant events
+
+### Districts
+
+#### Old Damside *(Historic Heart)*
+Original beaver settlement around the Great Dam. Multi-generational lodge complexes with traditional workshops and sawmills.
+
+#### Otter's Landing *(Waterfront Commerce)*
+Docks, warehouses, and trading posts. Otter-run ferry terminals with competitive slide-racing venues.
+
+#### The Mills *(Industrial Center)*
+Water-powered workshops, lumber processing, and craftscreature quarters with apprentice dormitories.
+
+#### Greenbank *(Gentrifying Waterfront)*
+Former industrial areas becoming "artisanal" with converted warehouses housing galleries and rising rents.
+
+\columnbreak
+
+## Water & the Giants
+
+### Aquatic Titans
+- **Moose:** Wade through during summer, devastating dam systems
+- **Bears:** Fish during salmon runs, entire burrow potentially evacuates
+- **Deer:** Crossing at fords causes tsunami-like waves
+- **Beavers' Revenge:** Legendary giant beaver that supposedly protects the burrow
+
+### Flood Protocols
+- **The Warning Slaps:** Tail-slapping signals travel upstream
+- **High Ground Caches:** Emergency supplies above flood lines
+- **Sacrificial Dams:** Built to break and dissipate giant-caused waves
+- **The Deep Lodges:** Reinforced underwater shelters
+
+<div class='note'>
+
+#### <u>Running Titan-Caused Disasters</u>
+
+When titans threaten Lin's Brook:
+1. **Warning Phase**: Perception checks to notice signs
+2. **Evacuation Phase**: Leadership/Athletics to organize escape
+3. **Crisis Phase**: Survival checks, rescue opportunities
+4. **Aftermath**: Rebuilding creates new conflicts
+
+Make titans feel like natural disasters, not monsters to fight. Focus on community response and heroic rescues.
+
+</div>
+
+<div class='note'>
+
+#### <u>Lin's Brook Sayings</u>
+
+- "Still water, strong dam" (patience and solid work)
+- "Every tide turns" (situations change)
+- "Swim with the current, build against it" (know when to fight)
+- "Wet fur, warm heart" (hard workers are good creatures)
+- "The creek provides" (gratitude for resources)
+- "Splinters before whiskers" (work comes first)
+
+</div>
+
+## Demographics & Economy
+
+### Population Breakdown
+- **35% Beavers:** The founding creatures and infrastructure masters
+- **30% Otters:** Waterfront workers and fishercreatures
+- **15% Muskrats:** Marsh dwellers and small-craft builders
+- **10% Mice/Voles:** Dry-land workers and merchants
+- **5% Frogs/Toads:** Newest arrivals, underwater specialists
+- **5% Others:** Including some reformed "river rats"
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Traditional Industries
+- **Construction:** Still builds most of Great Burrow's infrastructure
+- **Fishing:** Daily catches feed the entire city
+- **Lumber:** Sustainable harvesting of storm-fall and dead wood
+- **Transportation:** Ferries, cargo hauling, river guides
+- **Water Management:** Selling expertise to other burrows
+
+### The Families and The Waterfront
+
+#### River Rat Syndicate
+- **The Silverclaw Family:** Controls north dock protection
+- **Downstream Boys:** Salvage rights and smuggling
+- **The Wet Whiskers:** Gambling boats and fight clubs
+- **Code of the Current:** "What sinks stays sunk"
+
+#### Otter Clan Rivalries
+Ancient fishing territory disputes, slide-racing betting rings, ferry route monopolies. The Riverclaw vs. Shellcracker feud spans generations.
+
+#### Beaver Lodge Politics
+Which families get prime dam positions, construction contract bid-rigging, maintenance fund skimming. "Lodge Law" supersedes burrow rules.
+
+\columnbreak
+
+<div class='example'>
+
+##### Living in Lin's Brook
+Work follows the tide schedule - high tide for water work, low tide for maintenance. Dawn brings the best fishing before the city wakes. Mill shifts mean constant operation thanks to water power. Evening markets buzz when the day's catch comes in, while night work on dam repairs happens when water's calmest.
+
+</div>
+
+### Daily Life & Culture
+
+#### Work Rhythms
+- **Tide Schedule:** High tide for water work, low tide for maintenance
+- **Dawn Fishing:** Best catches before the city wakes
+- **Mill Shifts:** Water power means constant operation
+- **Evening Markets:** When the day's catch comes in
+
+#### Food Culture
+- **Fresh Fish:** Dozen ways to prepare, strong opinions on each
+- **Smokehouse Traditions:** Each family guards their wood blend
+- **Honey-Smoked Fish:** Premium product using Hives honey
+- **Fermented Fish:** Acquired taste, marks true locals
 
 ### Notable Locations
-- **Creek Crossing Station**: Major Underground stop, always damp
-- **The Waterworks**: Engineering guild headquarters and museum
-- **Silverclaw Compound**: Crime family's "legitimate" businesses
-- **The Spillway**: Underground fighting ring location
-- **Flood Memorial**: Marking high water from 59 years ago
+
+#### Historic Sites
+- **The First Dam:** Now a monument and museum
+- **Founders' Lodge:** Where the original builders lived
+- **The Great Slipway:** Where major construction is launched
+- **Old Fish Market:** Traditional morning gathering place
+
+#### Working Waterfront
+- **Shellcracker's Dock:** Otter-run, busiest ferry terminal
+- **The Lumber Yards:** Beaver-controlled, strictly organized
+- **Mill Row:** Water-powered workshops, dawn to dusk noise
+- **The Net Lofts:** Where fishing gear is made and mended
+
+#### Cultural Venues
+- **The Waterlogged:** Dockworker tavern, otter-dominated
+- **Slide Stadium:** Professional racing venue
+- **The Current:** Underground music venue in old mill
+- **Greenbank Gallery:** Former warehouse, now contentious art space
+
+#### Hidden Spots
+- **The Sunken Lodge:** Underwater meeting place for shady deals
+- **Smuggler's Inlet:** Hidden cove for moving contraband
+- **The Deep Pools:** Where the biggest fish hide
+- **Forgotten Spillway:** Abandoned dam, now black market hub
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# External Relations
+
+While The Great Burrow dominates the central forest region, it exists within a broader world of woodland settlements, distant communities, and unexplored territories. These relationships shape trade routes, immigration patterns, diplomatic alliances, and existential threats.
+
+## Trade Relationships
+
+### The Pine Barrens Confederation *(Western Frontier)*
+**Primary Species:** Pine martens, porcupines, northern squirrel subspecies
+**Trade Goods:** 
+- **Exports to Great Burrow:** Pine nuts, resin, winter furs, medicinal bark, survival gear
+- **Imports from Great Burrow:** Honey, manufactured goods, acorn products, metal tools
+
+**Relationship:** Cautious but profitable. Pine Barrens creatures are traditional and suspicious of urban ways but need sophisticated products. Trade requires Ranger escorts due to dangerous routes.
+
+### Meadowbrook Settlements *(Southern Grasslands)*
+**Primary Species:** Prairie dogs, ground squirrels, rabbit communities
+**Trade Goods:**
+- **Exports to Great Burrow:** Grains, grassland herbs, woven grass goods, dried flowers
+- **Imports from Great Burrow:** Tree nuts, wooden tools, manufactured goods, construction expertise
+
+**Relationship:** Friendly and regular. Strong cultural ties with The Hives through immigration and shared democratic traditions.
+
+### Coastal Tidepools *(Eastern Seaboard)*
+**Primary Species:** Crabs, sea otters, coastal mice
+**Trade Goods:**
+- **Exports to Great Burrow:** Salt, seaweed, shells, dried fish, pearls
+- **Imports from Great Burrow:** Fresh water, forest foods, manufactured goods, honey
+
+**Relationship:** Irregular but valuable. Small, scattered communities make trade logistics difficult. Weather and tides affect reliability.
+
+\columnbreak
+
+## The Outlaw Problem
+
+### Bandit Territories *(The Lawless Zones)*
+Areas between established settlements where civilization has broken down. Composed of exiles, failed Rangers, desperate creatures, and those who choose the outlaw life.
+
+### Major Bandit Groups
+- **The Broken Claw Gang:** Led by disgraced badger, controls mountain passes
+- **Whisker's Crew:** Rat-dominated caravan robbery specialists
+- **The Feral Pack:** Mixed species "gone wild," most dangerous
+- **Shadow Runners:** Sophisticated protection and guide services
+
+### Operations
+- **Caravan Raiding:** Primary income from valuable trade goods
+- **False Guide Services:** Leading travelers safely, then robbing them
+- **Protection Rackets:** "Insuring" safe passage for payments
+- **Smuggling Networks:** Moving contraband between settlements
+
+<div class='note'>
+
+#### <u>Trade Route Security</u>
+
+Bandit activity forces expensive Ranger escorts, creates longer "safe routes," drives up import prices, and limits small trader operations. The Great Burrow maintains diplomatic relationships for prisoner exchanges and safe passage negotiations.
+
+</div>
+
+## Diplomatic Relations
+
+### Regional Alliances
+- **Oakenheart Alliance:** Forest communities mutual defense pact
+- **Meadow Compact:** Southern grassland trade and cultural agreement
+- **Waterway Accords:** River and coastal navigation rights
+
+### Immigration Patterns
+**Economic Migrants:** Seeking opportunities in The Great Burrow's economy
+**Refugees:** Fleeing titan encounters, bandit raids, or community conflicts
+**Skilled Workers:** Recruited for specialized knowledge or abilities
+**Cultural Immigrants:** Joining established diaspora communities
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -2583,6 +4376,23 @@ The Rangers maintain strict protocols for titan defense:
 - **Quick Response Teams**: Ready to deploy within minutes
 - **Evacuation Coordinators**: Working with each burrow's plans
 - **Training Academy**: Only the desperate and brave need apply
+
+<div class='note wide'>
+
+#### <u>Ranger Mission Generator</u>
+
+Roll 2d6 or choose:
+
+**2-3:** Titan sighting reconnaissance - gather intel without engagement  
+**4-5:** Rescue mission for lost creatures in titan territory  
+**6-7:** Escort duty for important figures through dangerous zones  
+**8-9:** Investigate strange titan behavior or new migration patterns  
+**10-11:** Sabotage mission to redirect titan movement away from city  
+**12:** Desperate last stand - titan heading directly for populated area  
+
+Rangers use cunning over strength. Success means redirecting threats, not defeating them.
+
+</div>
 
 <div class='note'>
 
@@ -2654,6 +4464,21 @@ A typical creature might start the day reading The Daily Squeak over breakfast, 
 - **Spider Silk Rope:** Ultra-strong climbing rope, Price 60 acorns, *Half normal Encumbrance, Superior quality*
 - **Cricket Alarm:** Security system using trained crickets, Price 80 acorns, *Alerts to intruders within Short range*
 - **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
+
+<div class='note'>
+
+#### <u>Insect Technology Failures</u>
+
+When <span class='symbols'>h</span> or <span class='symbols'>d</span> appear on insect-tech checks:
+- **Beetles** get distracted by food
+- **Ants** follow old pheromone trails
+- **Spiders** abandon silk mid-spin
+- **Crickets** chirp at wrong times
+- **Butterflies** migrate unexpectedly
+
+Make failures humorous but consequential!
+
+</div>
 
 ### Tools and Equipment
 
@@ -2769,101 +4594,7 @@ Equipment needs change dramatically with the seasons in The Great Burrow:
 \pagebreakNum
 
 
-## Arts and Entertainment
 
-The Great Burrow's cultural life reflects diverse species and unique urban forest challenges.
-
-### Theater and Performance
-
-#### The Grand Oak Theater *(Mousehattan)*
-- **Location:** Carved into the base of the Trading Oak
-- **Capacity:** 800 creatures across four tiers
-- **Programming:** Classical dramas, modern comedies, musical revues
-- **Audience:** Primarily upper-class mice and rats
-- **Notable Productions:** "The Merchant of Mousehattan," "A Midsummer Night's Squeak"
-
-#### The People's Stage *(The Branchx)*
-- **Location:** Natural amphitheater formed by intersecting branches
-- **Capacity:** 1,200 creatures, standing room only
-- **Programming:** Union rallies, folk performances, political satire
-- **Audience:** Working-class creatures from all burrows
-- **Notable Productions:** "The Nutcracker's Revenge," "Bridges of Madison County (Tree)"
-
-#### The Crossroads Theater *(The Hives)*
-- **Location:** Multiple venues throughout the burrow, rotating between districts
-- **Programming:** Immigrant stories, fusion works, cultural celebrations
-- **Audience:** Most diverse in the city, heavy working-class and immigrant attendance
-- **Cultural Impact:** Showcases immigrant experiences and promotes cultural understanding
-
-\columnbreak
-
-### Visual Arts
-
-#### The Mousehattan Museum of Natural Arts
-- **Collection:** Ancient acorns, preserved leaves, mineral specimens, fossils
-- **Special Exhibitions:** Rotating displays of contemporary creature art
-- **Education Programs:** Art classes for young creatures
-- **Controversy:** Debates over "modern" vs. "traditional" art
-
-#### The Canopy Gallery Circuit *(The Branchx)*
-- **Format:** Art displayed on bridge supports and tree trunks
-- **Artists:** Working creatures creating in spare time
-- **Themes:** Labor, community, resistance to gentrification
-- **Medium:** Bark carvings, rope sculptures, found object installations
-
-#### The Hives Cultural Collective
-- **Focus:** Multicultural art celebrating immigrant traditions and fusion
-- **Products:** Prairie dog pottery, marmot stonework, guinea pig textiles
-- **Philosophy:** Art as bridge between cultures, celebrating diversity
-- **Innovation:** Cross-cultural artistic techniques creating new art forms
-
-<div class='note'>
-
-##### <u>Cultural Venues by Burrow</u>
-
-**Mousehattan:** Grand Oak Theater, Museum of Natural Arts, exclusive private galleries
-
-**The Branchx:** People's Stage, Canopy Gallery Circuit, union-sponsored murals
-
-**The Hives:** Crossroads Theater, Cultural Collective, rotating cultural festivals
-
-**Lin's Brook:** Waterfront performance spaces, folk music traditions, craftsman workshops
-
-**Scurry Island:** Death Theater, underground galleries, survival-themed performances
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Festivals and Celebrations
-
-### The Great Burrow Calendar
-**Seasonal Structure:** Spring Awakening (renewal, planting), Summer Growth (peak activity, construction), Autumn Harvest (gathering, gratitude), Winter Rest (reflection, community bonding)
-
-### Major Festivals
-
-#### The Great Awakening *(Spring Equinox)*
-City-wide celebration of renewal and new beginnings. Communities plant new gardens, begin construction projects, and hold renewal ceremonies.
-
-#### Midsummer Construction Festival
-Celebrating the peak building season. Competitions between construction crews, displays of craftsmanship, and community barn-raising events.
-
-\columnbreak
-
-#### Harvest Gratitude *(Autumn Equinox)*
-Thanksgiving for the year's abundance. Each burrow contributes traditional foods, cultural performances showcase diversity, and communities share resources for winter preparation.
-
-#### The Long Night *(Winter Solstice)*
-Community bonding during the darkest time. Underground gatherings with storytelling, planning for next year, and mutual aid distribution.
-
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 # New Talents
 
@@ -3520,469 +5251,98 @@ However, his growing crime family connections have made him Unfriendly (-2) with
 
 \pagebreakNum
 
-# The Branchx - The Canopy Commons
+## Arts and Entertainment
 
-High above the forest floor, where ancient oaks and maples create a natural metropolis of branches and hollows, The Branchx sprawls through the canopy like a three-dimensional maze of working-class pride and territorial ambition.
+The Great Burrow's cultural life reflects diverse species and unique urban forest challenges.
 
-## Geography & Infrastructure
+### Theater and Performance
 
-### The Vertical Territory
-- **The Ancient Grove:** Five massive oaks and seven grand maples form the core
-- **Branch Levels:** Seven distinct heights, from "Ground Scrape" to "Crown Touch"
-- **The Squirrel Highways:** Major branches worn smooth by generations of travel
-- **Hollow Neighborhoods:** Natural tree cavities expanded into communities
-- **The Gap:** Dangerous open space between tree clusters, crossed by bridges
+#### The Grand Oak Theater *(Mousehattan)*
+- **Location:** Carved into the base of the Trading Oak
+- **Capacity:** 800 creatures across four tiers
+- **Programming:** Classical dramas, modern comedies, musical revues
+- **Audience:** Primarily upper-class mice and rats
+- **Notable Productions:** "The Merchant of Mousehattan," "A Midsummer Night's Squeak"
 
-### Canopy Architecture
-- **Nest Complexes:** Woven structures anchored to major branches
-- **Bridge Network:** 47 major crossings, hundreds of minor ones
-- **Vertical Territories:** Each family controls trunk-to-crown rights in their tree
-- **Emergency Descents:** Bark-stripped slides for rapid evacuation
+#### The People's Stage *(The Branchx)*
+- **Location:** Natural amphitheater formed by intersecting branches
+- **Capacity:** 1,200 creatures, standing room only
+- **Programming:** Union rallies, folk performances, political satire
+- **Audience:** Working-class creatures from all burrows
+- **Notable Productions:** "The Nutcracker's Revenge," "Bridges of Madison County (Tree)"
 
-\columnbreak
-
-### Districts
-
-#### Old Grove Heights *(Traditional Power)*
-Highest branches of the Ancient Grove. Multi-generational squirrel families with the best acorn access and winter sun.
-
-#### Working Branch *(Industrial Center)*
-Mid-level branches dense with construction staging areas, rope workshops, and union halls.
-
-#### The Tangles *(Dense Neighborhoods)*
-Where secondary branches create maze-like communities. Chipmunk courier stations and cheap nest rentals.
-
-#### Ground Scrape *(Lower Levels)*
-Just above predator reach. Recent immigrants and struggling families maintaining constant vigilance.
-
-#### New Growth *(Gentrifying Edge)*
-Young trees being developed with Mousehattan money creating conflicts over development rights.
-
-#### The Crow Zones *(Rough Territory)*
-Branches too close to crow nests. Gang territories with complex relationships with corvids.
-
-## Predator Reality & Defense
-
-### Aerial Threats
-- **Hawks:** Daytime terror, forcing covered travel
-- **Owls:** Night shift's nightmare, silent death
-- **Crows:** Sometimes allies, sometimes threats, always complicated
-- **Snakes:** Climbing varieties create seasonal panic
-
-### Defense Systems
-- **The Watch:** Rotating sentries with alarm calls
-- **Overhead Cover:** Woven canopies over major routes
-- **Crow Negotiations:** Protection deals with corvid gangs
-- **The Screamers:** Chipmunks whose only job is alarm calls
-
-### Cultural Impact
-- **Never Travel Alone:** Buddy system ingrained from birth
-- **Branch Patterns:** Routes memorized to avoid open sky
-- **Peak Hours:** Dawn and dusk are "death times"
-- **The Taken:** Memorial walls for those lost to hawks
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Demographics & Culture
-
-### Population Breakdown
-- **60% Squirrels:** Traditional majority, various subspecies
-- **25% Chipmunks:** Essential courier class
-- **10% Flying Squirrels:** Elite transport and message services
-- **3% Mice:** Usually Mousehattan gentrifiers or climbers
-- **2% Others:** Including reformed rats, adventurous voles
-
-### The Families and Gangs
-
-#### The Nutcracker Union
-Not just labor - includes "muscle" for disputes. Controls who works construction with "Break more than nuts" reputation.
-
-#### The Tailwind Gang
-Chipmunk-dominated courier collective controlling prime message routes. "Neither hawk nor storm" motto.
-
-#### Crow-Affiliated Groups
-- **The Black Feathers:** Young squirrels working with crows
-- **Shiny Things:** Stealing for corvid bosses
-- **The Murder Boys:** Most violent gang
-
-#### Traditional Families
-- **The Oakheart Clan:** Oldest squirrel lineage
-- **Swiftbranch Dynasty:** Flying squirrel elite
-- **The Mapleseed Collective:** Progressive coalition
+#### The Crossroads Theater *(The Hives)*
+- **Location:** Multiple venues throughout the burrow, rotating between districts
+- **Programming:** Immigrant stories, fusion works, cultural celebrations
+- **Audience:** Most diverse in the city, heavy working-class and immigrant attendance
+- **Cultural Impact:** Showcases immigrant experiences and promotes cultural understanding
 
 \columnbreak
+
+### Visual Arts
+
+#### The Mousehattan Museum of Natural Arts
+- **Collection:** Ancient acorns, preserved leaves, mineral specimens, fossils
+- **Special Exhibitions:** Rotating displays of contemporary creature art
+- **Education Programs:** Art classes for young creatures
+- **Controversy:** Debates over "modern" vs. "traditional" art
+
+#### The Canopy Gallery Circuit *(The Branchx)*
+- **Format:** Art displayed on bridge supports and tree trunks
+- **Artists:** Working creatures creating in spare time
+- **Themes:** Labor, community, resistance to gentrification
+- **Medium:** Bark carvings, rope sculptures, found object installations
+
+#### The Hives Cultural Collective
+- **Focus:** Multicultural art celebrating immigrant traditions and fusion
+- **Products:** Prairie dog pottery, marmot stonework, guinea pig textiles
+- **Philosophy:** Art as bridge between cultures, celebrating diversity
+- **Innovation:** Cross-cultural artistic techniques creating new art forms
 
 <div class='note'>
 
-#### <u>Branchx Sayings</u>
+##### <u>Cultural Venues by Burrow</u>
 
-- "High branch, warm winter" (elevation equals security)
-- "Every bridge sways" (nothing is certain)
-- "Nuts before glory" (practical priorities)
-- "The hawk's shadow" (constant danger)
-- "Branch born, sky sworn" (pride in canopy life)
-- "Splinters build character" (hard work virtue)
+**Mousehattan:** Grand Oak Theater, Museum of Natural Arts, exclusive private galleries
 
-</div>
+**The Branchx:** People's Stage, Canopy Gallery Circuit, union-sponsored murals
 
-## Daily Life & Economy
+**The Hives:** Crossroads Theater, Cultural Collective, rotating cultural festivals
 
-### Work Culture
-- **Dawn Patrol:** Checking overnight damage
-- **Shift Whistles:** Work organized by sun position
-- **Sunset Scramble:** Racing darkness home
-- **Night Shift:** Dangerous but better paid
+**Lin's Brook:** Waterfront performance spaces, folk music traditions, craftsman workshops
 
-### Traditional Industries
-- **Construction:** THE identity of The Branchx
-- **Acorn Harvesting:** Seasonal boom economy
-- **Rope Making:** From spider silk to bark fiber
-- **Bridge Building:** Specialized engineering knowledge
-- **Courier Services:** Speed is money
-
-### Underground Economy
-- **Crow Market:** Goods "fallen off branches"
-- **Protection Rackets:** Safety from aerial threats
-- **Tunnel Smuggling:** Using abandoned maintenance sections
-- **Height Papers:** Fake documents for branch access
-
-<div class='example'>
-
-##### Living in The Branchx
-A typical squirrel construction worker starts with Dawn Patrol checking overnight storm damage. Work crews gather at Shift-Change Square when the dawn whistle sounds. Lunch happens on designated "Lunch Branches" for social hour. The sunset scramble home requires checking the sky for predators before making the final sprint to safety.
+**Scurry Island:** Death Theater, underground galleries, survival-themed performances
 
 </div>
 
-<div class=\"footnote\">THE GREAT BURROW<BR />
+<div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
-# The Hives - The Crossroads Community
+## Festivals and Celebrations
 
-Sprawling across the meadow clearings where forest meets grassland, The Hives earned its name from the dense, interconnected burrow complexes that honeycomb the rolling hills. This is The Great Burrow's most diverse community, where prairie dogs from the southern grasslands live next to mountain marmots, where traditional rabbit warrens neighbor innovative guinea pig terraces.
+### The Great Burrow Calendar
+**Seasonal Structure:** Spring Awakening (renewal, planting), Summer Growth (peak activity, construction), Autumn Harvest (gathering, gratitude), Winter Rest (reflection, community bonding)
 
-## Geography & Infrastructure
+### Major Festivals
 
-### The Crossroads Location
-- **Gateway Hills:** Rolling terrain that naturally funnels trade routes from the southern grasslands
-- **The Convergence:** Where multiple streams meet, creating natural stopping points for caravans
-- **Meadow Flats:** Open areas perfect for markets, festivals, and temporary camps
-- **Burrow Heights:** Terraced hillsides packed with multi-family housing complexes
-- **The Commons:** Central gathering spaces shared by multiple neighborhoods
+#### The Great Awakening *(Spring Equinox)*
+City-wide celebration of renewal and new beginnings. Communities plant new gardens, begin construction projects, and hold renewal ceremonies.
 
-### Transportation Hub
-- **Caravan Grounds:** Staging areas where external traders set up temporary camps
-- **The Great Interchange:** Where three Underground lines converge in a massive station
-- **Wagon Ways:** Wide paths designed for heavy freight from distant communities
-- **The Sorting Yards:** Warehouse district where goods are processed and distributed
-
-### Districts
-
-#### Central Commons *(The Heart)*
-The Great Interchange Underground station, multi-cultural markets and food courts, community meeting halls and event spaces.
-
-#### Meadow Heights *(Established Families)*
-Traditional rabbit warrens with honey operations. Multi-generational family compounds and conservative community leadership.
-
-#### Grassland Quarter *(Prairie Immigrants)*
-Prairie dog settlements with distinctive architecture, wide communal burrow systems, and democratic town-hall style governance.
-
-#### Innovation District *(Mixed Community)*
-Guinea pig agricultural experiments, cross-cultural fusion workshops, and experimental housing cooperatives.
+#### Midsummer Construction Festival
+Celebrating the peak building season. Competitions between construction crews, displays of craftsmanship, and community barn-raising events.
 
 \columnbreak
 
-## Demographics & Culture
+#### Harvest Gratitude *(Autumn Equinox)*
+Thanksgiving for the year's abundance. Each burrow contributes traditional foods, cultural performances showcase diversity, and communities share resources for winter preparation.
 
-### Population Breakdown
-- **20% Rabbits:** Established families, traditional honey operations
-- **18% Prairie Dogs:** Grassland immigrants, community organizers
-- **15% Voles & Field Mice:** Working class, service industries
-- **12% Guinea Pigs:** Agricultural innovators, recent immigrants
-- **10% Marmots:** Mountain immigrants, craftscreatures and builders
-- **8% Hamsters:** Merchant families, storage and logistics
-- **7% Hedgehogs:** Night shift workers, entertainment industry
-- **5% Shrews:** Insect specialists, technical workers
-- **5% Mixed/Other:** Various species in smaller numbers
+#### The Long Night *(Winter Solstice)*
+Community bonding during the darkest time. Underground gatherings with storytelling, planning for next year, and mutual aid distribution.
 
-<div class='note'>
 
-#### <u>Hives Sayings</u>
-
-- "Every creature finds their place in the swarm" (everyone belongs somewhere)
-- "Many burrows, one community" (unity in diversity)
-- "The hive remembers all its workers" (honoring everyone's contributions)
-- "Sweet as cooperation" (highest compliment for working together)
-- "Different flowers, same garden" (diversity creating beauty)
-
-</div>
-
-## Economy & Daily Life
-
-### Primary Industries
-- **Logistics & Distribution:** 30% of burrow economy - processing goods from external trade
-- **Small Manufacturing:** 25% - textiles, crafts, household goods, food processing
-- **Agriculture & Food:** 20% - honey, grains, specialty foods, fusion cuisine
-- **Services:** 15% - restaurants, shops, repair services, cultural businesses
-- **Transportation:** 10% - caravan support, Underground operations, courier services
-
-### Cultural Fusion
-- **Language Mixing:** Common Forest dialect with words from multiple regions
-- **Fusion Cuisine:** Traditional recipes adapted with new ingredients and techniques
-- **Hybrid Celebrations:** Festivals combining elements from different cultures
-- **Cross-Cultural Learning:** Skills and knowledge exchange between communities
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-### The Diversity Council
-**Representation:** Delegates from each major community group
-**Consensus Building:** Decision-making through discussion and compromise
-**Cultural Mediation:** Resolving conflicts between different traditions
-
-### Community Organizations
-- **Neighborhood Associations:** Local governance for specific districts
-- **Cultural Societies:** Preserving and promoting specific traditions
-- **Worker Cooperatives:** Democratic workplace organization
-- **Youth Councils:** Representing younger generation interests
-- **Elder Circles:** Wisdom and guidance from experienced community members
-
-\columnbreak
-
-<div class='example'>
-
-##### Living in The Hives
-The day begins with Dawn Markets where fresh goods arrive via Underground from other burrows. The Great Interchange buzzes with commuters heading to work while caravans arrive from distant communities. Evening brings community meals where different cultural traditions blend in neighborhood gathering spaces.
-
-</div>
-
-### Notable Locations
-- **The Great Hall:** Multi-purpose space for large gatherings and celebrations
-- **The Exchange:** Central marketplace for local and imported goods
-- **Caravan Square:** Staging area for external traders and travelers
-- **The Harmony Theater:** Performance space showcasing multiple cultural traditions
-- **The Integration Center:** Services for newcomers and cultural orientation
-
-### Challenges & Opportunities
-**Integration Tensions:** Cultural preservation vs. adaptation, economic competition between established families and newcomer entrepreneurs
-
-**Growth Opportunities:** Cultural innovation from community mixing, economic diversification, and regional leadership in inter-community cooperation
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# Lin's Brook - The Working Waterfront
-
-Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the burrow that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers.
-
-## Geography & Infrastructure
-
-### The Waterscape
-- **Whisker Creek:** The lifeblood, flowing from the northern forests to join the East River
-- **The Tidal Reach:** Where creek meets river, creating daily rhythm of high/low water
-- **Mill Falls:** Three sets of beaver-engineered drops powering workshops
-- **The Wetlands:** Marshy edges where specialized communities thrive
-- **Mud Flats:** Exposed at low tide, rich gathering grounds
-
-### Dam Infrastructure
-- **The Great Dam:** Master work of beaver engineering, creates the Mill Pond
-- **Secondary Dams:** Seven smaller structures controlling flow and creating neighborhoods
-- **Lodge Complexes:** Multi-family structures built into dam faces
-- **Emergency Breaks:** Designed to fail safely during giant events
-
-### Districts
-
-#### Old Damside *(Historic Heart)*
-Original beaver settlement around the Great Dam. Multi-generational lodge complexes with traditional workshops and sawmills.
-
-#### Otter's Landing *(Waterfront Commerce)*
-Docks, warehouses, and trading posts. Otter-run ferry terminals with competitive slide-racing venues.
-
-#### The Mills *(Industrial Center)*
-Water-powered workshops, lumber processing, and craftscreature quarters with apprentice dormitories.
-
-#### Greenbank *(Gentrifying Waterfront)*
-Former industrial areas becoming "artisanal" with converted warehouses housing galleries and rising rents.
-
-\columnbreak
-
-## Water & the Giants
-
-### Aquatic Titans
-- **Moose:** Wade through during summer, devastating dam systems
-- **Bears:** Fish during salmon runs, entire burrow potentially evacuates
-- **Deer:** Crossing at fords causes tsunami-like waves
-- **Beavers' Revenge:** Legendary giant beaver that supposedly protects the burrow
-
-### Flood Protocols
-- **The Warning Slaps:** Tail-slapping signals travel upstream
-- **High Ground Caches:** Emergency supplies above flood lines
-- **Sacrificial Dams:** Built to break and dissipate giant-caused waves
-- **The Deep Lodges:** Reinforced underwater shelters
-
-<div class='note'>
-
-#### <u>Lin's Brook Sayings</u>
-
-- "Still water, strong dam" (patience and solid work)
-- "Every tide turns" (situations change)
-- "Swim with the current, build against it" (know when to fight)
-- "Wet fur, warm heart" (hard workers are good creatures)
-- "The creek provides" (gratitude for resources)
-- "Splinters before whiskers" (work comes first)
-
-</div>
-
-## Demographics & Economy
-
-### Population Breakdown
-- **35% Beavers:** The founding creatures and infrastructure masters
-- **30% Otters:** Waterfront workers and fishercreatures
-- **15% Muskrats:** Marsh dwellers and small-craft builders
-- **10% Mice/Voles:** Dry-land workers and merchants
-- **5% Frogs/Toads:** Newest arrivals, underwater specialists
-- **5% Others:** Including some reformed "river rats"
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-### Traditional Industries
-- **Construction:** Still builds most of Great Burrow's infrastructure
-- **Fishing:** Daily catches feed the entire city
-- **Lumber:** Sustainable harvesting of storm-fall and dead wood
-- **Transportation:** Ferries, cargo hauling, river guides
-- **Water Management:** Selling expertise to other burrows
-
-### The Families and The Waterfront
-
-#### River Rat Syndicate
-- **The Silverclaw Family:** Controls north dock protection
-- **Downstream Boys:** Salvage rights and smuggling
-- **The Wet Whiskers:** Gambling boats and fight clubs
-- **Code of the Current:** "What sinks stays sunk"
-
-#### Otter Clan Rivalries
-Ancient fishing territory disputes, slide-racing betting rings, ferry route monopolies. The Riverclaw vs. Shellcracker feud spans generations.
-
-#### Beaver Lodge Politics
-Which families get prime dam positions, construction contract bid-rigging, maintenance fund skimming. "Lodge Law" supersedes burrow rules.
-
-\columnbreak
-
-<div class='example'>
-
-##### Living in Lin's Brook
-Work follows the tide schedule - high tide for water work, low tide for maintenance. Dawn brings the best fishing before the city wakes. Mill shifts mean constant operation thanks to water power. Evening markets buzz when the day's catch comes in, while night work on dam repairs happens when water's calmest.
-
-</div>
-
-### Daily Life & Culture
-
-#### Work Rhythms
-- **Tide Schedule:** High tide for water work, low tide for maintenance
-- **Dawn Fishing:** Best catches before the city wakes
-- **Mill Shifts:** Water power means constant operation
-- **Evening Markets:** When the day's catch comes in
-
-#### Food Culture
-- **Fresh Fish:** Dozen ways to prepare, strong opinions on each
-- **Smokehouse Traditions:** Each family guards their wood blend
-- **Honey-Smoked Fish:** Premium product using Hives honey
-- **Fermented Fish:** Acquired taste, marks true locals
-
-### Notable Locations
-- **The First Dam:** Now a monument and museum
-- **Shellcracker's Dock:** Otter-run, busiest ferry terminal
-- **The Waterlogged:** Dockworker tavern, otter-dominated
-- **Slide Stadium:** Professional racing venue
-- **The Sunken Lodge:** Underwater meeting place for shady deals
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# External Relations
-
-While The Great Burrow dominates the central forest region, it exists within a broader world of woodland settlements, distant communities, and unexplored territories. These relationships shape trade routes, immigration patterns, diplomatic alliances, and existential threats.
-
-## Trade Relationships
-
-### The Pine Barrens Confederation *(Western Frontier)*
-**Primary Species:** Pine martens, porcupines, northern squirrel subspecies
-**Trade Goods:** 
-- **Exports to Great Burrow:** Pine nuts, resin, winter furs, medicinal bark, survival gear
-- **Imports from Great Burrow:** Honey, manufactured goods, acorn products, metal tools
-
-**Relationship:** Cautious but profitable. Pine Barrens creatures are traditional and suspicious of urban ways but need sophisticated products. Trade requires Ranger escorts due to dangerous routes.
-
-### Meadowbrook Settlements *(Southern Grasslands)*
-**Primary Species:** Prairie dogs, ground squirrels, rabbit communities
-**Trade Goods:**
-- **Exports to Great Burrow:** Grains, grassland herbs, woven grass goods, dried flowers
-- **Imports from Great Burrow:** Tree nuts, wooden tools, manufactured goods, construction expertise
-
-**Relationship:** Friendly and regular. Strong cultural ties with The Hives through immigration and shared democratic traditions.
-
-### Coastal Tidepools *(Eastern Seaboard)*
-**Primary Species:** Crabs, sea otters, coastal mice
-**Trade Goods:**
-- **Exports to Great Burrow:** Salt, seaweed, shells, dried fish, pearls
-- **Imports from Great Burrow:** Fresh water, forest foods, manufactured goods, honey
-
-**Relationship:** Irregular but valuable. Small, scattered communities make trade logistics difficult. Weather and tides affect reliability.
-
-\columnbreak
-
-## The Outlaw Problem
-
-### Bandit Territories *(The Lawless Zones)*
-Areas between established settlements where civilization has broken down. Composed of exiles, failed Rangers, desperate creatures, and those who choose the outlaw life.
-
-### Major Bandit Groups
-- **The Broken Claw Gang:** Led by disgraced badger, controls mountain passes
-- **Whisker's Crew:** Rat-dominated caravan robbery specialists
-- **The Feral Pack:** Mixed species "gone wild," most dangerous
-- **Shadow Runners:** Sophisticated protection and guide services
-
-### Operations
-- **Caravan Raiding:** Primary income from valuable trade goods
-- **False Guide Services:** Leading travelers safely, then robbing them
-- **Protection Rackets:** "Insuring" safe passage for payments
-- **Smuggling Networks:** Moving contraband between settlements
-
-<div class='note'>
-
-#### <u>Trade Route Security</u>
-
-Bandit activity forces expensive Ranger escorts, creates longer "safe routes," drives up import prices, and limits small trader operations. The Great Burrow maintains diplomatic relationships for prisoner exchanges and safe passage negotiations.
-
-</div>
-
-## Diplomatic Relations
-
-### Regional Alliances
-- **Oakenheart Alliance:** Forest communities mutual defense pact
-- **Meadow Compact:** Southern grassland trade and cultural agreement
-- **Waterway Accords:** River and coastal navigation rights
-
-### Immigration Patterns
-**Economic Migrants:** Seeking opportunities in The Great Burrow's economy
-**Refugees:** Fleeing titan encounters, bandit raids, or community conflicts
-**Skilled Workers:** Recruited for specialized knowledge or abilities
-**Cultural Immigrants:** Joining established diaspora communities
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
+<div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
@@ -4061,7 +5421,7 @@ Rabbit families control honey production, creating economic and political tensio
 - **Autumn:** Harvest season, acorn futures markets, storage preparation
 - **Winter:** Preserved foods, imported goods, high prices for fresh items
 
-<div class=\"footnote\">THE GREAT BURROW<BR />
+<div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
@@ -4153,79 +5513,40 @@ The system operates 18 hours a day, with reduced service during mole hibernation
 
 \pagebreakNum
 
-# Mousehattan - The Vertical Metropolis
+# Crime and Order
 
-Rising from a rocky outcropping where ancient oak roots penetrate stone, Mousehattan is the beating heart of commerce and ambition. The Acorn Exchange trading floor, carved into the base of the Trading Oak, sets prices that ripple across the forest.
-
-## Geography & Districts
-
-### The Vertical City
-- **The Rock:** Natural granite outcropping with chambers carved over generations
-- **The Great Oaks:** Three massive ancient oaks whose roots penetrate the rock
-- **Root Highways:** Oak roots create natural "avenues" running through stone
-- **The Carved Levels:** Seven distinct vertical zones, from Sub-Basement to Crown Level
-
-### Major Districts
-
-#### Wall Street *(Financial District)*
-Literally carved into the main rock wall beneath the Trading Oak. Home to the Acorn Exchange and major trading houses with ancient counting rooms using notched-stick tallying systems.
-
-#### Times Squeak *(Entertainment District)*
-Where five major tunnels converge beneath interlocking roots. Features 24-hour activity with performance spaces, taverns, and famous roasted seed vendors.
-
-#### The Upper East Roots *(Old Money Residential)*
-Carved into the most stable oak root systems. Multi-generation family warrens with private entrances and the exclusive Acorn Club.
-
-#### The Village Burrows *(Bohemian Quarter)*
-Maze-like informal tunnels housing artists and radicals. Cheapest rents but most "character," including underground printing presses and The Crumb gathering spot.
-
-## Crime and Order
-
-### The Rat Syndicate *(Primary Organized Crime)*
+## The Rat Syndicate *(Primary Organized Crime)*
 - **The Longtail Family:** Controls waterfront smuggling
 - **The Whisker Brotherhood:** Runs protection rackets
 - **The Gray Coats:** Newest family, challenging old territories
 
 \columnbreak
 
-### Crime Culture
+## Crime Culture
 - **"The Family Provides":** Code ensuring protection for those who pay
 - **Tail Cutting:** Ultimate punishment for betrayal
 - **The Bite:** Protection money paid monthly
 - **Tunnel Wars:** Territorial disputes resolved underground
 
-### The Underground Economy
+## The Underground Economy
 - "Insurance" payments are a way of life
 - Gambling and illegal seed trade
 - Information brokerage through weasel networks
 - Black market goods moving through hidden channels
 
-## Daily Life
+# Daily Life
 
-### Work Culture
+## Work Culture
 - Dawn to past dusk standard for financial sector
 - The Acorn Bell signals market open and close
 - Whisker Break: Traditional mid-morning grooming/networking
 - Complex social hierarchies based on address level
 
-### Dealing with Giants
+## Dealing with Giants
 - Monthly evacuation drills for titan encounters
 - The Hush: Children trained to freeze when warning bells ring
 - Offering stations maintained to divert giant attention
 - "Giant Insurance" is major business, often crime-family run
-
-<div class='note'>
-
-#### <u>Mousehattan Sayings</u>
-
-- "If you can make it here, you can make it anywhere"
-- "Every acorn has two sides"
-- "The oak remembers"
-- "Giants walk where they will" (some things can't be controlled)
-- "Connected from root to crown" (having protection)
-- "The family provides" (mafia-related)
-
-</div>
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
