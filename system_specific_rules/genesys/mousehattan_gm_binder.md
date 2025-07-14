@@ -655,6 +655,11 @@ The Great Burrow is a **Modern Urban Fantasy** setting with elements of **Steamp
 - **Moose**: Rarest but most feared, their feeding can topple ancient oaks
 - **Wild Boars**: Their rooting collapses tunnel systems, common and unpredictable
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 The giants aren't inherently malevolent - they simply exist at a scale that makes coexistence nearly impossible. The Great Burrow has evolved elaborate warning systems, evacuation protocols, and offering stations to minimize catastrophic encounters.
 
 <div class='note'>
@@ -697,7 +702,7 @@ Remember: Predators shouldn't be constant combat - they're environmental hazards
 
 #### <u>Scale and Perspective</u>
 
-Understanding scale is crucial in The Great Burrow. A house cat would be a kaiju-level threat. A human footstep could crush entire neighborhoods. The titans - bears, deer, moose - move through the landscape like living natural disasters.
+Understanding scale is crucial in The Great Burrow. Most playable and encountered species exist at the scale of ~6 inches to perhaps a foot tall. Unlike the size discrepancies of the real world, in The Great Burrow, most creatures have a semi-normalized size. In contrast, the titans - bears, deer, moose - move through the landscape like living natural disasters. 
 
 Yet the creatures of The Great Burrow have built a thriving civilization through cooperation, ingenuity, and sheer audacity. This is a world where being small means thinking big.
 </div>
@@ -711,17 +716,19 @@ Yet the creatures of The Great Burrow have built a thriving civilization through
 
 ### Mousehattan - The Vertical Metropolis
 
-<div class='read'>
-
-*You emerge from the Underground into Times Squeak just as the firefly lanterns flicker to life. The scent of roasted seeds fills your nostrils as vendors hawk their wares. Above, through gaps in the root ceiling, you glimpse the legendary Whiskers Building rising twelve stories of carved stone. A well-dressed mouse brushes past, muttering about acorn futures, while a rat in a sharp vest argues loudly into a beetle-phone about "making the hole bigger." Welcome to Mousehattan, where fortunes are made before dawn and lost before dusk.*
-
-</div>
-
 The beating heart of commerce and ambition, carved into a rocky outcropping where ancient oak roots create natural highways. Wall Street is literally carved into walls, while Times Squeak never sleeps under managed firefly lighting. This vertical city rises through seven distinct levels from Sub-Basement to Crown Level, housing 28,000 creatures in a maze of root highways and carved chambers.
 
 **Notable Features:** The Acorn Exchange trading floor built into the Trading Oak's hollow, the Whiskers Building (12 stories of carved stone), Gallery Row displaying rare seeds, and the infamous underground Squeakeasy run by the Longtail crime family. The district operates on "acorn time" with dawn-to-dusk financial markets driving the entire burrow's rhythm.
 
 **Demographics:** 40% mice (old money families), 25% rats (business and crime), 15% voles (middle management), 10% hamsters (merchants), 10% others.
+
+<div class='read'>
+
+*You emerge from the Underground into Times Squeak just as the firefly lanterns flicker to life. The scent of roasted seeds fills your nostrils as vendors hawk their wares. Above, through gaps in the root ceiling, you glimpse the legendary Whiskers Building rising twelve stories of carved stone. A well-dressed mouse brushes past, muttering about acorn futures, while a rat in a sharp vest argues loudly with a beaver in construction garb about "making the hole bigger." Welcome to Mousehattan, where fortunes are made before dawn and lost before dusk.*
+
+</div>
+
+\columnbreak
 
 ### The Branchx - The Canopy Commons
 
@@ -731,20 +738,41 @@ The beating heart of commerce and ambition, carved into a rocky outcropping wher
 
 </div>
 
-Working-class pride in three-dimensional tree cities spanning five massive oaks and seven grand maples. 47 major rope bridge crossings connect the vertical neighborhoods, while emergency bark slides provide rapid descent during predator attacks. The canopy stretches across seven branch levels from "Ground Scrape" to "Crown Touch," housing 18,000 creatures in nest complexes and hollow expansions.
+Working-class pride in three-dimensional tree cities spanning fifty massive oaks and seventy grand maples. 47 major rope bridge crossings connect the vertical neighborhoods, while emergency bark slides provide rapid descent during predator attacks. The canopy stretches across seven branch levels from "Ground Scrape" to "Crown Touch," housing 18,000 creatures in nest complexes and hollow expansions.
 
 **Cultural Identity:** Construction IS The Branchx - from the Nutcracker Union that controls building projects to the rope weavers whose craft passes through generations. The failed tunnel system below serves as both reminder of broken promises and convenient smuggling network. Corvid zones add danger where desperate creatures make deals with crow gangs for aerial protection.
 
 **Demographics:** 60% squirrels (traditional majority), 25% chipmunks (courier class), 10% flying squirrels (premium transport), 5% others including mice gentrifiers.
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### The Hives - The Crossroads Community
+
+<div class='read'>
+
+*The morning caravan bells ring across The Hives as prairie dog sentries announce the arrival of traders from the southern grasslands. In the Great Interchange below, the rumble of Underground trains mingles with a dozen different dialects as commuters rush to work. A rabbit matron haggles in broken Prairie-speak with a guinea pig farmer over terraced vegetables, while her kits play with vole children in the common square. Above it all, the sweet scent of honey drifts from traditional warrens, mixing with exotic spices from the fusion food stalls. This is The Hives - where every creature finds their place in the swarm, and diversity isn't just tolerated but celebrated as the burrow's greatest strength.*
+
+</div>
+
 The Great Burrow's most diverse district, sprawling across meadow clearings where forest meets grassland. This buzzing center of 24,000 creatures earned its name from dense, interconnected burrow complexes honeyccombing the rolling hills. Prairie dog democratic councils share space with traditional rabbit warrens, while guinea pig agricultural terraces demonstrate innovative farming techniques adapted from mountain traditions.
 
 **Economic Hub:** The Great Interchange where three Underground lines converge makes this the logistics capital. 30% of the economy runs on processing external trade, with caravan grounds hosting traders from distant communities. The Sorting Yards warehouse district processes goods from across the forest region, while mixed-species workshops produce fusion crafts combining multiple cultural traditions.
 
 **Cultural Melting Pot:** "Everyone finds their place in the swarm" through cooperation rather than bloodlines. The Integration Center helps newcomers adapt, while cross-cultural families pioneer new ways of living. Night markets buzz with firefly light as creatures enjoy cuisine from across the known world.
 
+\columnbreak
+
 ### Lin's Brook - The Working Waterfront
+
+
+Blue-collar waterfront pride where Whisker Creek meets the East River's tidal waters. The Great Dam powers water-driven workshops through Mill Falls, while seven secondary dams create distinct neighborhoods. This engineering marvel houses 20,000 creatures who know that high tide means water work while low tide brings maintenance and repairs.
+
+**Working Culture:** The Dockworkers Union (otter-dominated) shares power with the Builders Guild (beaver-led but increasingly diverse). Traditional industries like sustainable lumber harvesting and fishing feed the entire Great Burrow, while gentrifying Greenbank converts old warehouses into artisanal workshops - to the disgust of working families priced out of their ancestral lodges.
+
+**Water Life:** Complex tail-slap communications coordinate flood protocols for when titans wade through. The Silverclaw crime family controls north dock "protection" while rival otter clans maintain ancient fishing territory disputes. Every kit learns to read currents before they can properly swim.
 
 <div class='read'>
 
@@ -752,15 +780,11 @@ The Great Burrow's most diverse district, sprawling across meadow clearings wher
 
 </div>
 
-Blue-collar waterfront pride where Whisker Creek meets the East River's tidal waters. The Great Dam powers water-driven workshops through Mill Falls, while seven secondary dams create distinct neighborhoods. This engineering marvel houses 20,000 creatures who know that high tide means water work while low tide brings maintenance and repairs.
-
-**Working Culture:** The Dockworkers Union (otter-dominated) shares power with the Builders Guild (beaver-led but increasingly diverse). Traditional industries like sustainable lumber harvesting and fishing feed the entire Great Burrow, while gentrifying Greenbank converts old warehouses into artisanal workshops - to the disgust of working families priced out of their ancestral lodges.
-
-**Water Life:** Complex tail-slap communications coordinate flood protocols for when titans wade through. The Silverclaw crime family controls north dock "protection" while rival otter clans maintain ancient fishing territory disputes. Every kit learns to read currents before they can properly swim.
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
+
 
 ### Scurry Island - The Forgotten Burrow
 
@@ -776,177 +800,20 @@ Isolated on a true island across dangerous straits, this 10,000-creature communi
 
 **Shadow Economy:** Everything has a price in Harbor Market - from forged documents to concentrated fermented sap. The Fence Lords control major operations while opossum and raccoon families run traditional "businesses." Old Town enforces sanctuary rules even as the Lowland Shanties flood with each storm. Underground fighting pits and gambling dens hide in the Warrens, where "what happens in the deep stays in the deep."
 
-
-
-## Infrastructure & Technology
-
-<div class='read'>
-
-*"Next stop, Grand Central Burrow!" The mole conductor's voice carries over the rumble of the Underground train. You grip the root-fiber strap as the car sways through a particularly tight turn. Around you, the morning commute presses close—a beaver engineer studying blueprint scratches on bark, two mice debating interest rates, a drowsy opossum heading home from night shift. The train car smells of earth, sweat, and that particular Underground mixture of mushroom and metal. Through the carved windows, tunnel lights flash past in hypnotic rhythm. This is how The Great Burrow moves, deep beneath predator and titan alike.*
-
-</div>
-
-### The Great Underground
-The marvel of mole engineering, this subway system connects all five burrows through natural tunnels, hollow logs, and carved passages. Express routes follow main arteries while local service winds through neighborhoods.
-
-**Major Stations:**
-- **Grand Central Burrow** (Mousehattan hub)
-- **Deep Root & Grove Junction** (The Branchx)
-- **The Great Interchange** (The Hives - connects 3 lines)
-- **Creek Crossing & Dockside Terminal** (Lin's Brook)
-- **Ferry Terminal** (Scurry Island - ferry service only)
-
-Trains are pushed by mole work crews who know every tunnel by vibration. Monthly passes cost 20 acorns, single rides 1-2 acorns depending on distance.
-
-### Communication Networks
-- **Tail Signals:** Universal basic communication across species
-- **Scent Marking:** Territory boundaries and social status indicators
-- **Drumming Networks:** Branch or ground percussion for neighborhood alerts
-- **The Daily Squeak:** Newspaper of record (knows what not to print)
-- **Chipmunk Couriers:** Rapid message delivery with route-number slang
-- **Underground Press:** Radical publications from Village Burrows
-
-### Transportation Methods
-Beyond the Underground, creatures navigate via rope bridges (47 major crossings in The Branchx), ferry services (when operational), courier networks, and private options from otter swimming services to rare bat flights. Emergency bark slides provide rapid descent in the canopy, though climbing back up is always harder.
-
-<div class='note'>
-
-#### <u>Travel Time Guidelines</u>
-
-Use these rough estimates for cross-burrow travel:
-- **Underground Express**: 30-45 minutes between burrows
-- **Surface Travel**: 2-3 hours (daylight only, weather permitting)
-- **Courier Speed**: 1 hour for urgent messages
-- **On foot**: Full day journey with predator risks
-
-Always factor in delays: broken trains, predator sightings, weather, and classic NYC-style "track work."
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Economy & Commerce
-
-### The Acorn Standard
-Currency valued by quality and preparation method. The Acorn Exchange trading floor in Mousehattan sets prices that ripple across the forest. Seasonal fluctuations drive boom and bust cycles.
-
-**Major Industries by Burrow:**
-- **Finance** (Mousehattan): Banking, trading, investment
-- **Construction** (The Branchx/Lin's Brook): Infrastructure and building
-- **Agriculture** (The Hives): Managed insect operations
-- **Fishing/Water Power** (Lin's Brook): Waterfront economy
-- **Black Market** (Scurry Island): Shadow economy
-
-### Labor & Unions
-- **The Nutcracker Union:** Powerful Branchx construction organization ("we break more than nuts")
-- **Dockworkers United:** Lin's Brook waterfront muscle
-- **Courier Collectives:** Chipmunk-dominated message services
-- **The Builders Guild:** Beaver-led but increasingly diverse
-
-<div class='note'>
-
-#### <u>Union Politics in Play</u>
-
-Unions aren't just background - they're active forces:
-- **Strike actions** can shut down entire burrows
-- **Union cards** open doors (or close them)
-- **Scabs** face social ostracization or worse
-- **Union bosses** wield political power rivaling crime families
-
-Players with union connections get <span class='boost'>b</span> to Streetwise in working-class areas but upgrade difficulty when dealing with management.
-
-</div>
-
-### Economic Status Levels
-- **Destitute:** 0-10 acorns (struggling for basic needs)
-- **Poor:** 11-50 acorns (working class, paycheck to paycheck)
-- **Comfortable:** 51-200 acorns (stable middle class)
-- **Wealthy:** 201-1000 acorns (business owners, professionals)
-- **Rich:** 1001+ acorns (old money families, crime bosses)
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Governance & Politics
-
-### The Five-Burrow Coalition
-The Great Burrow operates under a loose confederation where each burrow maintains significant autonomy. The **Inter-Burrow Council** (two representatives per burrow) meets quarterly to handle:
-- Infrastructure funding and maintenance
-- Titan response coordination
-- Inter-burrow dispute resolution
-- Trade regulation and standards
-
-The Council cannot override burrow-specific laws or cultural practices.
-
-### Individual Burrow Governance
-- **Mousehattan:** Corporate oligarchy run by the Root Board (family heads and crime bosses)
-- **The Branchx:** Union democracy through the Nutcracker Assembly with Tail Vote for major decisions
-- **The Hives:** Cooperative consensus via the Hive Mind (extended family councils)
-- **Lin's Brook:** Guild confederation led by the Dam Council with ancient Water Rights Court
-- **Scurry Island:** Survival hierarchy where the Trunk Council maintains order alongside Ranger Command
-
-### Political Movements
-- **The Traditionalists:** Preserve burrow autonomy and species-specific governance
-- **The Unionists:** Worker rights and cross-species solidarity
-- **The Progressives:** Modernization and technological advancement
-- **Rangers First:** Titan defense and military preparedness above all
-- **The Naturalists:** Environmental protection and sustainable development
-
-<div class='note'>
-
-#### <u>Political Faction Mechanics</u>
-
-Track party reputation with each faction (-5 to +5):
-- **-5 to -3**: Active opposition, may face harassment
-- **-2 to +2**: Neutral, business as usual
-- **+3 to +5**: Allied, gain faction benefits
-
-Actions supporting one faction often oppose another. Let players feel the weight of political choices through NPC reactions and available opportunities.
-
-</div>
-
 \columnbreak
 
-## Historical Context
-
-### The Great Convergence (150 Years Ago)
-The city began when multiple crises forced scattered settlements to unite:
-- The Terrible Winter (unprecedented cold)
-- The Bear Awakening (multiple titan encounters)
-- Failed harvests across the forest
-- The Great Storm that destroyed isolated communities
-
-The legendary **Acorn Compact** established principles of mutual aid, shared defense, and peaceful dispute resolution that still guide the city.
-
-### Major Historical Events
-- **The Species Wars** (76-82 years ago): Economic inequality erupted into inter-species conflict
-- **The Great Compromise**: Established current burrow autonomy system
-- **The Great Flood** (59 years ago): Demonstrated city's vulnerability and resilience
-- **The Great Trampling** (20 years ago): Most destructive titan encounter in city history
-
-### The Modern Era
-Recent decades brought unprecedented prosperity alongside new challenges:
-- Gentrification displacing traditional communities
-- Environmental pressures and increasing titan activity
-- Growing wealth inequality testing cooperative spirit
-- Immigration from distant forest communities
-
 <div class='note'>
 
-#### <u>Using Recent History</u>
+#### <u>Running Scurry Island Adventures</u>
 
-The Great Burrow's history provides ready-made NPC motivations:
-- **Species War veterans** still hold grudges
-- **Flood survivors** obsess over infrastructure
-- **Trampling orphans** grew up tough on Scurry Island
-- **Old money families** remember "better times"
+Scurry Island works best when players feel the isolation and danger. Key elements:
+- **Ferry Unreliability:** Roll a d6 when players need transport. On 1-2, the ferry is "broken" that day
+- **Ranger Respect:** Being a Ranger or having Ranger connections opens doors that money can't
+- **Black Market Etiquette:** Everything requires introduction. Cold approaches get cold shoulders (or worse)
+- **The Titan Bell:** When it rings, EVERYONE stops what they're doing. Heroes who help during titan emergencies earn deep loyalty
+- **Sanctuary Rules:** Even crime bosses respect the sanctuary tradition. Breaking it makes you everyone's enemy
 
-Every major NPC should reference at least one historical event that shaped them.
+Remember: Scurry Island isn't evil, it's desperate. Most creatures here are survivors, not villains.
 
 </div>
 
@@ -955,226 +822,9 @@ Every major NPC should reference at least one historical event that shaped them.
 
 \pagebreakNum
 
-## Daily Life & Culture
+# Chapter 1 - Character Creation
 
-### The Rhythm of Survival
-- **Dawn:** Highest predator danger, work begins carefully
-- **Morning:** Underground commutes, markets open
-- **Midday:** Safest surface travel, peak commerce
-- **Afternoon:** School, apprenticeships, social time
-- **Dusk:** Race to safety, second predator peak
-- **Night:** Underground entertainment, black market hours
-
-### Seasonal Pressures
-- **Spring:** Flooding threats, mating season tensions
-- **Summer:** Tourism peaks, drought stresses water systems
-- **Fall:** Harvest determines winter survival
-- **Winter:** Food politics dominate, heating becomes currency
-
-<div class='note'>
-
-#### <u>Seasonal Campaign Hooks</u>
-
-**Spring:** Flood rescue missions, romance subplots, new construction conflicts
-
-**Summer:** Water shortage negotiations, tourist-related crimes, heat-induced tensions
-
-**Fall:** Harvest sabotage mysteries, storage facility heists, preparation panics
-
-**Winter:** Food smuggling operations, warmth-based social dynamics, isolation stories
-
-Use seasons to drive urgency and change available resources/obstacles.
-
-</div>
-
-### Social Hierarchy
-1. **Old Money:** Ancient families with prime territory rights
-2. **New Rich:** Entrepreneurs, crime families, innovators
-3. **Skilled Workers:** Union members, specialists, guild crafts
-4. **Service Class:** Creatures who keep the city running
-5. **The Desperate:** Day laborers, refugees, the forgotten
-
-### Crime & Order
-Organized families control much of the shadow economy:
-- **Mousehattan:** Longtail Family and Whisker Brotherhood
-- **Lin's Brook:** Silverclaw Family (waterfront protection)
-- **Scurry Island:** Complex black market operations
-
-"Insurance" payments are a fact of life, often providing actual security. The universal code: "The family provides."
-
-\columnbreak
-
-### Cultural Tensions
-- **Gentrification:** Old neighborhoods transformed by new money
-- **Species Integration:** Young creatures challenging traditional boundaries
-- **Innovation vs. Tradition:** Guinea pig methods disrupting rabbit dynasties
-- **Height Hierarchies:** Squirrel branch levels determining social status
-- **Predator Reality:** Constant threat shapes all architecture and schedules
-
-### Universal Experiences
-Every creature knows:
-- The Underground commute (packed tunnels, frequent delays)
-- Predator drills (alarm signals learned as kits)
-- Market days (burrow specialties draw cross-city traffic)
-- Weather watching (storms mean infrastructure danger)
-- Giant protocols (evacuation procedures when bells ring)
-
-<div class='example'>
-
-##### A Day in The Great Burrow
-Maple, a young squirrel construction worker, wakes before dawn in her middle-branch apartment. She checks predator warnings, grabs acorn paste breakfast, and hurries to catch the 6:15 Underground at Grove Junction. 
-
-Packed between commuting beavers and courier chipmunks, she emerges at Deep Root Station to find her crew already assembling. Today they're reinforcing the 42nd Street bridge after yesterday's hawk attack damaged support ropes.
-
-By midday, the bridge is secure. Maple grabs lunch at a mole-run tunnel café, trades gossip about the new guinea pig techniques threatening traditional building methods. Her afternoon is spent in union meetings - the Nutcrackers are organizing against unsafe working conditions on the highest branches.
-
-As dusk approaches, evacuation bells ring - deer sighting near the Grove. Maple and hundreds of others flow into emergency slides, hearts pounding. Safe underground, she joins friends at a root cellar tavern, where tomorrow's worries wash away with fermented berry juice and worker solidarity songs.
-
-This is life in The Great Burrow - dangerous, difficult, but never dull.
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# The Shadow Network - Organized Crime
-
-<div class='read'>
-
-*The back room of the Squeakeasy reeks of fermented berries and fear. Don Salvatore Longtail sits behind his oak-burl desk, one paw resting on a ledger, the other hidden beneath. His whiskers twitch once—the only sign he's heard your proposal. Behind him, two gray-coated rats crack their knuckles. "You come to my establishment," the Don says slowly, each word precise as a needle, "on the day of my daughter's tail-binding, and you ask me this favor? Tell me, friend—what makes you think the Longtail Family needs anything from you?" The silence that follows is heavy as winter snow.*
-
-</div>
-
-In the shadows between legitimate business and outright banditry lies The Great Burrow's complex criminal underworld. These organizations follow their own codes, respect their own territories, and handle their own justice.
-
-## The Commission
-
-An informal council where major family representatives meet quarterly to resolve disputes and coordinate operations. Meeting locations rotate between neutral territories:
-- **Central Crossing** (The Branchx): Bridge intersection for safe meetings
-- **The Sanctuary** (Scurry Island): Traditional neutral ground
-- **Underground Stations**: Specific platforms with temporary truces
-
-<div class='note'>
-
-#### <u>Running Crime Family Politics</u>
-
-The Commission provides natural story hooks:
-- **Territory disputes** need neutral mediators (the PCs)
-- **Family wars** threaten civilian areas
-- **Commission meetings** are perfect heist/assassination targets
-- **Power vacuums** create violent succession crises
-
-Remember: organized crime provides actual services. When families fight, garbage piles up and predators aren't warned about.
-
-</div>
-
-## The Criminal Code
-
-### The Old Laws
-1. **Family First**: Blood and chosen family loyalty supersedes all else
-2. **Territory Respect**: Honor established boundaries unless formally challenged
-3. **No Innocent Blood**: Children, elders, and non-participants are protected
-4. **Debt Honor**: Pay what you owe or face escalating consequences
-5. **Silence Law**: Never cooperate with outside authorities
-6. **Guest Rights**: Sanctuary and safe passage when properly requested
-
-### Criminal Justice
-- **Family Courts**: Internal dispute resolution within criminal community
-- **Territory Trials**: Formal challenges for boundary disputes
-- **Debt Collection**: Escalating pressure from warnings to exile to violence
-- **Betrayal Punishment**: Tail cutting, exile, or death depending on severity
-
-## Major Crime Families
-
-### Mousehattan Syndicates
-**The Longtail Family** - Traditional Power
-- Territory: Waterfront, Wall Street, Times Squeak
-- Leadership: Don Salvatore Longtail
-- Specialties: Smuggling, financial fraud, loan sharking
-- Code: "The family provides"
-
-**The Whisker Brotherhood** - Old Guard
-- Territory: Upper levels, residential areas
-- Leadership: Council of three brothers
-- Specialties: High-end protection, construction permits
-- Ritual: Whisker-touching initiation ceremonies
-
-\columnbreak
-
-**The Gray Coats** - Rising Force
-- Territory: Village Burrows, young professional areas
-- Leadership: Lucia "The Shadow" Gray
-- Specialties: Tech fraud, identity theft, blackmail
-- Signature: Gray vests marking full members
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-### Other Burrow Syndicates
-
-**The Silverclaw Family** (Lin's Brook)
-- Controls north docks and ferry routes
-- Direct violence over subtle manipulation
-- Silver-tipped claws worn by made members
-
-**The Honeycomb Family** (The Hives)
-- Agricultural mafia controlling honey trade
-- Elder Mother Beatrice Honeyclover leads
-- Sophisticated commodity manipulation
-
-**The Nutcracker Union** (The Branchx)
-- Construction site control and labor intimidation
-- Boss Tony "Crack" Nutkin runs operations
-- "Worker solidarity" mixed with territorial violence
-
-**The Fence Lords** (Scurry Island)
-- Black market masters and document forgers
-- Council leadership of proven operators
-- "Everything has value to someone"
-
-
-## Criminal Economics
-
-### Revenue Sources
-- **Protection Rackets**: 40% - "Insurance" payments
-- **Smuggling**: 25% - Contraband and tax avoidance
-- **Gambling**: 15% - Illegal games and fight clubs
-- **Labor Control**: 10% - Union corruption
-- **Financial Crime**: 10% - Fraud and theft
-
-### Money Laundering
-- Legitimate business fronts (restaurants, shops)
-- The Washing Circuit (raccoon operations)
-- Commodity trading through acorn markets
-- Festival economies for cash movement
-
-## Species Specializations
-
-**Rats**: Natural organizers with hierarchical families
-**Mice**: Inside operators using respectability
-**Raccoons**: Manual dexterity for locks and laundering
-**Opossums**: Masters of "playing dead" to authorities
-**Beavers**: Infrastructure control and construction corruption
-**Otters**: Water smuggling routes and fish market control
-**Weasels**: Information brokers and blackmail specialists
-
-<div class='note'>
-
-#### <u>Using Crime in Campaigns</u>
-
-Criminal families provide protection that often includes genuine services - defending against predators, mediating disputes, and economic stabilization. Characters may find themselves needing family help or caught between competing interests.
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# Species as Archetypes
+## Species as Archetypes
 
 <div class='read'>
 
@@ -1183,6 +833,20 @@ Criminal families provide protection that often includes genuine services - defe
 </div>
 
 Rather than using traditional fantasy races, characters choose from woodland creature species that function as archetypes, each providing different starting characteristics and special abilities.
+
+<div class='note'>
+
+#### <u>Roleplaying Different Species</u>
+
+Help players embody their species through:
+- **Physical mannerisms**: Mice groom whiskers when nervous, rats gesture broadly
+- **Speech patterns**: Reference the vocal patterns section
+- **Cultural values**: What matters to their species?
+- **Instinctive reactions**: Prey species freeze, predator species investigate
+
+Encourage species-specific solutions to problems!
+
+</div>
 
 ## The Core Species
 
@@ -1204,11 +868,13 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 **Special Abilities:**
 - **Tunnel Sense:** Remove <span class='setback'>b</span> from Navigation checks in underground environments
 - **Precise Work:** Add <span class='boost'>b</span> to all Mechanics checks
-- **Social Networks:** Start with one additional contact in Mousehattan
+- **Social Networks:** Start with one contact in Mousehattan, and +1 reputation (max of +2 to start)
 
 **Starting Skills:** Choose 2 from: Charm, Deception, Knowledge (City), Mechanics, Negotiation, Streetwise
 
 **Background:** Descendants of the original wall-carvers. Mousehattan IS mouse town in their minds.
+
+\columnbreak 
 
 **Cultural Traits:**
 - Obsessed with genealogy and wall-rights dating back generations
@@ -1223,21 +889,10 @@ Rather than using traditional fantasy races, characters choose from woodland cre
 - *"Know your tunnels, know your exits"* (always have a backup plan)
 - *"Cheese ages, roots decay"* (some things improve with time, others don't)
 
-<div class='note'>
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
-#### <u>Roleplaying Different Species</u>
-
-Help players embody their species through:
-- **Physical mannerisms**: Mice groom whiskers when nervous, rats gesture broadly
-- **Speech patterns**: Reference the vocal patterns section
-- **Cultural values**: What matters to their species?
-- **Instinctive reactions**: Prey species freeze, predator species investigate
-
-Encourage species-specific solutions to problems!
-
-</div>
-
-\columnbreak
+\pagebreakNum
 
 ### Rats *(The Entrepreneurs)*
 
@@ -1279,10 +934,7 @@ Encourage species-specific solutions to problems!
 - *"Swim or sink"* (adapted from ship rat heritage)
 - *"The fattest rat gets noticed"* (success makes you a target)
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
+\columnbreak
 
 ### Squirrels *(The Climbers)*
 
@@ -1316,7 +968,10 @@ Encourage species-specific solutions to problems!
 
 **Sayings:** *"High branch, warm winter"* / *"Never trust a ground-dweller with your nuts"*
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Chipmunks *(The Couriers)*
 
@@ -1334,7 +989,7 @@ Encourage species-specific solutions to problems!
 - **Starting XP:** 100
 
 **Special Abilities:**
-- **Speed Burst:** Once per encounter, may move to any location within Medium range as an incidental
+- **Speed Burst:** Once per session, may move to any location within Medium range as an incidental
 - **Cheek Pouches:** Can carry small items without encumbrance penalty
 - **Route Knowledge:** Remove <span class='setback'>b</span> from Streetwise checks related to navigation
 
@@ -1350,10 +1005,7 @@ Encourage species-specific solutions to problems!
 
 **Sayings:** *"Full cheeks, empty promises"* / *"Winter comes for the slow"*
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
+\columnbreak
 
 ### Beavers *(The Builders)*
 
@@ -1368,7 +1020,7 @@ Encourage species-specific solutions to problems!
 
 - **Wound Threshold:** 12 + Brawn
 - **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
+- **Starting XP:** 90
 
 **Special Abilities:**
 - **Master Builder:** Add <span class='boost'>b</span> to all Mechanics checks involving construction
@@ -1387,6 +1039,10 @@ Encourage species-specific solutions to problems!
 
 **Sayings:** *"Busy as a beaver"* / *"Still water, strong dam"*
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Rabbits *(The Cooperators)*
 
@@ -1419,6 +1075,8 @@ Encourage species-specific solutions to problems!
 **Occupations:** Beekeeping, honey trade, warren architecture, garden design
 
 **Sayings:** *"Breed like rabbits, work like bees"* / *"Every kit needs a warren"*
+
+\columnbreak
 
 ### Guinea Pigs *(The Innovators)*
 
@@ -1455,16 +1113,13 @@ Encourage species-specific solutions to problems!
 <div class='example'>
 
 ##### Character Creation Example
-Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agility 2, Intellect 3, Cunning 2, Willpower 2, Presence 2) and decides to play an up-and-coming trader from Mousehattan. She chooses Charm and Negotiation as her starting skills and takes the Acorn Trader career for additional business skills.
+Tedi is creating a mouse character. She takes the mouse archetype (Brawn 1, Agility 2, Intellect 3, Cunning 2, Willpower 2, Presence 2) and decides to play an up-and-coming trader from Mousehattan. She chooses Charm and Negotiation as her starting skills and takes the Acorn Trader career for additional business skills.
 </div>
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
-
-# Additional Species
-
 
 ### Otters *(The Watercreatures)*
 
@@ -1573,15 +1228,15 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 ### Badgers *(The Old Guard)*
 
 <div class="archetype">
-<span class="bra">4</span>
+<span class="bra">3</span>
 <span class="agi">1</span>
 <span class="int">2</span>
 <span class="cun">2</span>
-<span class="wil">3</span>
+<span class="wil">2</span>
 <span class="pre">2</span>
 </div>
 
-- **Wound Threshold:** 14 + Brawn
+- **Wound Threshold:** 12 + Brawn
 - **Strain Threshold:** 12 + Willpower
 - **Starting XP:** 90
 
@@ -1611,7 +1266,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 <span class="int">2</span>
 <span class="cun">2</span>
 <span class="wil">2</span>
-<span class="pre">3</span>
+<span class="pre">2</span>
 </div>
 
 - **Wound Threshold:** 10 + Brawn
@@ -1704,10 +1359,10 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 ### Skunks *(The Enforcers)*
 
 <div class="archetype">
-<span class="bra">3</span>
+<span class="bra">2</span>
 <span class="agi">2</span>
 <span class="int">2</span>
-<span class="cun">2</span>
+<span class="cun">1</span>
 <span class="wil">3</span>
 <span class="pre">2</span>
 </div>
@@ -1735,19 +1390,19 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 <div class="archetype">
 <span class="bra">1</span>
-<span class="agi">4</span>
+<span class="agi">3</span>
 <span class="int">2</span>
-<span class="cun">3</span>
+<span class="cun">2</span>
 <span class="wil">1</span>
 <span class="pre">3</span>
 </div>
 
 - **Wound Threshold:** 8 + Brawn
 - **Strain Threshold:** 10 + Willpower
-- **Starting XP:** 90
+- **Starting XP:** 80
 
 **Special Abilities:**
-- **Hyperactive:** May perform 1 additional maneuver per turn without strain cost
+- **Hyperactive:** May perform second maneuver per turn without strain cost
 - **Deal Maker:** Add <span class='boost'>b</span> to Negotiation and Streetwise checks
 - **Flexible:** Add <span class='boost'>b</span> to Coordination checks involving squeezing through spaces
 
@@ -1779,7 +1434,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 <div class="archetype">
 <span class="bra">3</span>
 <span class="agi">1</span>
-<span class="int">3</span>
+<span class="int">1</span>
 <span class="cun">2</span>
 <span class="wil">3</span>
 <span class="pre">2</span>
@@ -1827,8 +1482,8 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 <span class="bra">1</span>
 <span class="agi">3</span>
 <span class="int">2</span>
-<span class="cun">4</span>
-<span class="wil">2</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
 <span class="pre">2</span>
 </div>
 
@@ -1877,7 +1532,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 - **Wound Threshold:** 10 + Brawn
 - **Strain Threshold:** 12 + Willpower
-- **Starting XP:** 100
+- **Starting XP:** 90
 
 **Special Abilities:**
 - **Weather Prediction:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks related to predicting weather or seasonal changes
@@ -1923,7 +1578,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 - **Wound Threshold:** 8 + Brawn
 - **Strain Threshold:** 11 + Willpower
-- **Starting XP:** 100
+- **Starting XP:** 90
 
 **Special Abilities:**
 - **Echolocation:** Remove <span class='setback'>b</span><span class='setback'>b</span> from Perception checks in darkness, add <span class='boost'>b</span> to Navigation checks
@@ -1955,11 +1610,11 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 ### Foxes *(The Cunning Outcasts)*
 
 <div class="archetype">
-<span class="bra">2</span>
+<span class="bra">1</span>
 <span class="agi">3</span>
-<span class="int">4</span>
-<span class="cun">4</span>
-<span class="wil">2</span>
+<span class="int">3</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
 <span class="pre">1</span>
 </div>
 
@@ -1969,8 +1624,8 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 **Special Abilities:**
 - **Cunning Hunter:** Add <span class='boost'>b</span><span class='boost'>b</span> to Skulduggery and Deception checks
-- **Predator Heritage:** Must make Hard <span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span> Discipline check when around small creatures to avoid intimidating them
-- **Quick Thinking:** Once per session, upgrade any skill check twice instead of once
+- **Predator Heritage:** Smaller creatures must make Hard <span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span> Discipline check when around foxes to avoid intimidation (adding setbacks to their social checks)
+- **Quick Thinking:** Once per session, upgrade any skill check twice instead of once when using a story point
 
 **Starting Skills:** Choose 2 from: Deception, Skulduggery, Negotiation, Cool, Perception, Knowledge (City)
 
@@ -2000,22 +1655,22 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 ### Dogs *(The Loyal Companions)*
 
 <div class="archetype">
-<span class="bra">3</span>
+<span class="bra">2</span>
 <span class="agi">2</span>
-<span class="int">1</span>
+<span class="int">2</span>
 <span class="cun">2</span>
-<span class="wil">3</span>
-<span class="pre">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
 </div>
 
-- **Wound Threshold:** 12 + Brawn
-- **Strain Threshold:** 12 + Willpower
-- **Starting XP:** 100
+- **Wound Threshold:** 11 + Brawn
+- **Strain Threshold:** 11 + Willpower
+- **Starting XP:** 110
 
 **Special Abilities:**
-- **Pack Loyalty:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks when helping allies or defending family
+- **Pack Loyalty:** Add <span class='boost'>b</span> to checks when helping allies or defending family
 - **Enhanced Senses:** Add <span class='boost'>b</span> to Perception checks using smell or hearing
-- **Wolf Heritage:** May cause fear in other creatures; once per session, add <span class='boost'>b</span> to Coercion checks
+- **Wolf Heritage:** May cause fear in other creatures; once per encounter, add <span class='boost'>b</span> to Coercion checks
 
 **Starting Skills:** Choose 2 from: Athletics, Cool, Leadership, Perception, Vigilance, Discipline
 
@@ -2043,11 +1698,11 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 <div class="archetype">
 <span class="bra">1</span>
-<span class="agi">4</span>
-<span class="int">3</span>
-<span class="cun">3</span>
-<span class="wil">3</span>
-<span class="pre">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">1</span>
+<span class="pre">3</span>
 </div>
 
 - **Wound Threshold:** 8 + Brawn
@@ -2092,7 +1747,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 <span class="agi">2</span>
 <span class="int">2</span>
 <span class="cun">2</span>
-<span class="wil">1</span>
+<span class="wil">3</span>
 <span class="pre">2</span>
 </div>
 
@@ -2103,7 +1758,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 **Special Abilities:**
 - **Insect Communication:** Can communicate with insects through ultrasonic whistles, add <span class='boost'>b</span><span class='boost'>b</span> to Animal Handling checks with insects
 - **Hyperactive Metabolism:** Must eat every 4 hours or suffer strain, but add <span class='boost'>b</span> to Athletics checks
-- **Tiny Size:** Add <span class='boost'>b</span><span class='boost'>b</span> to Stealth checks, but increase difficulty of Brawl checks by 1
+- **Tiny Size:** Add <span class='boost'>b</span><span class='boost'>b</span> to Stealth checks, but increase difficulty of Brawl checks against larger creatures by 1
 
 **Starting Skills:** Choose 2 from: Animal Handling, Knowledge (Science), Survival, Perception, Medicine, Mechanics
 
@@ -2124,8 +1779,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - *"You can't rush good compost"* (quality takes time)
 - *"Hungry shrew, busy shrew"* (necessity drives work)
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
+\columnbreak
 
 ### Voles *(The Middle Managers)*
 
@@ -2160,6 +1814,17 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 **Vocal Patterns:** Measured, professional speech with careful word choice. Tend to speak in passive voice and use qualifying statements. Never interrupt superiors.
 
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+
 ### Hamsters *(The Hoarders)*
 
 <div class="archetype">
@@ -2176,7 +1841,7 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 - **Starting XP:** 100
 
 **Special Abilities:**
-- **Cheek Pouches:** Can carry items up to Encumbrance 3 without penalty
+- **Cheek Pouches:** Can carry two items up to Encumbrance 3 in their mouths without penalty
 - **Storage Expert:** Add <span class='boost'>b</span><span class='boost'>b</span> to checks involving organizing or finding stored items
 - **Hibernation Heritage:** Can survive on minimal resources, reduce lifestyle costs by 50%
 
@@ -2239,6 +1904,8 @@ Cross-species relationships have become increasingly common in The Great Burrow'
 - Younger creatures have more mixed speech patterns from inter-species contact
 - Stress can cause creatures to revert to more species-typical patterns
 
+
+
 <div class='note'>
 
 #### <u>Species Longevity and Lifecycle</u>
@@ -2249,7 +1916,7 @@ Different species have varying lifespans that affect career planning and social 
 
 **Medium-lived Species (10-16 years):** Squirrels, rabbits, guinea pigs - long-term planning
 
-**Long-lived Species (30-40 years):** Beavers, badgers - extensive institutional memory
+**Long-lived Species (20-30+ years):** Beavers, badgers - extensive institutional memory
 
 This creates intergenerational dynamics where longer-lived species serve as mentors and institutional memory, while shorter-lived species drive innovation and change.
 
@@ -2298,13 +1965,18 @@ Connected to the organized crime families that control much of the city's shadow
 **Skills:** Coercion, Cool, Deception, Skulduggery, Streetwise, Vigilance, Ranged (Light), Negotiation
 **Starting Equipment:** "Family" connections, protection money, concealed weapon
 
-\columnbreak
 
 ### Union Organizer
 Labor activists working to improve conditions and rights for the city's working creatures.
 
 **Skills:** Charm, Coercion, Leadership, Negotiation, Perception, Streetwise, Knowledge (City), Cool
 **Starting Equipment:** Union materials, worker contacts, meeting spaces
+
+### Black Market Dealer
+Traders in goods and services that exist outside the legal economy.
+
+**Skills:** Deception, Negotiation, Skulduggery, Streetwise, Vigilance, Knowledge (City), Cool, Perception
+**Starting Equipment:** Contraband goods, hidden storage, criminal contacts
 
 <div class='note'>
 
@@ -2320,12 +1992,6 @@ Union stories provide non-combat challenges:
 These create moral dilemmas and social encounters!
 
 </div>
-
-### Black Market Dealer
-Traders in goods and services that exist outside the legal economy.
-
-**Skills:** Deception, Negotiation, Skulduggery, Streetwise, Vigilance, Knowledge (City), Cool, Perception
-**Starting Equipment:** Contraband goods, hidden storage, criminal contacts
 
 
 <div class="footnote">THE GREAT BURROW<BR />
@@ -2362,7 +2028,7 @@ Traders in goods and services that exist outside the legal economy.
 \columnbreak
 
 ## General Skills
-- **Animal Handling (Willpower):** Handle non-sapient animals and insects, essential for Hives agriculture
+- **Animal Handling (Willpower):** Handle non-sapient animals and insects, calm panicked animals
 - **Athletics (Brawn):** Climb, swim, jump, run for extended periods
 - **Cool (Presence):** Initiative in aware situations, stay calm, gambling, keep nerve
 - **Coordination (Agility):** Swing on ropes, walk narrow surfaces, squeeze into spaces, escape restraints
@@ -2372,7 +2038,7 @@ Traders in goods and services that exist outside the legal economy.
 - **Navigation (Intellect):** Read maps, set courses, plot routes under stress
 - **Perception (Cunning):** Search for clues, study landscape, conduct surveillance
 - **Resilience (Brawn):** Go without sleep, fight off toxins, endure hostile environments
-- **Riding (Agility):** Control mounts, mounted combat, calm panicked animals
+- **Riding (Agility):** Control mounts, mounted combat, 
 - **Skulduggery (Cunning):** Pick pockets, pick locks, set traps, study security, distract opponents
 - **Stealth (Agility):** Hide, tail someone, infiltrate, move quietly
 - **Streetwise (Cunning):** Find black markets, understand slang, approach criminals, navigate cities
@@ -2943,7 +2609,7 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 ## Geography & Infrastructure
 
 ### The Vertical Territory
-- **The Ancient Grove:** Five massive oaks and seven grand maples form the core
+- **The Ancient Grove:** Fifty massive oaks and seventy grand maples form the core
 - **Branch Levels:** Seven distinct heights, from "Ground Scrape" to "Crown Touch"
 - **The Squirrel Highways:** Major branches worn smooth by generations of travel
 - **Hollow Neighborhoods:** Natural tree cavities expanded into communities
@@ -5486,6 +5152,405 @@ Rangers use cunning over strength. Success means redirecting threats, not defeat
 - Any ↔ Scurry Island: Ferry only (45 min when running)
 
 **Peak Hours:** Dawn and dusk commutes see severe crowding. Predator alerts can shut down surface routes instantly.
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+
+## Infrastructure & Technology
+
+<div class='read'>
+
+*"Next stop, Grand Central Burrow!" The mole conductor's voice carries over the rumble of the Underground train. You grip the root-fiber strap as the car sways through a particularly tight turn. Around you, the morning commute presses close—a beaver engineer studying blueprint scratches on bark, two mice debating interest rates, a drowsy opossum heading home from night shift. The train car smells of earth, sweat, and that particular Underground mixture of mushroom and metal. Through the carved windows, tunnel lights flash past in hypnotic rhythm. This is how The Great Burrow moves, deep beneath predator and titan alike.*
+
+</div>
+
+### The Great Underground
+The marvel of mole engineering, this subway system connects all five burrows through natural tunnels, hollow logs, and carved passages. Express routes follow main arteries while local service winds through neighborhoods.
+
+**Major Stations:**
+- **Grand Central Burrow** (Mousehattan hub)
+- **Deep Root & Grove Junction** (The Branchx)
+- **The Great Interchange** (The Hives - connects 3 lines)
+- **Creek Crossing & Dockside Terminal** (Lin's Brook)
+- **Ferry Terminal** (Scurry Island - ferry service only)
+
+Trains are pushed by mole work crews who know every tunnel by vibration. Monthly passes cost 20 acorns, single rides 1-2 acorns depending on distance.
+
+### Communication Networks
+- **Tail Signals:** Universal basic communication across species
+- **Scent Marking:** Territory boundaries and social status indicators
+- **Drumming Networks:** Branch or ground percussion for neighborhood alerts
+- **The Daily Squeak:** Newspaper of record (knows what not to print)
+- **Chipmunk Couriers:** Rapid message delivery with route-number slang
+- **Underground Press:** Radical publications from Village Burrows
+
+\columnbreak
+
+### Transportation Methods
+Beyond the Underground, creatures navigate via rope bridges (47 major crossings in The Branchx), ferry services (when operational), courier networks, and private options from otter swimming services to rare bat flights. Emergency bark slides provide rapid descent in the canopy, though climbing back up is always harder.
+
+<div class='note'>
+
+#### <u>Travel Time Guidelines</u>
+
+Use these rough estimates for cross-burrow travel:
+- **Underground Express**: 30-45 minutes between burrows
+- **Surface Travel**: 2-3 hours (daylight only, weather permitting)
+- **Courier Speed**: 1 hour for urgent messages
+- **On foot**: Full day journey with predator risks
+
+Always factor in delays: broken trains, predator sightings, weather, and classic NYC-style "track work."
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Economy & Commerce
+
+### The Acorn Standard
+Currency valued by quality and preparation method. The Acorn Exchange trading floor in Mousehattan sets prices that ripple across the forest. Seasonal fluctuations drive boom and bust cycles.
+
+**Major Industries by Burrow:**
+- **Finance** (Mousehattan): Banking, trading, investment
+- **Construction** (The Branchx/Lin's Brook): Infrastructure and building
+- **Agriculture** (The Hives): Managed insect operations
+- **Fishing/Water Power** (Lin's Brook): Waterfront economy
+- **Black Market** (Scurry Island): Shadow economy
+
+### Labor & Unions
+- **The Nutcracker Union:** Powerful Branchx construction organization ("we break more than nuts")
+- **Dockworkers United:** Lin's Brook waterfront muscle
+- **Courier Collectives:** Chipmunk-dominated message services
+- **The Builders Guild:** Beaver-led but increasingly diverse
+
+<div class='note'>
+
+#### <u>Union Politics in Play</u>
+
+Unions aren't just background - they're active forces:
+- **Strike actions** can shut down entire burrows
+- **Union cards** open doors (or close them)
+- **Scabs** face social ostracization or worse
+- **Union bosses** wield political power rivaling crime families
+
+Players with union connections get <span class='boost'>b</span> to Streetwise in working-class areas but upgrade difficulty when dealing with management.
+
+</div>
+
+### Economic Status Levels
+- **Destitute:** 0-10 acorns (struggling for basic needs)
+- **Poor:** 11-50 acorns (working class, paycheck to paycheck)
+- **Comfortable:** 51-200 acorns (stable middle class)
+- **Wealthy:** 201-1000 acorns (business owners, professionals)
+- **Rich:** 1001+ acorns (old money families, crime bosses)
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Governance & Politics
+
+### The Five-Burrow Coalition
+The Great Burrow operates under a loose confederation where each burrow maintains significant autonomy. The **Inter-Burrow Council** (two representatives per burrow) meets quarterly to handle:
+- Infrastructure funding and maintenance
+- Titan response coordination
+- Inter-burrow dispute resolution
+- Trade regulation and standards
+
+The Council cannot override burrow-specific laws or cultural practices.
+
+### Individual Burrow Governance
+- **Mousehattan:** Corporate oligarchy run by the Root Board (family heads and crime bosses)
+- **The Branchx:** Union democracy through the Nutcracker Assembly with Tail Vote for major decisions
+- **The Hives:** Cooperative consensus via the Hive Mind (extended family councils)
+- **Lin's Brook:** Guild confederation led by the Dam Council with ancient Water Rights Court
+- **Scurry Island:** Survival hierarchy where the Trunk Council maintains order alongside Ranger Command
+
+### Political Movements
+- **The Traditionalists:** Preserve burrow autonomy and species-specific governance
+- **The Unionists:** Worker rights and cross-species solidarity
+- **The Progressives:** Modernization and technological advancement
+- **Rangers First:** Titan defense and military preparedness above all
+- **The Naturalists:** Environmental protection and sustainable development
+
+<div class='note'>
+
+#### <u>Political Faction Mechanics</u>
+
+Track party reputation with each faction (-5 to +5):
+- **-5 to -3**: Active opposition, may face harassment
+- **-2 to +2**: Neutral, business as usual
+- **+3 to +5**: Allied, gain faction benefits
+
+Actions supporting one faction often oppose another. Let players feel the weight of political choices through NPC reactions and available opportunities.
+
+</div>
+
+\columnbreak
+
+## Historical Context
+
+### The Great Convergence (150 Years Ago)
+The city began when multiple crises forced scattered settlements to unite:
+- The Terrible Winter (unprecedented cold)
+- The Bear Awakening (multiple titan encounters)
+- Failed harvests across the forest
+- The Great Storm that destroyed isolated communities
+
+The legendary **Acorn Compact** established principles of mutual aid, shared defense, and peaceful dispute resolution that still guide the city.
+
+### Major Historical Events
+- **The Species Wars** (76-82 years ago): Economic inequality erupted into inter-species conflict
+- **The Great Compromise**: Established current burrow autonomy system
+- **The Great Flood** (59 years ago): Demonstrated city's vulnerability and resilience
+- **The Great Trampling** (20 years ago): Most destructive titan encounter in city history
+
+### The Modern Era
+Recent decades brought unprecedented prosperity alongside new challenges:
+- Gentrification displacing traditional communities
+- Environmental pressures and increasing titan activity
+- Growing wealth inequality testing cooperative spirit
+- Immigration from distant forest communities
+
+<div class='note'>
+
+#### <u>Using Recent History</u>
+
+The Great Burrow's history provides ready-made NPC motivations:
+- **Species War veterans** still hold grudges
+- **Flood survivors** obsess over infrastructure
+- **Trampling orphans** grew up tough on Scurry Island
+- **Old money families** remember "better times"
+
+Every major NPC should reference at least one historical event that shaped them.
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Daily Life & Culture
+
+### The Rhythm of Survival
+- **Dawn:** Highest predator danger, work begins carefully
+- **Morning:** Underground commutes, markets open
+- **Midday:** Safest surface travel, peak commerce
+- **Afternoon:** School, apprenticeships, social time
+- **Dusk:** Race to safety, second predator peak
+- **Night:** Underground entertainment, black market hours
+
+### Seasonal Pressures
+- **Spring:** Flooding threats, mating season tensions
+- **Summer:** Tourism peaks, drought stresses water systems
+- **Fall:** Harvest determines winter survival
+- **Winter:** Food politics dominate, heating becomes currency
+
+<div class='note'>
+
+#### <u>Seasonal Campaign Hooks</u>
+
+**Spring:** Flood rescue missions, romance subplots, new construction conflicts
+
+**Summer:** Water shortage negotiations, tourist-related crimes, heat-induced tensions
+
+**Fall:** Harvest sabotage mysteries, storage facility heists, preparation panics
+
+**Winter:** Food smuggling operations, warmth-based social dynamics, isolation stories
+
+Use seasons to drive urgency and change available resources/obstacles.
+
+</div>
+
+### Social Hierarchy
+1. **Old Money:** Ancient families with prime territory rights
+2. **New Rich:** Entrepreneurs, crime families, innovators
+3. **Skilled Workers:** Union members, specialists, guild crafts
+4. **Service Class:** Creatures who keep the city running
+5. **The Desperate:** Day laborers, refugees, the forgotten
+
+### Crime & Order
+Organized families control much of the shadow economy:
+- **Mousehattan:** Longtail Family and Whisker Brotherhood
+- **Lin's Brook:** Silverclaw Family (waterfront protection)
+- **Scurry Island:** Complex black market operations
+
+"Insurance" payments are a fact of life, often providing actual security. The universal code: "The family provides."
+
+\columnbreak
+
+### Cultural Tensions
+- **Gentrification:** Old neighborhoods transformed by new money
+- **Species Integration:** Young creatures challenging traditional boundaries
+- **Innovation vs. Tradition:** Guinea pig methods disrupting rabbit dynasties
+- **Height Hierarchies:** Squirrel branch levels determining social status
+- **Predator Reality:** Constant threat shapes all architecture and schedules
+
+### Universal Experiences
+Every creature knows:
+- The Underground commute (packed tunnels, frequent delays)
+- Predator drills (alarm signals learned as kits)
+- Market days (burrow specialties draw cross-city traffic)
+- Weather watching (storms mean infrastructure danger)
+- Giant protocols (evacuation procedures when bells ring)
+
+<div class='example'>
+
+##### A Day in The Great Burrow
+Maple, a young squirrel construction worker, wakes before dawn in her middle-branch apartment. She checks predator warnings, grabs acorn paste breakfast, and hurries to catch the 6:15 Underground at Grove Junction. 
+
+Packed between commuting beavers and courier chipmunks, she emerges at Deep Root Station to find her crew already assembling. Today they're reinforcing the 42nd Street bridge after yesterday's hawk attack damaged support ropes.
+
+By midday, the bridge is secure. Maple grabs lunch at a mole-run tunnel café, trades gossip about the new guinea pig techniques threatening traditional building methods. Her afternoon is spent in union meetings - the Nutcrackers are organizing against unsafe working conditions on the highest branches.
+
+As dusk approaches, evacuation bells ring - deer sighting near the Grove. Maple and hundreds of others flow into emergency slides, hearts pounding. Safe underground, she joins friends at a root cellar tavern, where tomorrow's worries wash away with fermented berry juice and worker solidarity songs.
+
+This is life in The Great Burrow - dangerous, difficult, but never dull.
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# The Shadow Network - Organized Crime
+
+<div class='read'>
+
+*The back room of the Squeakeasy reeks of fermented berries and fear. Don Salvatore Longtail sits behind his oak-burl desk, one paw resting on a ledger, the other hidden beneath. His whiskers twitch once—the only sign he's heard your proposal. Behind him, two gray-coated rats crack their knuckles. "You come to my establishment," the Don says slowly, each word precise as a needle, "on the day of my daughter's tail-binding, and you ask me this favor? Tell me, friend—what makes you think the Longtail Family needs anything from you?" The silence that follows is heavy as winter snow.*
+
+</div>
+
+In the shadows between legitimate business and outright banditry lies The Great Burrow's complex criminal underworld. These organizations follow their own codes, respect their own territories, and handle their own justice.
+
+## The Commission
+
+An informal council where major family representatives meet quarterly to resolve disputes and coordinate operations. Meeting locations rotate between neutral territories:
+- **Central Crossing** (The Branchx): Bridge intersection for safe meetings
+- **The Sanctuary** (Scurry Island): Traditional neutral ground
+- **Underground Stations**: Specific platforms with temporary truces
+
+<div class='note'>
+
+#### <u>Running Crime Family Politics</u>
+
+The Commission provides natural story hooks:
+- **Territory disputes** need neutral mediators (the PCs)
+- **Family wars** threaten civilian areas
+- **Commission meetings** are perfect heist/assassination targets
+- **Power vacuums** create violent succession crises
+
+Remember: organized crime provides actual services. When families fight, garbage piles up and predators aren't warned about.
+
+</div>
+
+## The Criminal Code
+
+### The Old Laws
+1. **Family First**: Blood and chosen family loyalty supersedes all else
+2. **Territory Respect**: Honor established boundaries unless formally challenged
+3. **No Innocent Blood**: Children, elders, and non-participants are protected
+4. **Debt Honor**: Pay what you owe or face escalating consequences
+5. **Silence Law**: Never cooperate with outside authorities
+6. **Guest Rights**: Sanctuary and safe passage when properly requested
+
+### Criminal Justice
+- **Family Courts**: Internal dispute resolution within criminal community
+- **Territory Trials**: Formal challenges for boundary disputes
+- **Debt Collection**: Escalating pressure from warnings to exile to violence
+- **Betrayal Punishment**: Tail cutting, exile, or death depending on severity
+
+## Major Crime Families
+
+### Mousehattan Syndicates
+**The Longtail Family** - Traditional Power
+- Territory: Waterfront, Wall Street, Times Squeak
+- Leadership: Don Salvatore Longtail
+- Specialties: Smuggling, financial fraud, loan sharking
+- Code: "The family provides"
+
+**The Whisker Brotherhood** - Old Guard
+- Territory: Upper levels, residential areas
+- Leadership: Council of three brothers
+- Specialties: High-end protection, construction permits
+- Ritual: Whisker-touching initiation ceremonies
+
+\columnbreak
+
+**The Gray Coats** - Rising Force
+- Territory: Village Burrows, young professional areas
+- Leadership: Lucia "The Shadow" Gray
+- Specialties: Tech fraud, identity theft, blackmail
+- Signature: Gray vests marking full members
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Other Burrow Syndicates
+
+**The Silverclaw Family** (Lin's Brook)
+- Controls north docks and ferry routes
+- Direct violence over subtle manipulation
+- Silver-tipped claws worn by made members
+
+**The Honeycomb Family** (The Hives)
+- Agricultural mafia controlling honey trade
+- Elder Mother Beatrice Honeyclover leads
+- Sophisticated commodity manipulation
+
+**The Nutcracker Union** (The Branchx)
+- Construction site control and labor intimidation
+- Boss Tony "Crack" Nutkin runs operations
+- "Worker solidarity" mixed with territorial violence
+
+**The Fence Lords** (Scurry Island)
+- Black market masters and document forgers
+- Council leadership of proven operators
+- "Everything has value to someone"
+
+
+## Criminal Economics
+
+### Revenue Sources
+- **Protection Rackets**: 40% - "Insurance" payments
+- **Smuggling**: 25% - Contraband and tax avoidance
+- **Gambling**: 15% - Illegal games and fight clubs
+- **Labor Control**: 10% - Union corruption
+- **Financial Crime**: 10% - Fraud and theft
+
+### Money Laundering
+- Legitimate business fronts (restaurants, shops)
+- The Washing Circuit (raccoon operations)
+- Commodity trading through acorn markets
+- Festival economies for cash movement
+
+## Species Specializations
+
+**Rats**: Natural organizers with hierarchical families
+**Mice**: Inside operators using respectability
+**Raccoons**: Manual dexterity for locks and laundering
+**Opossums**: Masters of "playing dead" to authorities
+**Beavers**: Infrastructure control and construction corruption
+**Otters**: Water smuggling routes and fish market control
+**Weasels**: Information brokers and blackmail specialists
+
+<div class='note'>
+
+#### <u>Using Crime in Campaigns</u>
+
+Criminal families provide protection that often includes genuine services - defending against predators, mediating disputes, and economic stabilization. Characters may find themselves needing family help or caught between competing interests.
 
 </div>
 
