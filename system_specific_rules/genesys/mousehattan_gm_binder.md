@@ -2248,6 +2248,444 @@ Shields' defense values add to both Defensive (melee) and Deflection (ranged) de
 
 \pagebreakNum
 
+## Insect-Powered Technology
+
+### Communication
+- **Messenger Beetle (Basic):** 80% delivery success, Range: City-wide, Price 30 acorns
+- **Messenger Beetle (Premium):** 95% delivery success, Range: Regional, Price 85 acorns
+- **Butterfly Messenger:** Delicate but fast communication, Price 35 acorns, *90% success, same-day delivery within city*
+
+### Professional Tools
+- **Insect Whistle:** Animal Handling tool for managing insects, Price 30 acorns, *Add <span class='boost'>b</span> to insect-related checks*
+- **Beetle Cart:** Small cargo transport, Price 200 acorns, *Carries 5 Encumbrance, requires trained beetle*
+- **Ant Farm Calculator:** Living computation device, Price 150 acorns, *Add <span class='boost'>b</span><span class='boost'>b</span> to complex mathematical calculations*
+
+### Advanced Systems
+- **Spider Silk Rope:** Ultra-strong climbing rope, Price 60 acorns, *Half normal Encumbrance, Superior quality*
+- **Cricket Alarm:** Security system using trained crickets, Price 80 acorns, *Alerts to intruders within Short range*
+- **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
+
+<div class='note'>
+
+#### <u>Insect Technology Failures</u>
+
+When <span class='symbols'>h</span> or <span class='symbols'>d</span> appear on insect-tech checks:
+- **Beetles** get distracted by food
+- **Ants** follow old pheromone trails
+- **Spiders** abandon silk mid-spin
+- **Crickets** chirp at wrong times
+- **Butterflies** migrate unexpectedly
+
+Make failures humorous but consequential!
+
+</div>
+
+### Tools and Equipment
+
+#### Communication
+- **Messenger Beetle (Basic):** 80% delivery success, Range: City-wide, Price 30 acorns, *Must be familiar with recipient*
+- **Messenger Beetle (Premium):** 95% delivery success, Range: Regional, Price 85 acorns, *Must be familiar with recipient*
+- **Signal Mirror:** Reflects light for long-distance communication, Price 12 acorns
+- **Message Tube:** Waterproof container for important documents, Price 6 acorns
+
+#### Professional Tools
+- **Tunnel Digging Kit:** Mechanics tools for underground work, Price 150 acorns, *Add <span class='boost'>b</span> to underground construction*
+- **Insect Whistle:** Animal Handling tool for managing insects, Price 30 acorns, *Add <span class='boost'>b</span> to insect-related checks*
+- **Climbing Gear:** Athletics equipment for canopy travel, Price 100 acorns, *Add <span class='boost'>b</span> to climbing checks*
+- **Lockpick Set:** Skulduggery tools for opening locks, Price 45 acorns, *Add <span class='boost'>b</span> to lockpicking*
+- **Medical Kit:** Medicine supplies for treating injuries, Price 80 acorns, *Add <span class='boost'>b</span> to Medicine checks*
+- **Carpenter's Tools:** Mechanics tools for woodworking, Price 60 acorns, *Add <span class='boost'>b</span> to construction checks*
+
+#### Survival Gear
+- **Emergency Rations:** 3 days food, Price 15 acorns
+- **Water Purification Tablets:** Makes questionable water safe, Price 10 acorns (10 uses)
+- **Rope (50 feet):** Strong woven fiber rope, Price 20 acorns, Encumbrance 2
+- **Grappling Hook:** For climbing and swinging, Price 35 acorns, Encumbrance 1
+- **Sleeping Bag:** Warm bedding for outdoor rest, Price 25 acorns, Encumbrance 2
+- **Fire Starting Kit:** Flint, tinder, and kindling, Price 8 acorns
+
+#### Lighting
+- **Firefly Lantern:** Light source (living), Price 40 acorns, requires daily feeding, *Bright light, Medium range*
+- **Candle:** Simple wax light source, Price 2 acorns, *Dim light, Short range, 4 hour duration*
+- **Torch:** Burning stick for light, Price 1 acorn, *Bright light, Short range, 1 hour duration*
+- **Glowworm Jar:** Portable dim light, Price 15 acorns, *Dim light, Short range, no fuel needed*
+
+#### Specialized Equipment
+- **Magnifying Glass:** For detailed work, Price 50 acorns, *Add <span class='boost'>b</span> to Perception checks for small details*
+- **Scales:** For precise measurements, Price 30 acorns, *Required for accurate trading*
+- **Compass:** Navigation aid, Price 40 acorns, *Add <span class='boost'>b</span> to Navigation checks*
+- **Spyglass:** For distant observation, Price 120 acorns, *See clearly at Long range*
+- **Weather Vane:** Predicts weather changes, Price 25 acorns, *Add <span class='boost'>b</span> to weather prediction*
+
+#### Insect-Powered Technology
+- **Beetle Cart:** Small cargo transport, Price 200 acorns, *Carries 5 Encumbrance, requires trained beetle*
+- **Ant Farm Calculator:** Living computation device, Price 150 acorns, *Add <span class='boost'>b</span><span class='boost'>b</span> to complex mathematical calculations*
+- **Spider Silk Rope:** Ultra-strong climbing rope, Price 60 acorns, *Half normal Encumbrance, Superior quality*
+- **Honeycomb Storage:** Organized storage system, Price 40 acorns, *Reduces effective Encumbrance of stored items by 1*
+- **Cricket Alarm:** Security system using trained crickets, Price 80 acorns, *Alerts to intruders within Short range*
+- **Butterfly Messenger:** Delicate but fast communication, Price 35 acorns, *90% success, same-day delivery within city*
+- **Beetle Mill:** Portable grinding device, Price 120 acorns, *Processes grain and nuts, requires beetle labor*
+- **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Transportation
+
+### Personal Transport
+- **Acorn Cap Boat:** Single creature, water travel, Price 100 acorns
+- **Bark Sled:** Ground transport, can carry cargo, Price 50 acorns
+- **Rope Harness:** For climbing/swinging, Price 25 acorns
+
+### Public Transport
+- **Underground Pass:** Monthly unlimited subway travel, Price 20 acorns
+- **Ferry Ticket:** Single crossing to Scurry Island, Price 2 acorns
+- **Courier Service:** Message delivery, Price 1-5 acorns depending on distance
+
+
+<div class='note'>
+
+#### <u>Currency: The Acorn Standard</u>
+
+The Great Burrow operates on the Acorn Standard, with currency valued by the quality and preparation of acorns:
+
+- **Fresh Acorns:** Basic currency, 1-2 acorn value
+- **Aged Acorns:** Higher value, 3-5 acorn value  
+- **Prepared Acorns:** Processed and preserved, 5-10 acorn value
+- **Prime Acorns:** Perfect specimens, 10+ acorn value
+
+Trade also happens through barter, especially for specialized services and rare goods.
+
+</div>
+
+
+\columnbreak
+<div class='example'>
+
+
+##### Equipment in Action
+Vera the chipmunk courier is upgrading her gear. She purchases a **Squirrel-made** rope harness for climbing, which reduces the weight by 1 Encumbrance (minimum 0) and adds Superior quality for climbing applications. 
+
+She also invests in a **Premium Messenger Beetle** for important deliveries, giving her a reliable 95% success rate for regional communications - essential for her growing business reputation.
+
+</div>
+
+<div class='note'>
+
+#### <u>Seasonal Equipment Needs</u>
+
+Equipment needs change dramatically with the seasons in The Great Burrow:
+
+**Winter:** Heating systems, preserved food, ice-travel gear
+**Spring:** Flood protection, construction materials, planting supplies  
+**Summer:** Cooling systems, water storage, fire prevention
+**Autumn:** Harvest tools, storage systems, preservation equipment
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# New Talents
+
+## Tier 1 Talents
+
+### Burrow Native *(Passive)*
+Choose one burrow. Remove <span class='setback'>b</span> from all social and navigation checks in that burrow. Add <span class='boost'>b</span> to Streetwise checks related to that burrow's culture and politics.
+
+### Species Solidarity *(Passive)*
+Add <span class='boost'>b</span> to social checks when interacting with creatures of the same species. This bonus increases to <span class='boost'>b</span><span class='boost'>b</span> when dealing with family or clan members.
+
+\columnbreak
+
+### Tunnel Fighter *(Passive)*
+When fighting in confined spaces (tunnels, burrows, etc.), add <span class='boost'>b</span> to combat checks and increase defense by 1.
+
+### Predator Awareness *(Passive)*
+Add <span class='boost'>b</span> to Vigilance checks to detect aerial predators. When a predator is spotted, may spend 1 strain to immediately move to cover as an out-of-turn incidental.
+
+### Union Member *(Passive)*
+Gain access to union resources, legal aid, and worker solidarity. Add <span class='boost'>b</span> to social checks with other union members. Reduce cost of certain services by 25%.
+
+## Tier 2 Talents
+
+### Crime Family Connected *(Passive)*
+Gain protection and resources from organized crime, but also obligations. Add <span class='boost'>b</span><span class='boost'>b</span> to Streetwise checks in criminal contexts. Reduce difficulty of acquiring illegal goods by 1.
+
+
+### Titan Survivor *(Passive)*
+Having survived a direct titan encounter, add <span class='boost'>b</span> to all checks related to giant creatures. Other creatures treat you with respect/fear. Once per session, may add <span class='boost'>b</span><span class='boost'>b</span> to a Cool or Discipline check.
+
+### Master Craftscreature *(Passive)*
+Choose one type of crafting (construction, insect management, etc.). Add <span class='boost'>b</span><span class='boost'>b</span> to all related checks. Reduce time and cost of creating items by 25%.
+
+
+## Tier 3 Talents
+
+### Burrow Boss *(Passive)*
+Leadership position in burrow hierarchy. Add <span class='boost'>b</span><span class='boost'>b</span> to Leadership checks. Can call upon significant resources and followers. Gain political influence but also enemies.
+
+### Ranger Elite *(Passive)*
+Veteran of multiple titan encounters. Add <span class='boost'>b</span><span class='boost'>b</span> to all combat checks against large creatures. Gain access to advanced Ranger equipment and tactics.
+
+\columnbreak
+
+### Underground Railroad *(Passive)*
+Can help creatures disappear from their old lives and start new ones. Once per session, can provide false identity, safe passage, or sanctuary for any creature.
+
+### Titan Affinity *(Passive)*
+*Prerequisite: Survived an encounter with a Titan, or DM approval*
+One of the Titan-related skills becomes a career skill for you, based on the titan you have encountered.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Tier 4 Talents
+
+### Burrow Legend *(Passive)*
+Your reputation precedes you throughout the city. Add <span class='boost'>b</span><span class='boost'>b</span> to all social checks within your home burrow. Once per session, may call upon your reputation to gain a significant favor or resource.
+
+### Titan Whisperer *(Active)*
+Your connection to the giants runs deeper than most. Once per session, may attempt to communicate with or influence a titan's behavior. This requires a Formidable (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>) Knowledge (Titans) check.
+
+### Master of Networks *(Passive)*
+Your web of contacts spans the entire city. Start each session with 3 "favor tokens" that can be spent to gain information, resources, or assistance from contacts throughout The Great Burrow.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Species-Specific Talents
+
+All talents here are Tier 2 talents unless specified otherwise.
+
+### Mouse Precision *(Passive)*
+*Prerequisite: Mouse species*
+
+Your natural attention to detail serves you well. When making Mechanics or Medicine checks, may spend 2 strain to upgrade the ability of the check twice instead of once.
+
+### Rat Networking *(Passive)*
+*Prerequisite: Rat species*
+
+Your species' natural entrepreneurial spirit opens doors. Reduce the difficulty of Streetwise and Negotiation checks by 1 when dealing with business matters.
+
+### Squirrel Storage *(Passive)*
+*Prerequisite: Squirrel species*
+
+Your hoarding instincts are legendary. Increase your Encumbrance Threshold by 3. Once per session, may produce a useful common item that you "had stored away" without use of a story point.
+
+### Beaver Engineering *(Passive)*
+*Prerequisite: Beaver species*
+
+Your construction expertise is unmatched. When making Mechanics checks related to building or repair, add <span class='boost'>b</span><span class='boost'>b</span> to the check and reduce the time required by half.
+
+### Otter Flow *(Passive)*
+*Prerequisite: Otter species*
+
+Your natural grace in water extends to all movement. Add <span class='boost'>b</span> to all Athletics and Coordination checks. When in water, upgrade the ability of these checks once.
+
+### Rabbit Warren Leader *(Passive)*
+*Prerequisite: Rabbit species*
+
+Your community instincts make you a natural organizer. When leading a group of 3 or more creatures, all group members gain <span class='boost'>b</span> to checks that benefit from coordination. You may use Leadership instead of other social skills when dealing with family or community matters.
+
+\columnbreak
+
+### Guinea Pig Innovation *(Active)*
+*Prerequisite: Guinea pig species*
+
+Your mountain heritage brings fresh perspectives to old problems. Once per session, when facing a challenge that has stumped others, you may spend 2 strain to propose an unconventional solution that adds <span class='boost'>b</span><span class='boost'>b</span> to the attempt and reduces the difficulty by 1.
+
+
+### Opossum Survivor *(Passive)*
+*Prerequisite: Opossum species*
+
+Your species' reputation for resilience is well-earned. When reduced to 0 wounds, you may immediately use your "Play Dead" ability as an out-of-turn incidental. Additionally, add <span class='boost'>b</span> to all checks made while appearing dead or unconscious.
+
+### Raccoon Fence Master *(Passive)*
+*Prerequisite: Raccoon species*
+
+Your natural dexterity and criminal connections serve you well. Reduce the difficulty of acquiring illegal goods by 1. When "washing" stolen goods, add <span class='boost'>b</span><span class='boost'>b</span> to Deception checks to make them appear legitimate.
+
+### Chipmunk Speed Burst *(Active)*
+*Prerequisite: Chipmunk species*
+
+Your legendary speed can be pushed to extraordinary limits. Once per encounter, may move to any location within Long range as a maneuver. Suffer 4 strain after using this ability.
+
+### Mole Tunnel Sense *(Passive)*
+*Prerequisite: Mole species*
+
+Your vibration sense extends beyond mere detection. You can "read" the structural integrity of underground spaces, predict cave-ins, and find hidden passages. Add <span class='boost'>b</span><span class='boost'>b</span> to Navigation checks underground and <span class='boost'>b</span> to Perception checks to detect structural weaknesses.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Skunk Reputation *(Passive)*
+*Prerequisite: Skunk species*
+
+Your natural deterrent has made you a master of intimidation without violence. Upgrade Coercion checks once when the threat of your chemical defense is relevant. Enemies must make an Average (<span class='difficulty'>d</span><span class='difficulty'>d</span>) Discipline check to attack you in melee range under similar circumstances.
+
+### Badger Territory *(Passive)*
+*Prerequisite: Badger species*
+
+Your territorial instincts extend to any space you claim as your own. When defending any location you've spent at least 24 hours in, add <span class='boost'>b</span><span class='boost'>b</span> to all combat checks and increase your Defense by 1. Other creatures instinctively respect your claimed territory.
+
+### Ferret Deal Maker *(Active)*
+*Prerequisite: Ferret species*
+
+Your hyperactive nature and flexible morality make you an excellent negotiator. Once per session, when making a Negotiation check, you may spend 2 strain to add <span class='boost'>b</span><span class='boost'>b</span> to the check and allow both parties to gain something they want, even from seemingly impossible situations.
+
+### Weasel Information Network *(Passive)*
+*Prerequisite: Weasel species*
+
+Your species' reputation for knowing everything serves you well. Start each session with one piece of useful information about the current situation. Additionally, reduce the difficulty of Streetwise checks to gather information by 1.
+
+### Bat Night Vision *(Passive)*
+*Prerequisite: Bat species*
+
+Your echolocation and flight give you unparalleled awareness. You can "see" in complete darkness and through light cover. Add <span class='boost'>b</span> to all Perception checks and <span class='boost'>b</span><span class='boost'>b</span> to Vigilance checks made during night hours or in darkness.
+
+### Shrew Insect Bond *(Active)*
+*Prerequisite: Shrew species*
+
+Your ultrasonic communication has created a deep bond with a specific insect companion. Choose one insect type (beetle, ant, cricket, etc.). You have a loyal insect companion that can perform simple tasks, deliver messages, and provide assistance. The insect has 3 wounds, 2 strain, and relevant skills at 2 dice. If it dies, you can bond with a new one after 1 week.
+
+## Insect Companion Talents
+
+### Wasp Guardian *(Active)*
+*Prerequisite: Animal Handling 2, must have befriended a wasp*
+
+You have formed a bond with a loyal wasp companion. The wasp has 4 wounds, 3 strain, and will defend you fiercely. Once per encounter, the wasp can make a sting attack (Damage 6, Crit 3, Poison) against enemies within Short range. If the wasp is killed, you suffer 2 strain and cannot bond with another for 2 weeks.
+
+### Beetle Mount *(Passive)*
+*Prerequisite: Animal Handling 2, Riding 1*
+
+You have trained a large beetle as a mount. The beetle can carry you and moderate cargo, has 8 wounds, 4 strain, and moves at your speed. It can also assist with heavy labor, adding <span class='boost'>b</span> to Mechanics checks involving construction or hauling. Requires daily feeding and care.
+
+\columnbreak
+
+### Cricket Alarm *(Passive)*
+*Prerequisite: Animal Handling 1*
+
+You have bonded with a cricket that serves as an early warning system. The cricket alerts you to danger within Medium range, adding <span class='boost'>b</span><span class='boost'>b</span> to Initiative checks and Vigilance checks to avoid surprise. The cricket can also relay simple messages through its chirping patterns.
+
+### Ant Colony Contact *(Active)*
+*Prerequisite: Animal Handling 3, must have Shrew Insect Bond or similar*
+
+You have established communication with a local ant colony. Once per session, you can request the colony's assistance for information gathering, small item transport, or creating diversions. The ants will perform reasonable tasks that don't endanger the colony.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Magic and Unexplained Phenomena
+
+## Setting Magic Level: Very Low
+
+The Great Burrow is fundamentally a **low-magic setting** where unexplained phenomena are rare, poorly understood, and often dismissed as folklore by the general population. What might be called "magic" in other settings manifests here as subtle abilities tied to traumatic or profound encounters with the titans that walk the forest.
+
+### The Nature of "Magic"
+
+#### No Traditional Magic
+- No wizards, spells, or magical items in the conventional sense
+- No magical creatures (beyond the titans themselves)
+- No supernatural forces that creatures can reliably study or harness
+- Most citizens live their entire lives without witnessing anything truly unexplainable
+
+#### Titan-Touched Phenomena
+What passes for magic comes from direct encounters with the giants:
+- **Deer Blessings:** Survivors of deer encounters sometimes develop uncanny luck or intuition
+- **Bear Marks:** Those who survive bear attacks may gain primal strength or fearsome presence
+- **Wolf Touched:** Extremely rare, grants predatory instincts and pack awareness
+- **Moose Blessed:** Rarest of all, survivors report connection to forest rhythms and weather
+
+### Mechanical Implementation
+
+#### Titan-Touched Talents
+
+### Blessed Instincts *(Passive)*
+*Prerequisite: Survived direct titan encounter*
+
+Once per session, may upgrade the ability of any skill check before rolling. This represents the heightened awareness that comes from brushing against death.
+
+\columnbreak
+
+### Titan's Mark *(Passive)*
+*Prerequisite: Blessed Instincts*
+
+Other creatures can sense something different about you. Add <span class='boost'>b</span> to Coercion checks, but add <span class='setback'>b</span> to some social interactions. You carry the scent of the forest's greatest predators.
+
+### Uncanny Luck *(Active)*
+*Prerequisite: Blessed Instincts*
+
+Spend 1 strain to reroll any dice pool, but must accept the second result. The forest itself seems to bend probability around you.
+
+### Forest Whispers *(Active)*
+*Prerequisite: Any two Tier 1 Titan-Touched talents*
+
+Once per session, gain insight about immediate area or recent events. The GM provides one useful piece of information as if the forest itself whispered secrets to you.
+
+### Primal Presence *(Passive)*
+*Prerequisite: Titan's Mark*
+
+When dealing with non-sapient animals, may use Coercion or Charm without penalty. Beasts recognize you as something between predator and prey.
+
+### Survivor's Edge *(Passive)*
+*Prerequisite: Any two Tier 1 Titan-Touched talents*
+
+When reduced to half wounds or strain, gain <span class='boost'>b</span> to all checks until fully healed. Desperation awakens your deepest survival instincts.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Titan's Shadow *(Active)*
+*Prerequisite: Any two Tier 2 Titan-Touched talents*
+
+Once per session, may add <span class='boost'>b</span><span class='boost'>b</span><span class='boost'>b</span> to any check related to survival, combat, or protecting others. Channel the terrible power you once faced.
+
+### Deep Knowing *(Active)*
+*Prerequisite: Forest Whispers*
+
+Spend 2 strain and a story point to ask the GM one question about the current situation and receive a truthful answer. The boundaries between your mind and the forest blur.
+
+### Pack Leader *(Passive)*
+*Prerequisite: Primal Presence*
+
+Allies within Short range gain <span class='boost'>b</span> to checks when you spend strain to assist them. Your presence inspires pack-like coordination.
+
+\columnbreak
+
+#### Acquiring Titan-Touched Status
+- **Direct Titan Encounter:** Survive a face-to-face meeting with a giant creature
+- **Profound Trauma:** Experience something that fundamentally changes your worldview
+- **Spiritual Awakening:** Deep meditation or religious experience in sacred locations
+- **Inherited Sensitivity:** Very rare, passed down through bloodlines (1 in 1000 creatures)
+
+#### Social Implications
+- **Urban Skepticism:** Most city dwellers dismiss titan-touched abilities as coincidence or delusion
+- **Ranger Respect:** Rangers recognize and value these abilities, even if they don't understand them
+- **Religious Significance:** Titan Speakers often display these phenomena, reinforcing their spiritual authority
+- **Scientific Denial:** Academics and intellectuals actively debunk claims of supernatural abilities
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 
 # The Five Burrows - Detailed Guide
 
@@ -5758,403 +6196,7 @@ A typical creature might start the day reading The Daily Squeak over breakfast, 
 
 \pagebreakNum
 
-
-## Insect-Powered Technology
-
-### Communication
-- **Messenger Beetle (Basic):** 80% delivery success, Range: City-wide, Price 30 acorns
-- **Messenger Beetle (Premium):** 95% delivery success, Range: Regional, Price 85 acorns
-- **Butterfly Messenger:** Delicate but fast communication, Price 35 acorns, *90% success, same-day delivery within city*
-
-### Professional Tools
-- **Insect Whistle:** Animal Handling tool for managing insects, Price 30 acorns, *Add <span class='boost'>b</span> to insect-related checks*
-- **Beetle Cart:** Small cargo transport, Price 200 acorns, *Carries 5 Encumbrance, requires trained beetle*
-- **Ant Farm Calculator:** Living computation device, Price 150 acorns, *Add <span class='boost'>b</span><span class='boost'>b</span> to complex mathematical calculations*
-
-### Advanced Systems
-- **Spider Silk Rope:** Ultra-strong climbing rope, Price 60 acorns, *Half normal Encumbrance, Superior quality*
-- **Cricket Alarm:** Security system using trained crickets, Price 80 acorns, *Alerts to intruders within Short range*
-- **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
-
-<div class='note'>
-
-#### <u>Insect Technology Failures</u>
-
-When <span class='symbols'>h</span> or <span class='symbols'>d</span> appear on insect-tech checks:
-- **Beetles** get distracted by food
-- **Ants** follow old pheromone trails
-- **Spiders** abandon silk mid-spin
-- **Crickets** chirp at wrong times
-- **Butterflies** migrate unexpectedly
-
-Make failures humorous but consequential!
-
-</div>
-
-### Tools and Equipment
-
-#### Communication
-- **Messenger Beetle (Basic):** 80% delivery success, Range: City-wide, Price 30 acorns, *Must be familiar with recipient*
-- **Messenger Beetle (Premium):** 95% delivery success, Range: Regional, Price 85 acorns, *Must be familiar with recipient*
-- **Signal Mirror:** Reflects light for long-distance communication, Price 12 acorns
-- **Message Tube:** Waterproof container for important documents, Price 6 acorns
-
-#### Professional Tools
-- **Tunnel Digging Kit:** Mechanics tools for underground work, Price 150 acorns, *Add <span class='boost'>b</span> to underground construction*
-- **Insect Whistle:** Animal Handling tool for managing insects, Price 30 acorns, *Add <span class='boost'>b</span> to insect-related checks*
-- **Climbing Gear:** Athletics equipment for canopy travel, Price 100 acorns, *Add <span class='boost'>b</span> to climbing checks*
-- **Lockpick Set:** Skulduggery tools for opening locks, Price 45 acorns, *Add <span class='boost'>b</span> to lockpicking*
-- **Medical Kit:** Medicine supplies for treating injuries, Price 80 acorns, *Add <span class='boost'>b</span> to Medicine checks*
-- **Carpenter's Tools:** Mechanics tools for woodworking, Price 60 acorns, *Add <span class='boost'>b</span> to construction checks*
-
-\columnbreak
-
-#### Survival Gear
-- **Emergency Rations:** 3 days food, Price 15 acorns
-- **Water Purification Tablets:** Makes questionable water safe, Price 10 acorns (10 uses)
-- **Rope (50 feet):** Strong woven fiber rope, Price 20 acorns, Encumbrance 2
-- **Grappling Hook:** For climbing and swinging, Price 35 acorns, Encumbrance 1
-- **Sleeping Bag:** Warm bedding for outdoor rest, Price 25 acorns, Encumbrance 2
-- **Fire Starting Kit:** Flint, tinder, and kindling, Price 8 acorns
-
-#### Lighting
-- **Firefly Lantern:** Light source (living), Price 40 acorns, requires daily feeding, *Bright light, Medium range*
-- **Candle:** Simple wax light source, Price 2 acorns, *Dim light, Short range, 4 hour duration*
-- **Torch:** Burning stick for light, Price 1 acorn, *Bright light, Short range, 1 hour duration*
-- **Glowworm Jar:** Portable dim light, Price 15 acorns, *Dim light, Short range, no fuel needed*
-
-#### Specialized Equipment
-- **Magnifying Glass:** For detailed work, Price 50 acorns, *Add <span class='boost'>b</span> to Perception checks for small details*
-- **Scales:** For precise measurements, Price 30 acorns, *Required for accurate trading*
-- **Compass:** Navigation aid, Price 40 acorns, *Add <span class='boost'>b</span> to Navigation checks*
-- **Spyglass:** For distant observation, Price 120 acorns, *See clearly at Long range*
-- **Weather Vane:** Predicts weather changes, Price 25 acorns, *Add <span class='boost'>b</span> to weather prediction*
-
-#### Insect-Powered Technology
-- **Beetle Cart:** Small cargo transport, Price 200 acorns, *Carries 5 Encumbrance, requires trained beetle*
-- **Ant Farm Calculator:** Living computation device, Price 150 acorns, *Add <span class='boost'>b</span><span class='boost'>b</span> to complex mathematical calculations*
-- **Spider Silk Rope:** Ultra-strong climbing rope, Price 60 acorns, *Half normal Encumbrance, Superior quality*
-- **Honeycomb Storage:** Organized storage system, Price 40 acorns, *Reduces effective Encumbrance of stored items by 1*
-- **Cricket Alarm:** Security system using trained crickets, Price 80 acorns, *Alerts to intruders within Short range*
-- **Butterfly Messenger:** Delicate but fast communication, Price 35 acorns, *90% success, same-day delivery within city*
-- **Beetle Mill:** Portable grinding device, Price 120 acorns, *Processes grain and nuts, requires beetle labor*
-- **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
-
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Transportation
-
-### Personal Transport
-- **Acorn Cap Boat:** Single creature, water travel, Price 100 acorns
-- **Bark Sled:** Ground transport, can carry cargo, Price 50 acorns
-- **Rope Harness:** For climbing/swinging, Price 25 acorns
-
-### Public Transport
-- **Underground Pass:** Monthly unlimited subway travel, Price 20 acorns
-- **Ferry Ticket:** Single crossing to Scurry Island, Price 2 acorns
-- **Courier Service:** Message delivery, Price 1-5 acorns depending on distance
-
-
-<div class='note'>
-
-#### <u>Currency: The Acorn Standard</u>
-
-The Great Burrow operates on the Acorn Standard, with currency valued by the quality and preparation of acorns:
-
-- **Fresh Acorns:** Basic currency, 1-2 acorn value
-- **Aged Acorns:** Higher value, 3-5 acorn value  
-- **Prepared Acorns:** Processed and preserved, 5-10 acorn value
-- **Prime Acorns:** Perfect specimens, 10+ acorn value
-
-Trade also happens through barter, especially for specialized services and rare goods.
-
-</div>
-
-
-\columnbreak
-<div class='example'>
-
-
-##### Equipment in Action
-Vera the chipmunk courier is upgrading her gear. She purchases a **Squirrel-made** rope harness for climbing, which reduces the weight by 1 Encumbrance (minimum 0) and adds Superior quality for climbing applications. 
-
-She also invests in a **Premium Messenger Beetle** for important deliveries, giving her a reliable 95% success rate for regional communications - essential for her growing business reputation.
-
-</div>
-
-<div class='note'>
-
-#### <u>Seasonal Equipment Needs</u>
-
-Equipment needs change dramatically with the seasons in The Great Burrow:
-
-**Winter:** Heating systems, preserved food, ice-travel gear
-**Spring:** Flood protection, construction materials, planting supplies  
-**Summer:** Cooling systems, water storage, fire prevention
-**Autumn:** Harvest tools, storage systems, preservation equipment
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-
-
-
-# New Talents
-
-## Tier 1 Talents
-
-### Burrow Native *(Passive)*
-Choose one burrow. Remove <span class='setback'>b</span> from all social and navigation checks in that burrow. Add <span class='boost'>b</span> to Streetwise checks related to that burrow's culture and politics.
-
-### Species Solidarity *(Passive)*
-Add <span class='boost'>b</span> to social checks when interacting with creatures of the same species. This bonus increases to <span class='boost'>b</span><span class='boost'>b</span> when dealing with family or clan members.
-
-### Tunnel Fighter *(Passive)*
-When fighting in confined spaces (tunnels, burrows, etc.), add <span class='boost'>b</span> to combat checks and increase defense by 1.
-
-### Predator Awareness *(Passive)*
-Add <span class='boost'>b</span> to Vigilance checks to detect aerial predators. When a predator is spotted, may spend 1 strain to immediately move to cover as an out-of-turn incidental.
-
-### Union Member *(Passive)*
-Gain access to union resources, legal aid, and worker solidarity. Add <span class='boost'>b</span> to social checks with other union members. Reduce cost of certain services by 25%.
-
-## Tier 2 Talents
-
-### Crime Family Connected *(Passive)*
-Gain protection and resources from organized crime, but also obligations. Add <span class='boost'>b</span><span class='boost'>b</span> to Streetwise checks in criminal contexts. Reduce difficulty of acquiring illegal goods by 1.
-
-### Titan Survivor *(Passive)*
-Having survived a direct titan encounter, add <span class='boost'>b</span> to all checks related to giant creatures. Other creatures treat you with respect/fear. Once per session, may add <span class='boost'>b</span><span class='boost'>b</span> to a Cool or Discipline check.
-
-### Master Craftscreature *(Passive)*
-Choose one type of crafting (construction, insect management, etc.). Add <span class='boost'>b</span><span class='boost'>b</span> to all related checks. Reduce time and cost of creating items by 25%.
-
-
-## Tier 3 Talents
-
-### Burrow Boss *(Passive)*
-Leadership position in burrow hierarchy. Add <span class='boost'>b</span><span class='boost'>b</span> to Leadership checks. Can call upon significant resources and followers. Gain political influence but also enemies.
-
-### Ranger Elite *(Passive)*
-Veteran of multiple titan encounters. Add <span class='boost'>b</span><span class='boost'>b</span> to all combat checks against large creatures. Gain access to advanced Ranger equipment and tactics.
-
-\columnbreak
-
-### Underground Railroad *(Active)*
-Can help creatures disappear from their old lives and start new ones. Once per session, can provide false identity, safe passage, or sanctuary for any creature.
-
-### Titan Affinity *(Passive)*
-*Prerequisite: Survived an encounter with a Titan, or DM approval*
-One of the Titan-related skills becomes a career skill for you, based on the titan you have encountered.
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Tier 4 Talents
-
-### Burrow Legend *(Passive)*
-Your reputation precedes you throughout the city. Add <span class='boost'>b</span><span class='boost'>b</span> to all social checks within your home burrow. Once per session, may call upon your reputation to gain a significant favor or resource.
-
-### Titan Whisperer *(Active)*
-Your connection to the giants runs deeper than most. Once per session, may attempt to communicate with or influence a titan's behavior. This requires a Formidable (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>) Knowledge (Titans) check.
-
-### Master of Networks *(Passive)*
-Your web of contacts spans the entire city. Start each session with 3 "favor tokens" that can be spent to gain information, resources, or assistance from contacts throughout The Great Burrow.
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Species-Specific Talents
-
-### Mouse Precision *(Passive)*
-*Prerequisite: Mouse species*
-
-Your natural attention to detail serves you well. When making Mechanics or Medicine checks, may spend 2 strain to upgrade the ability of the check twice instead of once.
-
-### Rat Networking *(Passive)*
-*Prerequisite: Rat species*
-
-Your species' natural entrepreneurial spirit opens doors. Reduce the difficulty of Streetwise and Negotiation checks by 1 when dealing with business matters.
-
-### Squirrel Storage *(Passive)*
-*Prerequisite: Squirrel species*
-
-Your hoarding instincts are legendary. Increase your Encumbrance Threshold by 3. Once per session, may produce a useful common item that you "had stored away" without use of a story point.
-
-### Beaver Engineering *(Passive)*
-*Prerequisite: Beaver species*
-
-Your construction expertise is unmatched. When making Mechanics checks related to building or repair, add <span class='boost'>b</span><span class='boost'>b</span> to the check and reduce the time required by half.
-
-### Otter Flow *(Passive)*
-*Prerequisite: Otter species*
-
-Your natural grace in water extends to all movement. Add <span class='boost'>b</span> to all Athletics and Coordination checks. When in water, upgrade the ability of these checks once.
-
-### Rabbit Warren Leader *(Passive)*
-*Prerequisite: Rabbit species*
-
-Your community instincts make you a natural organizer. When leading a group of 3 or more creatures, all group members gain <span class='boost'>b</span> to checks that benefit from coordination. You may use Leadership instead of other social skills when dealing with family or community matters.
-
-\columnbreak
-
-### Guinea Pig Innovation *(Active)*
-*Prerequisite: Guinea pig species*
-
-Your mountain heritage brings fresh perspectives to old problems. Once per session, when facing a challenge that has stumped others, you may spend 2 strain to propose an unconventional solution that adds <span class='boost'>b</span><span class='boost'>b</span> to the attempt and reduces the difficulty by 1.
-
-
-### Opossum Survivor *(Passive)*
-*Prerequisite: Opossum species*
-
-Your species' reputation for resilience is well-earned. When reduced to 0 wounds, you may immediately use your "Play Dead" ability as an out-of-turn incidental. Additionally, add <span class='boost'>b</span> to all checks made while appearing dead or unconscious.
-
-### Raccoon Fence Master *(Passive)*
-*Prerequisite: Raccoon species*
-
-Your natural dexterity and criminal connections serve you well. Reduce the difficulty of acquiring illegal goods by 1. When "washing" stolen goods, add <span class='boost'>b</span><span class='boost'>b</span> to Deception checks to make them appear legitimate.
-
-### Chipmunk Speed Burst *(Active)*
-*Prerequisite: Chipmunk species*
-
-Your legendary speed can be pushed to extraordinary limits. Once per encounter, may move to any location within Long range as a maneuver. Suffer 4 strain after using this ability.
-
-### Mole Tunnel Sense *(Passive)*
-*Prerequisite: Mole species*
-
-Your vibration sense extends beyond mere detection. You can "read" the structural integrity of underground spaces, predict cave-ins, and find hidden passages. Add <span class='boost'>b</span><span class='boost'>b</span> to Navigation checks underground and <span class='boost'>b</span> to Perception checks to detect structural weaknesses.
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-### Skunk Reputation *(Passive)*
-*Prerequisite: Skunk species*
-
-Your natural deterrent has made you a master of intimidation without violence. Upgrade Coercion checks once when the threat of your chemical defense is relevant. Enemies must make an Average (<span class='difficulty'>d</span><span class='difficulty'>d</span>) Discipline check to attack you in melee range under similar circumstances.
-
-### Badger Territory *(Passive)*
-*Prerequisite: Badger species*
-
-Your territorial instincts extend to any space you claim as your own. When defending any location you've spent at least 24 hours in, add <span class='boost'>b</span><span class='boost'>b</span> to all combat checks and increase your Defense by 1. Other creatures instinctively respect your claimed territory.
-
-### Ferret Deal Maker *(Active)*
-*Prerequisite: Ferret species*
-
-Your hyperactive nature and flexible morality make you an excellent negotiator. Once per session, when making a Negotiation check, you may spend 2 strain to add <span class='boost'>b</span><span class='boost'>b</span> to the check and allow both parties to gain something they want, even from seemingly impossible situations.
-
-### Weasel Information Network *(Passive)*
-*Prerequisite: Weasel species*
-
-Your species' reputation for knowing everything serves you well. Start each session with one piece of useful information about the current situation. Additionally, reduce the difficulty of Streetwise checks to gather information by 1.
-
-### Bat Night Vision *(Passive)*
-*Prerequisite: Bat species*
-
-Your echolocation and flight give you unparalleled awareness. You can "see" in complete darkness and through light cover. Add <span class='boost'>b</span> to all Perception checks and <span class='boost'>b</span><span class='boost'>b</span> to Vigilance checks made during night hours or in darkness.
-
-### Shrew Insect Bond *(Active)*
-*Prerequisite: Shrew species*
-
-Your ultrasonic communication has created a deep bond with a specific insect companion. Choose one insect type (beetle, ant, cricket, etc.). You have a loyal insect companion that can perform simple tasks, deliver messages, and provide assistance. The insect has 3 wounds, 2 strain, and relevant skills at 2 dice. If it dies, you can bond with a new one after 1 week.
-
-## Insect Companion Talents
-
-### Wasp Guardian *(Active)*
-*Prerequisite: Animal Handling 2, must have befriended a wasp*
-
-You have formed a bond with a loyal wasp companion. The wasp has 4 wounds, 3 strain, and will defend you fiercely. Once per encounter, the wasp can make a sting attack (Damage 3, Crit 3, Poison) against enemies within Short range. If the wasp is killed, you suffer 2 strain and cannot bond with another for 2 weeks.
-
-### Beetle Mount *(Passive)*
-*Prerequisite: Animal Handling 3, Riding 2*
-
-You have trained a large beetle as a mount. The beetle can carry you and moderate cargo, has 8 wounds, 4 strain, and moves at your speed. It can also assist with heavy labor, adding <span class='boost'>b</span> to Mechanics checks involving construction or hauling. Requires daily feeding and care.
-
-### Cricket Alarm *(Passive)*
-*Prerequisite: Animal Handling 2*
-
-You have bonded with a cricket that serves as an early warning system. The cricket alerts you to danger within Medium range, adding <span class='boost'>b</span><span class='boost'>b</span> to Initiative checks and Vigilance checks to avoid surprise. The cricket can also relay simple messages through its chirping patterns.
-
-### Ant Colony Contact *(Active)*
-*Prerequisite: Animal Handling 3, must have Shrew Insect Bond or similar*
-
-You have established communication with a local ant colony. Once per session, you can request the colony's assistance for information gathering, small item transport, or creating diversions. The ants will perform reasonable tasks that don't endanger the colony.
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# Magic and Unexplained Phenomena
-
-## Setting Magic Level: Very Low
-
-The Great Burrow is fundamentally a **low-magic setting** where unexplained phenomena are rare, poorly understood, and often dismissed as folklore by the general population. What might be called "magic" in other settings manifests here as subtle abilities tied to traumatic or profound encounters with the titans that walk the forest.
-
-### The Nature of "Magic"
-
-#### No Traditional Magic
-- No wizards, spells, or magical items in the conventional sense
-- No magical creatures (beyond the titans themselves)
-- No supernatural forces that creatures can reliably study or harness
-- Most citizens live their entire lives without witnessing anything truly unexplainable
-
-#### Titan-Touched Phenomena
-What passes for magic comes from direct encounters with the giants:
-- **Deer Blessings:** Survivors of deer encounters sometimes develop uncanny luck or intuition
-- **Bear Marks:** Those who survive bear attacks may gain primal strength or fearsome presence
-- **Wolf Touched:** Extremely rare, grants predatory instincts and pack awareness
-- **Moose Blessed:** Rarest of all, survivors report connection to forest rhythms and weather
-
-### Mechanical Implementation
-
-#### Titan-Touched Talents
-
-**Tier 1: Awakening**
-- **Blessed Instincts** *(Passive)*: Once per session, may upgrade the ability of any skill check before rolling
-- **Titan's Mark** *(Passive)*: Other creatures can sense something different about you. Add <span class='boost'>b</span> to Coercion checks, but add <span class='setback'>b</span> to some social interactions
-- **Uncanny Luck** *(Active)*: Spend 1 strain to reroll any dice pool, but must accept the second result
-
-**Tier 2: Manifestation**
-- **Forest Whispers** *(Active)*: Once per session, gain insight about immediate area or recent events (GM provides one useful piece of information)
-- **Primal Presence** *(Passive)*: When dealing with non-sapient animals, may use Coercion or Charm without penalty
-- **Survivor's Edge** *(Passive)*: When reduced to half wounds or strain, gain <span class='boost'>b</span> to all checks until fully healed
-
-**Tier 3: Integration**
-- **Titan's Shadow** *(Active)*: Once per session, may add <span class='boost'>b</span><span class='boost'>b</span><span class='boost'>b</span> to any check related to survival, combat, or protecting others
-- **Deep Knowing** *(Active)*: Spend 2 strain and a story point to ask the GM one question about the current situation and receive a truthful answer
-- **Pack Leader** *(Passive)*: Allies within Short range gain <span class='boost'>b</span> to checks when you spend strain to assist them
-
-#### Acquiring Titan-Touched Status
-- **Direct Titan Encounter:** Survive a face-to-face meeting with a giant creature
-- **Profound Trauma:** Experience something that fundamentally changes your worldview
-- **Spiritual Awakening:** Deep meditation or religious experience in sacred locations
-- **Inherited Sensitivity:** Very rare, passed down through bloodlines (1 in 1000 creatures)
-
-#### Social Implications
-- **Urban Skepticism:** Most city dwellers dismiss titan-touched abilities as coincidence or delusion
-- **Ranger Respect:** Rangers recognize and value these abilities, even if they don't understand them
-- **Religious Significance:** Titan Speakers often display these phenomena, reinforcing their spiritual authority
-- **Scientific Denial:** Academics and intellectuals actively debunk claims of supernatural abilities
-
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
+## Gameplay tips for Titan-Touched characters
 
 ### Power Manifestations by Titan Type
 
@@ -6197,12 +6239,13 @@ What passes for magic comes from direct encounters with the giants:
 - Enhanced understanding of natural systems and ecology
 - Ability to sense disturbances in the forest's balance
 
+\columnbreak
+
 **Sample Powers:**
 - **Weather Sense:** Predict weather changes and natural disasters
 - **Forest Speech:** Limited communication with non-sapient forest creatures
 - **Seasonal Wisdom:** Enhanced knowledge of natural cycles and timing
 
-\columnbreak
 
 ### Using Magic in Campaigns
 
@@ -6470,13 +6513,16 @@ At character creation, players must choose:
 - **Allied (+3):** Full community support and resources, access to agricultural innovations, participation in consensus decision-making, protection during crises. Can request community-wide assistance.
 - **Friendly (+2):** Preferred access to honey and agricultural products, invitations to community gatherings, assistance with family matters, access to traditional knowledge.
 - **Neutral (0):** Standard market prices and community interactions.
-- **Unfriendly (-2):** Higher prices for agricultural goods, exclusion from community events, difficulty accessing traditional services, social isolation.
-- **Hostile (-3):** Complete social ostracism, denial of essential services, active interference with agricultural needs, potential exile from community areas.
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
+
+- **Unfriendly (-2):** Higher prices for agricultural goods, exclusion from community events, difficulty accessing traditional services, social isolation.
+- **Hostile (-3):** Complete social ostracism, denial of essential services, active interference with agricultural needs, potential exile from community areas.
+
+
 
 **Lin's Brook - Guild Confederation**
 - **Allied (+3):** Master craftsman status and privileges, access to guild secrets and techniques, priority for construction projects, protection of trade interests. Can mobilize guild resources.
@@ -6500,6 +6546,8 @@ At character creation, players must choose:
 - **Neutral (0):** Standard protection racket payments and criminal interactions.
 - **Unfriendly (-2):** Increased protection payments, harassment from family associates, difficulty accessing illegal goods, potential targeting for "examples."
 - **Hostile (-3):** Active targeting for violence, complete exclusion from criminal services, sabotage of legitimate business, potential assassination attempts.
+
+\columnbreak
 
 **The Whisker Family - Modern Rackets**
 - **Allied (+3):** Partnership in criminal enterprises, access to advanced criminal techniques, protection from law enforcement, share in family profits. Can request major criminal operations.
@@ -6710,8 +6758,6 @@ Food in The Great Burrow is culture, politics, economics, and identity all rolle
 - **Branch-Smoked Nuts:** Nuts smoked with specific woods for distinct flavors
 - **Height Celebration Feast:** Elaborate meal served at different canopy levels
 
-\columnbreak
-
 ### Beaver Cuisine *(Hearty & Practical)*
 **Philosophy:** "Fuel for work" - substantial, nutritious meals providing energy for physical labor
 
@@ -6738,6 +6784,11 @@ Acorns serve as both primary currency and staple food. The 47 traditional prepar
 
 </div>
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ## Food Politics & Economics
 
 ### Honey Monopolies *(The Hives)*
@@ -6762,17 +6813,17 @@ The marvel of mole engineering, this subway system connects all five burrows thr
 
 ### Main Lines
 
-**Red Line: Mousehattan � The Branchx**
+**Red Line: Mousehattan <-> The Branchx**
 - Travel Time: 15 minutes express, 25 minutes local
 - Frequency: Every 5 minutes during peak hours
 - Challenges: Root interference, seasonal flooding
 
-**Blue Line: Mousehattan � Lin's Brook**
+**Blue Line: Mousehattan <-> Lin's Brook**
 - Travel Time: 20 minutes express, 35 minutes local
 - Frequency: Every 8 minutes during peak hours
 - Challenges: Water seepage, tidal variations
 
-**Green Line: Mousehattan � The Hives**
+**Green Line: Mousehattan <-> The Hives**
 - Travel Time: 20 minutes express, 35 minutes local
 - Frequency: Every 8 minutes during peak hours
 - Challenges: Heavy caravan traffic, diverse passenger needs
@@ -6796,7 +6847,10 @@ The marvel of mole engineering, this subway system connects all five burrows thr
 - **Features:** Multi-cultural markets, caravan coordination center
 - **Special:** Multi-lingual signage, cargo handling facilities
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Engineering Marvels
 
@@ -6813,6 +6867,8 @@ The marvel of mole engineering, this subway system connects all five burrows thr
 - **Predator Infiltration:** Keeping dangerous creatures out
 
 ### Rolling Stock and Operations
+
+\columnbreak
 
 #### Train Types
 - **Express Cars:** Streamlined for speed, limited stops
@@ -6841,152 +6897,6 @@ The system operates 18 hours a day, with reduced service during mole hibernation
 
 \pagebreakNum
 
-# Crime and Order
-
-## The Rat Syndicate *(Primary Organized Crime)*
-- **The Longtail Family:** Controls waterfront smuggling
-- **The Whisker Brotherhood:** Runs protection rackets
-- **The Gray Coats:** Newest family, challenging old territories
-
-\columnbreak
-
-## Crime Culture
-- **"The Family Provides":** Code ensuring protection for those who pay
-- **Tail Cutting:** Ultimate punishment for betrayal
-- **The Bite:** Protection money paid monthly
-- **Tunnel Wars:** Territorial disputes resolved underground
-
-## The Underground Economy
-- "Insurance" payments are a way of life
-- Gambling and illegal seed trade
-- Information brokerage through weasel networks
-- Black market goods moving through hidden channels
-
-# Daily Life
-
-## Work Culture
-- Dawn to past dusk standard for financial sector
-- The Acorn Bell signals market open and close
-- Whisker Break: Traditional mid-morning grooming/networking
-- Complex social hierarchies based on address level
-
-<div class='note'>
-
-#### <u>Work as Story Driver</u>
-
-Jobs aren't just background:
-- **Workplace rivalries** create personal stakes
-- **Professional skills** solve unexpected problems
-- **Industry knowledge** reveals hidden connections
-- **Economic pressure** forces moral compromises
-
-Give each PC's profession at least one spotlight moment per session.
-
-</div>
-
-## Dealing with Giants
-- Monthly evacuation drills for titan encounters
-- The Hush: Children trained to freeze when warning bells ring
-- Offering stations maintained to divert giant attention
-- "Giant Insurance" is major business, often crime-family run
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# Adventure Themes and Hooks
-
-<div class='note'>
-
-#### <u>Matching Themes to Players</u>
-
-Different groups want different experiences:
-- **Social players**: Political intrigue, crime family drama
-- **Action players**: Predator encounters, gang warfare
-- **Problem solvers**: Environmental crises, infrastructure disasters
-- **Explorers**: External relations, lost districts
-
-Start with one theme and weave in others as the campaign develops.
-
-</div>
-
-## Urban Survival
-Focus on daily challenges of city life, economic pressures, and community building. Adventures involve housing crises, job disputes, and neighborhood problems.
-
-### Sample Adventures
-- **The Rent Crisis:** Gentrification threatens to displace a traditional neighborhood
-- **Union Strike:** Workers organize against exploitative bosses
-- **The Newcomers:** Immigrant community faces discrimination and adaptation challenges
-- **Predator in the Pipes:** Dangerous creature infiltrates the Underground system
-
-## Political Intrigue
-Emphasize burrow politics, species relationships, and power struggles. Adventures involve elections, policy debates, and factional conflicts.
-
-### Sample Adventures
-- **The Disputed Election:** Allegations of voting fraud in Branchx union elections
-- **Underground Railroad:** Helping creatures escape crime family debts
-- **The Titan Response Debate:** Political fight over defense spending priorities
-- **Diplomatic Crisis:** Trade dispute threatens inter-burrow relationships
-
-## Environmental Crisis
-Highlight titan threats, predator encounters, and natural disasters. Adventures involve evacuation procedures, infrastructure protection, and survival challenges.
-
-### Sample Adventures
-- **The Approaching Giant:** Deer heading toward the city during harvest season
-- **The Great Flood Returns:** Spring flooding threatens infrastructure
-- **Predator Pack:** Coordinated snake attacks in the canopy
-- **The Lost Rangers:** Rescue mission into titan territory
-
-## Social Justice
-Explore inequality, workers' rights, and community organizing. Adventures involve union organizing, fighting gentrification, and protecting vulnerable creatures.
-
-### Sample Adventures
-- **The Whistleblower:** Exposing corruption in city government
-- **Strike Breakers:** Crime families interfering with labor organizing
-- **The Housing Fight:** Community resisting luxury development
-- **Equal Access:** Ensuring transportation serves all neighborhoods
-
-\columnbreak
-
-## Crime and Family Business
-Navigate the complex world of organized crime, family loyalty, and moral choices in the shadows of the city.
-
-### Sample Adventures
-- **Family War:** Conflict between Longtail and Gray Coats families
-- **The Inside Job:** Someone's skimming from protection money
-- **Going Legitimate:** Crime family member trying to escape "the life"
-- **The Double Agent:** Weasel selling information to multiple families
-
-<div class='example'>
-
-##### Adventure Hook: The Missing Messenger
-**Setup:** A chipmunk courier carrying important documents between burrows has disappeared. The package contained contracts for a major construction project that could reshape the city's infrastructure.
-
-**Complications:** 
-- Multiple crime families want the contracts
-- Union organizers suspect corporate sabotage  
-- The courier's family fears the worst
-- Titans have been spotted near the usual delivery routes
-
-**Resolution:** Characters must investigate the disappearance, navigate criminal and political interests, and either rescue the courier or recover the documents - all while dealing with the dangerous forces that may have caused the disappearance.
-
-</div>
-
-<div class='note'>
-
-#### <u>Campaign Themes</u>
-
-The Great Burrow works best when adventures connect to the larger themes of urban life, cooperation vs. competition, and the daily heroism of small creatures building something larger than themselves.
-
-Characters should feel like they're part of a living city where their actions matter and where every adventure contributes to the ongoing story of creatures trying to build civilization in a dangerous world.
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 ## Burrow-Specific Adventures
 
@@ -7150,17 +7060,11 @@ This vulnerability breeds both caution and audacity - creatures who build subway
 
 </div>
 
-<div class='note wide'>
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
-#### <u>Managing the Five Burrows</u>
+\pagebreakNum
 
-Each burrow has its own personality, challenges, and opportunities. Don't try to develop all five equally in every campaign - focus on 2-3 burrows that interest your players most, while keeping the others as background elements that occasionally influence events.
-
-**Mousehattan** works for corporate intrigue and crime family drama. **The Branchx** suits working-class heroes and union stories. **The Hives** excels at community cooperation and cultural exchange. **Lin's Brook** provides infrastructure challenges and practical problem-solving. **Scurry Island** offers frontier adventure and military action.
-
-Let the players' backgrounds and interests guide which burrows become central to your campaign.
-
-</div>
 
 <div class='example'>
 
@@ -7175,10 +7079,19 @@ These details make The Great Burrow feel like a real place where real creatures 
 
 </div>
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
 
-\pagebreakNum
+<div class='note wide'>
+
+#### <u>Managing the Five Burrows</u>
+
+Each burrow has its own personality, challenges, and opportunities. Don't try to develop all five equally in every campaign - focus on 2-3 burrows that interest your players most, while keeping the others as background elements that occasionally influence events.
+
+**Mousehattan** works for corporate intrigue and crime family drama. **The Branchx** suits working-class heroes and union stories. **The Hives** excels at community cooperation and cultural exchange. **Lin's Brook** provides infrastructure challenges and practical problem-solving. **Scurry Island** offers frontier adventure and military action.
+
+Let the players' backgrounds and interests guide which burrows become central to your campaign.
+
+</div>
+
 
 <div class="note wide">
 
@@ -7206,6 +7119,11 @@ These details make The Great Burrow feel like a real place where real creatures 
 - **Shadow Runners:** Scurry Island — Black market, information — Survival, pragmatic
 
 </div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ##### Adventure Complications
 
@@ -7236,117 +7154,6 @@ From "A Newcomer's Guide to The Great Burrow" by Scholar Brightwhisker
 </div>
 
 Welcome to The Great Burrow - where every dawn brings opportunity and danger in equal measure, where your burrow shapes your identity but doesn't define your destiny, and where small creatures with enormous dreams prove every day that size isn't what matters - it's what you build together.
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# Quick Reference Tables
-
-## Common Sayings by Burrow
-
-### Mousehattan
-- "If you can make it here, you can make it anywhere"
-- "Every acorn has two sides"
-- "The oak remembers"
-- "Connected from root to crown" (having protection)
-- "The family provides" (mafia-related)
-
-### The Branchx
-- "High branch, warm winter" (elevation equals security)
-- "Every bridge sways" (nothing is certain)
-- "Nuts before glory" (practical priorities)
-- "The hawk's shadow" (constant danger)
-- "Splinters build character" (hard work virtue)
-
-### The Hives
-- "Every creature finds their place in the swarm"
-- "Many burrows, one community" (unity in diversity)
-- "Sweet as cooperation" (highest compliment)
-- "Different flowers, same garden" (diversity creating beauty)
-
-### Lin's Brook
-- "Still water, strong dam" (patience and solid work)
-- "Every tide turns" (situations change)
-- "Swim with the current, build against it"
-- "Wet fur, warm heart" (hard workers are good)
-- "Splinters before whiskers" (work comes first)
-
-### Scurry Island
-- "Play dead 'til you're ready" (strategic patience)
-- "Every ferry's the last" (appreciate what comes)
-- "Rangers lead, shadows follow" (respect and secrecy)
-- "West is death, east is debt" (trapped between dangers)
-
-\columnbreak
-
-## Acorn Economy Price Guide
-
-### Basic Currency
-- **1 Acorn Cap:** Small daily purchase (newspaper, snack)
-- **1 Whole Acorn:** Meal at modest restaurant
-- **5 Acorns:** Day's wages for unskilled labor
-- **10 Acorns:** Week's groceries for single creature
-- **50 Acorns:** Month's rent in working-class neighborhood
-- **100 Acorns:** Quality winter coat
-- **500 Acorns:** Small nest/burrow down payment
-- **1,000 Acorns:** Modest family home
-- **5,000+ Acorns:** Prime territory rights
-
-### Seasonal Price Fluctuations
-- **Spring:** Prices 20% higher (winter stores depleted)
-- **Summer:** Stable prices, luxury goods available
-- **Autumn:** Harvest season, prices drop 30%
-- **Winter:** Essential goods 50% higher, luxury scarce
-
-<div class='note wide'>
-
-#### <u>Random Encounters by Burrow</u>
-
-##### Mousehattan (d12)
-1. Crime family "tax collector"
-2. Acorn Exchange insider information
-3. Lost tourist needs directions
-4. Street performer entertaining crowd
-5. Pickpocket attempts theft
-6. Wealthy mouse drops valuable item
-7. Underground newspaper vendor
-8. Firefly maintenance overhead
-9. Business argument spills public
-10. Misdirected courier message
-11. Giant warning evacuation drill
-12. Crime family war erupts
-
-##### The Branchx (d12)
-1. Hawk forces creatures to cover
-2. Bridge inspection reveals danger
-3. Union organizer recruiting
-4. Chipmunk courier urgent message
-5. Construction accident blocks route
-6. Crow demands safe passage tribute
-7. Gentrification protesters march
-8. Young squirrel rescue needed
-9. Family feud blocks crossing
-10. Storm damage dangerous conditions
-11. Gang territory markers appear
-12. Predator alarm from watch posts
-
-##### The Hives (d12)
-1. Bee swarm escapes, causes panic
-2. Guinea pig innovation demonstration
-3. Traditional vs. modern farming argument
-4. Beetle workforce strikes
-5. Honey shipment "falls off wagon"
-6. Night market firefly malfunction
-7. Agricultural inspector violations
-8. Inter-species cultural celebration
-9. Shrew commands confuse insects
-10. Free-range advocate vandalism
-11. Rare flower unusual insects
-12. Harvest festival chaos
-
-</div>
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
