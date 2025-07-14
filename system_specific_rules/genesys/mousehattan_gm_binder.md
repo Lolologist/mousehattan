@@ -7486,6 +7486,1209 @@ Catastrophic flooding caused by unusual spring conditions and upstream giant act
 
 \pagebreakNum
 
+# Adversaries
+
+## Minion Groups
+
+### Dock Workers
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">4</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Athletics, Brawl, Mechanics, Resilience
+
+**Abilities:** 
+- **Aquatic (Otters):** Can hold breath for extended periods, swim at full speed
+- **Water Knowledge:** Add <span class='boost'>b</span> to checks involving waterfront or boats
+- **Union Solidarity:** When defending union interests, upgrade ability of social checks once
+
+**Equipment:** Work clothes, loading hooks (Damage +2, Crit 4), cargo nets, improvised clubs (Damage +3)
+
+**Description:** Burly otters and beavers who load and unload cargo at Lin's Brook waterfront. Quick to strike over unfair wages or unsafe conditions.
+
+### Burrow Militia
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">4</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Discipline, Ranged (Light), Vigilance, Melee
+
+**Abilities:**
+- **Citizen Soldiers:** Know their neighborhood, add <span class='boost'>b</span> to Vigilance in home territory
+- **Shield Wall:** When adjacent to allies, gain +1 Defense
+- **Defensive Training:** May use parry/reflect maneuvers
+
+**Equipment:** Leather vest (Soak +1), thorn spear (Damage +3), sling (Damage 4), acorn cap shield (Defense +1)
+
+**Description:** Part-time defenders called up during emergencies. Mixed species volunteers who train weekly but aren't professional soldiers.
+
+\columnbreak
+
+### Tunnel Maintenance Workers
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">5</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Mechanics, Perception, Resilience, Vigilance
+
+**Abilities:**
+- **Tremor Sense:** Add <span class='boost'>b</span><span class='boost'>b</span> to Perception checks based on vibrations
+- **Underground Navigation:** Remove <span class='setback'>b</span><span class='setback'>b</span> from underground Navigation
+- **Tunnel Fighter:** Add <span class='boost'>b</span> to combat checks in confined spaces
+
+**Equipment:** Mining helmets with spike (Damage +1), digging claws (Damage +2, Pierce 1), emergency supplies, tunnel collapse charges
+
+**Description:** Mole work crews maintaining The Great Underground. Control access to tunnels and can make travel very difficult for those who cross them.
+
+### Street Thugs
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">4</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Brawl, Coercion, Skulduggery, Streetwise
+
+**Abilities:**
+- **Pack Tactics:** Add <span class='boost'>b</span> when outnumbering opponents
+- **Street Smart:** Know all escape routes in their territory
+- **Cheap Shot:** First attack each combat gains <span class='boost'>b</span>
+
+**Equipment:** Improvised weapons (Damage +2), ragged clothes, stolen goods
+
+**Description:** Mixed-species muscle for hire found in every burrow's back alleys. Rats, mice, and weasels looking for quick acorns through intimidation.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Guard Patrol
+
+<div class="minion">
+<span class="soak">4</span>
+<span class="wound">5</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Discipline, Perception, Ranged (Light), Vigilance
+
+**Abilities:**
+- **Authority:** Add <span class='boost'>b</span> to social checks when acting officially
+- **Coordinated Response:** Spend maneuver to grant ally <span class='boost'>b</span> on next check
+- **Non-lethal Training:** May choose to deal strain instead of wounds
+
+**Equipment:** Guard uniform (Soak +1), truncheon (Damage +2, Stun Damage), sling (Damage 4), whistle, restraints
+
+**Description:** The burrow watch maintaining order. Mixed species but dominated by larger creatures like badgers, beavers, and skunks.
+
+## Rivals
+
+### Crime Family Lieutenant
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">3</span>
+<span class="wound">14</span>
+<span class="strain">12</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills:** Coercion 2, Cool 2, Deception 2, Negotiation 1, Ranged (Light) 1, Streetwise 3, Vigilance 2
+
+**Talents:**
+- **Nobody's Fool:** Upgrade difficulty of Deception checks targeting this character
+- **Black Market Contacts:** May acquire illegal goods as if rarity was 1 lower
+
+**Abilities:**
+- **Criminal Hierarchy:** Can call in 2-3 Street Thugs as reinforcements
+- **"Make the Hole Bigger":** Rat lieutenants add <span class='boost'>b</span> to Negotiation
+
+**Equipment:** Concealed needle blade (Damage +2, Pierce 1), expensive clothes, throwing knives (Damage 2, Range [Short]), communication device, 50+ acorns
+
+**Description:** Mid-level rat or mouse enforcer who's earned some authority. Manages neighborhood operations and reports to family bosses.
+
+\columnbreak
+
+### Union Representative
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">3</span>
+</div>
+
+<div class="adversary">
+<span class="soak">3</span>
+<span class="wound">13</span>
+<span class="strain">15</span>
+<span class="mdef">1</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills:** Charm 2, Coercion 2, Discipline 2, Knowledge (City) 2, Leadership 3, Negotiation 3
+
+**Talents:**
+- **Inspiring Rhetoric:** May use Leadership to heal strain for allies
+- **Master Negotiator:** Once per session, add <span class='success'>s</span><span class='success'>s</span> to a Negotiation check
+
+**Abilities:**
+- **Strike Authority:** Can shut down construction sites or docks with a word
+- **Working Class Hero:** Add <span class='boost'>b</span><span class='boost'>b</span> to social checks with laborers
+
+**Equipment:** Union badge, megaphone, strike fund access, legal documents
+
+**Description:** Squirrel or beaver who can paralyze whole districts. Champions workers' rights but also guards union power jealously.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Underground Smuggler
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+<div class="adversary">
+<span class="soak">3</span>
+<span class="wound">12</span>
+<span class="strain">13</span>
+<span class="mdef">0</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Cool 2, Coordination 2, Deception 3, Skulduggery 3, Stealth 3, Streetwise 2, Vigilance 2
+
+**Talents:**
+- **Master of Shadows:** Add <span class='boost'>b</span> to Stealth checks, upgrade once in darkness
+- **Black Market Connections:** Knows every fence and illegal dealer
+
+**Abilities:**
+- **Tunnel Rat:** Knows secret routes throughout the city
+- **Play Dead (Opossum):** Once per encounter, may appear dead to end combat
+
+**Equipment:** Concealed compartments, false documents, lockpicks, smoke bombs
+
+**Description:** Opossum or raccoon who knows every illegal route and hidden passage. Can get anything anywhere for the right price.
+
+### Corrupt Bureaucrat
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">3</span>
+<span class="wound">11</span>
+<span class="strain">14</span>
+<span class="mdef">1</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills:** Charm 1, Deception 2, Discipline 2, Knowledge (City) 3, Negotiation 2, Perception 2
+
+**Talents:**
+- **Plausible Deniability:** Upgrade difficulty twice to prove their corruption
+- **Red Tape Master:** Can delay any official process by days or weeks
+
+**Abilities:**
+- **Permit Power:** Controls licenses for business, construction, and travel
+- **"Forms in Triplicate":** Can bury problems in paperwork
+
+**Equipment:** Official stamps, permit books, filing cabinets full of dirt, bribes
+
+**Description:** Groundhog official who controls permits and paperwork. Can make life impossible for those who don't pay "processing fees."
+
+### Ranger Veteran
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">1</span>
+</div>
+
+<div class="adversary">
+<span class="soak">5</span>
+<span class="wound">16</span>
+<span class="strain">14</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 2, Cool 3, Perception 2, Ranged (Heavy) 3, Survival 3, Vigilance 3
+
+**Talents:**
+- **Titan Survivor:** Add <span class='boost'>b</span><span class='boost'>b</span> to all checks against large creatures
+- **Dead Eye:** Ignore 2 points of defense when making ranged attacks
+
+**Abilities:**
+- **Seen Too Much:** Immune to fear from natural creatures
+- **Emergency Reflexes:** Always acts first when titans appear
+
+**Equipment:** Ranger gear (Soak +2), heavy crossbow, titan deterrents, scars
+
+**Description:** Grizzled survivor from Scurry Island. Species varies but often porcupine, skunk, or badger. Drinks too much and trusts too little.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Nemeses
+
+### Cornelius Goldwhisker III
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">2</span>
+<span class="int">4</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">3</span>
+</div>
+
+<div class="adversary">
+<span class="soak">2</span>
+<span class="wound">11</span>
+<span class="strain">18</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Charm 3, Computers 2, Cool 3, Deception 4, Knowledge (City) 3, Leadership 2, Negotiation 4, Streetwise 2
+
+**Talents:**
+- **Master Manipulator:** May use Deception for any social check
+- **Scathing Tirade:** May use Coercion to inflict strain at medium range
+- **Bought and Paid For:** Has dirt on officials across Mousehattan
+
+**Abilities:**
+- **Old Money:** Essentially unlimited financial resources
+- **Market Manipulation:** Can crash commodity prices with calculated trades
+- **Tunnel Sense:** Remove <span class='setback'>b</span> from underground Navigation
+- **Precise Work:** Add <span class='boost'>b</span> to all Mechanics checks
+- **Social Networks:** Extensive contacts among Mousehattan elite
+
+**Equipment:** Bespoke suits, poisoned needle cane (Damage 3, Pierce 2, Poison), private security, documents that could ruin anyone
+
+**Background:** Third-generation banking dynasty heir who views the acorn market as his personal playground. Destroyed three family fortunes last quarter "for the mathematics of it."
+
+**Personality:** Cultured sociopath who speaks in precise, archaic mouse diction. Never raises voice but every word cuts. Collects rare seeds and ruined rivals.
+
+**Motivation:** Prove the superiority of old mouse families by controlling the entire city's economy. Views other species as "necessary but regrettable."
+
+\columnbreak
+
+### "Big Mack" Gnawbone
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">4</span>
+<span class="wil">3</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">18</span>
+<span class="strain">15</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Brawl 3, Coercion 4, Cool 3, Leadership 3, Negotiation 2, Ranged (Light) 2, Streetwise 4, Vigilance 3
+
+**Talents:**
+- **Intimidating 3:** Add <span class='setback'>b</span><span class='setback'>b</span><span class='setback'>b</span> to all social checks against him
+- **Lethal Blows:** Add +10 to Critical Injury rolls
+- **Nobody's Fool:** Upgrade difficulty of social checks against him twice
+
+**Abilities:**
+- **Criminal Empire:** Commands 50+ criminals across three burrows
+- **"Swimming, Not Sinking":** Once per session, turn a failure into success
+- **Adaptable:** Once per session, add <span class='boost'>b</span> to any check
+- **Network Builder:** Reduce Streetwise difficulty by 1
+- **Survivor's Instinct:** Add <span class='boost'>b</span> to Vigilance and Cool
+
+**Equipment:** Armored vest hidden under expensive suit, twin needle swords (Damage +3, Pierce 1), throwing knives, legitimate business fronts, army of lawyers
+
+**Background:** Rose from Scurry Island's fighting pits to control most illegal trade. Now "going legitimate" by muscling into Mousehattan business.
+
+**Personality:** Loud, gregarious rat who genuinely believes he's helping everyone "make their holes bigger." Generous to allies, ruthless to enemies.
+
+**Motivation:** Build a criminal empire that's "too big to fail." Wants respect more than money - to show old money mice that rats run this city now.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Commissioner Flintfur
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">1</span>
+<span class="int">3</span>
+<span class="cun">2</span>
+<span class="wil">4</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">6</span>
+<span class="wound">20</span>
+<span class="strain">18</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 2, Brawl 3, Cool 3, Discipline 4, Knowledge (City) 4, Leadership 4, Perception 3, Vigilance 3
+
+**Talents:**
+- **Inspiring Presence:** Allies within short range add <span class='boost'>b</span> to fear checks
+- **Defensive Stance:** May take strain to add <span class='setback'>b</span> to incoming attacks
+- **Ancient Wisdom:** May use Knowledge instead of social skills when invoking tradition
+
+**Abilities:**
+- **Territorial Knowledge:** Add <span class='boost'>b</span><span class='boost'>b</span> to all checks in his jurisdiction
+- **Protective Instinct:** Once per round, may suffer 2 strain to add <span class='setback'>b</span><span class='setback'>b</span> to attacks against nearby ally
+- **Ancient Rights:** Knows pre-city laws and uses them to protect citizens
+- **"The Burrow Remembers":** Has perfect memory for crimes and kindnesses
+
+**Equipment:** Police commissioner uniform (Soak +2), ceremonial staff of office (Damage +3, Defensive 1), badge, historical legal documents
+
+**Background:** Badger whose family has protected this land since before the city. Uses ancient laws and modern policing to safeguard all citizens equally.
+
+**Personality:** Gruff but fair, speaks in old-fashioned terms. Believes in duty, honor, and that the law exists to protect the weak from the strong.
+
+**Motivation:** Protect every citizen of The Great Burrow, using both ancient wisdom and modern law. Sees himself as guardian of all who live here.
+
+\columnbreak
+
+### The Nightwarden
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">3</span>
+<span class="int">3</span>
+<span class="cun">4</span>
+<span class="wil">2</span>
+<span class="pre">3</span>
+</div>
+
+<div class="adversary">
+<span class="soak">3</span>
+<span class="wound">13</span>
+<span class="strain">17</span>
+<span class="mdef">2</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Charm 3, Cool 3, Deception 4, Knowledge (Forbidden) 4, Leadership 2, Stealth 3, Vigilance 2
+
+**Talents:**
+- **Forbidden Knowledge:** Knows weaknesses of all predator species
+- **Silver Tongue:** May use Charm in place of any social skill
+- **Shadow Step:** May spend 2 strain to move anywhere within short range unseen
+
+**Abilities:**
+- **Predator Pacts:** Has agreements with certain hawks and owls
+- **Information Network:** Knows secrets about everyone important
+- **Serpentine Movement:** Add <span class='boost'>b</span><span class='boost'>b</span> to Stealth in tight spaces
+- **"Pop Goes the Weasel":** Once per encounter, appear where least expected
+
+**Equipment:** Hooded cloak, ritual items, coded journal, hawk feather talisman, poison vials
+
+**Background:** Ferret who discovered how to communicate with predators. Trades information about the city's weak points for personal power and protection.
+
+**Personality:** Smooth and charming, speaks in riddles and half-truths. Genuinely fascinated by predators, viewing them as pure beings compared to "corrupted" civilized creatures.
+
+**Motivation:** Transform society by teaching that predators are divine judges, not monsters. Believes being eaten is transcendent for the worthy.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Captain Ripjaw
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">4</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">3</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">15</span>
+<span class="strain">14</span>
+<span class="mdef">1</span>
+<span class="rdef">2</span>
+</div>
+
+**Skills:** Athletics 3, Coercion 2, Cool 3, Coordination 3, Leadership 3, Ranged (Light) 3, Vehicles 4
+
+**Talents:**
+- **Master Pilot:** Remove <span class='setback'>b</span><span class='setback'>b</span> from Vehicle checks
+- **Quick Strike:** Gain +1 Initiative and add <span class='boost'>b</span> to first combat check
+- **Inspiring Leader:** Allies gain <span class='boost'>b</span> to fear checks
+
+**Abilities:**
+- **Aquatic Excellence:** Add <span class='boost'>b</span><span class='boost'>b</span> to swimming, hold breath extended
+- **Playful Competitor:** Add <span class='boost'>b</span> to Cool during social stress
+- **Pirate Fleet:** Commands 3 fast boats and 20+ otter pirates
+- **"Ride the Current":** Knows every water route and hidden cove
+
+\columnbreak
+
+**Equipment:** Waterproof crossbow (Damage 5, Range [Medium]), grappling hooks, fishing spears (Damage 4), stolen ferry, treasure maps
+
+**Background:** Otter who turned from legitimate ferry captain to pirate queen. Controls illegal water routes between burrows, smuggling creatures and contraband.
+
+**Personality:** Flamboyant and playful but utterly ruthless. Speaks in nautical metaphors and treats piracy as the ultimate game. Never breaks a deal made "on the water."
+
+**Motivation:** Prove that the waterways belong to those brave enough to take them. Building a floating free city beyond any burrow's law.
+
+# Natural Predators
+
+## Predator Rivals
+
+### Crow Gangster
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">15</span>
+<span class="strain">12</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 2, Brawl 2, Cool 2, Deception 2, Perception 3, Streetwise 2, Vigilance 3
+
+**Talents:**
+- **Aerial Superiority:** Ignore terrain, may engage ground targets at medium range
+
+**Abilities:**
+- **Corvid Intelligence:** Can use simple tools and solve problems
+- **Shiny Obsession:** Must make Discipline check to resist stealing shiny objects
+
+\columnbreak
+- **Wing Buffet:** May knock down smaller creatures as incidental
+- **"Protection" Racket:** Offers safety from other birds for regular payments
+
+**Equipment:** Natural weapons (Beak: Damage 4, Talons: Damage 3), stolen goods
+
+**Description:** Smart enough to negotiate but still fundamentally predatory. Run protection rackets in The Branchx, demanding food for "safety."
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Weasel Hunter
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">4</span>
+<span class="int">1</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+<div class="adversary">
+<span class="soak">3</span>
+<span class="wound">13</span>
+<span class="strain">10</span>
+<span class="mdef">0</span>
+<span class="rdef">2</span>
+</div>
+
+**Skills:** Athletics 3, Brawl 3, Coordination 3, Perception 2, Stealth 4, Survival 2, Vigilance 2
+
+**Talents:**
+- **Hunter's Instinct:** Always acts first when ambushing prey
+- **Pursuit Predator:** May take additional maneuver when chasing
+
+**Abilities:**
+- **War Dance:** Confuses prey, inflicting <span class='setback'>b</span><span class='setback'>b</span> on their actions
+- **Flexible Hunter:** Can squeeze through any space head fits through
+- **Blood Frenzy:** After first kill, upgrades all Brawl checks
+
+**Equipment:** Natural weapons (Bite: Damage 4, Crit 3, Vicious 1)
+
+**Description:** Non-sapient relative of civilized weasels. Hypnotizes prey with dancing before striking. Kills for sport, not just hunger.
+
+\columnbreak
+
+### Feral Cat
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">4</span>
+<span class="int">1</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">0</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">16</span>
+<span class="strain">8</span>
+<span class="mdef">0</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 3, Brawl 3, Coordination 4, Perception 3, Stealth 3, Vigilance 3
+
+**Talents:**
+- **Pounce:** First attack from hiding knocks target prone
+- **Nine Lives:** Once per encounter, ignore a Critical Injury
+
+**Abilities:**
+- **Perfect Balance:** Never suffers from fall damage, always lands ready
+- **Toy With Prey:** May choose to inflict strain instead of wounds
+- **Silent Stalker:** Upgrade difficulty of detecting this predator twice
+
+**Equipment:** Natural weapons (Claws: Damage 3, Bite: Damage 4, Crit 3)
+
+**Description:** Abandoned house cat gone feral. Plays with prey before killing. Sometimes can be distracted or bribed with offerings.
+
+## Predator Nemeses
+
+### Garter Snake
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">3</span>
+<span class="int">1</span>
+<span class="cun">4</span>
+<span class="wil">3</span>
+<span class="pre">0</span>
+</div>
+
+<div class="adversary">
+<span class="soak">5</span>
+<span class="wound">20</span>
+<span class="strain">12</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 3, Brawl 4, Cool 3, Coordination 3, Perception 3, Stealth 4, Survival 3, Vigilance 2
+
+**Talents:**
+- **Adversary 2:** Upgrade difficulty of all combat checks twice
+- **Constrictor:** May grapple as incidental after successful bite
+
+**Abilities:**
+- **Swallow Whole:** May attempt to swallow grappled prey size 2 or smaller
+- **Cold Blooded:** Sluggish in cold (downgrade all checks), hyperactive in heat
+- **Hypnotic Gaze:** Force opposed Cool vs. Discipline or target loses turn
+- **Camouflage:** Add <span class='setback'>b</span><span class='setback'>b</span> to spot when motionless
+
+**Equipment:** Natural weapons (Bite: Damage 5, Crit 3, Ensnare)
+
+**Description:** Seasonal terror in canopy neighborhoods. Can swallow creatures whole. Sometimes negotiates for easier meals but fundamentally alien in thinking.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Great Horned Owl
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">4</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">3</span>
+<span class="pre">1</span>
+</div>
+
+<div class="adversary">
+<span class="soak">5</span>
+<span class="wound">22</span>
+<span class="strain">14</span>
+<span class="mdef">1</span>
+<span class="rdef">2</span>
+</div>
+
+**Skills:** Athletics 3, Brawl 4, Cool 4, Coordination 3, Perception 4, Stealth 5, Survival 3, Vigilance 4
+
+**Talents:**
+- **Adversary 3:** Upgrade difficulty of all combat checks three times
+- **Lethal Blows 2:** Add +20 to Critical Injury rolls
+- **Silent Death:** No sound when flying or attacking
+
+**Abilities:**
+- **Night Vision:** Remove all <span class='setback'>b</span> from darkness
+- **Death From Above:** First attack auto-crits if target unaware
+- **Crushing Talons:** Natural weapons (Damage 6, Crit 2, Pierce 2)
+- **360° Vision:** Cannot be flanked or surprised
+- **Carry Off:** May grab and fly away with prey up to size 3
+
+**Equipment:** Natural weapons (Talons: Damage 6, Beak: Damage 5)
+
+**Description:** The silent death. Ranger's greatest fear. Can strike without warning and carry off full-grown creatures. No negotiation possible.
+
+\columnbreak
+
+### Red-Tailed Hawk
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">5</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">1</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">18</span>
+<span class="strain">12</span>
+<span class="mdef">1</span>
+<span class="rdef">3</span>
+</div>
+
+**Skills:** Athletics 4, Brawl 3, Cool 3, Coordination 4, Perception 5, Ranged (Natural) 3, Survival 3, Vigilance 4
+
+**Talents:**
+- **Adversary 2:** Upgrade difficulty of all combat checks twice
+- **Eagle Eye:** May make Perception checks at Extreme range
+- **Dive Attack:** Double damage when attacking from height
+
+**Abilities:**
+- **Keen Sight:** Remove up to <span class='setback'>b</span><span class='setback'>b</span><span class='setback'>b</span> from visual Perception
+- **Territorial Screech:** All within Medium range must make Hard Fear check
+- **Wing Strike:** May attack all engaged targets with one check
+- **Daylight Hunter:** Add <span class='boost'>b</span><span class='boost'>b</span> to all checks in bright light
+
+**Equipment:** Natural weapons (Talons: Damage 5, Crit 2, Vicious 1)
+
+**Description:** Daytime terror controlling open areas. Hunts from perches, diving at incredible speed. Territorial and aggressive during nesting season.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Insects and Companions
+
+## Combat Insect Minions
+
+### Soldier Ants
+
+<div class="minion">
+<span class="soak">2</span>
+<span class="wound">3</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Brawl, Discipline, Resilience, Vigilance
+
+**Abilities:**
+- **Swarm Tactics:** Add <span class='boost'>b</span> per ant beyond first to Brawl checks
+- **Mandible Lock:** Natural weapon (Damage 2, Crit 5, Immobilize on crit)
+- **Pheromone Rage:** When one dies, others gain <span class='boost'>b</span> to attacks
+
+**Equipment:** Natural armor and mandibles
+
+**Description:** Bred for war. Form living walls and coordinated assault waves. Absolutely loyal to handlers but require constant pheromone control.
+
+### Bombardier Beetles
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">4</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Cool, Gunnery, Perception, Vigilance
+
+**Abilities:**
+- **Chemical Spray:** Natural weapon (Damage 3, Range [Short], Blast 2, Burn 1)
+- **Armored Shell:** Natural soak, reduce Pierce by 1
+- **Living Artillery:** May brace for +1 damage but cannot move
+
+**Equipment:** Natural armor, chemical glands
+
+**Description:** Living artillery platforms. Can spray boiling chemicals in defensive arcs. Used as mobile weapon emplacements by military forces.
+
+### Guard Wasps
+
+<div class="minion">
+<span class="soak">2</span>
+<span class="wound">3</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Brawl, Cool, Perception, Vigilance
+
+**Abilities:**
+- **Aggressive:** Add <span class='boost'>b</span> to Initiative checks
+- **Stinger:** Natural weapon (Damage 2, Crit 4, Pierce 1, single use then dies)
+- **Alarm Pheromone:** When one attacks, all nearby wasps join
+
+**Equipment:** None
+
+**Description:** Territorial and aggressive, used for perimeter defense. Must be carefully managed by handlers or they attack indiscriminately.
+
+## Insect Rivals
+
+### Giant Stag Beetle
+
+<div class="archetype">
+<span class="bra">4</span>
+<span class="agi">1</span>
+<span class="int">0</span>
+<span class="cun">1</span>
+<span class="wil">2</span>
+<span class="pre">0</span>
+</div>
+
+<div class="adversary">
+<span class="soak">5</span>
+<span class="wound">16</span>
+<span class="strain">8</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills:** Athletics 2, Brawl 3, Cool 1, Resilience 3, Vigilance 1
+
+\columnbreak
+
+**Talents:**
+- **Adversary 1:** Upgrade difficulty of all combat checks against this target once
+
+**Abilities:**
+- **Massive Horns:** Natural weapon (Damage 5, Crit 3, Knockdown)
+- **Armored:** Reduce all incoming damage by 1
+- **Territorial:** Add <span class='boost'>b</span><span class='boost'>b</span> when defending territory
+
+**Description:** Used as heavy labor and sometimes war mounts. Extremely strong but difficult to control. Males fight each other during mating season.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Master Weaver Spider
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">4</span>
+<span class="int">1</span>
+<span class="cun">3</span>
+<span class="wil">1</span>
+<span class="pre">0</span>
+</div>
+
+<div class="adversary">
+<span class="soak">2</span>
+<span class="wound">10</span>
+<span class="strain">8</span>
+<span class="mdef">0</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 3, Coordination 4, Perception 3, Stealth 3, Vigilance 2
+
+**Talents:**
+- **Ambush:** Add <span class='boost'>b</span><span class='boost'>b</span> to first attack from hiding
+
+**Abilities:**
+- **Web Spinner:** Can create Strong silk rope (Ensnare 3) as an action
+- **Wall Crawler:** Ignores difficult terrain on vertical surfaces
+- **Patient Hunter:** Can remain motionless for hours
+
+**Equipment:** None (Bite: Damage 2, Crit 3, Pierce 1, may add Poison)
+
+**Description:** Intelligent enough to follow complex commands. Used for silk production, rope making, and security systems. Some develop preferences for certain handlers.
+
+\columnbreak
+
+### Hercules Beetle
+
+<div class="archetype">
+<span class="bra">5</span>
+<span class="agi">1</span>
+<span class="int">0</span>
+<span class="cun">1</span>
+<span class="wil">3</span>
+<span class="pre">0</span>
+</div>
+
+<div class="adversary">
+<span class="soak">6</span>
+<span class="wound">20</span>
+<span class="strain">10</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills:** Athletics 3, Brawl 2, Resilience 4, Vigilance 1
+
+**Talents:**
+- **Unstoppable:** Ignore difficult terrain when charging
+- **Durable:** +5 Wound Threshold
+
+**Abilities:**
+- **Incredible Strength:** Can lift 100x body weight
+- **Living Ram:** Can break through wooden barriers
+- **Slow but Steady:** Maximum speed is Short range
+
+**Equipment:** Often fitted with cargo harness
+
+**Description:** The ultimate heavy lifters. Used for major construction, pulling cargo sleds, and emergency rescue. Gentle giants that form bonds with regular handlers.
+
+\columnbreak
+
+## Creating Insect Companions
+
+When a character gains an insect companion through talents, backgrounds, or story events, use these guidelines to create a unique partner.
+
+### Base Insect Companion Template
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">2</span>
+<span class="int">0</span>
+<span class="cun">1</span>
+<span class="wil">1</span>
+<span class="pre">0</span>
+</div>
+
+- **Wound Threshold:** 4 + Brawn
+- **Strain Threshold:** 4 + Willpower
+- **Soak:** 1 + Brawn
+- **Defense:** 0/0
+
+### Step 1: Choose Insect Type
+Each type modifies the base template:
+
+**Beetle:** +2 Brawn, +1 Soak, -1 Agility
+
+**Ant:** +1 Willpower, +1 Wound Threshold, Hive Mind ability
+
+\columnbreak
+
+**Wasp/Bee:** +1 Agility, Natural Weapon (Stinger), Fragile (-2 WT)
+
+**Spider:** +2 Cunning, +1 Agility, -1 Brawn, Web ability
+
+**Butterfly/Moth:** +2 Agility, Flight, -1 to all other characteristics
+
+**Cricket/Grasshopper:** +1 Agility, +1 Presence, Leap ability
+
+### Step 2: Apply Size
+**Tiny** (flea, mite): -1 all characteristics, +2 Stealth
+**Small** (normal insects): No modification
+**Large** (palm-sized): +1 Brawn, +1 Wound Threshold
+**Huge** (cat-sized): +2 Brawn, +3 Wound Threshold, -1 Agility
+
+### Step 3: Training Level
+**Wild:** No skills, might disobey
+**Basic:** 1 rank in one skill
+**Trained:** 2 ranks in one skill, 1 rank in another
+**Expert:** 2 ranks in two skills, 1 rank in two others
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Step 4: Special Abilities
+Choose 1-2 based on species:
+- **Aerial Scout:** Flight, enhanced vision
+- **Burrower:** Tunneling speed, tremor sense
+- **Communicator:** Can relay complex messages
+- **Guardian:** +1 Defense, protective instincts
+- **Producer:** Creates useful materials (silk, honey, etc.)
+- **Tracker:** Enhanced smell, never loses handler
+
+### Step 5: Personality Quirks
+Roll or choose:
+1. Loves shiny objects
+2. Jealous of other insects
+3. Perfectionist about tasks
+4. Lazy unless motivated by treats
+5. Overly protective of handler
+6. Curious about everything
+
+### Companion Advancement
+
+Insect companions can grow alongside their handlers:
+
+**Bond Deepening (50 XP):** +1 to any characteristic
+
+**Skill Training (15 XP):** Add 1 rank to any skill
+
+**New Trick (20 XP):** Learn a new ability
+
+**Size Growth (100 XP):** Increase size category (once only)
+
+### Example Companions
+
+**Glimmer** *(Trained Firefly)*
+Modified Template: Brawn 0, Agility 3, Intellect 0, Cunning 1, Willpower 1, Presence 2
+**Skills:** Charm 2, Cool 1
+**Abilities:** Bioluminescence (controllable), Flight, Night Vision
+**Personality:** Shows off light patterns, gets excited around other fireflies
+
+**Hercules Jr.** *(Young Hercules Beetle)*
+Modified Template: Brawn 3, Agility 1, Intellect 0, Cunning 1, Willpower 2, Presence 0
+**Skills:** Athletics 2, Resilience 1
+**Abilities:** Incredible Strength (can lift 50x weight), Loyal
+**Personality:** Gentle, loves sugar water, afraid of birds
+
+**Webster** *(Expert Orb Weaver)*
+Modified Template: Brawn 0, Agility 3, Intellect 0, Cunning 3, Willpower 1, Presence 0
+**Skills:** Coordination 2, Stealth 2, Perception 1, Survival 1
+**Abilities:** Master Web Spinner, Tactical Mind
+**Personality:** Perfectionist about web geometry, dislikes rain
+
+\columnbreak
+
+### Handling Insect Companions in Play
+
+<div class='note'>
+
+#### <u>Insect Companion Guidelines</u>
+
+**Communication:** Insects understand basic commands and emotional states but cannot speak. Handlers develop personal signal systems.
+
+**Loyalty:** Well-treated companions are extremely loyal. Abuse or neglect can cause them to leave or turn hostile.
+
+**Maintenance:** Insects need appropriate food, shelter, and care. Neglect imposes <span class='setback'>b</span> to all companion actions.
+
+**Combat:** Companions act on handler's turn. They won't suicidally attack but will defend their handler.
+
+**Death:** Losing a bonded companion inflicts strain equal to the handler's Willpower. Finding and training replacements takes time.
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Wildlife and Environmental Threats
+
+## Non-Sapient Wildlife (Minions)
+
+### Fish School
+
+<div class="minion">
+<span class="soak">1</span>
+<span class="wound">2</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Athletics, Coordination, Perception, Vigilance
+
+**Abilities:**
+- **Aquatic Only:** Cannot survive out of water
+- **School Movement:** When fleeing, upgrade difficulty to catch
+- **Feeding Frenzy:** When blood in water, gain <span class='boost'>b</span> to attacks
+
+**Equipment:** Natural weapons (Bite: Damage 1)
+
+**Description:** Dangerous in numbers when characters are in water. Minnows and small fish that attack anything bleeding or struggling.
+
+### Frog
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">5</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Athletics, Brawl, Perception, Stealth
+
+**Abilities:**
+- **Tongue Strike:** Can attack at Short range
+- **Sticky Tongue:** Natural weapon (Damage 2, Ensnare 1)
+- **Amphibious:** Equally capable in water and on land
+- **Powerful Leap:** Can move from Short to Long range as maneuver
+
+**Equipment:** Natural weapons (Tongue: Damage 2, Ensnare)
+
+**Description:** Opportunistic predators near water. Will eat anything that fits in their mouth. Sometimes mistaken for terrain features when motionless.
+
+\columnbreak
+
+### Wild Beetles
+
+<div class="minion">
+<span class="soak">4</span>
+<span class="wound">3</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Brawl, Resilience, Vigilance
+
+**Abilities:**
+- **Thick Shell:** Reduce incoming damage by 1
+- **Mindless:** Immune to social checks and fear
+- **Slow:** Can only move to Short range maximum
+
+**Equipment:** Natural armor and mandibles (Damage 2)
+
+**Description:** Non-trained beetles that see everything as food or threat. Found in rotting logs and compost. Different from domesticated messenger beetles.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Smuggler's Cache Additional NPCs
+
+## Finn's Crew (Minions)
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">4</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Athletics, Brawl, Streetwise, Vehicles
+
+**Abilities:**
+- **Aquatic (Otters):** Can hold breath, swim at full speed
+- **Slippery:** Add <span class='boost'>b</span> to escape attempts
+- **Loyalty to Finn:** Will help if they believe it helps their captain
+
+**Equipment:** Work clothes, boat hooks (Damage +2), rope, waterproof pouches
+
+**Description:** Otter smugglers who worked with Finn. Currently laying low but might help or hinder depending on approach. Know water routes and hiding spots.
+
+## Warehouse Scavengers (Minions)
+
+<div class="minion">
+<span class="soak">2</span>
+<span class="wound">3</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (group only):** Perception, Skulduggery, Stealth, Survival
+
+**Abilities:**
+- **Desperate:** Upgrade first attack but flee if wounded
+- **Local Knowledge:** Know every entrance and hiding spot
+- **Scavenger's Eye:** Add <span class='boost'>b</span> to find valuable items
+
+**Equipment:** Improvised weapons (Damage +1), ragged clothes, collected junk
+
+**Description:** Mixed species (mice, rats, opossums) seeking shelter or scavenging. Not organized criminals, just desperate creatures trying to survive gentrification.
+
+## Lin's Brook River Patrol (Rival)
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">13</span>
+<span class="strain">12</span>
+<span class="mdef">0</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 3 (Swimming +2), Discipline 2, Perception 2, Ranged (Light) 2, Vehicles 2, Vigilance 2
+
+**Talents:**
+- **Expert Swimmer:** Remove all <span class='setback'>b</span> from water-based checks
+
+**Abilities:**
+- **Aquatic Excellence:** Add <span class='boost'>b</span><span class='boost'>b</span> to swimming
+- **Water Authority:** Legal jurisdiction over all waterways
+- **Coordinated Patrol:** Work in pairs, can call backup
+
+**Equipment:** Patrol uniform (Soak +1), waterproof crossbow, signal whistle, restraints, patrol boat
+
+**Description:** Elite otter guards specializing in waterfront and river security. Professional and incorruptible, but understand the realities of waterfront life.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 # Index
 
 <div class="wide">
