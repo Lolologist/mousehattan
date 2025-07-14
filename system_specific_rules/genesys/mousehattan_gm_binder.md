@@ -657,6 +657,20 @@ The Great Burrow is a **Modern Urban Fantasy** setting with elements of **Steamp
 
 The giants aren't inherently malevolent - they simply exist at a scale that makes coexistence nearly impossible. The Great Burrow has evolved elaborate warning systems, evacuation protocols, and offering stations to minimize catastrophic encounters.
 
+<div class='note'>
+
+#### <u>Titan Encounter Pacing</u>
+
+Titans should be rare, terrifying events - not regular combat encounters. Use them to:
+- Create dramatic evacuation scenes
+- Force difficult choices (save the kit or the acorn stores?)
+- Drive long-term campaign consequences
+- Show community cooperation under pressure
+
+Roll once per season for titan activity, not once per session. When titans appear, make it memorable.
+
+</div>
+
 ### Natural Predators
 - **Hawks**: Control daytime surface travel, forcing covered routes
 - **Owls**: Silent death in the night shift
@@ -687,6 +701,9 @@ Understanding scale is crucial in The Great Burrow. A house cat would be a kaiju
 
 Yet the creatures of The Great Burrow have built a thriving civilization through cooperation, ingenuity, and sheer audacity. This is a world where being small means thinking big.
 </div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
@@ -792,6 +809,23 @@ Trains are pushed by mole work crews who know every tunnel by vibration. Monthly
 ### Transportation Methods
 Beyond the Underground, creatures navigate via rope bridges (47 major crossings in The Branchx), ferry services (when operational), courier networks, and private options from otter swimming services to rare bat flights. Emergency bark slides provide rapid descent in the canopy, though climbing back up is always harder.
 
+<div class='note'>
+
+#### <u>Travel Time Guidelines</u>
+
+Use these rough estimates for cross-burrow travel:
+- **Underground Express**: 30-45 minutes between burrows
+- **Surface Travel**: 2-3 hours (daylight only, weather permitting)
+- **Courier Speed**: 1 hour for urgent messages
+- **On foot**: Full day journey with predator risks
+
+Always factor in delays: broken trains, predator sightings, weather, and classic NYC-style "track work."
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
 \pagebreakNum
 
 ## Economy & Commerce
@@ -811,6 +845,20 @@ Currency valued by quality and preparation method. The Acorn Exchange trading fl
 - **Dockworkers United:** Lin's Brook waterfront muscle
 - **Courier Collectives:** Chipmunk-dominated message services
 - **The Builders Guild:** Beaver-led but increasingly diverse
+
+<div class='note'>
+
+#### <u>Union Politics in Play</u>
+
+Unions aren't just background - they're active forces:
+- **Strike actions** can shut down entire burrows
+- **Union cards** open doors (or close them)
+- **Scabs** face social ostracization or worse
+- **Union bosses** wield political power rivaling crime families
+
+Players with union connections get <span class='boost'>b</span> to Streetwise in working-class areas but upgrade difficulty when dealing with management.
+
+</div>
 
 ### Economic Status Levels
 - **Destitute:** 0-10 acorns (struggling for basic needs)
@@ -849,6 +897,19 @@ The Council cannot override burrow-specific laws or cultural practices.
 - **Rangers First:** Titan defense and military preparedness above all
 - **The Naturalists:** Environmental protection and sustainable development
 
+<div class='note'>
+
+#### <u>Political Faction Mechanics</u>
+
+Track party reputation with each faction (-5 to +5):
+- **-5 to -3**: Active opposition, may face harassment
+- **-2 to +2**: Neutral, business as usual
+- **+3 to +5**: Allied, gain faction benefits
+
+Actions supporting one faction often oppose another. Let players feel the weight of political choices through NPC reactions and available opportunities.
+
+</div>
+
 \columnbreak
 
 ## Historical Context
@@ -874,6 +935,20 @@ Recent decades brought unprecedented prosperity alongside new challenges:
 - Environmental pressures and increasing titan activity
 - Growing wealth inequality testing cooperative spirit
 - Immigration from distant forest communities
+
+<div class='note'>
+
+#### <u>Using Recent History</u>
+
+The Great Burrow's history provides ready-made NPC motivations:
+- **Species War veterans** still hold grudges
+- **Flood survivors** obsess over infrastructure
+- **Trampling orphans** grew up tough on Scurry Island
+- **Old money families** remember "better times"
+
+Every major NPC should reference at least one historical event that shaped them.
+
+</div>
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -980,6 +1055,20 @@ An informal council where major family representatives meet quarterly to resolve
 - **The Sanctuary** (Scurry Island): Traditional neutral ground
 - **Underground Stations**: Specific platforms with temporary truces
 
+<div class='note'>
+
+#### <u>Running Crime Family Politics</u>
+
+The Commission provides natural story hooks:
+- **Territory disputes** need neutral mediators (the PCs)
+- **Family wars** threaten civilian areas
+- **Commission meetings** are perfect heist/assassination targets
+- **Power vacuums** create violent succession crises
+
+Remember: organized crime provides actual services. When families fight, garbage piles up and predators aren't warned about.
+
+</div>
+
 ## The Criminal Code
 
 ### The Old Laws
@@ -1018,6 +1107,9 @@ An informal council where major family representatives meet quarterly to resolve
 - Leadership: Lucia "The Shadow" Gray
 - Specialties: Tech fraud, identity theft, blackmail
 - Signature: Gray vests marking full members
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
@@ -1186,6 +1278,9 @@ Encourage species-specific solutions to problems!
 - *"Every wall's got a weak spot"* (there's always a way)
 - *"Swim or sink"* (adapted from ship rat heritage)
 - *"The fattest rat gets noticed"* (success makes you a target)
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
@@ -1899,8 +1994,6 @@ Pip is creating a mouse character. She takes the mouse archetype (Brawn 1, Agili
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 \pagebreakNum
 
@@ -2622,9 +2715,9 @@ The creatures of Mousehattan live in constant awareness of the titans that could
 The dominant organized crime structure, built on old-country traditions and new-world ambition.
 
 **Major Families:**
-- **The Longtail Family**: Controls waterfront smuggling and dock unions. Run by Don Silvio "The Distinguised" Longtail.
-- **The Whisker Brotherhood**: Protection rackets and construction. Led by Capo Antonio "Sharp Tooth" Whisker.
-- **The Gray Coats**: Newest family challenging old territories. Young, aggressive, led by Vinnie "The Nose" Graycoat.
+- **The Longtail Family**: Controls waterfront smuggling and dock unions. Run by Don Salvatore Longtail.
+- **The Whisker Brotherhood**: Protection rackets and construction. Led by the Council of Three Brothers.
+- **The Gray Coats**: Newest family challenging old territories. Young, aggressive, led by Lucia "The Shadow" Gray.
 
 **Operations:**
 - **"Insurance"**: Protection money from every business
@@ -2707,7 +2800,7 @@ The city runs on rigid schedules tied to the Acorn Exchange bell.
 - **Councilmouse Penelope Quicktail**: Reform candidate with dangerous ideas
 
 #### The Connected
-- **Don Silvio "The Distinguished" Longtail**: Most powerful crime boss
+- **Don Salvatore Longtail**: Most powerful crime boss
 - **Stella "The Shriek" Weaselton**: Information broker extraordinaire
 - **Fat Tony Cheesewhisker**: Runs the biggest gambling operation
 - **The Ferret Sisters**: Mysterious fixers who "solve problems"
@@ -4249,6 +4342,306 @@ Work follows the tide schedule - high tide for water work, low tide for maintena
 - **The Deep Pools:** Where the biggest fish hide
 - **Forgotten Spillway:** Abandoned dam, now black market hub
 
+## Water-Based Industries & Transportation
+
+### The Fishing Fleet
+Lin's Brook feeds The Great Burrow through its massive fishing operations. Pre-dawn launches see hundreds of bark boats and log rafts heading out, each crew knowing their territory by ancestral right. The catch determines daily prices across all burrows - a poor fishing day means hungry bellies and economic ripples.
+
+- **Boat Types:** From single-otter kayaks to multi-family beaver barges
+- **Territory System:** Enforced by tradition and occasional violence
+- **Processing:** Shore-side cleaning stations operate round the clock
+- **Distribution:** Fast couriers rush fresh fish to other burrows
+
+### Construction & Engineering
+The beavers of Lin's Brook literally built The Great Burrow. Their expertise in water management, structural engineering, and sustainable harvesting makes them indispensable. Every major project needs Lin's Brook workers.
+
+- **The Builders Guild:** Controls all major construction contracts
+- **Apprentice System:** Seven-year training from kit to master
+- **Innovation vs. Tradition:** Young engineers clash with old masters
+- **Export Teams:** Travel to other burrows for specialized projects
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Water Transportation Networks
+The waterways are Lin's Brook's highways. Complex systems of canals, locks, and seasonal routes connect the burrow to the wider world. Control of these routes means power.
+
+- **Ferry Services:** Otter-dominated, fiercely competitive
+- **Cargo Hauling:** Beaver freight companies move bulk goods
+- **The Lock Masters:** Control flow and charge passage fees
+- **Smuggling Routes:** Underwater paths known only to locals
+
+## Social Dynamics & Community Life
+
+### Otter-Beaver Relations
+The two dominant species maintain an uneasy partnership. Beavers build and maintain; otters fish and transport. When they work together, Lin's Brook thrives. When they clash, the entire waterfront suffers.
+
+<div class='note'>
+
+#### <u>Playing Social Tensions</u>
+
+Lin's Brook tensions are about pride and tradition:
+- **Work Ethics:** Beavers value persistence, otters value speed
+- **Territory:** Water rights disputes go back generations
+- **Intermarriage:** Creates both bridges and complications
+- **Young vs. Old:** Traditional ways challenged by new ideas
+
+Use these tensions for roleplay, not combat. A beaver-otter argument over construction methods can reveal character and advance plot without violence.
+
+</div>
+
+### Guild Politics & Labor Pride
+Lin's Brook runs on guild power. The Builders Guild, Dockworkers Union, and Fishercreatures Cooperative wield more influence than any politician. Guild membership determines social standing, marriage prospects, and economic survival.
+
+#### The Builders Guild
+- **Membership:** Primarily beaver, some muskrats, rare others
+- **Ranks:** Apprentice, Journeycreature, Master, Grandmaster
+- **Politics:** Conservative leadership resists new techniques
+- **Power:** Can shut down construction across Great Burrow
+
+#### Dockworkers Union
+- **Membership:** Otter-dominated but increasingly diverse
+- **Organization:** Crew-based with elected representatives
+- **Tactics:** Strategic strikes at peak shipping times
+- **Connections:** Some crews have crime family ties
+
+\columnbreak
+
+#### Fishercreatures Cooperative
+- **Structure:** Democratic profit-sharing collective
+- **Membership:** Open to all who fish, regardless of species
+- **Issues:** Territory disputes and quota arguments
+- **Innovation:** Younger members push sustainable practices
+
+### Working-Class Culture
+Lin's Brook creatures take pride in physical work. Calloused paws are badges of honor. Office workers from Mousehattan are viewed with suspicion - "soft-paws" who don't understand real labor.
+
+#### Values & Traditions
+- **Dawn Work:** "The creek rewards early risers"
+- **Tool Care:** Well-maintained tools reflect character
+- **Apprenticeship:** Learning from masters, not books
+- **Community First:** Neighbors help with lodge-raising
+- **Honest Labor:** Better poor and proud than rich and soft
+
+#### The Gentrification Crisis
+Greenbank's spread threatens traditional Lin's Brook culture. Artisanal shops replace tool stores. Craft breweries push out worker taverns. Weekend tourists photograph "authentic" working creatures like zoo exhibits.
+
+- **Rising Rents:** Working families forced to Downstream
+- **Cultural Tourism:** "Experience real dock life!"
+- **Boutique Products:** $50 acorn "hand-smoked" fish
+- **Resistance:** Vandalism and boycotts increasing
+
+## Notable Personalities
+
+### The Old Guard
+- **Master Builder Cornelius Flatail:** Grandmaster of Builders Guild, opposes all change
+- **Captain Marina Shellcracker:** Runs largest ferry service, knows every current
+- **"Iron Paw" Brutus:** Dockworker boss with crime connections
+- **Grandmother Willow:** Eldest otter, remembers the Great Washing
+
+### The Rising Tide
+- **Cascade Swiftcurrent:** Young otter advocating for sustainable fishing
+- **Engineer Brooke Innovative:** Beaver proposing radical dam improvements
+- **Union Rep Rocky Muskrat:** Fighting for multi-species dock crews
+- **Chef Lillypad:** Frog immigrant revolutionizing fish cuisine
+
+### The Connected
+- **Sal "The Salmon" Silverscale:** Runs north dock protection
+- **The Downstream Boys:** Gang controlling salvage rights
+- **Madame Current:** Information broker working from houseboat
+- **Riptide Smugglers:** Use underwater routes for contraband
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Challenges & Threats
+
+### Environmental Pressures
+Lin's Brook faces mounting ecological challenges that threaten its survival. The water that gives life also brings danger.
+
+#### Water Quality Crisis
+- **Upstream Pollution:** Runoff from distant settlements
+- **The Hives' Pesticides:** Beetle farming chemicals in water
+- **Algae Blooms:** Warm summers create dead zones
+- **Fish Die-Offs:** Increasingly common, cause unknown
+
+#### Climate Disruption
+- **Irregular Flooding:** Traditional patterns failing
+- **Drought Cycles:** Low water threatens mill power
+- **Ice Jam Disasters:** Winter thaws cause catastrophic floods
+- **Species Migration:** New fish species disrupting ecosystem
+
+### Infrastructure Decay
+The Great Dam and its supporting infrastructure are aging. Maintenance costs soar while funding shrinks. Political fights over repairs threaten the entire system.
+
+- **The Great Dam:** Needs complete rebuild within five years
+- **Secondary Dams:** Three near failure, patches insufficient
+- **Underground Flooding:** Subway tunnels regularly submerged
+- **Bridge Network:** Storm damage faster than repairs
+
+### Giant Interactions
+Water attracts giants. Lin's Brook's position along Whisker Creek makes it particularly vulnerable to titan disruptions.
+
+#### Moose Crossings
+Summer brings moose wading through the creek. A single crossing can destroy weeks of construction, kill dozens, and traumatize survivors. The burrow maintains:
+- **Spotting Network:** Upstream watchers with horn signals
+- **Evacuation Routes:** Practice drills save lives
+- **Sacrificial Structures:** Built to break and absorb impact
+- **Counseling Circles:** For survivors of moose events
+
+#### Bear Season
+Salmon runs attract bears. The entire burrow sometimes evacuates for days. Economic disruption is massive, but fighting bears means certain death.
+- **The Bear Bell:** Ancient warning system
+- **High Caches:** Food stored above bear reach
+- **Tribute Piles:** Fish left to distract bears
+- **Prayer Circles:** Asking spirits for bear-free seasons
+
+\columnbreak
+
+<div class='example'>
+
+##### Surviving a Moose Crossing
+
+The morning started like any other at Shellcracker's Dock. Marina was checking ferry schedules when the upstream horns sounded - three long blasts. Moose.
+
+"MOOSE! MOOSE! EVERYBODY TO HIGH GROUND!"
+
+Workers dropped tools and ran for the evacuation slides. Marina stayed to untie the boats - lose the fleet and families starve. The ground shook as the giant approached.
+
+The first wave hit as the moose's hoof entered the creek. Marina dove, grabbed a kit who'd frozen in terror, and swam hard for the safe pools. Behind them, the dock exploded into splinters.
+
+Later, cleaning mud from her fur, Marina surveyed the damage. Three dead, seven missing, dock destroyed. But the boats survived. Tomorrow they'd rebuild. That's what Lin's Brook did.
+
+</div>
+
+## Adventure Hooks
+
+### Working Waterfront Drama
+- **Strike Breaking:** PCs hired to protect scab workers or support union
+- **The Fixed Race:** Investigating slide-racing corruption
+- **Inheritance Dispute:** Ancient water rights create family war
+- **The New Technique:** Revolutionary building method divides guild
+
+### Environmental Mysteries  
+- **The Dying Creek:** Tracing source of upstream poison
+- **Fish Whispers:** Strange behavior suggests something in deep water
+- **The Missing Spawning:** Salmon don't return, economy crashes
+- **Dam Rot:** Mysterious disease eating wooden structures
+
+### Crime & Corruption
+- **Protection War:** Two families claim same territory
+- **The Sunken Treasure:** Rumors of riches in deep pools
+- **Smuggling Ring:** Using guild connections for contraband
+- **The Informant:** Someone's feeding info to authorities
+
+### Giant Encounters
+- **The Early Warning:** Upstream station goes silent
+- **Bear Cult:** Some creatures worship the titans
+- **The Sacrifice:** Someone's luring giants to destroy rivals
+- **Giant Beaver:** Sightings of legendary protector
+
+### Social Conflicts
+- **Gentrification Riot:** Violence erupts in Greenbank
+- **Species Integration:** Push for non-traditional guild members
+- **The Whistleblower:** Exposing guild corruption from inside
+- **Culture Wars:** Traditional festival becomes battleground
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Community Challenges
+- **The Flood Fund:** Money for repairs has vanished
+- **Evacuation Drill Disaster:** Practice becomes real emergency
+- **The Tourist Invasion:** Weekend visitors disrupt crucial work
+- **Youth Exodus:** Young creatures leaving for easier lives
+
+## Relationships with Other Burrows
+
+### Economic Connections
+Lin's Brook's position as infrastructure hub creates complex relationships with other burrows. They build everyone's homes but often feel underappreciated.
+
+#### With Mousehattan
+- **Construction Contracts:** Major source of employment
+- **Resentment:** "We build their towers, they look down on us"
+- **Commuter Workers:** Daily migration for construction jobs
+- **Gentrification Source:** Mousehattan money changing Greenbank
+
+#### With The Branchx
+- **Working Brotherhood:** Shared union organizing
+- **Competitive Bidding:** Both burrows want construction contracts  
+- **Cultural Exchange:** Similar working-class values
+- **Joint Strikes:** Coordination threatens entire city
+
+#### With The Hives
+- **Food Trade:** Fish for honey, mutual dependency
+- **Environmental Tensions:** Pesticide runoff concerns
+- **Immigrant Workers:** Bees and others seeking dock work
+- **Cultural Respect:** Both value hard work and community
+
+#### With Scurry Island
+- **Smuggling Networks:** Underwater routes connect them
+- **Criminal Cooperation:** Families work together
+- **Exile Destination:** Banished creatures flee there
+- **Black Market Hub:** Stolen goods flow both ways
+
+### Cultural Perceptions
+How Lin's Brook sees others:
+- **Mousehattan:** Soft-pawed parasites living off others' work
+- **The Branchx:** Brothers in labor, allies in struggle
+- **The Hives:** Hardworking but too trusting
+- **Scurry Island:** Rough but honest about it
+
+How others see Lin's Brook:
+- **Mousehattan:** Necessary but crude, smell like fish
+- **The Branchx:** Reliable allies with similar values
+- **The Hives:** Skilled but clannish, resist change
+- **Scurry Island:** Useful partners, dangerous enemies
+
+\columnbreak
+
+<div class='note'>
+
+#### <u>GM Tips for Lin's Brook</u>
+
+**Water Is Everything**
+Make water central to every scene. The tide schedule determines when creatures work, eat, and sleep. High tide brings opportunities; low tide reveals secrets.
+
+**Working Class Pride**
+These creatures built the city with their own paws. They're not looking for pity - they want respect. Heroes earn trust through sweat, not speeches.
+
+**Tradition vs. Progress**
+Every advancement threatens someone's way of life. The old beaver who's built dams for 40 years sees new techniques as personal attacks. Play up generational conflicts.
+
+**Giants as Weather**
+Treat titan encounters like natural disasters. Focus on community response, not combat. Heroes save lives and minimize damage - they don't fight moose.
+
+**Crime Is Practical**
+Lin's Brook crime is about survival and territory, not elaborate schemes. Protection rackets, smuggling, and gambling feel natural in a working waterfront.
+
+**Environmental Stakes**
+Water quality affects everyone. A poisoned creek means no fish, no power, no life. Environmental threats can drive entire campaigns.
+
+**Guild Power**
+Guilds are more powerful than government here. Cross a guild and you can't work, can't eat, can't live in Lin's Brook. Use guild politics for social challenges.
+
+</div>
+
+### The Future of Lin's Brook
+
+The working waterfront stands at a crossroads. Traditional ways clash with modern needs. The water that built the burrow now threatens it. Young creatures dream of easier lives while elders fear losing their identity.
+
+Will Lin's Brook remain the strong back that carries The Great Burrow? Or will gentrification, environmental collapse, and social change sweep away generations of tradition like a giant's wake?
+
+The tide is turning - the question is which way it will flow.
+
+This is Lin's Brook: where water meets wood, where tradition meets change, where every creature knows that honest work and strong dams are all that stand between civilization and the flood. In the working waterfront, you earn your place with calloused paws and a willingness to rebuild when the giants come through.
+
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
@@ -4331,51 +4724,739 @@ Bandit activity forces expensive Ranger escorts, creates longer "safe routes," d
 
 ## Scurry Island - The Forgotten Burrow
 
-### Districts
+<div class='read'>
 
-#### The Trunk (Market District)
-Built inside the hollow of the fallen giant oak.
-- **Black Market Bazaar**: Anything available for the right price
-- **The Contraband Corner**: Illegal goods displayed openly
-- **Fence Row**: Where stolen goods are "cleaned"
-- **No Questions Inn**: Lodging for those needing discretion
+*The morning mist parts to reveal Scurry Island across the choppy straits. Even from the mainland shore, you can see the Rangers on patrol atop the Heights, their scarred forms silhouetted against the dawn. Below them, smoke rises from the Harbor Market where anything—absolutely anything—can be bought for the right price. The broken ferry lists at the dock while desperate creatures argue over passage. This is the edge of civilization, where the forgotten come to disappear and the brave stand against the darkness. Here, survival isn't just a skill—it's the only currency that truly matters.*
 
-#### Root Town (Residential Maze)
-Defensive warren of tunnels in the root system.
-- **The Disappearing**: Witness protection neighborhood
-- **Sanctuary Alley**: Safe houses for creatures on the run
-- **The Forgotten**: Where you go to lose your past
-- **Underground Underground**: Deeper levels for true anonymity
+</div>
 
-#### The Crown (Vertical Slums)
-Precarious structures built up the dead tree's branches.
-- **Desperate Heights**: Cheapest housing, most dangerous
-- **Rope Ladder Networks**: Only access to upper levels
-- **The Windbreak**: Partial shelter from weather
-- **Scavenger's Rest**: Where island's poorest survive
+Built on and around "The Old Giant," a massive fallen oak in the central clearing, Scurry Island exists as The Great Burrow's most dangerous paradox: simultaneously its most vital defense and most forgotten community. Ten thousand creatures scratch out existence on rocky shores and in dense interior woods, creating a society where mainland law holds no sway and only the strong—or clever—survive. The island serves as both haven for the desperate and fortress against the titans that would devour the city.
 
-#### Heartwood (The Deep Dark)
-Carved into the dead oak's core, mysterious and dangerous.
-- **The Archive**: Pre-city artifacts and strange carvings
-- **Deep Market**: Truly dangerous goods and services
-- **The Quiet Rooms**: Where deals requiring silence are made
-- **Ancient Chambers**: Some say pre-Burrow civilization remains
+### The Ranger Paradox
 
-### Notable Locations
-- **Ranger Command**: Elite force headquarters facing the Deep Woods
-- **Ferry Dock**: Unreliable connection to mainland (usually broken)
-- **The Old Giant's Base**: Tourist spot and historical marker
-- **Training Grounds**: Where Rangers test recruits
-- **The Last Stand**: Memorial to Rangers who didn't return
+The Rangers represent everything noble and terrible about Scurry Island. These elite scouts and fighters stand as the only organized defense against bears, moose, deer, and other giants that threaten The Great Burrow. Yet they recruit from the desperate, train through brutality, and die in numbers that would shock comfortable mainlanders.
+
+<div class='note'>
+
+#### <u>Understanding Titan Scale</u>
+
+To small mammals, "titans" or "giants" are normal forest predators and large herbivores:
+- **Bears**: Moving mountains of death
+- **Deer/Moose**: Crushing hooves, accidental devastation
+- **Hawks/Owls**: Aerial death (though corvids handle most)
+- **Foxes/Coyotes**: Ground-level apocalypse
+- **Humans**: Mythical world-enders (if they existed)
+
+</div>
+
+#### Ranger Organization
+
+**Command Structure:**
+- **Watch Commander Grimjaw**: One-eyed badger who earned rank through survival
+- **Scout Wing**: Flying squirrels and bats for reconnaissance
+- **Strike Teams**: Mixed-species heavy combat units
+- **Trap Brigade**: Engineers of giant deterrence
+- **The Blessed**: Veterans who've survived direct titan encounters
+
+**Recruitment and Training:**
+- Six-week program with 40% washout rate
+- Live-fire exercises using captured predators
+- The Oath: "Between the city and the dark"
+- Specialized training by species strengths
+- Final test: solo patrol in titan territory
+
+**Equipment Arsenal:**
+- **Poison Quills**: Porcupine needles with paralytic coating
+- **Flash Powder**: Blinding charges for giant eyes
+- **Scent Bombs**: Chemical deterrents and lures
+- **Tangle Lines**: Root-fiber cables for tripping
+- **The Black Darts**: Last resort killing tools
+
+### Geography & Infrastructure
+
+#### The Island Itself
+
+Scurry Island's isolation shapes everything about its culture. The island stretches roughly two miles long and one mile wide, separated from the mainland by straits that vary from a quarter-mile to a full mile depending on tides. These waters, while navigable, create a psychological and practical barrier that keeps the island perpetually apart.
+
+**Natural Features:**
+- **The Heights**: Rocky northern plateau housing Ranger Command
+- **Harbor Bay**: Natural southern inlet where ferries dock
+- **The Fallen Giant**: Massive oak corpse serving as central landmark
+- **Interior Woods**: Dense cover for fugitives and operations
+- **Tidal Flats**: Eastern shallows exposing temporary land bridges
+- **Western Cliffs**: Sheer drops facing the Deep Woods
+
+**Infrastructure Challenges:**
+- **Ferry System**: Three boats in theory, one functional in practice
+- **No Bridge**: Proposals always die in mainland councils
+- **Fresh Water**: Rain collection and rationed ferry deliveries
+- **Power**: Stolen electric lines and generator black market
+- **Communication**: Unreliable radio to mainland
 
 \columnbreak
 
-### Ranger Operations
-The Rangers maintain strict protocols for titan defense:
-- **Watch Rotations**: Constant surveillance of Deep Woods
-- **Quick Response Teams**: Ready to deploy within minutes
-- **Evacuation Coordinators**: Working with each burrow's plans
-- **Training Academy**: Only the desperate and brave need apply
+### Districts in Detail
+
+#### Ferry Landing - Gateway to Shadows
+
+The first thing newcomers notice is the smell: salt, rot, fear, and opportunity mixed into something uniquely Scurry Island. The Ferry Landing sprawls chaotically from the dock, with temporary structures rebuilt after each storm.
+
+**Key Locations:**
+- **The Last Stop Tavern**: Where Rangers drink and recruit
+- **Customs House**: Abandoned building now hosting black market
+- **The Greeter's Stand**: Where guides offer "protection"
+- **Quick Paw Clinic**: No-questions medical care
+- **The Board**: Job postings, missing creatures, bounties
+
+**Culture**: Every creature at the Landing is either coming or going. Permanent residents know to spot the desperate (easy marks), the dangerous (avoid or ally), and the dying (Rangers past saving). The ferry schedule—when boats actually run—determines the rhythm of life.
+
+#### Old Town - Where Tradition Survives
+
+Built into ancient oak groves on the island's stable high ground, Old Town maintains the closest thing to respectability on Scurry Island. Original opossum and raccoon families control these warrens through tradition and subtle violence.
+
+**Notable Features:**
+- **The Death Theaters**: Opossum traditional performance spaces
+- **Root Market**: Night bazaar in the tangled trees
+- **Sanctuary Square**: Neutral ground enforced by all
+- **The Old Families' Halls**: Warren complexes centuries old
+- **Memory Gardens**: Where island history is preserved
+
+**Old Town Customs:**
+- "Playing dead" as formal greeting
+- Sanctuary peace enforced with extreme prejudice
+- Night business conducted by tail-light
+- Family name means more than mainland law
+- Children kept away from "mainland corruption"
+
+#### Harbor Market - Anything for a Price
+
+The commercial heart of shadow economy, Harbor Market never truly sleeps. Sprawling from the docks through temporary stalls and permanent shops, this is where the island's reputation is earned.
+
+**Market Sections:**
+- **The Clean Quarter**: Legitimate goods at mainland prices
+- **Gray Alley**: Items of questionable provenance
+- **The Black Rows**: Openly illegal merchandise
+- **Flesh Market**: Not what mainlanders think—exotic foods
+- **Information Row**: Secrets bought and sold
+
+**What's for Sale:**
+- Forged identity documents (10-50 acorns)
+- Concentrated fermented sap (5 acorns per vial)
+- Mainland contraband (double standard price)
+- Ranger surplus equipment (buyer beware)
+- Maps to titan territory (accuracy not guaranteed)
+- Protection services (rates vary by threat)
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+#### The Lowland Shanties - Bottom of the Bottom
+
+When everywhere else is full, when you can't afford even Old Town's cheapest warren, when the last ferry left without you—welcome to the Lowlands. Built on flood-prone ground, these ramshackle communities wash away with depressing regularity.
+
+**Survival Strategies:**
+- Build cheap, rebuild often
+- Everything valuable stays portable
+- Community watches for flood signs
+- Higher ground = higher status
+- Storm shelters shared by necessity
+
+**Lowland Culture:**
+- "One storm from homeless" mentality
+- Fierce loyalty among the desperate
+- Day labor at dawn by the docks
+- Scavenging as primary economy
+- Dreams of mainland escape
+
+#### Ranger Heights - Fortress of the Brave
+
+The island's highest ground hosts the Ranger Station, a complex of fortified buildings, training grounds, and memorials. From here, Rangers can see clear to the Deep Woods—and the threats emerging from them.
+
+**Ranger Complex Features:**
+- **Command Tower**: Watch Commander's strategic center
+- **Training Grounds**: Where recruits learn or wash out
+- **The Armory**: Weapons locked tighter than mainland banks
+- **Trophy Hall**: Proof of kills and victories
+- **Medical Ward**: Where the lucky wounded recover
+- **The Wall of the Fallen**: Names carved in heartwood
+- **Signal Towers**: Communication with mainland forces
+
+**Daily Ranger Life:**
+- Dawn training regardless of weather
+- Equipment maintenance as meditation
+- Patrol assignments by veterancy
+- Evening debrief and intelligence sharing
+- Night watches rotating constantly
+
+#### The Warrens - What Happens in the Deep
+
+Beneath Scurry Island lies a network of tunnels whose full extent no single creature knows. Started as storm shelters, expanded by smugglers, connected by fugitives, the Warrens now serve every illegal purpose imaginable.
+
+**Warren Zones:**
+- **The Fighting Pits**: Brutal entertainment for betting
+- **Smuggler's Rest**: Hidden warehouse complexes
+- **The Deep Dark**: Where creatures disappear permanently
+- **Emergency Network**: Storm shelters and titan refuges
+- **The Underneath Market**: When even Harbor Market won't sell it
+
+**Warren Law:**
+- What happens in the deep stays in the deep
+- No mainland enforcement ever
+- Disputes settled by combat or council
+- Routes change to prevent mapping
+- Emergency shelters open to all during disasters
+
+### Demographics & Culture
+
+#### Population Breakdown *(Total: ~10,000)*
+
+**Established Residents (6,000):**
+- **30% Opossums (3,000)**: Traditional families and survivors
+- **25% Raccoons (2,500)**: Running most shadow businesses
+- **10% Ferrets/Weasels (1,000)**: Information and smuggling
+- **10% Mixed Species (1,000)**: Long-term fugitives and operators
+
+**Temporary Residents (4,000):**
+- **15% Active Rangers (1,500)**: Serving their terms
+- **5% Retired Rangers (500)**: Too broken to leave
+- **5% Recent Fugitives (500)**: Fleeing mainland justice
+- **10% Transients (1,000)**: Seasonal workers and drifters
+
+#### The Survival Hierarchy
+
+Unlike mainland burrows with complex social structures, Scurry Island operates on brutal simplicity: those who survive longest make the rules.
+
+**The Trunk Council:**
+- **Mother Pale**: Ancient opossum, keeper of sanctuary law
+- **Big Scar**: Raccoon controlling major smuggling
+- **Watch Commander Grimjaw**: Ranger military authority
+- **The Ferryman**: Whoever currently controls boat access
+- **The Deepest**: Unknown figure controlling the Warrens
+
+**Social Standing Markers:**
+- Scars (especially from titans) = respect
+- Sanctuary passes = connected
+- Old Town address = established family
+- Ranger insignia = temporary authority
+- Warren access = dangerous player
+
+\columnbreak
+
+### The Shadow Economy
+
+Scurry Island's economy operates on different principles than the mainland. Here, everything has a price, but that price might not be in acorns.
+
+#### Black Market Operations
+
+**Major Commodities:**
+- **Information**: Who's looking for whom, what Rangers know, mainland secrets
+- **Documents**: Forged papers, false identities, clean histories
+- **Contraband**: Banned substances, stolen goods, forbidden items
+- **Services**: Assassination, disappearance, protection, silence
+- **Weapons**: From Ranger surplus to improvised explosives
+
+**Price Examples:**
+- New identity package: 50-200 acorns
+- Mainland smuggling run: 20-100 acorns
+- Concentrated sap (1 vial): 5 acorns
+- Protection (1 week): 10-50 acorns
+- Information (varies): 1-1000 acorns
+- Making problems vanish: Negotiable
+
+#### Legitimate Business
+
+Even Scurry Island needs some legitimate economy:
+
+**Ranger Economy:**
+- Titan bounties from burrow coalition
+- Trophy preparation and trade
+- Equipment maintenance and supply
+- Medical services for wounded
+- Training services for private groups
+
+**Service Industries:**
+- Ferry maintenance (when running)
+- Construction after storms
+- Food service and taverns
+- Temporary shelter rentals
+- Guide services for newcomers
+
+**Resource Extraction:**
+- Salvage from titan encounters
+- Driftwood and storm debris
+- Specialized island plants
+- Information brokerage
+- Survival skill training
+
+### Daily Life on the Edge
+
+#### A Day on Scurry Island
+
+**Dawn (6 AM):**
+- Ferry horn announces first crossing (if running)
+- Rangers change watch on the Heights
+- Day laborers gather at the docks
+- Night market winds down in Old Town
+- Storm damage assessment begins
+
+**Morning (9 AM):**
+- Harbor Market reaches peak activity
+- Ranger patrols deploy to mainland
+- Construction crews repair storm damage
+- Information brokers open for business
+- The desperate seek day work
+
+**Midday (12 PM):**
+- Ferry attempts second crossing
+- Training exercises at Ranger Heights
+- Peak heat drives business underground
+- Sanctuary hours begin in Old Town
+- Fighters rest for evening bouts
+
+**Afternoon (3 PM):**
+- Black market shifts to gray goods
+- Rangers return from patrol (if lucky)
+- Storm preparations if weather threatens
+- The Warrens begin to stir
+- Smuggling operations plan night runs
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+**Evening (6 PM):**
+- Final ferry crossing attempted
+- Night market opens in Old Town
+- Fighting pits begin taking bets
+- Ranger memorial hour for the fallen
+- Shadow economy fully awakens
+
+**Night (9 PM):**
+- The island's true life begins
+- Warren entrances open fully
+- Smuggling boats launch
+- Death theaters perform
+- Information changes hands
+
+**Deep Night (12 AM):**
+- Only the desperate or dangerous move
+- Ranger night watch peaks
+- Deep Warren activities hidden
+- Emergency shelters on standby
+- The island holds its breath
+
+#### Social Customs & Culture
+
+**Survival Etiquette:**
+- "Play dead until ready" - strategic patience
+- Never count Rangers before they return
+- Touch wood before major decisions
+- Sanctuary is absolute - violators die
+- The ferry owes nothing to anyone
+
+**Cultural Traditions:**
+
+***Death Playing***: The opossum art of strategic withdrawal
+- Formal version performed in theaters
+- Practical version saves lives daily
+- Children learn before walking
+- Metaphor for island life
+- "The best victory is survival"
+
+***Ranger Nights***: Celebrating returning patrols
+- Buying drinks for the living
+- Toasting the unnamed fallen
+- Trophy displays and story time
+- Recruitment drives for replacements
+- Dawn hangovers and regrets
+
+***The Counting***: Annual memorial for all lost
+- Names read from the Wall
+- Families receive death tokens
+- Moment of silence at noon
+- Black market closes (only day)
+- Even the Warrens observe
+
+***Storm Solidarity***: When disaster threatens
+- All feuds temporarily suspended
+- Shelters open regardless of payment
+- Resources shared for survival
+- Rangers coordinate evacuation
+- The island unites or dies
+
+### The Rangers in Detail
+
+#### Becoming a Ranger
+
+**Why Creatures Join:**
+- Desperation: No other options left
+- Glory: Young creatures seeking fame
+- Revenge: Lost family to titans
+- Redemption: Criminals earning clean slate
+- Madness: Some just want to fight giants
+
+**Training Program:**
+
+*Week 1-2: Basic Survival*
+- Physical conditioning in full gear
+- Titan biology and weak points
+- Team coordination drills
+- Emergency medical training
+- Equipment familiarization
+
+*Week 3-4: Advanced Combat*
+- Live predator training (small ones)
+- Trap construction and placement
+- Poison and chemical weapons
+- Coordinated attack patterns
+- Survival psychology
+
+*Week 5-6: Field Operations*
+- Mainland patrol participation
+- Titan tracking techniques
+- Real encounter observation
+- Final evaluation mission
+- The Oath or the Exit
+
+**The Ranger's Oath:**
+"I stand between the city and the dark. I face what others flee. I guard those who cannot guard themselves. My life for the burrow. My death for the future. Until the titans fall or I fall, I am the wall."
+
+#### Ranger Operations
+
+**Patrol Types:**
+- **Dawn Sweep**: Check overnight titan movement
+- **Deep Range**: Multi-day penetration missions
+- **Reaction Force**: Rapid response to sightings
+- **Trap Maintenance**: Checking/resetting defenses
+- **Recovery**: Retrieving fallen Rangers
+
+**Combat Doctrines:**
+- Never engage alone unless desperate
+- Blind first, poison second, kill last
+- Use terrain and creature advantages
+- Acceptable losses calculated beforehand
+- Recovery of wounded prioritized
+
+**Equipment Loadouts:**
+
+*Basic Ranger Kit:*
+- Reinforced leather armor
+- Species-specific weapons
+- Three poison quills
+- Two flash powder charges
+- Emergency beacon
+- First aid supplies
+- One week rations
+
+*Specialist Additions:*
+- Scout: Far-sight scopes, wing reinforcement
+- Trapper: Cable spools, anchor spikes
+- Heavy: Improved armor, giant-killer weapons
+- Medic: Extended supplies, stimulants
+- Leader: Communication gear, maps
+
+\columnbreak
+
+#### Famous Rangers & Operations
+
+**Legendary Figures:**
+
+***Björn Bearsbane***: Only known solo bear kill
+- Used avalanche trap in mountain pass
+- Lost entire team before success
+- Refused promotion, died on patrol
+- Claw displayed in Trophy Hall
+- Name inscribed in gold on Wall
+
+***Silent Wing***: Bat scout extraordinaire
+- Mapped giant hibernation sites
+- Never lost on 200+ missions
+- Trained three generations
+- Vanished on final patrol
+- Some say still out there
+
+***The Mole Squad***: Underground specialists
+- Developed pit trap techniques
+- Saved 300 during moose rampage
+- Lost half members to cave-in
+- Survivors train new trappers
+- Memorial tunnel named for them
+
+**Historic Operations:**
+
+***The Bark Flats Victory***: First coordinated bear kill
+- Fifty Rangers deployed
+- Twenty-seven casualties
+- Three-day running battle
+- Poison finally dropped beast
+- Established modern tactics
+
+***The Great Mauling***: Island's darkest day
+- Bear reached Old Town
+- Rangers fought street by street
+- Hundred creatures lost
+- Finally driven off at dawn
+- Led to Heights fortification
+
+***Operation Deep Strike***: Preemptive titan disruption
+- Attacked deer during rut
+- Scattered herds from city
+- Twelve Rangers didn't return
+- Bought six months peace
+- Controversial but effective
+
+### Crime & Shadow Operations
+
+While Rangers represent the island's noble aspect, the shadow economy reveals its darker nature. Crime on Scurry Island isn't just tolerated—it's essential infrastructure.
+
+#### Major Criminal Organizations
+
+**The Fence Lords**: Controlling stolen goods flow
+- Network spans all five burrows
+- Sophisticated cleaning operations
+- Protection for sellers and buyers
+- Information as secondary commodity
+- "Everything has a buyer somewhere"
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+**The Silent Tails**: Information brokerage supreme
+- Ferret-dominated but species diverse
+- Sell secrets to highest bidder
+- Blackmail as business model
+- Counter-intelligence services
+- "We know what you did"
+
+**The Deep Runners**: Warren control and smuggling
+- Control underground route access
+- Smuggling tunnels to mainland
+- Hiding services for fugitives
+- Fighting pit management
+- "What happens below stays below"
+
+#### Criminal Culture
+
+**The Code of Shadows:**
+1. Island business stays island business
+2. No violence during sanctuary hours
+3. Children and elders are off limits
+4. Pay debts or pay consequences
+5. Rangers get professional courtesy
+
+**Status in the Underworld:**
+- Reputation built on reliability
+- Violence capability respected but not required
+- Information is ultimate currency
+- Connections matter more than species
+- Survival trumps mainland morality
+
+### Relationships with Other Burrows
+
+#### Mousehattan - Necessary Evil
+- **Economic**: Black market for rich mice's vices
+- **Criminal**: Where problems get disappeared
+- **Political**: Useful threat to keep others in line
+- **Social**: "Those poor creatures on that awful island"
+- **Reality**: More connected than anyone admits
+
+**Typical Interactions:**
+- Rich mice need discrete services
+- Stolen goods flow both directions
+- Information brokerage crucial
+- Scapegoat for mainland problems
+- Secret investments in island operations
+
+#### The Branchx - Working Class Understanding
+- **Economic**: Contraband construction supplies
+- **Criminal**: Some failed workers flee here
+- **Political**: Shared distrust of Mousehattan
+- **Social**: "They're tough like us"
+- **Reality**: More sympathy than expected
+
+**Connections:**
+- Union connections for smuggling
+- Shared working-class values
+- Some Rangers recruited from Branchx
+- Construction expertise after storms
+- "Better than the ground" mentality
+
+#### The Hives - Cautious Commerce
+- **Economic**: Agricultural goods and substances
+- **Criminal**: Source for drug ingredients
+- **Political**: Mutual outsider status
+- **Social**: "Different but not enemies"
+- **Reality**: Pragmatic relationship
+
+**Trade Relations:**
+- Exotic foods through black market
+- Some beetles for fighting pits
+- Information about other burrows
+- Emergency food during shortages
+- Careful distance maintained
+
+#### Lin's Brook - Criminal Partnership
+- **Economic**: Smuggling routes essential
+- **Criminal**: Deep family connections
+- **Political**: Allied against Mousehattan
+- **Social**: "They understand survival"
+- **Reality**: Closest mainland ally
+
+**Joint Operations:**
+- Underwater smuggling routes
+- Shared criminal intelligence
+- Some Rangers from Brook families
+- Mutual protection agreements
+- "Water connects us all"
+
+### Notable NPCs
+
+#### The Powers That Be
+
+**Watch Commander Grimjaw**: One-eyed badger leading Rangers
+- Lost eye to bear five years ago
+- Promoted from ranks, not appointed
+- Harsh but fair with recruits
+- Drinks alone at Last Stop
+- "Every Ranger is already dead"
+
+**Mother Pale**: Ancient opossum matriarch
+- Maintains sanctuary law through fear
+- Knows everyone's secrets
+- Never leaves Old Town
+- Death playing master
+- "I've outlived them all"
+
+**Big Scar**: Raccoon crime lord
+- Controls major smuggling routes
+- Missing half his tail
+- Reasonable unless crossed
+- Protects his creatures
+- "Business is just survival"
+
+**The Ferryman**: Current boat controller (identity shifts)
+- Whoever controls working ferry
+- Position changes regularly
+- Ultimate power over access
+- Usually corrupt, always vital
+- "The ferry sails when I say"
+
+#### The Operators
+
+**Lucky Silverpaw**: One-eyed raccoon gambling boss
+- Runs the biggest fighting pit
+- Never forgets a debt
+- Fair odds, brutal collection
+- Former Ranger himself
+- "Luck is just good planning"
+
+**Streak the Fence**: Ferret acquisition specialist
+- Can find anything for anyone
+- Loyalty bought not earned
+- Network spans all burrows
+- Prices always fair
+- "Give me three days"
+
+**Doc Patches**: Opossum running no-questions clinic
+- Former mainland doctor
+- Fled after "incident"
+- Treats anyone who pays
+- Drunk but competent
+- "I don't remember faces"
+
+**Silent Sara**: Scarred survivor turned trainer
+- Three titan encounters lived
+- Trains Ranger recruits
+- Never speaks, only signs
+- Toughest creature on island
+- *Signs: "Words are for the living"*
+
+\columnbreak
+
+#### The Underground
+
+**The Deepest**: Unknown Warren controller
+- Identity complete mystery
+- Controls deep tunnels
+- Communicates through proxies
+- Judge of Warren law
+- "The deep provides"
+
+**Tooth and Nail**: Mated ferret information brokers
+- Know everyone's business
+- Sell to highest bidder
+- Protected by all sides
+- Never leave the Warrens
+- "Information wants to be sold"
+
+**Bloody Bella**: Rabbit running fighting pits
+- Escaped from Hives scandal
+- Brutal but honest
+- Maintains fighter medical
+- Bets on every match
+- "Blood makes the best ink"
+
+### Adventure Hooks
+
+#### Ranger Missions
+- **Giant Migration**: Unusual deer movement threatens city - Rangers need intelligence
+- **Missing Patrol**: Entire squad vanishes in Deep Woods - rescue or recovery?
+- **New Threat**: Unknown predator species spotted - capture for study
+- **The Blessed Quest**: Veteran Rangers seek titan young - insane or genius?
+- **Poison Problems**: Supply of paralytic toxin runs low - dangerous harvest needed
+
+#### Shadow Operations
+- **War Brewing**: Fence Lords clash over territory - choose sides or stay neutral
+- **Information Leak**: Someone's selling Ranger intelligence to unknown buyers
+- **Deep Discovery**: Ancient ruins found in deepest Warrens - what did builders hide?
+- **Sanctuary Violated**: Murder in neutral ground demands investigation
+- **The Big Score**: Legendary theft needs crew - wealth or death awaits
+
+#### Island Survival
+- **Ferry Crisis**: All boats sabotaged simultaneously - island cut off completely
+- **Storm of Century**: Hurricane approaches - evacuate or bunker down?
+- **Plague Ship**: Sick refugees arrive - help them or protect island?
+- **Titan Assault**: Coordinated predator attack - last stand time
+- **The Counting Early**: Mass casualties demand answers - what's killing Rangers?
+
+#### Political Intrigue
+- **Independence Movement**: Island seeks formal separation - revolution brewing
+- **Mainland Cleanup**: Mousehattan plans forced gentrification - resist or profit?
+- **Ranger Coup**: Military considers taking full control - democracy or security?
+- **Black Market War**: Competing syndicates escalate - innocents caught between
+- **The Bridge Proposal**: Build permanent connection - salvation or destruction?
+
+### GM Guidance
+
+#### Running Scurry Island
+
+**Tone Balance:**
+- Grimy but not hopeless
+- Dangerous but survivable
+- Criminal but with honor
+- Isolated but connected
+- Tough but caring
+
+**Key Themes:**
+- Survival above all else
+- Reputation matters more than law
+- Everyone has a price
+- The past doesn't matter
+- Tomorrow isn't guaranteed
+
+**Environmental Challenges:**
+- Weather always threatens
+- Ferries break constantly
+- Resources run scarce
+- Titans loom always
+- Isolation weighs heavy
+
+Remember: Scurry Island is where The Great Burrow's comfortable illusions die. Here, the reality of tiny creatures in a giant's world becomes undeniable. Yet it's also where heroism shines brightest—where forgotten creatures become Rangers, where survivors build community, where the last free corner of the world refuses to surrender.
 
 <div class='note wide'>
 
@@ -4659,6 +5740,9 @@ Your connection to the giants runs deeper than most. Once per session, may attem
 
 ### Master of Networks *(Passive)*
 Your web of contacts spans the entire city. Start each session with 3 "favor tokens" that can be spent to gain information, resources, or assistance from contacts throughout The Great Burrow.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
@@ -5006,6 +6090,20 @@ Each season brings different challenges and opportunities:
 </div>
 
 ## Environmental Hazard Tables
+
+<div class='note'>
+
+#### <u>Using Random Tables Wisely</u>
+
+These tables are tools, not tyrants:
+- **Foreshadow** results with warning signs
+- **Adjust severity** based on story needs
+- **Combine results** for complex situations
+- **Let players influence** outcomes with preparation
+
+Random doesn't mean arbitrary - make it feel inevitable in hindsight.
+
+</div>
 
 ### Titan Encounter Table (d100)
   - **01-40:** None — Normal operations
@@ -5542,6 +6640,20 @@ The system operates 18 hours a day, with reduced service during mole hibernation
 - Whisker Break: Traditional mid-morning grooming/networking
 - Complex social hierarchies based on address level
 
+<div class='note'>
+
+#### <u>Work as Story Driver</u>
+
+Jobs aren't just background:
+- **Workplace rivalries** create personal stakes
+- **Professional skills** solve unexpected problems
+- **Industry knowledge** reveals hidden connections
+- **Economic pressure** forces moral compromises
+
+Give each PC's profession at least one spotlight moment per session.
+
+</div>
+
 ## Dealing with Giants
 - Monthly evacuation drills for titan encounters
 - The Hush: Children trained to freeze when warning bells ring
@@ -5554,6 +6666,20 @@ The system operates 18 hours a day, with reduced service during mole hibernation
 \pagebreakNum
 
 # Adventure Themes and Hooks
+
+<div class='note'>
+
+#### <u>Matching Themes to Players</u>
+
+Different groups want different experiences:
+- **Social players**: Political intrigue, crime family drama
+- **Action players**: Predator encounters, gang warfare
+- **Problem solvers**: Environmental crises, infrastructure disasters
+- **Explorers**: External relations, lost districts
+
+Start with one theme and weave in others as the campaign develops.
+
+</div>
 
 ## Urban Survival
 Focus on daily challenges of city life, economic pressures, and community building. Adventures involve housing crises, job disputes, and neighborhood problems.
@@ -6092,7 +7218,7 @@ Crime in The Great Burrow operates as a parallel economy and shadow government, 
 
 ### The Longtail Family *(Traditional Power)*
 - **Territory:** Lower Mousehattan, waterfront smuggling
-- **Leadership:** Don Salvatore "Big Sal" Longtail
+- **Leadership:** Don Salvatore Longtail
 - **Specialties:** Protection rackets, loan sharking, tunnel smuggling
 - **Code:** "The family provides" - honor-based obligations
 - **Allies:** Traditional mouse families, conservative business interests
@@ -6100,7 +7226,7 @@ Crime in The Great Burrow operates as a parallel economy and shadow government, 
 
 ### The Whisker Brotherhood *(New Money)*
 - **Territory:** Financial district, new developments
-- **Leadership:** Capo Regina "Whiskers" McGillicuddy  
+- **Leadership:** Council of three brothers  
 - **Specialties:** Business fraud, gambling, real estate schemes
 - **Code:** "Make holes bigger" - expansion at any cost
 - **Allies:** Rat entrepreneurs, corrupt officials
@@ -6108,7 +7234,7 @@ Crime in The Great Burrow operates as a parallel economy and shadow government, 
 
 ### The Gray Coats *(Rising Power)*
 - **Territory:** Times Squeak, entertainment districts
-- **Leadership:** Boss Tommy "Gray Tail" Rattington
+- **Leadership:** Lucia "The Shadow" Gray
 - **Specialties:** Entertainment rackets, drug trade, youth recruitment
 - **Code:** "New city, new rules" - rejecting old ways
 - **Allies:** Young creatures, progressive businesses
