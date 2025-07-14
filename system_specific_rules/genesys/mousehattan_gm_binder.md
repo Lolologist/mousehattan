@@ -2084,6 +2084,8 @@ Different species bring their unique cultural approaches and natural abilities t
 - **Price:** +30% (specialized criminal applications)
 - **Aesthetics:** Cleverly disguised equipment that appears innocent but serves multiple purposes
 
+\columnbreak 
+
 ### Otter-Made Equipment
 - **Modifications:** Waterproof quality, +1 Defense against environmental hazards
 - **Price:** +15% (specialized waterproofing)
@@ -2095,7 +2097,7 @@ Different species bring their unique cultural approaches and natural abilities t
 - **Aesthetics:** Comfortable, practical design focused on protection and family use. Often includes padding and comfort features. Built for extended wear and community sharing.
 
 ### Opossum-Made Equipment
-- **Modifications:** Add Stun quality to weapons, equipment appears worthless (Deception bonus)
+- **Modifications:** equipment appears worthless (Deception bonus for concealment), item always damaged at least one step (cf. CRB p.89, <span class='setback'>b</span> on all checks made with it)
 - **Price:** -50% (appears cheap but functions well)
 - **Aesthetics:** Deliberately shabby appearance hiding quality construction. Designed to be underestimated. Often incorporates scavenged materials in clever ways.
 
@@ -2103,6 +2105,11 @@ Different species bring their unique cultural approaches and natural abilities t
 - **Modifications:** Reduce weight by 1 Encumbrance (minimum 0), add Superior quality to climbing gear
 - **Price:** Standard
 - **Aesthetics:** Lightweight construction using hollow components and flexible materials. Designed for mobility and storage. Often includes attachment points for securing to trees or rope systems.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Chipmunk-Made Equipment
 - **Modifications:** Add <span class='boost'>b</span> to Athletics checks when using equipment, reduce size by one category
@@ -2114,16 +2121,12 @@ Different species bring their unique cultural approaches and natural abilities t
 - **Price:** +20% (specialized underground applications)
 - **Aesthetics:** Tactile construction with raised surfaces and texture guides. No visual elements needed. Built for underground durability.
 
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 ### Skunk-Made Equipment
-- **Modifications:** Add Intimidating quality, +1 <span class='boost'>b</span> to Coercion when visible
+- **Modifications:** Intimidating, add <span class='boost'>b</span> to Coercion when visible
 - **Price:** +25% (reputation and specialized construction)
 - **Aesthetics:** Bold black and white design that announces the maker. High-quality construction that commands respect. Often includes warning symbols.
+
+\columnbreak
 
 ### Ferret-Made Equipment
 - **Modifications:** Add Flexible quality, can be quickly reconfigured for different uses
@@ -2146,43 +2149,71 @@ A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add <spa
 
 ## Weapons
 
-### Improvised Weapons
-- **Thorn Spear:** Damage 3, Crit 4, Range [Engaged], Encumbrance 2, Price 5 acorns
+### Brawl Weapons
+- **Claw Guards:** Damage +1, Crit 3, Range [Engaged], Encumbrance 1, Price 15 acorns, *Defensive 1*
+- **Brass Knuckles:** Damage +1, Crit 4, Range [Engaged], Encumbrance 0, Price 10 acorns, *Disorient 1*
+- **Tail Wrap:** Damage +2, Crit 5, Range [Engaged], Encumbrance 1, Price 12 acorns, *Knockdown*
+- **Tooth Caps:** Damage +1, Crit 3, Range [Engaged], Encumbrance 0, Price 20 acorns, *Vicious 1*
+- **Grappling Claws:** Damage +0, Crit 5, Range [Engaged], Encumbrance 1, Price 18 acorns, *Ensnare 1*
+- **Spiked Collar:** Damage +1, Crit 4, Range [Engaged], Encumbrance 1, Price 25 acorns, *Defensive 1*
+- **Paw Wraps:** Damage +0, Crit 5, Range [Engaged], Encumbrance 0, Price 8 acorns, *Accurate 1*
+
+### Melee Weapons
+- **Sharpened Stick:** Damage +2, Crit 5, Range [Engaged], Encumbrance 1, Price 2 acorns
+- **Thorn Spear:** Damage +3, Crit 4, Range [Engaged], Encumbrance 2, Price 5 acorns
+- **Needle Sword:** Damage +3, Crit 2, Range [Engaged], Encumbrance 1, Price 35 acorns, *Pierce 1*
+- **Nutcracker Club:** Damage +4, Crit 4, Range [Engaged], Encumbrance 3, Price 20 acorns, *Knockdown*
+- **Stone Axe:** Damage +5, Crit 3, Range [Engaged], Encumbrance 3, Price 55 acorns, *Vicious 1*
+- **Climbing Pick:** Damage +3, Crit 4, Range [Engaged], Encumbrance 1, Price 22 acorns, *Pierce 1, Defensive 1*
+- **Beetle Prod:** Damage +2, Crit 5, Range [Engaged], Encumbrance 1, Price 30 acorns, *Stun Damage*
+- **Insect Goad:** Damage +1, Crit 6, Range [Engaged], Encumbrance 1, Price 20 acorns, *Stun, Animal Handling <span class='boost'>b</span>*
+- **Builder's Hammer:** Damage +3, Crit 4, Range [Engaged], Encumbrance 2, Price 15 acorns, *Disorient 1*
+- **Branch Sword:** Damage +4, Crit 3, Range [Engaged], Encumbrance 2, Price 50 acorns, *Defensive 1*
+- **Whisker Blade:** Damage +2, Crit 2, Range [Engaged], Encumbrance 0, Price 60 acorns, *Accurate 1, Pierce 1*
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+### Ranged (Light) Weapons
 - **Sling:** Damage 4, Crit 4, Range [Medium], Encumbrance 1, Price 10 acorns
-- **Claw Guards:** Damage 2, Crit 3, Range [Engaged], Encumbrance 1, Price 15 acorns, *Defensive 1*
-- **Acorn Cap Shield:** Defense +1, Encumbrance 2, Price 8 acorns, *Defensive 1*
-- **Sharpened Stick:** Damage 2, Crit 5, Range [Engaged], Encumbrance 1, Price 2 acorns
-
-### Traditional Weapons
-- **Nutcracker Club:** Damage 4, Crit 4, Range [Engaged], Encumbrance 3, Price 20 acorns, *Knockdown*
 - **Bark Bow:** Damage 5, Crit 3, Range [Long], Encumbrance 2, Price 40 acorns, *Prepare 1*
-- **Needle Sword:** Damage 3, Crit 2, Range [Engaged], Encumbrance 1, Price 35 acorns, *Pierce 1*
-- **Stone Axe:** Damage 5, Crit 3, Range [Engaged], Encumbrance 3, Price 25 acorns, *Vicious 1*
-
-### Specialized Weapons
-- **Beetle Prod:** Damage 2, Crit 5, Range [Engaged], Encumbrance 1, Price 30 acorns, *Stun Damage*
+- **Acorn Sling Staff:** Damage 5, Crit 4, Range [Medium], Encumbrance 2, Price 45 acorns, *Accurate 1*
 - **Fishing Spear:** Damage 4, Crit 3, Range [Short], Encumbrance 2, Price 18 acorns, *Accurate 1* (underwater)
-- **Climbing Pick:** Damage 3, Crit 4, Range [Engaged], Encumbrance 1, Price 22 acorns, *Pierce 1, Defensive 1*
-
-\columnbreak
-
-### Ranger Equipment
+- **Rope Dart:** Damage 2, Crit 4, Range [Short], Encumbrance 1, Price 35 acorns, *Ensnare 1, Accurate 1*
+- **Thorn Whip:** Damage 2, Crit 4, Range [Short], Encumbrance 1, Price 30 acorns, *Ensnare 1*
+- **Seed Shooter:** Damage 3, Crit 5, Range [Medium], Encumbrance 1, Price 25 acorns, *Limited Ammo 3*
+- **Blowgun:** Damage 2, Crit 4, Range [Short], Encumbrance 0, Price 30 acorns, *Accurate 2, Poison*
+- **Titan Spear:** Damage 5, Crit 3, Range [Medium], Encumbrance 2, Price 80 acorns, *Pierce 2*
 - **Poison Dart:** Damage 3, Crit 2, Range [Short], Encumbrance 0, Price 25 acorns, *Poison (stun)*
 - **Entanglement Net:** Damage 1, Crit 6, Range [Short], Encumbrance 2, Price 50 acorns, *Ensnare 2*
 - **Flash Powder:** Damage 0, Crit -, Range [Short], Encumbrance 1, Price 30 acorns, *Blast 3, Stun*
-- **Ranger Crossbow:** Damage 6, Crit 3, Range [Long], Encumbrance 3, Price 150 acorns, *Accurate 1, Prepare 1*
 - **Smoke Bomb:** Damage 0, Crit -, Range [Short], Encumbrance 1, Price 20 acorns, *Blast 2, Disorient 2*
-- **Titan Spear:** Damage 4, Crit 3, Range [Medium], Encumbrance 2, Price 80 acorns, *Pierce 2, Thrown*
 - **Emergency Flare:** Damage 1, Crit 5, Range [Long], Encumbrance 1, Price 15 acorns, *Burn 1, Bright light*
-
-### More Specialized Weapons
-- **Insect Goad:** Damage 1, Crit 6, Range [Engaged], Encumbrance 1, Price 20 acorns, *Stun Damage, Animal Handling bonus*
-- **Rope Dart:** Damage 2, Crit 4, Range [Short], Encumbrance 1, Price 35 acorns, *Ensnare 1, Accurate 1*
-- **Bark Shield:** Defense +2, Encumbrance 3, Price 25 acorns, *Defensive 1, Cumbersome 1*
-- **Thorn Whip:** Damage 2, Crit 4, Range [Short], Encumbrance 1, Price 30 acorns, *Ensnare 1*
 - **Sap Glue Trap:** Damage 0, Crit -, Range [Short], Encumbrance 1, Price 25 acorns, *Immobilize 2*
-- **Acorn Sling Staff:** Damage 5, Crit 4, Range [Medium], Encumbrance 2, Price 45 acorns, *Accurate 1, Two-handed*
+- **Pinecone Grenade:** Damage 6, Crit 4, Range [Medium], Encumbrance 1, Price 40 acorns, *Blast 4, Limited Ammo 1*
 
+\columnbreak
+
+### Ranged (Heavy) Weapons
+- **Ranger Crossbow:** Damage 6, Crit 3, Range [Long], Encumbrance 3, Price 150 acorns, *Accurate 1, Prepare 1*
+- **Coal Launcher:** Damage 8, Crit 4, Range [Medium], Encumbrance 4, Price 300 acorns, *Blast 6, Burn 2, Limited Ammo 1, Prepare 2*
+- **Bamboo Ballista:** Damage 10, Crit 3, Range [Extreme], Encumbrance 5, Price 500 acorns, *Pierce 4, Breach 1, Limited Ammo 1, Prepare 3, Anti-Titan*
+- **Heavy Siege Bow:** Damage 7, Crit 3, Range [Long], Encumbrance 4, Price 200 acorns, *Pierce 2, Prepare 2, Cumbersome 2*
+- **Steam Cannon:** Damage 9, Crit 4, Range [Long], Encumbrance 5, Price 400 acorns, *Blast 5, Concussive 1, Limited Ammo 2, Prepare 2*
+- **Porcupine Quill Launcher:** Damage 7, Crit 2, Range [Long], Encumbrance 3, Price 250 acorns, *Pierce 3, Autofire, Limited Ammo 3*
+- **Sap Mortar:** Damage 6, Crit 5, Range [Medium], Encumbrance 4, Price 180 acorns, *Blast 4, Immobilize 1, Limited Ammo 3, Indirect*
+- **Fungal Spore Cannon:** Damage 5, Crit 6, Range [Medium], Encumbrance 3, Price 220 acorns, *Blast 5, Poison 2, Limited Ammo 2, Prepare 1*
+- **Titan-Killer Harpoon:** Damage 12, Crit 3, Range [Short], Encumbrance 6, Price 600 acorns, *Pierce 5, Breach 2, Limited Ammo 1, Prepare 4, Vicious 2*
+- **Deployable Spike Trap:** Damage 4, Crit 3, Range [Short], Encumbrance 3, Price 100 acorns, *Ensnare 3, Pierce 1, Prepare 2, Remains after deployment*
+
+### Shields
+Shields' defense values add to both Defensive (melee) and Deflection (ranged) defense values.
+- **Acorn Cap Shield:** Defense +1, Encumbrance 2, Price 8 acorns,
+- **Bark Shield:** Defense +2, Encumbrance 3, Price 25 acorns, *Defensive 1, Cumbersome 1*
+- **Woven Branch Shield:** Defense +1, Encumbrance 2, Price 35 acorns, *Deflection 1*
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -2200,7 +2231,7 @@ A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add <spa
 ### Medium Armor
 - **Scale Mail:** Soak +2, Defense 1, Encumbrance 2, Price 120 acorns, *Made from overlapping bark scales*
 - **Reinforced Vest:** Soak +3, Defense 0, Encumbrance 3, Price 150 acorns
-- **Guild Armor:** Soak +2, Defense 1, Encumbrance 2, Price 180 acorns, *Includes tool attachments*
+- **Guild Armor:** Soak +2, Defense 1, Encumbrance 2, Price 180 acorns, *Includes tool attachments - up to 2 encumbrance for tools is ignored*
 
 ### Heavy Armor
 - **Ranger Gear:** Soak +2, Defense 1, Encumbrance 3, Price 200 acorns, *Environmental protection*
@@ -2246,6 +2277,9 @@ Rising from a rocky outcropping where ancient oak roots penetrate stone, Mouseha
 - **Root Runners**: Elite messenger mice who know every shortcut and hidden passage
 - **Bark Slides**: Polished channels for rapid descent (climbing back up costs extra)
 - **The Express**: Direct Underground service to other burrows for premium prices
+
+\columnbreak
+
 - **Private Lifts**: Wealthy families maintain personal vertical transport
 
 ### Districts
@@ -2264,11 +2298,15 @@ Where five major tunnels converge beneath interlocking roots, buzzing with 24-ho
 - **Firefly Lantern District**: Managed colonies provide atmospheric lighting
 - **The Squeak**: Famous performance venue for death theater and comedy
 - **Roasted Seed Row**: Street vendors selling traditional and fusion snacks
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 - **The Moonlight Market**: After-hours trading in "fell off the tree" goods
 - **Pleasure Dens**: Fermented root beer halls and honey lounges
 - **The Never-Dark**: Underground plaza lit continuously by captive fireflies
-
-\columnbreak
 
 #### Upper East Roots (Old Money Residential)
 Carved into the most stable oak root systems, home to established families.
@@ -2305,10 +2343,7 @@ Deep tunnels below official city levels, home to the desperate and the hidden.
 - **Old Mine Shafts**: Abandoned borings, now shelter for the desperate
 - **The Bone Yards**: Where they say the first giants fell
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
 
-\pagebreakNum
 
 ### The Kaiju Creatures & City Defenses
 
@@ -2331,7 +2366,7 @@ The creatures of Mousehattan live in constant awareness of the titans that could
 
 #### <u>Mousehattan Sayings</u>
 
-- "Every acorn has two sides" (opportunity and danger)
+- "Every leaf has two sides" (opportunity and danger)
 - "The oak remembers" (old debts are never forgotten)
 - "Connected from root to crown" (having full protection)
 - "The family provides" (mafia code)
@@ -2341,6 +2376,11 @@ The creatures of Mousehattan live in constant awareness of the titans that could
 - "Deep pockets, shallow roots" (new money insult)
 
 </div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Demographics & Culture
 
@@ -2353,7 +2393,6 @@ The creatures of Mousehattan live in constant awareness of the titans that could
 - **3% Shrews** (840): Analysts, accountants, detail workers
 - **2% Others** (560): Ferrets (dealmakers), visiting species
 
-\columnbreak
 
 #### Social Stratification
 
@@ -2377,7 +2416,7 @@ The creatures of Mousehattan live in constant awareness of the titans that could
 
 ### The Underground Economy
 
-#### The Rat Syndicate (La Cosa Nostra)
+#### The Rat Syndicate
 The dominant organized crime structure, built on old-country traditions and new-world ambition.
 
 **Major Families:**
@@ -2392,6 +2431,8 @@ The dominant organized crime structure, built on old-country traditions and new-
 - **Union Control**: Influence over dock and construction workers
 - **Loan Sharking**: Acorns at impossible interest rates
 
+\columnbreak
+
 #### The Weasel Network
 A looser confederation specializing in information and flexibility.
 - **The Flex**: Their ability to slip through anything, physically and socially
@@ -2399,11 +2440,6 @@ A looser confederation specializing in information and flexibility.
 - **Blackmail Rings**: Compromising information on establishment figures
 - **Message "Delays"**: Courier services that read interesting mail
 - **The Mediators**: Playing all sides in family conflicts
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 ### Daily Life in Mousehattan
 
@@ -2436,6 +2472,11 @@ The city runs on rigid schedules tied to the Acorn Exchange bell.
 - Fresh sprout salads in leaf wraps
 - Candied bark strips (sweet and savory)
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 #### Entertainment & Nightlife
 
 **High Culture:**
@@ -2444,8 +2485,8 @@ The city runs on rigid schedules tied to the Acorn Exchange bell.
 - **The Acorn Club**: Where deals happen over aged root beer
 
 **Popular Entertainment:**
-- **Times Squeak Shows**: Death theater, comedy, acrobatics
-- **Firefly Fights**: Controversial betting on insect battles
+- **Times Squeak Shows**: Theater, comedy, acrobatics
+- **Bug Fights**: Controversial betting on insect battles
 - **The Squeakeasy Chain**: Hidden bars throughout the city
 - **Dance Burrows**: Where young creatures court and posture
 
@@ -2455,7 +2496,6 @@ The city runs on rigid schedules tied to the Acorn Exchange bell.
 - **Scent Parlors**: Exotic pheromone experiences
 - **Fight Clubs**: Illegal but tolerated if discrete
 
-\columnbreak
 
 ### Notable Personalities
 
@@ -2486,6 +2526,8 @@ The city runs on rigid schedules tied to the Acorn Exchange bell.
 - **Union Trouble**: Construction unions split between families
 - **The Cleaner**: Someone's eliminating witnesses before a big trial
 
+\columnbreak
+
 #### Financial Intrigue
 - **Market Manipulation**: Someone's cornering acorn futures
 - **The Counterfeit Seeds**: Fake rare seeds flooding the market
@@ -2499,11 +2541,6 @@ The city runs on rigid schedules tied to the Acorn Exchange bell.
 - **The Blackmail Ring**: Someone has dirt on half the Root Board
 - **Species Tension**: Mice establishment vs. rat new money boiling over
 - **The Underground Railroad**: Helping creatures escape crime family debts
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 #### Titan-Related Crises
 - **The Prophet**: Titan-touched mouse claims to speak for the giants
@@ -2530,6 +2567,11 @@ Walking home through Times Squeak, she's careful to look confident but not wealt
 
 </div>
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### Relationships with Other Burrows
 
 #### Economic Ties
@@ -2549,8 +2591,6 @@ Walking home through Times Squeak, she's careful to look confident but not wealt
 - **Brain Drain**: Ambitious creatures drawn to the vertical city
 - **Cultural Appropriation**: Establishment mice adopting "quaint" customs
 - **Underground Movements**: Revolutionary ideas spreading outward
-
-\columnbreak
 
 <div class='note'>
 
@@ -2572,6 +2612,8 @@ Play up tension between established mouse families and ambitious rat entrepreneu
 Whether criminal or establishment, everyone follows unwritten rules. Breaking these codes has consequences. Even heroes need to navigate these social expectations.
 
 </div>
+
+\columnbreak
 
 ### Unique Mousehattan Elements
 
