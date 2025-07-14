@@ -3260,7 +3260,6 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - Even other gangs avoid confrontation with them
 - Rumors of strange corvid magic and intelligence
 
-\columnbreak
 
 #### Traditional Families - Old Branch Aristocracy
 
@@ -3285,7 +3284,6 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - Led by Councilsquirrel Marcus Redtail
 - Target of both union and traditional family harassment
 
-\columnbreak
 
 <div class='note'>
 
@@ -3338,6 +3336,11 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - Apprentices (1-3 years)
 - Helpers (entry level)
 - Tool-carriers (children learning the trade)
+- 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 #### Rope Making - The Binding Trade
 - **Spider Silk Harvesting:** Dangerous negotiations with web-builders
@@ -3346,10 +3349,6 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - **Quality Testing:** Lives depend on rope integrity
 - **Specialty Products:** From climbing lines to bridge cables
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 #### Acorn Economy - Seasonal Lifeblood
 
@@ -3940,11 +3939,6 @@ The Hives has developed its own dialect combining words from multiple languages.
 
 </div>
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 #### Fusion Cuisine
 The Hives' restaurants showcase culinary innovation born from cultural collision.
 
@@ -3953,6 +3947,11 @@ The Hives' restaurants showcase culinary innovation born from cultural collision
 - **Five-Culture Stew:** Each community contributes one ingredient
 - **Fusion Bakeries:** Combining baking traditions produces unique breads
 - **Street Food Innovation:** Portable foods adapted for multiple species
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 #### Hybrid Celebrations
 Festivals blend traditions creating entirely new celebrations.
@@ -4862,6 +4861,11 @@ Guilds are more powerful than government here. Cross a guild and you can't work,
 
 </div>
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### The Future of Lin's Brook
 
 The working waterfront stands at a crossroads. Traditional ways clash with modern needs. The water that built the burrow now threatens it. Young creatures dream of easier lives while elders fear losing their identity.
@@ -4871,6 +4875,7 @@ Will Lin's Brook remain the strong back that carries The Great Burrow? Or will g
 The tide is turning - the question is which way it will flow.
 
 This is Lin's Brook: where water meets wood, where tradition meets change, where every creature knows that honest work and strong dams are all that stand between civilization and the flood. In the working waterfront, you earn your place with calloused paws and a willingness to rebuild when the giants come through.
+
 
 <div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
@@ -5695,6 +5700,8 @@ While The Great Burrow dominates the central forest region, it exists within a b
 
 **Relationship:** Cautious but profitable. Pine Barrens creatures are traditional and suspicious of urban ways but need sophisticated products. Trade requires Ranger escorts due to dangerous routes.
 
+\columnbreak
+
 ### Meadowbrook Settlements *(Southern Grasslands)*
 **Primary Species:** Prairie dogs, ground squirrels, rabbit communities
 **Trade Goods:**
@@ -5711,7 +5718,11 @@ While The Great Burrow dominates the central forest region, it exists within a b
 
 **Relationship:** Irregular but valuable. Small, scattered communities make trade logistics difficult. Weather and tides affect reliability.
 
-\columnbreak
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## The Outlaw Problem
 
@@ -5738,10 +5749,6 @@ Bandit activity forces expensive Ranger escorts, creates longer "safe routes," d
 
 </div>
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 ## Diplomatic Relations
 
@@ -5813,49 +5820,6 @@ Always factor in delays: broken trains, predator sightings, weather, and classic
 
 \pagebreakNum
 
-## Economy & Commerce
-
-### The Acorn Standard
-Currency valued by quality and preparation method. The Acorn Exchange trading floor in Mousehattan sets prices that ripple across the forest. Seasonal fluctuations drive boom and bust cycles.
-
-**Major Industries by Burrow:**
-- **Finance** (Mousehattan): Banking, trading, investment
-- **Construction** (The Branchx/Lin's Brook): Infrastructure and building
-- **Agriculture** (The Hives): Managed insect operations
-- **Fishing/Water Power** (Lin's Brook): Waterfront economy
-- **Black Market** (Scurry Island): Shadow economy
-
-### Labor & Unions
-- **The Nutcracker Union:** Powerful Branchx construction organization ("we break more than nuts")
-- **Dockworkers United:** Lin's Brook waterfront muscle
-- **Courier Collectives:** Chipmunk-dominated message services
-- **The Builders Guild:** Beaver-led but increasingly diverse
-
-<div class='note'>
-
-#### <u>Union Politics in Play</u>
-
-Unions aren't just background - they're active forces:
-- **Strike actions** can shut down entire burrows
-- **Union cards** open doors (or close them)
-- **Scabs** face social ostracization or worse
-- **Union bosses** wield political power rivaling crime families
-
-Players with union connections get <span class='boost'>b</span> to Streetwise in working-class areas but upgrade difficulty when dealing with management.
-
-</div>
-
-### Economic Status Levels
-- **Destitute:** 0-10 acorns (struggling for basic needs)
-- **Poor:** 11-50 acorns (working class, paycheck to paycheck)
-- **Comfortable:** 51-200 acorns (stable middle class)
-- **Wealthy:** 201-1000 acorns (business owners, professionals)
-- **Rich:** 1001+ acorns (old money families, crime bosses)
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 ## Governance & Politics
 
@@ -5900,48 +5864,6 @@ Actions supporting one faction often oppose another. Let players feel the weight
 
 \pagebreakNum
 
-## Historical Context
-
-### The Great Convergence (150 Years Ago)
-The city began when multiple crises forced scattered settlements to unite:
-- The Terrible Winter (unprecedented cold)
-- The Bear Awakening (multiple titan encounters)
-- Failed harvests across the forest
-- The Great Storm that destroyed isolated communities
-
-The legendary **Acorn Compact** established principles of mutual aid, shared defense, and peaceful dispute resolution that still guide the city.
-
-### Major Historical Events
-- **The Species Wars** (76-82 years ago): Economic inequality erupted into inter-species conflict
-- **The Great Compromise**: Established current burrow autonomy system
-- **The Great Flood** (59 years ago): Demonstrated city's vulnerability and resilience
-- **The Great Trampling** (20 years ago): Most destructive titan encounter in city history
-
-### The Modern Era
-Recent decades brought unprecedented prosperity alongside new challenges:
-- Gentrification displacing traditional communities
-- Environmental pressures and increasing titan activity
-- Growing wealth inequality testing cooperative spirit
-- Immigration from distant forest communities
-
-<div class='note'>
-
-#### <u>Using Recent History</u>
-
-The Great Burrow's history provides ready-made NPC motivations:
-- **Species War veterans** still hold grudges
-- **Flood survivors** obsess over infrastructure
-- **Trampling orphans** grew up tough on Scurry Island
-- **Old money families** remember "better times"
-
-Every major NPC should reference at least one historical event that shaped them.
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 ## Daily Life & Culture
 
@@ -5999,6 +5921,11 @@ Organized families control much of the shadow economy:
 - **Height Hierarchies:** Squirrel branch levels determining social status
 - **Predator Reality:** Constant threat shapes all architecture and schedules
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### Universal Experiences
 Every creature knows:
 - The Underground commute (packed tunnels, frequent delays)
@@ -6020,148 +5947,6 @@ As dusk approaches, evacuation bells ring - deer sighting near the Grove. Maple 
 
 This is life in The Great Burrow - dangerous, difficult, but never dull.
 </div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-# The Shadow Network - Organized Crime
-
-<div class='read'>
-
-*The back room of the Squeakeasy reeks of fermented berries and fear. Don Salvatore Longtail sits behind his oak-burl desk, one paw resting on a ledger, the other hidden beneath. His whiskers twitch once—the only sign he's heard your proposal. Behind him, two gray-coated rats crack their knuckles. "You come to my establishment," the Don says slowly, each word precise as a needle, "on the day of my daughter's tail-binding, and you ask me this favor? Tell me, friend—what makes you think the Longtail Family needs anything from you?" The silence that follows is heavy as winter snow.*
-
-</div>
-
-In the shadows between legitimate business and outright banditry lies The Great Burrow's complex criminal underworld. These organizations follow their own codes, respect their own territories, and handle their own justice.
-
-## The Commission
-
-An informal council where major family representatives meet quarterly to resolve disputes and coordinate operations. Meeting locations rotate between neutral territories:
-- **Central Crossing** (The Branchx): Bridge intersection for safe meetings
-- **The Sanctuary** (Scurry Island): Traditional neutral ground
-- **Underground Stations**: Specific platforms with temporary truces
-
-<div class='note'>
-
-#### <u>Running Crime Family Politics</u>
-
-The Commission provides natural story hooks:
-- **Territory disputes** need neutral mediators (the PCs)
-- **Family wars** threaten civilian areas
-- **Commission meetings** are perfect heist/assassination targets
-- **Power vacuums** create violent succession crises
-
-Remember: organized crime provides actual services. When families fight, garbage piles up and predators aren't warned about.
-
-</div>
-
-## The Criminal Code
-
-### The Old Laws
-1. **Family First**: Blood and chosen family loyalty supersedes all else
-2. **Territory Respect**: Honor established boundaries unless formally challenged
-3. **No Innocent Blood**: Children, elders, and non-participants are protected
-4. **Debt Honor**: Pay what you owe or face escalating consequences
-5. **Silence Law**: Never cooperate with outside authorities
-6. **Guest Rights**: Sanctuary and safe passage when properly requested
-
-### Criminal Justice
-- **Family Courts**: Internal dispute resolution within criminal community
-- **Territory Trials**: Formal challenges for boundary disputes
-- **Debt Collection**: Escalating pressure from warnings to exile to violence
-- **Betrayal Punishment**: Tail cutting, exile, or death depending on severity
-
-## Major Crime Families
-
-### Mousehattan Syndicates
-**The Longtail Family** - Traditional Power
-- Territory: Waterfront, Wall Street, Times Squeak
-- Leadership: Don Salvatore Longtail
-- Specialties: Smuggling, financial fraud, loan sharking
-- Code: "The family provides"
-
-**The Whisker Brotherhood** - Old Guard
-- Territory: Upper levels, residential areas
-- Leadership: Council of three brothers
-- Specialties: High-end protection, construction permits
-- Ritual: Whisker-touching initiation ceremonies
-
-\columnbreak
-
-**The Gray Coats** - Rising Force
-- Territory: Village Burrows, young professional areas
-- Leadership: Lucia "The Shadow" Gray
-- Specialties: Tech fraud, identity theft, blackmail
-- Signature: Gray vests marking full members
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-### Other Burrow Syndicates
-
-**The Silverclaw Family** (Lin's Brook)
-- Controls north docks and ferry routes
-- Direct violence over subtle manipulation
-- Silver-tipped claws worn by made members
-
-**The Honeycomb Family** (The Hives)
-- Agricultural mafia controlling honey trade
-- Elder Mother Beatrice Honeyclover leads
-- Sophisticated commodity manipulation
-
-**The Nutcracker Union** (The Branchx)
-- Construction site control and labor intimidation
-- Boss Tony "Crack" Nutkin runs operations
-- "Worker solidarity" mixed with territorial violence
-
-**The Fence Lords** (Scurry Island)
-- Black market masters and document forgers
-- Council leadership of proven operators
-- "Everything has value to someone"
-
-
-## Criminal Economics
-
-### Revenue Sources
-- **Protection Rackets**: 40% - "Insurance" payments
-- **Smuggling**: 25% - Contraband and tax avoidance
-- **Gambling**: 15% - Illegal games and fight clubs
-- **Labor Control**: 10% - Union corruption
-- **Financial Crime**: 10% - Fraud and theft
-
-### Money Laundering
-- Legitimate business fronts (restaurants, shops)
-- The Washing Circuit (raccoon operations)
-- Commodity trading through acorn markets
-- Festival economies for cash movement
-
-## Species Specializations
-
-**Rats**: Natural organizers with hierarchical families
-**Mice**: Inside operators using respectability
-**Raccoons**: Manual dexterity for locks and laundering
-**Opossums**: Masters of "playing dead" to authorities
-**Beavers**: Infrastructure control and construction corruption
-**Otters**: Water smuggling routes and fish market control
-**Weasels**: Information brokers and blackmail specialists
-
-<div class='note'>
-
-#### <u>Using Crime in Campaigns</u>
-
-Criminal families provide protection that often includes genuine services - defending against predators, mediating disputes, and economic stabilization. Characters may find themselves needing family help or caught between competing interests.
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 
 ## Communication Systems
 
@@ -6401,6 +6186,13 @@ Random doesn't mean arbitrary - make it feel inevitable in hindsight.
 - **Autumn:** Minor (<span class='difficulty'>d</span>): Wind — Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>): Storm — Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>): Hurricane
 - **Winter:** Minor (<span class='difficulty'>d</span>): Cold snap — Moderate (<span class='difficulty'>d</span><span class='difficulty'>d</span>): Snow — Severe (<span class='difficulty'>d</span><span class='difficulty'>d</span><span class='difficulty'>d</span>): Blizzard
 
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+
 ### Environmental Difficulty Modifiers
 - **Heavy Rain:** Add <span class='setback'>b</span> to physical activities
 - **Flooding:** Upgrade difficulty once for movement
@@ -6409,7 +6201,6 @@ Random doesn't mean arbitrary - make it feel inevitable in hindsight.
 - **Extreme Heat:** Resilience check or suffer 2 strain per hour
 - **Darkness:** Add <span class='setback'>b</span><span class='setback'>b</span> to Perception and combat
 
-\columnbreak
 
 ### Titan Warning Times
 
@@ -6426,6 +6217,8 @@ Random doesn't mean arbitrary - make it feel inevitable in hindsight.
 - **Near Water:** Dive and swim — Athletics (<span class='difficulty'>d</span><span class='difficulty'>d</span>)
 - **In Group:** Defensive circle — Cool (<span class='difficulty'>d</span>) + numbers
 - **Underground:** Duck into tunnel — Perception (<span class='difficulty'>d</span><span class='difficulty'>d</span>) to find
+
+\columnbreak
 
 ### Infrastructure Damage
 
@@ -6466,6 +6259,41 @@ Track reputation with different factions using a simple scale:
 - **Friendly (+2):** Trusted, reduced difficulties, minor favors
 - **Allied (+3):** Strong relationship, major favors, protection
 
+### Changing Reputation
+
+#### Positive Reputation Changes
+To increase reputation with a faction, characters must:
+- **0 to +1:** Complete one significant favor or quest
+- **+1 to +2:** Complete two major tasks OR one critical mission
+- **+2 to +3:** Complete three major tasks OR save faction leadership/critical assets
+
+<div class='note'>
+
+#### <u>GM Tips: Reputation Progression</u>
+
+Make reputation changes meaningful and scaled:
+- **Exponential Effort:** Each positive level should require twice the effort of the previous (1 task for +1, 2 for +2, 4 for +3)
+- **Instant Infamy:** Negative reputation is easier to gain - one betrayal can undo months of work
+- **Faction Memory:** Factions remember both good and bad deeds. Past -2 reputation requires extraordinary acts to recover
+- **Ripple Effects:** Major reputation changes with one faction affect others (helping crime families hurts Ranger reputation)
+- **Time Factor:** Some reputation naturally decays toward neutral over months of inactivity
+
+Consider reputation thresholds for story beats:
+- **+2:** Faction actively helps in adventures
+- **-2:** Faction actively hinders adventures
+- **+3/-3:** Major campaign consequences
+
+</div>
+
+\columnbreak
+
+#### Negative Reputation Changes
+Reputation decreases from:
+- **0 to -1:** Minor offense or working against faction interests
+- **-1 to -2:** Major betrayal or harming faction members
+- **-2 to -3:** Catastrophic damage to faction or killing important members
+
+
 ### Key Factions
 
 #### The Five Burrows
@@ -6489,7 +6317,11 @@ At character creation, players must choose:
 - **One faction at +1 reputation** (friendly relationship)  
 - **One faction at +2 reputation** (allied relationship)
 
-\columnbreak
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Detailed Faction Benefits and Consequences
 
@@ -6513,11 +6345,6 @@ At character creation, players must choose:
 - **Allied (+3):** Full community support and resources, access to agricultural innovations, participation in consensus decision-making, protection during crises. Can request community-wide assistance.
 - **Friendly (+2):** Preferred access to honey and agricultural products, invitations to community gatherings, assistance with family matters, access to traditional knowledge.
 - **Neutral (0):** Standard market prices and community interactions.
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 - **Unfriendly (-2):** Higher prices for agricultural goods, exclusion from community events, difficulty accessing traditional services, social isolation.
 - **Hostile (-3):** Complete social ostracism, denial of essential services, active interference with agricultural needs, potential exile from community areas.
@@ -6547,7 +6374,10 @@ At character creation, players must choose:
 - **Unfriendly (-2):** Increased protection payments, harassment from family associates, difficulty accessing illegal goods, potential targeting for "examples."
 - **Hostile (-3):** Active targeting for violence, complete exclusion from criminal services, sabotage of legitimate business, potential assassination attempts.
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 **The Whisker Family - Modern Rackets**
 - **Allied (+3):** Partnership in criminal enterprises, access to advanced criminal techniques, protection from law enforcement, share in family profits. Can request major criminal operations.
@@ -6570,10 +6400,7 @@ At character creation, players must choose:
 - **Unfriendly (-2):** Higher prices for information, potential exposure of minor secrets, exclusion from information networks, surveillance and harassment.
 - **Hostile (-3):** Active information warfare, exposure of major secrets, complete exclusion from intelligence services, potential blackmail and extortion.
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
+\columnbreak
 
 #### The Ranger Corps
 
@@ -6584,7 +6411,6 @@ At character creation, players must choose:
 - **Unfriendly (-2):** Exclusion from military assistance, difficulty accessing Ranger services, potential surveillance, reduced protection during emergencies.
 - **Hostile (-3):** Active military opposition, denial of emergency services, potential arrest or detention, targeting as security threat.
 
-\columnbreak 
 <div class='example'>
 
 ##### Example Faction Relationships
@@ -6595,6 +6421,11 @@ A **Mousehattan trader** could be **Allied (+3)** with Mousehattan's corporate o
 A **Scurry Island Ranger** might be **Allied (+3)** with the Ranger Corps, **Friendly (+2)** with Scurry Island's survival hierarchy, but **Unfriendly (-2)** with Mousehattan's corporate interests due to conflicts over resource allocation for titan defense.
 
 </div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Economic Status
 
