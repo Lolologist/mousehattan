@@ -2071,252 +2071,6 @@ This creates intergenerational dynamics where longer-lived species serve as ment
 
 \pagebreakNum
 
-# The Five Burrows - Detailed Guide
-
-Each burrow has its own distinct character, challenges, and opportunities. Understanding the neighborhoods and notable locations helps bring The Great Burrow to life.
-
-## Mousehattan - The Vertical Metropolis
-
-### Districts
-
-#### Wall Street (Financial District)
-Literally carved into the main rock wall beneath the Trading Oak, this is the economic heart of The Great Burrow.
-- **The Acorn Exchange Trading Floor**: Inside the Trading Oak's hollow, sets prices forest-wide
-- **Root Vaults**: Ancient storage chambers where old families keep their wealth
-- **Counting Rooms**: Traditional notched-stick tallying systems still in use
-- **Grove Rights Office**: Where oak territory ownership is registered
-
-#### Times Squeak (Entertainment District)
-Where five major tunnels converge beneath interlocking roots, buzzing with 24-hour activity.
-- **Firefly Lantern District**: Managed colonies provide atmospheric lighting
-- **The Squeak**: Famous performance venue for death theater and comedy
-- **Roasted Seed Row**: Street vendors selling traditional and fusion snacks
-- **The Moonlight Market**: After-hours trading in "fell off the tree" goods
-
-#### Upper East Roots (Old Money Residential)
-Carved into the most stable oak root systems, home to established families.
-- **The Acorn Club**: Exclusive social organization requiring 5-generation membership
-- **Gallery Row**: Displaying rare seeds, pressed leaves, and natural art
-- **Private Warren Entrances**: Multi-generation family homes with dedicated access
-- **The Four Hundred Hall**: Meeting place for descendants of original settlers
-
-#### Midtown Tunnels (Commercial Center)
-Busy shopping districts and merchant headquarters serving all creatures.
-- **The Great Bazaar**: Indoor market spanning three levels
-- **Craftsmouse Quarter**: Traditional trades, apprenticeship guilds
-- **Honey Board**: Where Hives products are priced daily
-- **Fur & Whisker**: Grooming and social networking center
-
-#### Village Burrows (Bohemian Quarter)
-Maze-like informal tunnels housing artists, radicals, and newcomers.
-- **The Crumb**: Famous intellectual gathering spot and debate hall
-- **Underground Press Alley**: Bark-carved printing blocks, radical publications
-- **Cheap Rent Warrens**: Most affordable housing, most "character"
-- **The Gnaw**: 24-hour diner for night workers and bohemians
-
-### Notable Locations
-- **Grand Central Burrow**: All Underground lines converge here, architectural marvel
-- **The Whiskers Building**: Tallest carved structure at 12 stories, mixed use
-- **Root Cathedral**: Natural chamber where three oaks meet, used for ceremonies
-- **The Squeakeasy**: Hidden bar run by Longtail Family, password required
-- **Claw & Associates**: Most prestigious law firm, handles inter-burrow disputes
-
-\columnbreak
-
-## The Branchx - The Canopy Commons
-
-### Districts
-
-#### Old Grove (Traditional Heights)
-The original canopy settlement, where height equals status.
-- **Branch Level Courts**: Squirrel family compounds at premium heights
-- **The High Branch Club**: Exclusive venue for upper canopy families
-- **Covered Bridges**: Ancient rope and bark constructions, heavily maintained
-- **Emergency Bark Slides**: Rapid evacuation routes installed after hawk attacks
-
-#### New Growth (Working Neighborhoods)
-Recently expanded areas housing construction workers and their families.
-- **Union Hall**: Nutcracker Union headquarters, center of organizing
-- **Tool Libraries**: Communal equipment sharing for construction crews
-- **Worker Taverns**: After-shift gathering places with cheap root beer
-- **The Failed Tunnel Entrance**: Sealed but still a landmark of broken promises
-
-#### The Tangles (Mixed Housing)
-Where different species intermingle in complex rope-and-platform neighborhoods.
-- **Courier Central**: Chipmunk racing clubs and dispatch offices
-- **Mixed Markets**: Species-diverse shopping with unusual goods
-- **Platform Parks**: Public spaces built around major tree junctions
-- **Community Centers**: Cross-species gathering places
-
-#### Corvid Corner (Allied Territory)
-Where crow allies maintain their embassy and trading posts.
-- **The Crow's Nest**: Diplomatic compound off-limits to most mammals
-- **Shiny Things Market**: Corvid-run trading post for unusual items
-- **Message Towers**: Where crow-carried communications are dispatched
-- **The Black Feather**: Tavern where treaties were signed
-
-### Notable Locations
-- **Grove Junction Station**: Major Underground stop with famous mosaic murals
-- **Bridge 42**: Longest span in the burrow, engineering marvel
-- **Nutcracker Arena**: Where construction competitions are held
-- **The Splinter**: Notorious tough bar in the lower branches
-- **Height Court**: Where branch-level disputes are settled
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## The Hives - The Crossroads Community
-
-### Districts
-
-#### Central Market (The Great Interchange)
-The beating commercial heart where all trade routes converge.
-- **The Sorting Yards**: Where goods are distributed to local merchants
-- **Three-Line Platform**: Underground junction connecting major routes
-- **Wholesale Row**: Bulk goods from external settlements
-- **Currency Exchange**: Converting between acorns and barter goods
-
-#### Prairie Dog Quarter (Democratic Hub)
-Home to the grassland settlers and their consensus governance.
-- **Circle Halls**: Open democratic forums for community decisions
-- **The Burrow Network**: Interconnected family tunnels with communal spaces
-- **Grassland Goods**: Shops specializing in prairie imports
-- **Town Crier Platforms**: Where daily news is announced
-
-#### Rabbit Warrens (Agricultural Nobility)
-Traditional farming families with extensive underground complexes.
-- **Honey Vaults**: Climate-controlled storage for valuable bee products
-- **The Agricultural Exchange**: Seed and harvest futures trading
-- **Warren Mansions**: Multi-level family compounds with private gardens
-- **Heritage Seed Library**: Preserving traditional varieties
-
-#### Mountain Quarter (Innovation District)
-Where guinea pig settlers brought new techniques and perspectives.
-- **Terracing Demonstrations**: Showing new agricultural methods
-- **The Innovation Hub**: Experimentation with insect partnerships
-- **Mountain Crafts Market**: Unique goods from highland traditions
-- **Community Kitchens**: Shared cooking spaces with fusion cuisine
-
-### Notable Locations
-- **The Great Interchange**: Massive Underground station, three levels
-- **Beetle Racing Arena**: Popular entertainment and gambling venue
-- **The Honeycomb**: Finest restaurant in the burrow, reservation only
-- **Unity Gardens**: Public space celebrating species cooperation
-- **The Democratic Archive**: Records of all community decisions
-
-\columnbreak
-
-## Lin's Brook - The Working Waterfront
-
-### Districts
-
-#### Dockside (The Wet Works)
-Where water meets commerce in endless activity.
-- **Ferry Terminals**: Departures to Scurry Island (when running)
-- **Fish Markets**: Dawn auctions of the night's catch
-- **Otter Slide Complex**: Competitive racing venue and transit system
-- **The Salty Whisker**: Roughest tavern on the waterfront
-
-#### Dam District (Power Center)
-The engineering heart providing energy to workshops.
-- **The Great Dam**: Marvel of beaver engineering, tours available
-- **Power Distribution**: Water wheels driving workshop machinery
-- **Engineer's Guild**: Beaver-dominated but accepting apprentices
-- **Dam View Overlook**: Tourist spot and romantic meeting place
-
-#### Old Town (Traditional Neighborhood)
-Original settlement predating the dam construction.
-- **Water Rights Court**: Ancient institution managing stream access
-- **Heritage Workshops**: Traditional crafts passed down generations
-- **The Current**: Historic tavern where dam plans were drawn
-- **Memorial Grove**: Honoring those lost in the Great Flood
-
-#### Greenbank (Gentrification Ground Zero)
-Former working-class area transforming rapidly.
-- **Artisanal Row**: Craft breweries and specialty goods shops
-- **The Conflict Zone**: Where old-timers clash with newcomers
-- **Priced Out Memorial**: Graffiti wall documenting displacement
-- **The Last Honest Bar**: Holdout against gentrification
-
-### Notable Locations
-- **Creek Crossing Station**: Major Underground stop, always damp
-- **The Waterworks**: Engineering guild headquarters and museum
-- **Silverclaw Compound**: Crime family's "legitimate" businesses
-- **The Spillway**: Underground fighting ring location
-- **Flood Memorial**: Marking high water from 59 years ago
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Scurry Island - The Forgotten Burrow
-
-### Districts
-
-#### The Trunk (Market District)
-Built inside the hollow of the fallen giant oak.
-- **Black Market Bazaar**: Anything available for the right price
-- **The Contraband Corner**: Illegal goods displayed openly
-- **Fence Row**: Where stolen goods are "cleaned"
-- **No Questions Inn**: Lodging for those needing discretion
-
-#### Root Town (Residential Maze)
-Defensive warren of tunnels in the root system.
-- **The Disappearing**: Witness protection neighborhood
-- **Sanctuary Alley**: Safe houses for creatures on the run
-- **The Forgotten**: Where you go to lose your past
-- **Underground Underground**: Deeper levels for true anonymity
-
-#### The Crown (Vertical Slums)
-Precarious structures built up the dead tree's branches.
-- **Desperate Heights**: Cheapest housing, most dangerous
-- **Rope Ladder Networks**: Only access to upper levels
-- **The Windbreak**: Partial shelter from weather
-- **Scavenger's Rest**: Where island's poorest survive
-
-#### Heartwood (The Deep Dark)
-Carved into the dead oak's core, mysterious and dangerous.
-- **The Archive**: Pre-city artifacts and strange carvings
-- **Deep Market**: Truly dangerous goods and services
-- **The Quiet Rooms**: Where deals requiring silence are made
-- **Ancient Chambers**: Some say pre-Burrow civilization remains
-
-### Notable Locations
-- **Ranger Command**: Elite force headquarters facing the Deep Woods
-- **Ferry Dock**: Unreliable connection to mainland (usually broken)
-- **The Old Giant's Base**: Tourist spot and historical marker
-- **Training Grounds**: Where Rangers test recruits
-- **The Last Stand**: Memorial to Rangers who didn't return
-
-### Ranger Operations
-The Rangers maintain strict protocols for titan defense:
-- **Watch Rotations**: Constant surveillance of Deep Woods
-- **Quick Response Teams**: Ready to deploy within minutes
-- **Evacuation Coordinators**: Working with each burrow's plans
-- **Training Academy**: Only the desperate and brave need apply
-
-<div class='note'>
-
-#### <u>Travel Between Burrows</u>
-
-**Underground Transit Times:**
-- Mousehattan ↔ Hives: 15 minutes express
-- Mousehattan ↔ Branchx: 12 minutes local
-- Hives ↔ Lin's Brook: 18 minutes express
-- Any ↔ Scurry Island: Ferry only (45 min when running)
-
-**Peak Hours:** Dawn and dusk commutes see severe crowding. Predator alerts can shut down surface routes instantly.
-
-</div>
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 # Careers
 
 ## Burrow-Specific Careers
@@ -2484,6 +2238,12 @@ Different species bring their unique cultural approaches and natural abilities t
 - **Price:** +20% (specialized underground applications)
 - **Aesthetics:** Tactile construction with raised surfaces and texture guides. No visual elements needed. Built for underground durability.
 
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### Skunk-Made Equipment
 - **Modifications:** Add Intimidating quality, +1 <span class='boost'>b</span> to Coercion when visible
 - **Price:** +25% (reputation and specialized construction)
@@ -2493,6 +2253,7 @@ Different species bring their unique cultural approaches and natural abilities t
 - **Modifications:** Add Flexible quality, can be quickly reconfigured for different uses
 - **Price:** +15% (multi-purpose design complexity)
 - **Aesthetics:** Modular construction with interchangeable parts. Bright, eye-catching colors and patterns. Built for entertainment and deal-making.
+
 
 <div class='example'>
 
@@ -2527,6 +2288,8 @@ A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add <spa
 - **Fishing Spear:** Damage 4, Crit 3, Range [Short], Encumbrance 2, Price 18 acorns, *Accurate 1* (underwater)
 - **Climbing Pick:** Damage 3, Crit 4, Range [Engaged], Encumbrance 1, Price 22 acorns, *Pierce 1, Defensive 1*
 
+\columnbreak
+
 ### Ranger Equipment
 - **Poison Dart:** Damage 3, Crit 2, Range [Short], Encumbrance 0, Price 25 acorns, *Poison (stun)*
 - **Entanglement Net:** Damage 1, Crit 6, Range [Short], Encumbrance 2, Price 50 acorns, *Ensnare 2*
@@ -2543,6 +2306,12 @@ A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add <spa
 - **Thorn Whip:** Damage 2, Crit 4, Range [Short], Encumbrance 1, Price 30 acorns, *Ensnare 1*
 - **Sap Glue Trap:** Damage 0, Crit -, Range [Short], Encumbrance 1, Price 25 acorns, *Immobilize 2*
 - **Acorn Sling Staff:** Damage 5, Crit 4, Range [Medium], Encumbrance 2, Price 45 acorns, *Accurate 1, Two-handed*
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Armor
 
@@ -2573,74 +2342,267 @@ A **Raccoon-made Lockpick Set** would have Price 58 acorns (45 + 30%), *Add <spa
 \pagebreakNum
 
 
-# Arts and Entertainment
+# The Five Burrows - Detailed Guide
 
-The Great Burrow's cultural life reflects diverse species and unique urban forest challenges.
+Each burrow has its own distinct character, challenges, and opportunities. Understanding the neighborhoods and notable locations helps bring The Great Burrow to life.
 
-## Theater and Performance
+## Mousehattan - The Vertical Metropolis
 
-### The Grand Oak Theater *(Mousehattan)*
-- **Location:** Carved into the base of the Trading Oak
-- **Capacity:** 800 creatures across four tiers
-- **Programming:** Classical dramas, modern comedies, musical revues
-- **Audience:** Primarily upper-class mice and rats
-- **Notable Productions:** "The Merchant of Mousehattan," "A Midsummer Night's Squeak"
+### Districts
 
-### The People's Stage *(The Branchx)*
-- **Location:** Natural amphitheater formed by intersecting branches
-- **Capacity:** 1,200 creatures, standing room only
-- **Programming:** Union rallies, folk performances, political satire
-- **Audience:** Working-class creatures from all burrows
-- **Notable Productions:** "The Nutcracker's Revenge," "Bridges of Madison County (Tree)"
+#### Wall Street (Financial District)
+Literally carved into the main rock wall beneath the Trading Oak, this is the economic heart of The Great Burrow.
+- **The Acorn Exchange Trading Floor**: Inside the Trading Oak's hollow, sets prices forest-wide
+- **Root Vaults**: Ancient storage chambers where old families keep their wealth
+- **Counting Rooms**: Traditional notched-stick tallying systems still in use
+- **Grove Rights Office**: Where oak territory ownership is registered
 
-### The Crossroads Theater *(The Hives)*
-- **Location:** Multiple venues throughout the burrow, rotating between districts
-- **Programming:** Immigrant stories, fusion works, cultural celebrations
-- **Audience:** Most diverse in the city, heavy working-class and immigrant attendance
-- **Cultural Impact:** Showcases immigrant experiences and promotes cultural understanding
+#### Times Squeak (Entertainment District)
+Where five major tunnels converge beneath interlocking roots, buzzing with 24-hour activity.
+- **Firefly Lantern District**: Managed colonies provide atmospheric lighting
+- **The Squeak**: Famous performance venue for death theater and comedy
+- **Roasted Seed Row**: Street vendors selling traditional and fusion snacks
+- **The Moonlight Market**: After-hours trading in "fell off the tree" goods
+
+#### Upper East Roots (Old Money Residential)
+Carved into the most stable oak root systems, home to established families.
+- **The Acorn Club**: Exclusive social organization requiring 5-generation membership
+- **Gallery Row**: Displaying rare seeds, pressed leaves, and natural art
+- **Private Warren Entrances**: Multi-generation family homes with dedicated access
+- **The Four Hundred Hall**: Meeting place for descendants of original settlers
+
 
 \columnbreak
 
-## Visual Arts
+#### Midtown Tunnels (Commercial Center)
+Busy shopping districts and merchant headquarters serving all creatures.
+- **The Great Bazaar**: Indoor market spanning three levels
+- **Craftsmouse Quarter**: Traditional trades, apprenticeship guilds
+- **Honey Board**: Where Hives products are priced daily
+- **Fur & Whisker**: Grooming and social networking center
 
-### The Mousehattan Museum of Natural Arts
-- **Collection:** Ancient acorns, preserved leaves, mineral specimens, fossils
-- **Special Exhibitions:** Rotating displays of contemporary creature art
-- **Education Programs:** Art classes for young creatures
-- **Controversy:** Debates over "modern" vs. "traditional" art
+#### Village Burrows (Bohemian Quarter)
+Maze-like informal tunnels housing artists, radicals, and newcomers.
+- **The Crumb**: Famous intellectual gathering spot and debate hall
+- **Underground Press Alley**: Bark-carved printing blocks, radical publications
+- **Cheap Rent Warrens**: Most affordable housing, most "character"
+- **The Gnaw**: 24-hour diner for night workers and bohemians
 
-### The Canopy Gallery Circuit *(The Branchx)*
-- **Format:** Art displayed on bridge supports and tree trunks
-- **Artists:** Working creatures creating in spare time
-- **Themes:** Labor, community, resistance to gentrification
-- **Medium:** Bark carvings, rope sculptures, found object installations
+### Notable Locations
+- **Grand Central Burrow**: All Underground lines converge here, architectural marvel
+- **The Whiskers Building**: Tallest carved structure at 12 stories, mixed use
+- **Root Cathedral**: Natural chamber where three oaks meet, used for ceremonies
+- **The Squeakeasy**: Hidden bar run by Longtail Family, password required
+- **Claw & Associates**: Most prestigious law firm, handles inter-burrow disputes
 
-### The Hives Cultural Collective
-- **Focus:** Multicultural art celebrating immigrant traditions and fusion
-- **Products:** Prairie dog pottery, marmot stonework, guinea pig textiles
-- **Philosophy:** Art as bridge between cultures, celebrating diversity
-- **Innovation:** Cross-cultural artistic techniques creating new art forms
-
-<div class='note'>
-
-#### <u>Cultural Venues by Burrow</u>
-
-**Mousehattan:** Grand Oak Theater, Museum of Natural Arts, exclusive private galleries
-
-**The Branchx:** People's Stage, Canopy Gallery Circuit, union-sponsored murals
-
-**The Hives:** Crossroads Theater, Cultural Collective, rotating cultural festivals
-
-**Lin's Brook:** Waterfront performance spaces, folk music traditions, craftsman workshops
-
-**Scurry Island:** Death Theater, underground galleries, survival-themed performances
-
-</div>
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
+<div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
+
+## The Branchx - The Canopy Commons
+
+### Districts
+
+#### Old Grove (Traditional Heights)
+The original canopy settlement, where height equals status.
+- **Branch Level Courts**: Squirrel family compounds at premium heights
+- **The High Branch Club**: Exclusive venue for upper canopy families
+- **Covered Bridges**: Ancient rope and bark constructions, heavily maintained
+- **Emergency Bark Slides**: Rapid evacuation routes installed after hawk attacks
+
+#### New Growth (Working Neighborhoods)
+Recently expanded areas housing construction workers and their families.
+- **Union Hall**: Nutcracker Union headquarters, center of organizing
+- **Tool Libraries**: Communal equipment sharing for construction crews
+- **Worker Taverns**: After-shift gathering places with cheap root beer
+- **The Failed Tunnel Entrance**: Sealed but still a landmark of broken promises
+
+#### The Tangles (Mixed Housing)
+Where different species intermingle in complex rope-and-platform neighborhoods.
+- **Courier Central**: Chipmunk racing clubs and dispatch offices
+- **Mixed Markets**: Species-diverse shopping with unusual goods
+- **Platform Parks**: Public spaces built around major tree junctions
+- **Community Centers**: Cross-species gathering places
+
+\columnbreak
+
+#### Corvid Corner (Allied Territory)
+Where crow allies maintain their embassy and trading posts.
+- **The Crow's Nest**: Diplomatic compound off-limits to most mammals
+- **Shiny Things Market**: Corvid-run trading post for unusual items
+- **Message Towers**: Where crow-carried communications are dispatched
+- **The Black Feather**: Tavern where treaties were signed
+
+### Notable Locations
+- **Grove Junction Station**: Major Underground stop with famous mosaic murals
+- **Bridge 42**: Longest span in the burrow, engineering marvel
+- **Nutcracker Arena**: Where construction competitions are held
+- **The Splinter**: Notorious tough bar in the lower branches
+- **Height Court**: Where branch-level disputes are settled
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## The Hives - The Crossroads Community
+
+### Districts
+
+#### Central Market (The Great Interchange)
+The beating commercial heart where all trade routes converge.
+- **The Sorting Yards**: Where goods are distributed to local merchants
+- **Three-Line Platform**: Underground junction connecting major routes
+- **Wholesale Row**: Bulk goods from external settlements
+- **Currency Exchange**: Converting between acorns and barter goods
+
+#### Prairie Dog Quarter (Democratic Hub)
+Home to the grassland settlers and their consensus governance.
+- **Circle Halls**: Open democratic forums for community decisions
+- **The Burrow Network**: Interconnected family tunnels with communal spaces
+- **Grassland Goods**: Shops specializing in prairie imports
+- **Town Crier Platforms**: Where daily news is announced
+
+#### Rabbit Warrens (Agricultural Nobility)
+Traditional farming families with extensive underground complexes.
+- **Honey Vaults**: Climate-controlled storage for valuable bee products
+- **The Agricultural Exchange**: Seed and harvest futures trading
+- **Warren Mansions**: Multi-level family compounds with private gardens
+- **Heritage Seed Library**: Preserving traditional varieties
+
+\columnbreak
+
+#### Mountain Quarter (Innovation District)
+Where guinea pig settlers brought new techniques and perspectives.
+- **Terracing Demonstrations**: Showing new agricultural methods
+- **The Innovation Hub**: Experimentation with insect partnerships
+- **Mountain Crafts Market**: Unique goods from highland traditions
+- **Community Kitchens**: Shared cooking spaces with fusion cuisine
+
+### Notable Locations
+- **The Great Interchange**: Massive Underground station, three levels
+- **Beetle Racing Arena**: Popular entertainment and gambling venue
+- **The Honeycomb**: Finest restaurant in the burrow, reservation only
+- **Unity Gardens**: Public space celebrating species cooperation
+- **The Democratic Archive**: Records of all community decisions
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Lin's Brook - The Working Waterfront
+
+### Districts
+
+#### Dockside (The Wet Works)
+Where water meets commerce in endless activity.
+- **Ferry Terminals**: Departures to Scurry Island (when running)
+- **Fish Markets**: Dawn auctions of the night's catch
+- **Otter Slide Complex**: Competitive racing venue and transit system
+- **The Salty Whisker**: Roughest tavern on the waterfront
+
+#### Dam District (Power Center)
+The engineering heart providing energy to workshops.
+- **The Great Dam**: Marvel of beaver engineering, tours available
+- **Power Distribution**: Water wheels driving workshop machinery
+- **Engineer's Guild**: Beaver-dominated but accepting apprentices
+- **Dam View Overlook**: Tourist spot and romantic meeting place
+
+#### Old Town (Traditional Neighborhood)
+Original settlement predating the dam construction.
+- **Water Rights Court**: Ancient institution managing stream access
+- **Heritage Workshops**: Traditional crafts passed down generations
+- **The Current**: Historic tavern where dam plans were drawn
+- **Memorial Grove**: Honoring those lost in the Great Flood
+
+#### Greenbank (Gentrification Ground Zero)
+Former working-class area transforming rapidly.
+- **Artisanal Row**: Craft breweries and specialty goods shops
+- **The Conflict Zone**: Where old-timers clash with newcomers
+- **Priced Out Memorial**: Graffiti wall documenting displacement
+- **The Last Honest Bar**: Holdout against gentrification
+
+### Notable Locations
+- **Creek Crossing Station**: Major Underground stop, always damp
+- **The Waterworks**: Engineering guild headquarters and museum
+- **Silverclaw Compound**: Crime family's "legitimate" businesses
+- **The Spillway**: Underground fighting ring location
+- **Flood Memorial**: Marking high water from 59 years ago
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Scurry Island - The Forgotten Burrow
+
+### Districts
+
+#### The Trunk (Market District)
+Built inside the hollow of the fallen giant oak.
+- **Black Market Bazaar**: Anything available for the right price
+- **The Contraband Corner**: Illegal goods displayed openly
+- **Fence Row**: Where stolen goods are "cleaned"
+- **No Questions Inn**: Lodging for those needing discretion
+
+#### Root Town (Residential Maze)
+Defensive warren of tunnels in the root system.
+- **The Disappearing**: Witness protection neighborhood
+- **Sanctuary Alley**: Safe houses for creatures on the run
+- **The Forgotten**: Where you go to lose your past
+- **Underground Underground**: Deeper levels for true anonymity
+
+#### The Crown (Vertical Slums)
+Precarious structures built up the dead tree's branches.
+- **Desperate Heights**: Cheapest housing, most dangerous
+- **Rope Ladder Networks**: Only access to upper levels
+- **The Windbreak**: Partial shelter from weather
+- **Scavenger's Rest**: Where island's poorest survive
+
+#### Heartwood (The Deep Dark)
+Carved into the dead oak's core, mysterious and dangerous.
+- **The Archive**: Pre-city artifacts and strange carvings
+- **Deep Market**: Truly dangerous goods and services
+- **The Quiet Rooms**: Where deals requiring silence are made
+- **Ancient Chambers**: Some say pre-Burrow civilization remains
+
+### Notable Locations
+- **Ranger Command**: Elite force headquarters facing the Deep Woods
+- **Ferry Dock**: Unreliable connection to mainland (usually broken)
+- **The Old Giant's Base**: Tourist spot and historical marker
+- **Training Grounds**: Where Rangers test recruits
+- **The Last Stand**: Memorial to Rangers who didn't return
+
+\columnbreak
+
+### Ranger Operations
+The Rangers maintain strict protocols for titan defense:
+- **Watch Rotations**: Constant surveillance of Deep Woods
+- **Quick Response Teams**: Ready to deploy within minutes
+- **Evacuation Coordinators**: Working with each burrow's plans
+- **Training Academy**: Only the desperate and brave need apply
+
+<div class='note'>
+
+#### <u>Travel Between Burrows</u>
+
+**Underground Transit Times:**
+- Mousehattan ↔ Hives: 15 minutes express
+- Mousehattan ↔ Branchx: 12 minutes local
+- Hives ↔ Lin's Brook: 18 minutes express
+- Any ↔ Scurry Island: Ferry only (45 min when running)
+
+**Peak Hours:** Dawn and dusk commutes see severe crowding. Predator alerts can shut down surface routes instantly.
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 
 ## Communication Systems
 
@@ -2670,29 +2632,11 @@ A typical creature might start the day reading The Daily Squeak over breakfast, 
 
 </div>
 
-## Festivals and Celebrations
-
-### The Great Burrow Calendar
-**Seasonal Structure:** Spring Awakening (renewal, planting), Summer Growth (peak activity, construction), Autumn Harvest (gathering, gratitude), Winter Rest (reflection, community bonding)
-
-### Major Festivals
-
-#### The Great Awakening *(Spring Equinox)*
-City-wide celebration of renewal and new beginnings. Communities plant new gardens, begin construction projects, and hold renewal ceremonies.
-
-#### Midsummer Construction Festival
-Celebrating the peak building season. Competitions between construction crews, displays of craftsmanship, and community barn-raising events.
-
-#### Harvest Gratitude *(Autumn Equinox)*
-Thanksgiving for the year's abundance. Each burrow contributes traditional foods, cultural performances showcase diversity, and communities share resources for winter preparation.
-
-#### The Long Night *(Winter Solstice)*
-Community bonding during the darkest time. Underground gatherings with storytelling, planning for next year, and mutual aid distribution.
-
-<div class=\"footnote\">THE GREAT BURROW<BR />
+<div class="footnote">THE GREAT BURROW<BR />
 <p>GENESYS RPG</p></div>
 
 \pagebreakNum
+
 
 ## Insect-Powered Technology
 
@@ -2727,6 +2671,8 @@ Community bonding during the darkest time. Underground gatherings with storytell
 - **Medical Kit:** Medicine supplies for treating injuries, Price 80 acorns, *Add <span class='boost'>b</span> to Medicine checks*
 - **Carpenter's Tools:** Mechanics tools for woodworking, Price 60 acorns, *Add <span class='boost'>b</span> to construction checks*
 
+\columnbreak
+
 #### Survival Gear
 - **Emergency Rations:** 3 days food, Price 15 acorns
 - **Water Purification Tablets:** Makes questionable water safe, Price 10 acorns (10 uses)
@@ -2757,6 +2703,12 @@ Community bonding during the darkest time. Underground gatherings with storytell
 - **Butterfly Messenger:** Delicate but fast communication, Price 35 acorns, *90% success, same-day delivery within city*
 - **Beetle Mill:** Portable grinding device, Price 120 acorns, *Processes grain and nuts, requires beetle labor*
 - **Silk Parachute:** Emergency descent device, Price 100 acorns, *Prevents falling damage from any height*
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Transportation
 
@@ -2816,6 +2768,103 @@ Equipment needs change dramatically with the seasons in The Great Burrow:
 
 \pagebreakNum
 
+
+## Arts and Entertainment
+
+The Great Burrow's cultural life reflects diverse species and unique urban forest challenges.
+
+### Theater and Performance
+
+#### The Grand Oak Theater *(Mousehattan)*
+- **Location:** Carved into the base of the Trading Oak
+- **Capacity:** 800 creatures across four tiers
+- **Programming:** Classical dramas, modern comedies, musical revues
+- **Audience:** Primarily upper-class mice and rats
+- **Notable Productions:** "The Merchant of Mousehattan," "A Midsummer Night's Squeak"
+
+#### The People's Stage *(The Branchx)*
+- **Location:** Natural amphitheater formed by intersecting branches
+- **Capacity:** 1,200 creatures, standing room only
+- **Programming:** Union rallies, folk performances, political satire
+- **Audience:** Working-class creatures from all burrows
+- **Notable Productions:** "The Nutcracker's Revenge," "Bridges of Madison County (Tree)"
+
+#### The Crossroads Theater *(The Hives)*
+- **Location:** Multiple venues throughout the burrow, rotating between districts
+- **Programming:** Immigrant stories, fusion works, cultural celebrations
+- **Audience:** Most diverse in the city, heavy working-class and immigrant attendance
+- **Cultural Impact:** Showcases immigrant experiences and promotes cultural understanding
+
+\columnbreak
+
+### Visual Arts
+
+#### The Mousehattan Museum of Natural Arts
+- **Collection:** Ancient acorns, preserved leaves, mineral specimens, fossils
+- **Special Exhibitions:** Rotating displays of contemporary creature art
+- **Education Programs:** Art classes for young creatures
+- **Controversy:** Debates over "modern" vs. "traditional" art
+
+#### The Canopy Gallery Circuit *(The Branchx)*
+- **Format:** Art displayed on bridge supports and tree trunks
+- **Artists:** Working creatures creating in spare time
+- **Themes:** Labor, community, resistance to gentrification
+- **Medium:** Bark carvings, rope sculptures, found object installations
+
+#### The Hives Cultural Collective
+- **Focus:** Multicultural art celebrating immigrant traditions and fusion
+- **Products:** Prairie dog pottery, marmot stonework, guinea pig textiles
+- **Philosophy:** Art as bridge between cultures, celebrating diversity
+- **Innovation:** Cross-cultural artistic techniques creating new art forms
+
+<div class='note'>
+
+##### <u>Cultural Venues by Burrow</u>
+
+**Mousehattan:** Grand Oak Theater, Museum of Natural Arts, exclusive private galleries
+
+**The Branchx:** People's Stage, Canopy Gallery Circuit, union-sponsored murals
+
+**The Hives:** Crossroads Theater, Cultural Collective, rotating cultural festivals
+
+**Lin's Brook:** Waterfront performance spaces, folk music traditions, craftsman workshops
+
+**Scurry Island:** Death Theater, underground galleries, survival-themed performances
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Festivals and Celebrations
+
+### The Great Burrow Calendar
+**Seasonal Structure:** Spring Awakening (renewal, planting), Summer Growth (peak activity, construction), Autumn Harvest (gathering, gratitude), Winter Rest (reflection, community bonding)
+
+### Major Festivals
+
+#### The Great Awakening *(Spring Equinox)*
+City-wide celebration of renewal and new beginnings. Communities plant new gardens, begin construction projects, and hold renewal ceremonies.
+
+#### Midsummer Construction Festival
+Celebrating the peak building season. Competitions between construction crews, displays of craftsmanship, and community barn-raising events.
+
+\columnbreak
+
+#### Harvest Gratitude *(Autumn Equinox)*
+Thanksgiving for the year's abundance. Each burrow contributes traditional foods, cultural performances showcase diversity, and communities share resources for winter preparation.
+
+#### The Long Night *(Winter Solstice)*
+Community bonding during the darkest time. Underground gatherings with storytelling, planning for next year, and mutual aid distribution.
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 # New Talents
 
 ## Tier 1 Talents
@@ -2846,7 +2895,6 @@ Having survived a direct titan encounter, add <span class='boost'>b</span> to al
 ### Master Craftscreature *(Passive)*
 Choose one type of crafting (construction, insect management, etc.). Add <span class='boost'>b</span><span class='boost'>b</span> to all related checks. Reduce time and cost of creating items by 25%.
 
-\pagebreakNum
 
 ## Tier 3 Talents
 
@@ -2856,12 +2904,19 @@ Leadership position in burrow hierarchy. Add <span class='boost'>b</span><span c
 ### Ranger Elite *(Passive)*
 Veteran of multiple titan encounters. Add <span class='boost'>b</span><span class='boost'>b</span> to all combat checks against large creatures. Gain access to advanced Ranger equipment and tactics.
 
+\columnbreak
+
 ### Underground Railroad *(Active)*
 Can help creatures disappear from their old lives and start new ones. Once per session, can provide false identity, safe passage, or sanctuary for any creature.
 
 ### Titan Affinity *(Passive)*
 *Prerequisite: Survived an encounter with a Titan, or DM approval*
 One of the Titan-related skills becomes a career skill for you, based on the titan you have encountered.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Tier 4 Talents
 
@@ -2891,7 +2946,7 @@ Your species' natural entrepreneurial spirit opens doors. Reduce the difficulty 
 ### Squirrel Storage *(Passive)*
 *Prerequisite: Squirrel species*
 
-Your hoarding instincts are legendary. Increase your Encumbrance Threshold by 3. Once per session, may produce a useful common item that you "had stored away."
+Your hoarding instincts are legendary. Increase your Encumbrance Threshold by 3. Once per session, may produce a useful common item that you "had stored away" without use of a story point.
 
 ### Beaver Engineering *(Passive)*
 *Prerequisite: Beaver species*
@@ -2908,10 +2963,13 @@ Your natural grace in water extends to all movement. Add <span class='boost'>b</
 
 Your community instincts make you a natural organizer. When leading a group of 3 or more creatures, all group members gain <span class='boost'>b</span> to checks that benefit from coordination. You may use Leadership instead of other social skills when dealing with family or community matters.
 
+\columnbreak
+
 ### Guinea Pig Innovation *(Active)*
 *Prerequisite: Guinea pig species*
 
 Your mountain heritage brings fresh perspectives to old problems. Once per session, when facing a challenge that has stumped others, you may spend 2 strain to propose an unconventional solution that adds <span class='boost'>b</span><span class='boost'>b</span> to the attempt and reduces the difficulty by 1.
+
 
 ### Opossum Survivor *(Passive)*
 *Prerequisite: Opossum species*
@@ -2932,6 +2990,11 @@ Your legendary speed can be pushed to extraordinary limits. Once per encounter, 
 *Prerequisite: Mole species*
 
 Your vibration sense extends beyond mere detection. You can "read" the structural integrity of underground spaces, predict cave-ins, and find hidden passages. Add <span class='boost'>b</span><span class='boost'>b</span> to Navigation checks underground and <span class='boost'>b</span> to Perception checks to detect structural weaknesses.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Skunk Reputation *(Passive)*
 *Prerequisite: Skunk species*
@@ -2984,6 +3047,9 @@ You have bonded with a cricket that serves as an early warning system. The crick
 *Prerequisite: Animal Handling 3, must have Shrew Insect Bond or similar*
 
 You have established communication with a local ant colony. Once per session, you can request the colony's assistance for information gathering, small item transport, or creating diversions. The ants will perform reasonable tasks that don't endanger the colony.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
 \pagebreakNum
 
@@ -3039,6 +3105,12 @@ What passes for magic comes from direct encounters with the giants:
 - **Religious Significance:** Titan Speakers often display these phenomena, reinforcing their spiritual authority
 - **Scientific Denial:** Academics and intellectuals actively debunk claims of supernatural abilities
 
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### Power Manifestations by Titan Type
 
 #### Deer-Blessed *(The Fortunate)*
@@ -3085,6 +3157,8 @@ What passes for magic comes from direct encounters with the giants:
 - **Forest Speech:** Limited communication with non-sapient forest creatures
 - **Seasonal Wisdom:** Enhanced knowledge of natural cycles and timing
 
+\columnbreak
+
 ### Using Magic in Campaigns
 
 #### Rarity Guidelines
@@ -3129,6 +3203,8 @@ When titans (bears, deer, moose, etc.) appear, use these special rules:
 - **Titan attacks cause massive area damage**
 - **Success means survival and escape, not victory**
 
+\columnbreak
+
 <div class='example'>
 
 ##### Titan Encounter
@@ -3158,7 +3234,10 @@ Success is measured by how many lives they save and how much of the city's infra
 - **Seasonal Patterns:** Some predators only active certain times
 - **Warning Systems:** Community alerts can provide advance notice
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Weather and Seasonal Effects
 
@@ -3335,6 +3414,11 @@ At character creation, players must choose:
 - **Unfriendly (-2):** Higher prices for agricultural goods, exclusion from community events, difficulty accessing traditional services, social isolation.
 - **Hostile (-3):** Complete social ostracism, denial of essential services, active interference with agricultural needs, potential exile from community areas.
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 **Lin's Brook - Guild Confederation**
 - **Allied (+3):** Master craftsman status and privileges, access to guild secrets and techniques, priority for construction projects, protection of trade interests. Can mobilize guild resources.
 - **Friendly (+2):** Apprenticeship opportunities, discounted crafted goods, access to guild workshops, assistance with technical problems.
@@ -3379,6 +3463,11 @@ At character creation, players must choose:
 - **Unfriendly (-2):** Higher prices for information, potential exposure of minor secrets, exclusion from information networks, surveillance and harassment.
 - **Hostile (-3):** Active information warfare, exposure of major secrets, complete exclusion from intelligence services, potential blackmail and extortion.
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 #### The Ranger Corps
 
 **Scurry Island Rangers - Elite Military**
@@ -3388,6 +3477,7 @@ At character creation, players must choose:
 - **Unfriendly (-2):** Exclusion from military assistance, difficulty accessing Ranger services, potential surveillance, reduced protection during emergencies.
 - **Hostile (-3):** Active military opposition, denial of emergency services, potential arrest or detention, targeting as security threat.
 
+\columnbreak 
 <div class='example'>
 
 ##### Example Faction Relationships
@@ -3415,6 +3505,7 @@ A **Scurry Island Ranger** might be **Allied (+3)** with the Ranger Corps, **Fri
 - **Business Ownership:** Variable income, requires investment
 - **Criminal Activity:** High risk, high reward
 
+\columnbreak 
 <div class='example'>
 
 ##### Reputation in Action
