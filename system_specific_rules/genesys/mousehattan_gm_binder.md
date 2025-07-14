@@ -2660,7 +2660,6 @@ High above the forest floor, where ancient oaks and maples create a natural metr
 ### Canopy Architecture
 - **Nest Complexes:** Woven structures anchored to major branches
 - **Bridge Network:** 47 major crossings, hundreds of minor ones
-- **Vertical Territories:** Each family controls trunk-to-crown rights in their tree
 - **Emergency Descents:** Bark-stripped slides for rapid evacuation
 
 \columnbreak
@@ -2680,7 +2679,7 @@ Where secondary branches create maze-like communities. Chipmunk courier stations
 Just above predator reach. Recent immigrants and struggling families maintaining constant vigilance.
 
 #### New Growth *(Gentrifying Edge)*
-Young trees being developed with Mousehattan money creating conflicts over development rights.
+Young trees being developed with Mousehattan money creating conflicts over development and sunlight rights.
 
 #### The Crow Zones *(Rough Territory)*
 Branches too close to crow nests. Gang territories with complex relationships with corvids.
@@ -2713,11 +2712,11 @@ Branches too close to crow nests. Gang territories with complex relationships wi
 ## Demographics & Culture
 
 ### Population Breakdown *(Total: ~18,000)*
-- **60% Squirrels (10,800):** Traditional majority, various subspecies
-- **25% Chipmunks (4,500):** Essential courier class
-- **10% Flying Squirrels (1,800):** Elite transport and message services
-- **3% Mice (540):** Usually Mousehattan gentrifiers or climbers
-- **2% Others (360):** Including reformed rats, adventurous voles
+- **50% Squirrels:** Traditional majority, various subspecies
+- **25% Chipmunks:** Essential courier class
+- **5% Flying Squirrels:** Elite transport and message services
+- **3% Mice:** Usually Mousehattan gentrifiers or climbers
+- **17% Others:** Including reformed rats, adventurous voles
 
 ### Social Hierarchy - The Height System
 
@@ -2726,7 +2725,7 @@ Branches too close to crow nests. Gang territories with complex relationships wi
 - **Bridge Barons:** Families who built and maintain major crossing monopolies
 - **The Old Nests:** Generational wealth measured in hollow ownership
 - **Winter Cache Dynasties:** Those who never experience hunger season
-- **Height Rights:** Legal documents proving branch ownership going back centuries
+- **Height Rights:** Legal documents proving branch and even tree ownership going back centuries
 
 #### High Branch Comfortable *(Levels 4-5)*
 - **Skilled Crafters:** Master builders, rope weavers, bridge engineers
@@ -2748,6 +2747,8 @@ Branches too close to crow nests. Gang territories with complex relationships wi
 - **Failed Climbers:** Those who fell from higher status
 - **Gang Prospects:** Young creatures seeing crime as only option
 - **The Forgotten:** Elderly or injured with no family support
+
+\columnbreak
 
 ### The Families and Gangs
 
@@ -2793,6 +2794,12 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - Route protection from rival gangs
 - Training academy for young runners
 
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 #### Corvid-Affiliated Groups - Serving Unknown Masters
 
 **The Black Feathers:** Mysterious squirrels and other creatures who've made dark bargains
@@ -2814,6 +2821,8 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - Territory includes prime branches near corvid roosts
 - Even other gangs avoid confrontation with them
 - Rumors of strange corvid magic and intelligence
+
+\columnbreak
 
 #### Traditional Families - Old Branch Aristocracy
 
@@ -2899,6 +2908,11 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - **Quality Testing:** Lives depend on rope integrity
 - **Specialty Products:** From climbing lines to bridge cables
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 #### Acorn Economy - Seasonal Lifeblood
 
 **Territory System:**
@@ -2937,13 +2951,15 @@ Chipmunk-dominated courier collective that's evolved into a powerful information
 - **Union Cards:** Black market membership for non-citizens
 - **Route Maps:** Secret paths sold to smugglers
 
+\columnbreak
+
 <div class='example'>
 
 ##### A Day in the Life: Nutkin Firmgrip, Construction Worker
 
 Nutkin wakes at 4:30 AM in his Level 2 family nest, shared with six relatives. Coffee—bitter bark tea—and yesterday's acorn cake before the climb to Union Tree. At shape-up, Boss Hazelnut assigns him to bridge repair on the dangerous Gap crossing. 
 
-The crew takes the long route, avoiding Crow Zone territories where the Murder's Paws extracted "tolls" last week. Work is hard but steady—replacing rotted planks while watching for hawks. During Whisker Break, talk turns to the new Mousehattan development. "Taking our best branches," someone spits.
+The crew takes the long route, avoiding Crow Zone territories where the Murder's Paws extracted "tolls" last week. Work is hard but steady—replacing rotted planks while watching for hawks. During Whisker Break, talk turns to the new Mousehattan development. "Taking our best new trees," someone spits.
 
 Lunch on the designated break-branch: shared seedcakes and gossip. Nutkin's cousin mentions the Tailwind Gang is recruiting. Better money, but dangerous work. The afternoon shift sees a close call—a hawk's shadow sends everyone scrambling for cover. Mitch Quicktail is too slow. The memorial fund will need contributions.
 
@@ -2983,7 +2999,7 @@ Night brings exhausted sleep and dreams of higher branches. Tomorrow, if the wea
 
 ### Hidden Spots
 - **Crow's Nest Neutral:** Where deals get made under corvid protection
-- **The Broken Tunnel:** Smuggler's highway beneath the canopy
+- **The Broken Tunnel:** Smuggler's highway beneath the forest floor
 - **Ghost Hollow:** Abandoned after hawk attack, said to be haunted
 - **The Undergrowth:** Secret ground-level meeting spot for radicals
 - **Cache Valley:** Hidden between branches, emergency food stores
@@ -3015,7 +3031,10 @@ Night brings exhausted sleep and dreams of higher branches. Tomorrow, if the wea
 - **The Ferret:** Information broker who somehow operates in The Branchx despite the species prejudice. No one knows where she nests. "Everything has a price, especially secrets."
 - **Thistle Sharptooth:** Rogue union breaker who hires out to whoever pays. Survived three assassination attempts. "Solidarity is just another word for target."
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Cultural Details & Traditions
 
@@ -3049,6 +3068,8 @@ The relationship between mammals and corvids remains mysterious and unsettling:
 - **The Night of Tails:** Midwinter festival where creatures show off grooming
 - **Crow's Peace:** One night per year when corvids guarantee no attacks
 
+
+\columnbreak
 <div class='note'>
 
 #### <u>More Branchx Cultural Elements</u>
@@ -3074,6 +3095,11 @@ The relationship between mammals and corvids remains mysterious and unsettling:
 - White squirrels are either blessed or cursed
 
 </div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Adventure Hooks
 
@@ -3128,6 +3154,8 @@ The relationship between mammals and corvids remains mysterious and unsettling:
 - **Cultural Exchange:** Intermarriage common between communities
 - **Mutual Respect:** "Water workers understand honest labor"
 
+\columnbreak
+
 ### With The Hives
 - **Trade Partners:** Honey for construction materials
 - **Neutral Ground:** Neither threatens the other's interests
@@ -3141,6 +3169,11 @@ The relationship between mammals and corvids remains mysterious and unsettling:
 - **Shared Resentment:** Both looked down upon by Mousehattan
 - **Escape Route:** Underground railroad for creatures in trouble
 - **Dark Reputation:** "Even they got out—what's your excuse?"
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## GM Tips for The Branchx
 
@@ -3180,6 +3213,8 @@ Working-class pride battles economic anxiety. Characters should feel tension bet
 - **Weather Readers:** Specialists who predict flying conditions
 - **The Memory Run:** Couriers who memorize messages, never write
 - **Blood Bonds:** Courier partnerships sealed with ritual
+
+\columnbreak
 
 #### The Height Economy
 - **Branch Futures:** Speculation on which trees will grow tallest
@@ -3230,8 +3265,6 @@ As The Great Burrow's logistics capital, The Hives processes goods from across t
 - **The Sorting Yards:** Warehouse district where goods are processed, sorted, and distributed to all five burrows
 - **Border Crossings:** Informal checkpoints where Rangers verify incoming traders and check for contraband
 
-\columnbreak
-
 ### Mixed Infrastructure
 The Hives showcases how different species' building traditions can combine to create something new and functional.
 
@@ -3252,6 +3285,11 @@ The beating heart of The Hives, where all communities converge. The Great Interc
 - The Diversity Council chambers with translation services
 - Tourist information and cultural orientation centers
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 #### Meadow Heights *(Established Families)*
 The oldest district, where traditional rabbit families maintain their ancestral warrens and honey operations.
 
@@ -3269,11 +3307,6 @@ A piece of the southern plains transplanted to the forest, where prairie dog com
 - Grain processing and storage facilities using traditional methods
 - Community kitchens where meals are shared events
 - Democratic town-hall style governance with regular votes
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 #### Mountain Slopes *(Highland Immigrants)*
 Where marmot families from the high country have recreated their alpine communities with adapted techniques.
@@ -3327,15 +3360,17 @@ The ever-changing edges where new arrivals first experience The Hives.
 ### Population Breakdown *(Total: ~24,000)*
 The Hives' strength lies in its diversity, with no single species holding overwhelming majority.
 
-- **20% Rabbits** (4,800): Established families controlling traditional honey operations and old warren properties
-- **18% Prairie Dogs** (4,320): Grassland immigrants bringing democratic traditions and grain expertise
-- **15% Voles & Field Mice** (3,600): Working class backbone in service and logistics industries
-- **12% Guinea Pigs** (2,880): Recent immigrants revolutionizing agriculture with terracing innovations
-- **10% Marmots** (2,400): Mountain folk bringing stone-craft and weather wisdom
-- **8% Hamsters** (1,920): Merchant families specializing in storage and inventory management
-- **7% Hedgehogs** (1,680): Night shift specialists in entertainment and security
-- **5% Shrews** (1,200): Technical experts managing insect partnerships
-- **5% Mixed/Other** (1,200): Dozens of species in smaller numbers
+- **15% Rabbits**: Established families controlling traditional honey operations and old warren properties
+- **12% Prairie Dogs**: Grassland immigrants bringing democratic traditions and grain expertise
+- **12% Voles & Field Mice**: Working class backbone in service and logistics industries
+- **11% Guinea Pigs**: Recent immigrants revolutionizing agriculture with terracing innovations
+- **10% Marmots**: Mountain folk bringing stone-craft and weather wisdom
+
+\columnbreak
+- **8% Hamsters**: Merchant families specializing in storage and inventory management
+- **7% Hedgehogs**: Night shift specialists in entertainment and security
+- **5% Shrews**: Technical experts managing insect partnerships
+- **20% Mixed/Other**: Dozens of species in smaller numbers
 
 ### Cultural Dynamics
 
@@ -3344,6 +3379,12 @@ The original inhabitants struggle to maintain their traditions while adapting to
 
 - **Old Warren Families:** Rabbit dynasties tracing lineage to The Hives' founding, controlling prime honey territories
 - **The Founding Principles:** Original cooperative values emphasizing mutual aid over individual profit
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 - **Cultural Preservation:** Maintaining forest traditions while selectively adopting innovations
 - **Economic Stability:** Established businesses and property ownership creating generational wealth
 
@@ -3368,10 +3409,6 @@ Prairie dog communities brought new ideas about governance and community organiz
 
 </div>
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 #### The Mountain Communities
 Marmot families from the high country bring specialized skills and alpine wisdom.
@@ -3418,7 +3455,10 @@ Small workshops demonstrate the power of cultural fusion.
 - **Repair Services:** Fixing everything from mountain gear to grassland wagons
 - **Custom Work:** Specialized items for different species' anatomical needs
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Cultural Economy
 The Hives' diversity creates unique economic opportunities.
@@ -3445,6 +3485,8 @@ Life in The Hives follows patterns that accommodate multiple species' needs.
 
 #### Language Mixing
 The Hives has developed its own dialect combining words from multiple languages. A typical conversation might include prairie dog technical terms, rabbit formal address, guinea pig musical intonations, and marmot weather words.
+
+\columnbreak
 
 <div class='example'>
 
@@ -3479,7 +3521,7 @@ Festivals blend traditions creating entirely new celebrations.
 
 - **Convergence Festival:** Annual celebration where each community showcases culture
 - **Harvest Harmony:** Combining autumn traditions from grassland and forest
-- **New Year Fusion:** Multiple calendar systems create week-long celebration
+- **New Year's Week:** Multiple calendar systems create week-long celebration
 - **Unity Feast:** Monthly communal meals in each district
 - **Children's Day:** Young creatures learn about all cultures through play
 
@@ -3526,6 +3568,11 @@ The Hives' cooperative spirit extends to the workplace.
 - **Music Gardens:** Outdoor venues designed with natural acoustics
 - **The Story Circle:** Traditional gathering space where elders share cultural histories
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### Traditional Sites
 Despite rapid growth, The Hives preserves its historical roots.
 
@@ -3533,6 +3580,8 @@ Despite rapid growth, The Hives preserves its historical roots.
 - **Warren Prime:** Ancestral rabbit tunnels with memorial plaques
 - **The Cooperation Stone:** Monument where species first agreed to share the land
 - **Elder Grove:** Sacred trees where community ceremonies occur
+
+\columnbreak
 
 <div class='note'>
 
@@ -3560,17 +3609,14 @@ The Hives pioneered inclusive governance accommodating multiple decision-making 
 - **Consensus Requirements:** Major decisions need 75% agreement
 - **Veto Powers:** Any community can block actions affecting them directly
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 **Functions:**
 - **Resource Allocation:** Distributing public funds fairly between districts
 - **Cultural Mediation:** Resolving conflicts between different traditions
 - **External Relations:** Coordinating with other burrows and trade partners
 - **Emergency Response:** Managing crises requiring community-wide action
 - **Development Planning:** Balancing growth with community character
+
+\columnbreak
 
 ### Community Organizations
 Grassroots groups provide the real governance in daily life.
@@ -3589,6 +3635,11 @@ The Hives' diversity creates a complex political landscape.
 - **The Progressives:** Embracing change and experimentation
 - **The Cooperatives:** Expanding democratic economics
 - **The Regionalists:** Strengthening ties with homeland communities
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Urban Tensions & Challenges
 
@@ -3610,8 +3661,6 @@ Unlike Mousehattan's violent syndicates, the Honeycomb Family operates through e
 - **Soft Power:** Preferring bankruptcy to bloodshed
 - **Protection Services:** Actually providing security while extracting tribute
 - **Information Networks:** Knowing everyone's business through "friendly concern"
-
-\columnbreak
 
 ### Infrastructure Crisis
 
@@ -3691,7 +3740,6 @@ The Hives' economy depends on insect partnerships, but the relationship is frayi
 - **Pheromone Resistance:** Some insects developing immunity to control scents
 - **Organization:** Beetles beginning to coordinate across handlers
 - **Sabotage:** "Accidents" increasing in frequency
-- **Demands:** Shorter hours, better food, breeding rights
 
 #### Economic Impact
 - **Shipping Delays:** Packages arriving late or not at all
@@ -3718,7 +3766,10 @@ The Hives' diversity becomes its greatest strength during crises.
 - **Adaptability:** Constant change making flexibility normal
 - **External Relationships:** Strong connections with homeland communities
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Notable NPCs
 
@@ -3761,6 +3812,8 @@ The Hives' diversity becomes its greatest strength during crises.
 - Rumored to be organizing beetle unions
 - May be planning something bigger
 
+\columnbreak
+
 ### The Operators
 
 #### Mama Terrace
@@ -3777,11 +3830,6 @@ The Hives' diversity becomes its greatest strength during crises.
 - Connected to every community
 - May be Intelligence Service asset
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 ### The Innovators
 
 #### The Fusion Chef
@@ -3797,6 +3845,11 @@ The Hives' diversity becomes its greatest strength during crises.
 - Running underground fusion music clubs
 - Dating outside his species and class
 - Building youth movement across communities
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Adventure Hooks
 
@@ -3818,6 +3871,8 @@ The Hives' diversity becomes its greatest strength during crises.
 - **External Influence:** Mousehattan trying to economically colonize The Hives
 - **Democratic Breakdown:** Consensus system failing, violence threatening
 
+\columnbreak
+
 ### Infrastructure Disasters
 - **The Great Collapse:** Interchange tunnel system failing, thousands trapped
 - **Beetle Strike:** Insects refuse to work, economy grinding to halt
@@ -3830,13 +3885,17 @@ The Hives' diversity becomes its greatest strength during crises.
 - **The Plague:** Disease spreading through overcrowded housing
 - **Cultural Preservation:** Last speakers of homeland languages dying
 
-\columnbreak
-
 ### Predator Crises
 - **Hawk Season:** Aerial predators discovering the exposed market squares
 - **The Titan Passage:** Giant deer migration path shifting through The Hives
 - **Underground Predator:** Something hunting in the deep tunnels
 - **The Swarm:** Predatory wasps establishing hive near border
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## The Future of The Hives
 
@@ -3859,6 +3918,8 @@ Full integration creating new hybrid culture, loss of distinct traditions but st
 
 #### The Mosaic Path  
 Maintaining separate communities within shared framework, risking fragmentation but preserving diversity.
+
+\columnbreak
 
 #### The Innovation Path
 Becoming the creative capital through cultural fusion, risking commercialization of traditions.
@@ -3889,7 +3950,7 @@ This is The Hives: where the forest meets the grasslands, where ancient traditio
 
 \pagebreakNum
 
-# Lin's Brook - The Working Waterfront
+# Lin's Brook-The Working Waterfront
 
 Where Whisker Creek meets the tidal waters, Lin's Brook sprawls along both banks in a maze of dams, lodges, and waterfront industry. This is the burrow that builds The Great Burrow - from the wooden frameworks that support tunnels to the boats that brave the rivers.
 
@@ -3938,6 +3999,8 @@ Former industrial areas becoming "artisanal" with converted warehouses housing g
 - **Sacrificial Dams:** Built to break and dissipate giant-caused waves
 - **The Deep Lodges:** Reinforced underwater shelters
 
+
+
 <div class='note'>
 
 #### <u>Running Titan-Caused Disasters</u>
@@ -3952,18 +4015,10 @@ Make titans feel like natural disasters, not monsters to fight. Focus on communi
 
 </div>
 
-<div class='note'>
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
 
-#### <u>Lin's Brook Sayings</u>
-
-- "Still water, strong dam" (patience and solid work)
-- "Every tide turns" (situations change)
-- "Swim with the current, build against it" (know when to fight)
-- "Wet fur, warm heart" (hard workers are good creatures)
-- "The creek provides" (gratitude for resources)
-- "Splinters before whiskers" (work comes first)
-
-</div>
+\pagebreakNum
 
 ## Demographics & Economy
 
@@ -3975,10 +4030,7 @@ Make titans feel like natural disasters, not monsters to fight. Focus on communi
 - **5% Frogs/Toads:** Newest arrivals, underwater specialists
 - **5% Others:** Including some reformed "river rats"
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
 
-\pagebreakNum
 
 ### Traditional Industries
 - **Construction:** Still builds most of Great Burrow's infrastructure
@@ -4001,7 +4053,6 @@ Ancient fishing territory disputes, slide-racing betting rings, ferry route mono
 #### Beaver Lodge Politics
 Which families get prime dam positions, construction contract bid-rigging, maintenance fund skimming. "Lodge Law" supersedes burrow rules.
 
-\columnbreak
 
 <div class='example'>
 
@@ -4009,6 +4060,8 @@ Which families get prime dam positions, construction contract bid-rigging, maint
 Work follows the tide schedule - high tide for water work, low tide for maintenance. Dawn brings the best fishing before the city wakes. Mill shifts mean constant operation thanks to water power. Evening markets buzz when the day's catch comes in, while night work on dam repairs happens when water's calmest.
 
 </div>
+
+\columnbreak
 
 ### Daily Life & Culture
 
@@ -4038,6 +4091,26 @@ Work follows the tide schedule - high tide for water work, low tide for maintena
 - **Mill Row:** Water-powered workshops, dawn to dusk noise
 - **The Net Lofts:** Where fishing gear is made and mended
 
+<div class='note'>
+
+#### <u>Lin's Brook Sayings</u>
+
+- "Still water, strong dam" (patience and solid work)
+- "Every tide turns" (situations change)
+- "Swim with the current, build against it" (know when to fight)
+- "Wet fur, warm heart" (hard workers are good creatures)
+- "The creek provides" (gratitude for resources)
+- "Splinters before whiskers" (work comes first)
+
+</div>
+
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+
 #### Cultural Venues
 - **The Waterlogged:** Dockworker tavern, otter-dominated
 - **Slide Stadium:** Professional racing venue
@@ -4049,6 +4122,7 @@ Work follows the tide schedule - high tide for water work, low tide for maintena
 - **Smuggler's Inlet:** Hidden cove for moving contraband
 - **The Deep Pools:** Where the biggest fish hide
 - **Forgotten Spillway:** Abandoned dam, now black market hub
+
 
 ## Water-Based Industries & Transportation
 
@@ -4068,11 +4142,6 @@ The beavers of Lin's Brook literally built The Great Burrow. Their expertise in 
 - **Innovation vs. Tradition:** Young engineers clash with old masters
 - **Export Teams:** Travel to other burrows for specialized projects
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 ### Water Transportation Networks
 The waterways are Lin's Brook's highways. Complex systems of canals, locks, and seasonal routes connect the burrow to the wider world. Control of these routes means power.
 
@@ -4081,10 +4150,18 @@ The waterways are Lin's Brook's highways. Complex systems of canals, locks, and 
 - **The Lock Masters:** Control flow and charge passage fees
 - **Smuggling Routes:** Underwater paths known only to locals
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
 ## Social Dynamics & Community Life
 
 ### Otter-Beaver Relations
 The two dominant species maintain an uneasy partnership. Beavers build and maintain; otters fish and transport. When they work together, Lin's Brook thrives. When they clash, the entire waterfront suffers.
+
+### Guild Politics & Labor Pride
+Lin's Brook runs on guild power. The Builders Guild, Dockworkers Union, and Fishercreatures Cooperative wield more influence than any politician. Guild membership determines social standing, marriage prospects, and economic survival.
+
+\columnbreak
 
 <div class='note'>
 
@@ -4100,8 +4177,11 @@ Use these tensions for roleplay, not combat. A beaver-otter argument over constr
 
 </div>
 
-### Guild Politics & Labor Pride
-Lin's Brook runs on guild power. The Builders Guild, Dockworkers Union, and Fishercreatures Cooperative wield more influence than any politician. Guild membership determines social standing, marriage prospects, and economic survival.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 #### The Builders Guild
 - **Membership:** Primarily beaver, some muskrats, rare others
@@ -4115,13 +4195,13 @@ Lin's Brook runs on guild power. The Builders Guild, Dockworkers Union, and Fish
 - **Tactics:** Strategic strikes at peak shipping times
 - **Connections:** Some crews have crime family ties
 
-\columnbreak
-
 #### Fishercreatures Cooperative
 - **Structure:** Democratic profit-sharing collective
 - **Membership:** Open to all who fish, regardless of species
 - **Issues:** Territory disputes and quota arguments
 - **Innovation:** Younger members push sustainable practices
+
+\columnbreak
 
 ### Working-Class Culture
 Lin's Brook creatures take pride in physical work. Calloused paws are badges of honor. Office workers from Mousehattan are viewed with suspicion - "soft-paws" who don't understand real labor.
@@ -4161,10 +4241,6 @@ Greenbank's spread threatens traditional Lin's Brook culture. Artisanal shops re
 - **Madame Current:** Information broker working from houseboat
 - **Riptide Smugglers:** Use underwater routes for contraband
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 ## Challenges & Threats
 
@@ -4185,6 +4261,12 @@ Lin's Brook faces mounting ecological challenges that threaten its survival. The
 
 ### Infrastructure Decay
 The Great Dam and its supporting infrastructure are aging. Maintenance costs soar while funding shrinks. Political fights over repairs threaten the entire system.
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 
 - **The Great Dam:** Needs complete rebuild within five years
 - **Secondary Dams:** Three near failure, patches insufficient
@@ -4246,6 +4328,8 @@ Later, cleaning mud from her fur, Marina surveyed the damage. Three dead, seven 
 - **Smuggling Ring:** Using guild connections for contraband
 - **The Informant:** Someone's feeding info to authorities
 
+\columnbreak
+
 ### Giant Encounters
 - **The Early Warning:** Upstream station goes silent
 - **Bear Cult:** Some creatures worship the titans
@@ -4258,16 +4342,16 @@ Later, cleaning mud from her fur, Marina surveyed the damage. Three dead, seven 
 - **The Whistleblower:** Exposing guild corruption from inside
 - **Culture Wars:** Traditional festival becomes battleground
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 ### Community Challenges
 - **The Flood Fund:** Money for repairs has vanished
 - **Evacuation Drill Disaster:** Practice becomes real emergency
 - **The Tourist Invasion:** Weekend visitors disrupt crucial work
 - **Youth Exodus:** Young creatures leaving for easier lives
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Relationships with Other Burrows
 
@@ -4355,82 +4439,7 @@ This is Lin's Brook: where water meets wood, where tradition meets change, where
 
 \pagebreakNum
 
-# External Relations
-
-While The Great Burrow dominates the central forest region, it exists within a broader world of woodland settlements, distant communities, and unexplored territories. These relationships shape trade routes, immigration patterns, diplomatic alliances, and existential threats.
-
-## Trade Relationships
-
-### The Pine Barrens Confederation *(Western Frontier)*
-**Primary Species:** Pine martens, porcupines, northern squirrel subspecies
-**Trade Goods:** 
-- **Exports to Great Burrow:** Pine nuts, resin, winter furs, medicinal bark, survival gear
-- **Imports from Great Burrow:** Honey, manufactured goods, acorn products, metal tools
-
-**Relationship:** Cautious but profitable. Pine Barrens creatures are traditional and suspicious of urban ways but need sophisticated products. Trade requires Ranger escorts due to dangerous routes.
-
-### Meadowbrook Settlements *(Southern Grasslands)*
-**Primary Species:** Prairie dogs, ground squirrels, rabbit communities
-**Trade Goods:**
-- **Exports to Great Burrow:** Grains, grassland herbs, woven grass goods, dried flowers
-- **Imports from Great Burrow:** Tree nuts, wooden tools, manufactured goods, construction expertise
-
-**Relationship:** Friendly and regular. Strong cultural ties with The Hives through immigration and shared democratic traditions.
-
-### Coastal Tidepools *(Eastern Seaboard)*
-**Primary Species:** Crabs, sea otters, coastal mice
-**Trade Goods:**
-- **Exports to Great Burrow:** Salt, seaweed, shells, dried fish, pearls
-- **Imports from Great Burrow:** Fresh water, forest foods, manufactured goods, honey
-
-**Relationship:** Irregular but valuable. Small, scattered communities make trade logistics difficult. Weather and tides affect reliability.
-
-\columnbreak
-
-## The Outlaw Problem
-
-### Bandit Territories *(The Lawless Zones)*
-Areas between established settlements where civilization has broken down. Composed of exiles, failed Rangers, desperate creatures, and those who choose the outlaw life.
-
-### Major Bandit Groups
-- **The Broken Claw Gang:** Led by disgraced badger, controls mountain passes
-- **Whisker's Crew:** Rat-dominated caravan robbery specialists
-- **The Feral Pack:** Mixed species "gone wild," most dangerous
-- **Shadow Runners:** Sophisticated protection and guide services
-
-### Operations
-- **Caravan Raiding:** Primary income from valuable trade goods
-- **False Guide Services:** Leading travelers safely, then robbing them
-- **Protection Rackets:** "Insuring" safe passage for payments
-- **Smuggling Networks:** Moving contraband between settlements
-
-<div class='note'>
-
-#### <u>Trade Route Security</u>
-
-Bandit activity forces expensive Ranger escorts, creates longer "safe routes," drives up import prices, and limits small trader operations. The Great Burrow maintains diplomatic relationships for prisoner exchanges and safe passage negotiations.
-
-</div>
-
-## Diplomatic Relations
-
-### Regional Alliances
-- **Oakenheart Alliance:** Forest communities mutual defense pact
-- **Meadow Compact:** Southern grassland trade and cultural agreement
-- **Waterway Accords:** River and coastal navigation rights
-
-### Immigration Patterns
-**Economic Migrants:** Seeking opportunities in The Great Burrow's economy
-**Refugees:** Fleeing titan encounters, bandit raids, or community conflicts
-**Skilled Workers:** Recruited for specialized knowledge or abilities
-**Cultural Immigrants:** Joining established diaspora communities
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
-## Scurry Island - The Forgotten Burrow
+# Scurry Island - The Forgotten Burrow
 
 <div class='read'>
 
@@ -4438,22 +4447,22 @@ Bandit activity forces expensive Ranger escorts, creates longer "safe routes," d
 
 </div>
 
-Built on and around "The Old Giant," a massive fallen oak in the central clearing, Scurry Island exists as The Great Burrow's most dangerous paradox: simultaneously its most vital defense and most forgotten community. Ten thousand creatures scratch out existence on rocky shores and in dense interior woods, creating a society where mainland law holds no sway and only the strong—or clever—survive. The island serves as both haven for the desperate and fortress against the titans that would devour the city.
+Built on and around "The Old Giant," a massive fallen oak that dominates the island's center, Scurry Island exists as The Great Burrow's most dangerous paradox: simultaneously its most vital defense and most forgotten community. Ten thousand creatures scratch out existence on rocky shores and in dense interior woods, creating a society where mainland law holds no sway and only the strong—or clever—survive. Isolated across dangerous straits from the mainland, the island serves as both haven for the desperate and fortress against the titans that would devour the city.
 
 ### The Ranger Paradox
 
 The Rangers represent everything noble and terrible about Scurry Island. These elite scouts and fighters stand as the only organized defense against bears, moose, deer, and other giants that threaten The Great Burrow. Yet they recruit from the desperate, train through brutality, and die in numbers that would shock comfortable mainlanders.
+
+\columnbreak
 
 <div class='note'>
 
 #### <u>Understanding Titan Scale</u>
 
 To small mammals, "titans" or "giants" are normal forest predators and large herbivores:
-- **Bears**: Moving mountains of death
+- **Bears**: Moving mountains of death when provoked
 - **Deer/Moose**: Crushing hooves, accidental devastation
-- **Hawks/Owls**: Aerial death (though corvids handle most)
-- **Foxes/Coyotes**: Ground-level apocalypse
-- **Humans**: Mythical world-enders (if they existed)
+- **Wolves**: Packs of roaming killers, smart and deadly
 
 </div>
 
@@ -4480,6 +4489,11 @@ To small mammals, "titans" or "giants" are normal forest predators and large her
 - **Tangle Lines**: Root-fiber cables for tripping
 - **The Black Darts**: Last resort killing tools
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 ### Geography & Infrastructure
 
 #### The Island Itself
@@ -4501,8 +4515,6 @@ Scurry Island's isolation shapes everything about its culture. The island stretc
 - **Power**: Stolen electric lines and generator black market
 - **Communication**: Unreliable radio to mainland
 
-\columnbreak
-
 ### Districts in Detail
 
 #### Ferry Landing - Gateway to Shadows
@@ -4517,6 +4529,8 @@ The first thing newcomers notice is the smell: salt, rot, fear, and opportunity 
 - **The Board**: Job postings, missing creatures, bounties
 
 **Culture**: Every creature at the Landing is either coming or going. Permanent residents know to spot the desperate (easy marks), the dangerous (avoid or ally), and the dying (Rangers past saving). The ferry schedule—when boats actually run—determines the rhythm of life.
+
+\columnbreak
 
 #### Old Town - Where Tradition Survives
 
@@ -4607,6 +4621,9 @@ Beneath Scurry Island lies a network of tunnels whose full extent no single crea
 - **Smuggler's Rest**: Hidden warehouse complexes
 - **The Deep Dark**: Where creatures disappear permanently
 - **Emergency Network**: Storm shelters and titan refuges
+
+\columnbreak
+
 - **The Underneath Market**: When even Harbor Market won't sell it
 
 **Warren Law:**
@@ -4621,16 +4638,16 @@ Beneath Scurry Island lies a network of tunnels whose full extent no single crea
 #### Population Breakdown *(Total: ~10,000)*
 
 **Established Residents (6,000):**
-- **30% Opossums (3,000)**: Traditional families and survivors
-- **25% Raccoons (2,500)**: Running most shadow businesses
-- **10% Ferrets/Weasels (1,000)**: Information and smuggling
-- **10% Mixed Species (1,000)**: Long-term fugitives and operators
+- **30% Opossums**: Traditional families and survivors
+- **25% Raccoons**: Running most shadow businesses
+- **10% Ferrets/Weasels**: Information and smuggling
+- **10% Mixed Species**: Long-term fugitives and operators
 
 **Temporary Residents (4,000):**
-- **15% Active Rangers (1,500)**: Serving their terms
-- **5% Retired Rangers (500)**: Too broken to leave
-- **5% Recent Fugitives (500)**: Fleeing mainland justice
-- **10% Transients (1,000)**: Seasonal workers and drifters
+- **15% Active Rangers**: Serving their terms
+- **5% Retired Rangers**: Too broken to leave
+- **5% Recent Fugitives**: Fleeing mainland justice
+- **10% Transients**: Seasonal workers and drifters
 
 #### The Survival Hierarchy
 
@@ -4650,7 +4667,10 @@ Unlike mainland burrows with complex social structures, Scurry Island operates o
 - Ranger insignia = temporary authority
 - Warren access = dangerous player
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### The Shadow Economy
 
@@ -4698,6 +4718,8 @@ Even Scurry Island needs some legitimate economy:
 - Information brokerage
 - Survival skill training
 
+\columnbreak
+
 ### Daily Life on the Edge
 
 #### A Day on Scurry Island
@@ -4730,11 +4752,6 @@ Even Scurry Island needs some legitimate economy:
 - The Warrens begin to stir
 - Smuggling operations plan night runs
 
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
-
 **Evening (6 PM):**
 - Final ferry crossing attempted
 - Night market opens in Old Town
@@ -4755,6 +4772,11 @@ Even Scurry Island needs some legitimate economy:
 - Deep Warren activities hidden
 - Emergency shelters on standby
 - The island holds its breath
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 #### Social Customs & Culture
 
@@ -4812,6 +4834,9 @@ Even Scurry Island needs some legitimate economy:
 - Physical conditioning in full gear
 - Titan biology and weak points
 - Team coordination drills
+
+\columnbreak
+
 - Emergency medical training
 - Equipment familiarization
 
@@ -4866,7 +4891,10 @@ Even Scurry Island needs some legitimate economy:
 - Medic: Extended supplies, stimulants
 - Leader: Communication gear, maps
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 #### Famous Rangers & Operations
 
@@ -4916,23 +4944,20 @@ Even Scurry Island needs some legitimate economy:
 - Bought six months peace
 - Controversial but effective
 
+\columnbreak
+
 ### Crime & Shadow Operations
 
 While Rangers represent the island's noble aspect, the shadow economy reveals its darker nature. Crime on Scurry Island isn't just tolerated—it's essential infrastructure.
 
 #### Major Criminal Organizations
 
-**The Fence Lords**: Controlling stolen goods flow
+**The Fence Lords**: Controlling stolen goods flow, run by raccoons
 - Network spans all five burrows
 - Sophisticated cleaning operations
 - Protection for sellers and buyers
 - Information as secondary commodity
 - "Everything has a buyer somewhere"
-
-<div class="footnote">THE GREAT BURROW<BR />
-<p>GENESYS RPG</p></div>
-
-\pagebreakNum
 
 **The Silent Tails**: Information brokerage supreme
 - Ferret-dominated but species diverse
@@ -4963,6 +4988,11 @@ While Rangers represent the island's noble aspect, the shadow economy reveals it
 - Information is ultimate currency
 - Connections matter more than species
 - Survival trumps mainland morality
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ### Relationships with Other Burrows
 
@@ -5022,6 +5052,8 @@ While Rangers represent the island's noble aspect, the shadow economy reveals it
 - Mutual protection agreements
 - "Water connects us all"
 
+\columnbreak
+
 ### Notable NPCs
 
 #### The Powers That Be
@@ -5077,6 +5109,11 @@ While Rangers represent the island's noble aspect, the shadow economy reveals it
 - Drunk but competent
 - "I don't remember faces"
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 **Silent Sara**: Scarred survivor turned trainer
 - Three titan encounters lived
 - Trains Ranger recruits
@@ -5084,7 +5121,6 @@ While Rangers represent the island's noble aspect, the shadow economy reveals it
 - Toughest creature on island
 - *Signs: "Words are for the living"*
 
-\columnbreak
 
 #### The Underground
 
@@ -5166,6 +5202,11 @@ While Rangers represent the island's noble aspect, the shadow economy reveals it
 
 Remember: Scurry Island is where The Great Burrow's comfortable illusions die. Here, the reality of tiny creatures in a giant's world becomes undeniable. Yet it's also where heroism shines brightest—where forgotten creatures become Rangers, where survivors build community, where the last free corner of the world refuses to surrender.
 
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
 <div class='note wide'>
 
 #### <u>Ranger Mission Generator</u>
@@ -5202,8 +5243,87 @@ Rangers use cunning over strength. Success means redirecting threats, not defeat
 
 \pagebreakNum
 
+# Beyond The Great Burrow
 
-## Infrastructure & Technology
+While The Great Burrow dominates the central forest region, it exists within a broader world of woodland settlements, distant communities, and unexplored territories. These relationships shape trade routes, immigration patterns, diplomatic alliances, and existential threats.
+
+## Trade Relationships
+
+### The Pine Barrens Confederation *(Western Frontier)*
+**Primary Species:** Pine martens, porcupines, northern squirrel subspecies
+**Trade Goods:** 
+- **Exports to Great Burrow:** Pine nuts, resin, winter furs, medicinal bark, survival gear
+- **Imports from Great Burrow:** Honey, manufactured goods, acorn products, metal tools
+
+**Relationship:** Cautious but profitable. Pine Barrens creatures are traditional and suspicious of urban ways but need sophisticated products. Trade requires Ranger escorts due to dangerous routes.
+
+### Meadowbrook Settlements *(Southern Grasslands)*
+**Primary Species:** Prairie dogs, ground squirrels, rabbit communities
+**Trade Goods:**
+- **Exports to Great Burrow:** Grains, grassland herbs, woven grass goods, dried flowers
+- **Imports from Great Burrow:** Tree nuts, wooden tools, manufactured goods, construction expertise
+
+**Relationship:** Friendly and regular. Strong cultural ties with The Hives through immigration and shared democratic traditions.
+
+### Coastal Tidepools *(Eastern Seaboard)*
+**Primary Species:** Crabs, sea otters, coastal mice
+**Trade Goods:**
+- **Exports to Great Burrow:** Salt, seaweed, shells, dried fish, pearls
+- **Imports from Great Burrow:** Fresh water, forest foods, manufactured goods, honey
+
+**Relationship:** Irregular but valuable. Small, scattered communities make trade logistics difficult. Weather and tides affect reliability.
+
+\columnbreak
+
+## The Outlaw Problem
+
+### Bandit Territories *(The Lawless Zones)*
+Areas between established settlements where civilization has broken down. Composed of exiles, failed Rangers, desperate creatures, and those who choose the outlaw life.
+
+### Major Bandit Groups
+- **The Broken Claw Gang:** Led by disgraced badger, controls mountain passes
+- **Whisker's Crew:** Rat-dominated caravan robbery specialists
+- **The Feral Pack:** Mixed species "gone wild," most dangerous
+- **Shadow Runners:** Sophisticated protection and guide services
+
+### Operations
+- **Caravan Raiding:** Primary income from valuable trade goods
+- **False Guide Services:** Leading travelers safely, then robbing them
+- **Protection Rackets:** "Insuring" safe passage for payments
+- **Smuggling Networks:** Moving contraband between settlements
+
+<div class='note'>
+
+#### <u>Trade Route Security</u>
+
+Bandit activity forces expensive Ranger escorts, creates longer "safe routes," drives up import prices, and limits small trader operations. The Great Burrow maintains diplomatic relationships for prisoner exchanges and safe passage negotiations.
+
+</div>
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+## Diplomatic Relations
+
+### Regional Alliances
+- **Oakenheart Alliance:** Forest communities mutual defense pact
+- **Meadow Compact:** Southern grassland trade and cultural agreement
+- **Waterway Accords:** River and coastal navigation rights
+
+### Immigration Patterns
+**Economic Migrants:** Seeking opportunities in The Great Burrow's economy
+**Refugees:** Fleeing titan encounters, bandit raids, or community conflicts
+**Skilled Workers:** Recruited for specialized knowledge or abilities
+**Cultural Immigrants:** Joining established diaspora communities
+
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
+
+# Infrastructure & Technology
 
 <div class='read'>
 
@@ -5337,7 +5457,10 @@ Actions supporting one faction often oppose another. Let players feel the weight
 
 </div>
 
-\columnbreak
+<div class="footnote">THE GREAT BURROW<BR />
+<p>GENESYS RPG</p></div>
+
+\pagebreakNum
 
 ## Historical Context
 
