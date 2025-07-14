@@ -9,7 +9,7 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,600,600i,700');
 
 /* Main Background */
-  .phb { background-image: url("https://i.imgur.com/5s6VJkT.png"); text-align:justify; text-indent:0px;}
+  .phb { background-image: url("https://www.gmbinder.com/images/5s6VJkT.png"); text-align:justify; text-indent:0px;}
 
 /* Fonts */
 
@@ -326,7 +326,7 @@
 /* Archetypes */
 
 .phb .archetype {
-    background-image: url('https://i.imgur.com/wk1XTwj.png');
+    background-image: url('https://www.gmbinder.com/images/wk1XTwj.png');
     height:62px;
     width:329px;
     background-size:100%;
@@ -388,7 +388,7 @@
 /* Adversaries */
 
 .phb .adversary {
-    background-image: url('https://i.imgur.com/ks1JaPU.png');
+    background-image: url('https://www.gmbinder.com/images/ks1JaPU.png');
     height:47px;
     width:329px;
     background-position: -3px 0px;
@@ -441,7 +441,7 @@
 /* MINION STAT BLOCK */
 
 .phb .minion {
-    background-image: url('https://i.imgur.com/K1aEwZa.png');
+    background-image: url('https://www.gmbinder.com/images/K1aEwZa.png');
     height:63px;
     width:329px;
     background-position: 42px 0px;
@@ -512,14 +512,14 @@ In the gentrifying waterfront district of Lin's Brook, a hidden cache of valuabl
 
 ### The Central Hook
 
-While exploring an abandoned warehouse in the Greenbank district of Lin's Brook, the characters discover a hidden cache of valuable contraband. However, they're not the only ones looking for it - crime family enforcers and desperate smugglers are also converging on the location, all while trying to avoid the attention of burrow guards who would arrest everyone involved.
+While exploring an abandoned warehouse in the Greenbank district of Lin's Brook, the characters discover a hidden cache of valuable contraband. However, they're not the only ones looking for it - crime family enforcers from Mousehattan and desperate local smugglers are also converging on the location, all while trying to avoid the attention of burrow guards who would arrest everyone involved.
 
 ### The Stakes
 
 - **Personal:** The cache contains 1,400 acorns worth of goods - enough to solve immediate financial problems
-- **Social:** Getting caught could ruin reputations and relationships across burrows
+- **Social:** Getting caught could ruin reputations and relationships across all five burrows
 - **Political:** The contraband reveals corruption in the ferry system and trade regulations
-- **Community:** How the situation resolves affects ongoing gentrification and working-class displacement
+- **Community:** How the situation resolves affects ongoing gentrification and working-class displacement in Lin's Brook
 
 ### Adventure Structure
 
@@ -551,7 +551,7 @@ The adventure unfolds through five key scenes, each building tension while offer
 
 ### The Smuggling Operation
 
-Three months ago, **Finn Shellcracker** (otter ferry operator) was running a small smuggling operation, moving luxury goods from Mousehattan to Scurry Island without paying proper tariffs. His contact was **Whiskers McGillicuddy** (mouse "import/export specialist") who had connections with the Longtail crime family.
+Three months ago, **Finn "Ripple" Shellcracker** (otter ferry operator) was running a small smuggling operation, moving luxury goods from Mousehattan to Scurry Island without paying proper tariffs. His contact was **Whiskers McGillicuddy** (mouse "import/export specialist") who had connections with the Longtail crime family of Mousehattan.
 
 When a burrow guard investigation got too close, Finn panicked and hid his most valuable shipment in an abandoned warehouse, planning to retrieve it once things cooled down.
 
@@ -590,7 +590,12 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 **Skills:** Athletics 2 (**Water +2 <span class='boost'>b</span><span class='boost'>b</span>**), Coordination 2, Vehicles 2, Streetwise 1, Survival 1, Mechanics 1, Vigilance 1
 
-**Talents:** Aquatic Mastery (add <span class='boost'>b</span><span class='boost'>b</span> to Athletics in water), Playful Nature (add <span class='boost'>b</span> to Charm, remove <span class='setback'>b</span> from social), Slippery (add <span class='boost'>b</span> to escape restraints), Toughened (WT +2)
+**Talents:** 
+- **Aquatic Excellence:** Add <span class='boost'>b</span><span class='boost'>b</span> to all swimming checks, hold breath for extended periods
+- **Playful Competitor:** Add <span class='boost'>b</span> to Cool checks during stressful social situations
+- **Water Sense:** Remove <span class='setback'>b</span> from Navigation checks near water
+- **Slippery:** Add <span class='boost'>b</span> to escape restraints
+- **Toughened:** Wound Threshold +2
 
 **Equipment:** Reinforced vest, diving suit, rope, emergency rations, waterproof message tube
 
@@ -603,7 +608,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 *A sleek brown otter sits hunched on the jail's stone bench, his usually glossy fur dulled and unkempt. His webbed paws fidget constantly, and his dark eyes dart nervously between you and the cell door. When he speaks, his voice carries the fluid cadence of his species but trembles with anxiety.*
 
-"Listen, I can explain everything - well, most of it anyway. This whole mess just got away from me like a riptide, you know? One minute I'm running a simple side business, next thing the current's pulling me under and I'm sitting here while my whole life's work is hidden where the tide can't reach it. You seem like reasonable folk - maybe we can help each other navigate these choppy waters?"
+"Oh, listen friends, I can explain everything - well, most of it flows together anyway. This whole mess swept me away like spring runoff, you know? One minute I'm sliding through a simple side business, next thing the current's got me tumbling tail over whiskers and I'm beached here while my whole life's work sits high and dry where even the king tide can't touch it. You seem like reasonable folk who know how to ride the current - maybe we can help each other navigate these rapids? No use swimming upstream alone, eh?"
 
 </div>
 
@@ -638,7 +643,11 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 **Skills:** Mechanics 3 (**Tools +1 <span class='boost'>b</span>**), Knowledge (Science) 2, Perception 1, Vigilance 1, Coordination 1, Negotiation 2, Streetwise 2
 
-**Talents:** Tunnel Sense (remove <span class='setback'>b</span> from underground Navigation), Precise Work (add <span class='boost'>b</span> to Mechanics), Social Networks (additional Mousehattan contact), Grit (ST +1)
+**Talents:** 
+- **Tunnel Sense:** Remove <span class='setback'>b</span> from Navigation checks in underground environments
+- **Precise Work:** Add <span class='boost'>b</span> to all Mechanics checks
+- **Social Networks:** Start with one contact in Mousehattan, and +1 reputation
+- **Grit:** Strain Threshold +1
 
 **Equipment:** Work clothes, tunnel digging kit, magnifying glass, firefly lantern, emergency rations
 
@@ -651,7 +660,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 *An impeccably groomed mouse approaches, his gray fur perfectly combed and his tiny whiskers waxed to sharp points. He wears a miniature vest of fine cloth and carries himself with the practiced confidence of old Mousehattan money, though you notice his paws shake slightly as he adjusts his spectacles. His voice is cultured and precise, each word carefully chosen.*
 
-"Good day. I am Whiskers McGillicuddy of McGillicuddy Import & Export - perhaps you've heard of our firm? I find myself in need of... discrete assistance with a matter of some delicacy. Let's discuss this professionally, shall we? Time, as they say in the financial district, is acorns, and I'm afraid both are in rather short supply at the moment."
+"Good day. I am Whiskers McGillicuddy of McGillicuddy Import & Export, established 1887 - perhaps you've heard of our firm? Third generation in the trade, I'll have you know. I find myself in need of... discrete assistance regarding a matter of some considerable delicacy. Let us discuss this as civilized creatures, shall we? Time, as my grandfather always said, is more valuable than prime acorns, and I'm afraid my reserves of both are approaching critical depletion. Now then, to business - I trust we can conduct ourselves with appropriate decorum?"
 
 </div>
 
@@ -682,7 +691,12 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 **Skills:** Streetwise 2, Stealth 2, Skulduggery 2, Deception 1, Vigilance 1, Coercion 2, Brawl 2, Ranged (Light) 1
 
-**Talents:** Adaptable (once per session add <span class='boost'>b</span> to any check), Network Builder (reduce Streetwise difficulty by 1), Survivor's Instinct (add <span class='boost'>b</span> to Vigilance and Cool), Nobody's Fool (upgrade difficulty of social checks targeting him), Sixth Sense (once per session add <span class='boost'>b</span><span class='boost'>b</span> to Vigilance/Perception)
+**Talents:** 
+- **Adaptable:** Once per session, may add <span class='boost'>b</span> to any skill check
+- **Network Builder:** Reduce difficulty of Streetwise checks by 1 (minimum <span class='ability'>d</span>)
+- **Survivor's Instinct:** Add <span class='boost'>b</span> to Vigilance and Cool checks
+- **Nobody's Fool:** Upgrade difficulty of social checks targeting him
+- **Sixth Sense:** Once per session add <span class='boost'>b</span><span class='boost'>b</span> to Vigilance/Perception
 
 **Equipment:** Padded jacket, concealed knife, family identification, emergency funds
 
@@ -695,7 +709,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 *A large, well-built rat emerges from the shadows, his dark fur immaculately groomed and his posture radiating quiet authority. Unlike the flashy new-money rats of Mousehattan, he dresses simply but expensively - quality speaks louder than ostentation. His tail, longer than most, moves with deliberate control, and his dark eyes assess you with professional interest rather than hostility.*
 
-"Good evening. I am Salvatore Longtail, and I represent certain... family interests in this matter. I understand there may be some confusion about ownership of certain goods. Nothing personal, you understand - just business. Perhaps we can resolve this like civilized creatures? The family appreciates cooperation, and we remember our friends."
+"Hey there, good evening! Name's Salvatore Longtail - but please, call me Sal! I represent certain... family interests in this whole situation, yeah? Look, I understand there's some confusion about who owns what here - happens all the time in business, am I right? Nothing personal, you understand - we're just trying to make sure everyone gets their fair share of the pie. Maybe we can work something out that makes everybody happy? The family always appreciates when smart creatures cooperate - we got long memories for our friends, and we like to see everybody's hole get bigger, you know what I'm saying?"
 
 </div>
 
@@ -723,7 +737,9 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 **Skills:** Streetwise 2, Skulduggery 2, Stealth 1, Brawl 2, Survival 1, Vigilance 1
 
-**Talents:** Basic criminal abilities, no special training
+**Talents:** 
+- **Street Rat:** Basic criminal abilities, familiar with urban survival
+- **Desperate Fighter:** When wounded, add <span class='boost'>b</span> to Brawl checks
 
 **Equipment:** Makeshift crowbar weapon (Damage 3, Crit 4), ragged clothes, stolen goods
 
@@ -736,7 +752,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 *A scrawny rat with patchy fur and wild eyes skulks into view, clutching a makeshift weapon - a sharpened piece of metal that might once have been a crowbar. His clothes are mismatched and dirty, and he moves with the twitchy energy of someone who's been looking over his shoulder for too long. Scars crisscross his arms and face, telling stories of a hard life in the city's underbelly.*
 
-"Well, well, what do we got here? More treasure hunters, eh? Listen up, this is MY score, see? Been planning this for weeks, and I ain't letting nobody muscle in on my ticket out of this rat-hole city. You seem like smart folk - walk away now and nobody gets hurt. This is my one shot at the big time, and I ain't going back to scraping for scraps!"
+"Well, well, well! Look what crawled outta the walls! More treasure hunters trying to muscle in on MY score, eh? Listen up, and listen good - I been working this angle for weeks, see? This cache is my ticket to swimming instead of sinking, and I ain't letting nobody - NOBODY - take food outta my mouth! You seem like smart folk who know which way the current flows - so turn around and scurry back where you came from before somebody gets hurt. This is my ONE SHOT to stop scraping barnacles off the bottom, and I'll bite through anyone who tries to stop me!"
 
 </div>
 
@@ -767,7 +783,11 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 **Skills:** Athletics 2 (**Water +2 <span class='boost'>b</span><span class='boost'>b</span>**), Vigilance 2, Perception 2, Coercion 1, Leadership 1, Knowledge (City) 2, Brawl 1, Ranged (Light) 1
 
-**Talents:** Aquatic Mastery, Playful Nature, Natural Leader, Law Enforcement Training
+**Talents:** 
+- **Aquatic Excellence:** Add <span class='boost'>b</span><span class='boost'>b</span> to all swimming checks, hold breath for extended periods
+- **Playful Competitor:** Add <span class='boost'>b</span> to Cool checks during stressful social situations
+- **Natural Leader:** Add <span class='boost'>b</span> to Leadership checks when coordinating water-based activities
+- **Law Enforcement Training:** May use Authority instead of Coercion in official capacity
 
 **Equipment:** Guard uniform with badge, official weapon, restraints, communication device
 
@@ -780,7 +800,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 *A sturdy otter in the blue-gray uniform of the Lin's Brook Guard approaches with confident, measured steps. Her badge gleams against her dark brown fur, and her keen eyes miss nothing as they sweep the area. She carries herself with the easy authority of someone who knows her beat intimately and takes pride in protecting it.*
 
-"What's going on here, citizens? I've had reports of suspicious activity in this area, and I can see why. This warehouse has been empty for months, and suddenly there's more traffic than a salmon run. I know most of you by sight, but some faces are new to these waters. Mind explaining what brings you to this particular corner of my beat?"
+"Well now, what's all this splashing about, citizens? I've had reports of suspicious activity in this area, and I can see the current's running strange today. This warehouse has been dry-docked for months, and suddenly there's more traffic than spawning season at the falls. I know most of you by sight - you swim in my waters regular-like - but some faces are new to this stretch of the creek. Mind explaining what brings you all to this particular eddy on my beat? And let's keep it smooth as a morning swim, shall we?"
 
 </div>
 
@@ -808,7 +828,11 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 **Skills:** Perception 3, Vigilance 2, Knowledge (City) 3, Survival 2, Mechanics 2, Leadership 1
 
-**Talents:** Master Builder (add <span class='boost'>b</span> to construction Mechanics), Aquatic, Sturdy (Soak +1), Neighborhood Watch
+**Talents:** 
+- **Master Builder:** Add <span class='boost'>b</span> to all Mechanics checks involving construction
+- **Aquatic:** Can hold breath for extended periods, swim at full speed
+- **Sturdy:** Increase soak value by 1
+- **Neighborhood Watch:** Add <span class='boost'>b</span><span class='boost'>b</span> to Perception checks when observing familiar areas
 
 **Equipment:** Comfortable home furnishings, binoculars, tea service, emergency supplies
 
@@ -821,7 +845,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 *An elderly beaver sits in her window, a steaming cup of bark tea in her weathered paws and a pair of well-used binoculars around her neck. Her gray-streaked fur is neatly groomed, and she wears a hand-knitted shawl that speaks of practical comfort over fashion. Her lodge is clearly well-maintained - a testament to beaver craftsmanship and pride.*
 
-"Well now, what have we here? More strangers poking around that old warehouse, I see. In my day, creatures minded their own business and respected their neighbors' property. That building's been nothing but trouble since the lumber company moved out - bringing all sorts of unsavory types to our quiet street. You seem different from the others, though. Got an honest look about you. Care to tell an old beaver what's really going on over there?"
+"Well now, what's all this construction without permits? More strangers poking around that old warehouse, I see. In my day, creatures understood that good fences make good neighbors, and you didn't go gnawing on timber that wasn't yours. That building's foundation has been rotting since the lumber company moved out - weak supports bringing all sorts of unsavory types to undermine our neighborhood's structural integrity. You seem different from the others, though. Got the look of creatures who know quality work when they see it. Care to tell an old beaver what kind of demolition or renovation is really going on over there? Because from where I sit, that whole structure looks ready to collapse."
 
 </div>
 
@@ -1422,6 +1446,99 @@ The adventure succeeds when players:
 - Want to continue exploring this setting and these relationships
 
 </div>
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
+# Pre-Generated Characters
+
+## Chiri Beetlevoice
+*Guinea Pig Insect Wrangler from The Hives*
+
+<div class="archetype">
+<span class="bra">1</span>
+<span class="agi">2</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">2</span>
+<span class="pre">3</span>
+</div>
+
+<div class="adversary">
+<span class="soak">2</span>
+<span class="wound">9</span>
+<span class="strain">13</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Background:** Immigrated from the Andes with their family's traditional beetle-whispering techniques. Now works in The Hives managing insect labor for agricultural and construction projects.
+
+**Skills:** Animal Handling 2, Knowledge (Science) 1, Leadership 1, Medicine 1, Survival 2, Charm 1, Perception 1, Cool 1
+
+**Talents:**
+- **Community Minded:** Add <span class='boost'>b</span> to Leadership checks
+- **Insect Whisperer:** Add <span class='boost'>b</span> to Animal Handling checks with insects
+- **Mountain Heritage:** Add <span class='boost'>b</span> to Survival checks in difficult terrain
+- **Beetle Bond:** Has a loyal messenger beetle companion
+
+**Equipment:** Insect whistle, beetle treats, work clothes, insect handling gloves, small knife, rope, 15 acorns
+
+**Personality:** Optimistic and community-focused, speaks with musical cadence mixing Common Forest and Andean dialect. Uses "we" instead of "I" and treats insects as partners, not tools.
+
+**Motivation:** Prove that traditional Andean techniques can improve life in The Great Burrow while building bridges between immigrant and native communities.
+
+**Roleplaying Notes:** 
+- Whistle soft commands to insects constantly
+- Switch between languages when excited
+- Always thinking about group benefit over individual gain
+- Refers to beetles as "little cousins"
+
+\columnbreak
+
+## Swift Nutcracker
+*Chipmunk Ranger (Titan-Touched)*
+
+<div class="archetype">
+<span class="bra">2</span>
+<span class="agi">3</span>
+<span class="int">2</span>
+<span class="cun">2</span>
+<span class="wil">3</span>
+<span class="pre">1</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">10</span>
+<span class="strain">14</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Background:** Survived a moose encounter that left them changed. Now serves as a Scurry Island Ranger specializing in titan deterrence using heavy weapons.
+
+**Skills:** Athletics 2, Ranged (Heavy) 2, Survival 2, Vigilance 2, Cool 1, Knowledge (Titans) 1, Perception 1
+
+**Talents:**
+- **Speed Burst:** Once per session, move to any location within Medium range as an incidental
+- **Cheek Pouches:** Can carry small items without encumbrance penalty
+- **Titan Affinity (Moose):** Moose becomes a career skill
+- **Heavy Weapon Expert:** Remove <span class='setback'>b</span> from Cumbersome quality
+
+**Equipment:** Ranger gear (soak +2), porcupine quill launcher, emergency flares, flash powder (3), climbing gear, ranger badge, 10 acorns
+
+**Personality:** Speaks in rapid-fire bursts with crew slang. Twitchy and hypervigilant but deadly calm in titan situations. Cheek scars from the moose encounter.
+
+**Motivation:** Protect The Great Burrow from titan threats while understanding the strange connection they now feel to the giants.
+
+**Roleplaying Notes:**
+- Constantly scanning for threats, especially upward
+- Speak very fast except when discussing titans (then slow and reverent)
+- Touch scars when nervous
+- Know exact distance to nearest heavy weapon at all times
 
 <div class="footnote">THE SMUGGLER'S CACHE<BR />
 <p>THE GREAT BURROW</p></div>
