@@ -100,14 +100,6 @@ Use another sub-agent for the `misc/` folder to access specialized topics:
 - External relations and trade
 - Historical context and timeline
 
-## Key Themes for Adventures
-- Urban survival with predators above and poverty below
-- Political intrigue between burrows and species
-- Economic ambition in the acorn-based economy
-- Cultural exploration of five distinct communities
-- Environmental challenges (titans, predators, seasons)
-- Infrastructure problems creating opportunities
-- Crime family politics and protection rackets
 
 ## Important: Collaboration Approach
 This is a **collaborative** project. Err on the side of "pause for clarification as you go" rather than "bulldoze without clarity." Ask questions, solicit feedback, and maintain ongoing dialogue about changes and their implications for the setting. Feel free to make (and then delete when done with) files for TODOs or questions with larger amounts of material surrounding them for human review.
@@ -125,3 +117,6 @@ This is a **collaborative** project. Err on the side of "pause for clarification
 - **Raccoons**: Clever operators, literally "wash" stolen goods
 
 Remember: The forest itself IS the world - no humans exist in this setting. Every creature dreams of making it in the big city while trying not to get eaten, stepped on, or priced out.
+
+Note for writing information down - don't use tables, GM Binder is currently bugged in its implementation.
+
