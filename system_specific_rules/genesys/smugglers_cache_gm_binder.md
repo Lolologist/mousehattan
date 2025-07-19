@@ -506,7 +506,7 @@ In the gentrifying waterfront district of Lin's Brook, a hidden cache of valuabl
 ## Setup Information
 
 **Duration:** 3-4 hours  
-**Players:** 3-5 characters  
+**Players:** 4-6 characters  
 **Tone:** Urban exploration with social intrigue and action  
 **Themes:** Competing interests, moral choices, urban survival, species cooperation
 
@@ -516,18 +516,19 @@ While exploring an abandoned warehouse in the Greenbank district of Lin's Brook,
 
 ### The Stakes
 
-- **Personal:** The cache contains 1,400 acorns worth of goods - enough to solve immediate financial problems
+- **Personal:** The cache contains 3,000 acorns worth of goods - enough to solve immediate financial problems and transform lives
 - **Social:** Getting caught could ruin reputations and relationships across all five burrows
 - **Political:** The contraband reveals corruption in the ferry system and trade regulations
 - **Community:** How the situation resolves affects ongoing gentrification and working-class displacement in Lin's Brook
 
 ### Adventure Structure
 
-The adventure unfolds through five key scenes, each building tension while offering multiple resolution paths:
+The adventure unfolds through six key scenes, each building tension while offering multiple resolution paths:
 
 1. **The Discovery** - Characters find the cache location
 2. **The Watchers** - Local resident involvement and information gathering
 3. **The Competition Arrives** - Three-way confrontation with competing parties
+3.5. **The Silverclaw Intervention** - Guaranteed combat with territorial crime family
 4. **The Law Arrives** - Authority involvement based on previous choices
 5. **The Resolution** - Consequences and follow-up opportunities
 
@@ -560,6 +561,182 @@ When a burrow guard investigation got too close, Finn panicked and hid his most 
 Finn was arrested two weeks ago on unrelated charges (drunk and disorderly during an otter slide race). In jail, he let slip details about the cache to his cellmate **Rusty Crowbar** (rat small-time criminal). Rusty has since been released and is planning to steal the cache.
 
 Meanwhile, Whiskers has been pressuring the Longtail family to find the missing goods, leading to **Salvatore "Sal" Longtail** (rat crime family enforcer) being assigned to recover the shipment.
+
+## Party Integration Hooks
+
+*Specific roleplay opportunities based on your six-player party composition*
+
+### Burl the Beaver (Dockworker)
+**Reputation:** +2 Lin's Brook, +1 The Hives, -2 Longtail Family
+
+**Built-in Connections:**
+- **The Warehouse:** Burl worked on the original construction crew - he knows about the structural damage and secret spaces
+- **Granny Driftwood:** She remembers him as "young Burl" and trusts him completely
+- **Officer Tidecaller:** Professional respect as fellow working-class Lin's Brook resident
+- **Longtail Conflict:** Sal recognizes him as "that beaver who cost us the dock contract" - instant tension
+
+**Roleplay Hooks:**
+- Burl can identify safe vs. dangerous areas of the warehouse
+- Community members approach him for "the real story" about what's happening
+- His dock union connections could provide backup or complications
+
+### Cooper the Guinea Pig (Insect Wrangler)
+**Reputation:** +2 The Hives, +1 Lin's Brook, -2 Mousehattan
+
+**Built-in Connections:**
+- **Silk Scarves in Cache:** Cooper recognizes these as Hives-made luxury goods, potentially his own work
+- **Working Class Solidarity:** Immediate bond with other Lin's Brook working creatures
+- **Mousehattan Distrust:** Upper-class NPCs dismiss him as "immigrant labor"
+
+**Roleplay Hooks:**
+- Can identify true value and origin of Hives goods in cache
+- Guinea pig speech patterns (musical, code-switching) create cultural bridge-building opportunities
+- Knowledge of terracing techniques might reveal hidden spaces in warehouse
+
+### Lucius the Fox (Shadow Runner Associate)
+**Reputation:** +2 Shadow Runners, +1 Lin's Brook, -2 Whisker Family
+
+**Built-in Connections:**
+- **Information Network:** Knows about the cache through Shadow Runner intelligence
+- **Sal's Respect:** Crime family recognizes Shadow Runner neutrality
+- **Whisker Family Tension:** They see him as "information leak" threat
+
+**Roleplay Hooks:**
+- Can provide background on all criminal players involved
+- Shadow Runner code forbids direct confrontation but allows "finding lost items"
+- Torn between Shadow Runner neutrality and personal gain
+
+### Pine Bullseye (Chipmunk Ranger) 
+**Reputation:** +2 Rangers, +1 Scurry Island, -2 Silverclaw Family
+
+**Built-in Connections:**
+- **Silverclaw Enemy:** Ripsaw attacks him on sight - guaranteed combat trigger
+- **Law Enforcement Respect:** Officer Tidecaller knows Rangers help community
+- **Underground Knowledge:** Ranger training reveals storm drain escape routes
+
+**Roleplay Hooks:**
+- Only character who can identify the Silverclaw threat early
+- Chipmunk speed and ranger skills make him ideal scout and messenger
+- Moral conflict between ranger duty and personal gain
+
+### Willow the Private Investigator
+**Reputation:** +2 Shadow Runners, +1 Whisker Family, -2 Longtail Family
+
+**Built-in Connections:**
+- **Professional Investigation:** Has legitimate reason to be investigating smuggling
+- **Crime Family Tensions:** Caught between Shadow Runner neutrality and Whisker Family connections
+- **Sal's Hostility:** Longtails see her as "that PI who asks too many questions"
+
+**Roleplay Hooks:**
+- Can legally question witnesses and examine evidence
+- Professional ethics vs. criminal opportunity creates moral tension
+- Whisker Family connection might provide inside information on Longtail operations
+
+### Remy the Rat (Wannabe Chef)
+**Reputation:** +2 Whisker Family, +1 Mousehattan, -2 Longtail Family
+
+**Built-in Connections:**
+- **Whisker Family Member:** Inside knowledge of family operations and rivalries
+- **Mousehattan Foodie Scene:** Knows high-end restaurants and suppliers
+- **Longtail Enemy:** Personal or family history creates immediate hostility with Sal's crew
+- **Quality Ingredients:** Recognizes luxury food items in cache (honey liqueur, rare spices)
+
+**Roleplay Hooks:**
+- Can identify true value and authenticity of gourmet goods in cache
+- Whisker Family loyalty vs. personal culinary ambitions creates internal conflict
+- Rat speech patterns with food metaphors and culinary terminology
+- Dreams of opening restaurant with cache money - legitimate business vs. crime family ties
+
+## Pre-Adventure Character Backgrounds
+
+*What each character has been doing leading up to the warehouse discovery*
+
+### Burl the Beaver - Starting Character #1
+**Recent Activity:** Working overtime shifts to pay for his elderly mother's medical care. His union boss mentioned "strange activity" around the old lumber warehouse where he used to work, and asked him to check it out unofficially.
+
+**Integration Hook:** Burl approaches the warehouse alone initially, using his construction knowledge to scout the building. This gives him time to discover the structural issues and initial evidence before others arrive.
+
+### Cooper the Guinea Pig - Starting Character #2  
+**Recent Activity:** Investigating reports of stolen Hives silk being sold in Lin's Brook's black market. His legitimate work tracking insect-produced goods led him to suspicious warehouse activity.
+
+**Integration Hook:** Cooper arrives shortly after Burl, recognizing the beaver from positive community reputation. Their shared working-class values create immediate common ground.
+
+### Lucius the Fox - Character #3 (Second Wave)
+**Recent Activity:** Received a Shadow Runner assignment to "observe and report" on unusual criminal activity in Lin's Brook. Not supposed to interfere, just gather intelligence.
+
+**Integration Hook:** Lucius has been watching from a distance and approaches when he realizes Burl and Cooper might uncover something valuable. His Shadow Runner intel provides crucial background about all the criminal players involved.
+
+### Pine Bullseye - Character #4 (Second Wave)
+**Recent Activity:** Tracking Silverclaw smuggling operations through storm drains and underground routes. His ranger patrol brought him to investigate "structural instability" reports at the warehouse.
+
+**Integration Hook:** Pine's ranger knowledge of underground routes gives the group alternative escape plans. His arrival also signals that dangerous forces (Silverclaws) will soon follow.
+
+### Willow - Character #5 (Third Wave)
+**Recent Activity:** Hired by a "concerned citizen" (actually Whiskers McGillicuddy) to investigate "suspicious insurance claims" related to the warehouse. She doesn't know her client's true criminal connections.
+
+**Integration Hook:** Willow's legitimate investigation gives the group legal cover for being present. Her arrival coincides with discovering the actual cache, adding professional credibility to their claims.
+
+### Remy the Rat - Character #6 (Final Addition)
+**Recent Activity:** Sent by Whisker Family leadership to "check on their investment" after Whiskers McGillicuddy stopped reporting in. Told to assess the situation and report back, but his culinary ambitions make him see opportunity.
+
+**Integration Hook:** Remy arrives during or just before the three-way confrontation, bringing crucial Whisker Family intel and immediate recognition of the cache's gourmet value. His presence forces final decisions about crime family loyalties vs. personal gain.
+
+## GM Integration Strategies
+
+### Recommended Staging
+
+**Opening Scene (Burl + Cooper):**
+- Start with these two discovering warehouse and initial cache evidence
+- Establishes working-class cooperation and community stakes
+- Gives time for initial exploration without overwhelming complexity
+
+**Wave 2 (Add Lucius + Pine):**
+- Lucius provides criminal intelligence, Pine adds ranger knowledge
+- Creates tension: Shadow Runner neutrality vs. ranger law enforcement
+- Introduces threat of Silverclaw retaliation through Pine's negative reputation
+
+**Wave 3 (Add Willow + Remy):**
+- Willow's investigation provides legal legitimacy
+- Remy brings Whisker Family intel and gourmet goods expertise
+- Group is now complete for complex multi-party negotiations with crime family insider knowledge
+
+### Character Introduction Methods
+
+**Natural Convergence:** Each character has legitimate reason to be investigating the warehouse
+**Escalating Stakes:** Later arrivals coincide with increasing danger and complexity
+**Skill Complementarity:** Each addition provides capabilities the group needs for upcoming challenges
+
+### Managing Group Dynamics
+
+**Built-in Cooperation Incentives:**
+- 3,000 acorn cache requires multiple characters to secure and transport
+- Multiple crime family threats make allies essential
+- Community connections (Lin's Brook +1 for three characters) encourage protecting neighborhood
+
+**Conflict Management:**
+- Lucius vs. Willow professional rivalry creates roleplay tension without preventing cooperation
+- Burl + Remy's Longtail hatred balanced by Pine's Silverclaw hatred - shared "enemy of my enemy" dynamic
+- Cooper's outsider status makes him natural mediator between local factions
+- Remy's Whisker Family loyalty vs. culinary dreams creates internal character tension that drives personal stakes
+
+<div class='note'>
+
+#### <u>Managing Party Tensions</u>
+
+**Built-in Conflicts:**
+- Lucius (Shadow Runner +2) vs. Willow (different Shadow Runner connection) - professional rivalry
+- Burl (-2 Longtail) vs. Sal's crew - immediate hostility  
+- Pine (-2 Silverclaw) vs. Ripsaw - combat inevitable
+- Remy (-2 Longtail) vs. Sal's crew - family rivalry escalates tensions
+- Remy (+2 Whisker) vs. Willow (+1 Whisker) - competing loyalty levels to same family
+
+**Cooperation Incentives:**
+- 3,000 acorn cache requires teamwork to secure and transport
+- Multiple crime family threats make allies essential
+- Community connections (Lin's Brook +1 for three characters) encourage protecting neighborhood
+- Remy's Whisker Family intel + Willow's investigative skills = powerful information network
+
+</div>
 
 <div class="footnote">THE SMUGGLER'S CACHE<BR />
 <p>THE GREAT BURROW</p></div>
@@ -703,7 +880,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Personality:** Professional, intimidating, surprisingly reasonable if treated with respect  
 **Motivation:** Recover family property, maintain reputation, avoid unnecessary violence  
 **Speech Pattern:** Confident rat speech with family metaphors  
-**Resources:** 2-3 rat associates, crime family backing, knowledge of underground
+**Resources:** 3-4 rat associates, crime family backing, knowledge of underground
 
 <div class="read">
 
@@ -908,13 +1085,16 @@ A three-story brick building on the Greenbank waterfront, formerly used for stor
 
 | Item | Quantity | Unit Value | Total Value |
 |:---|:---:|:---:|:---:|
-| Premium Honey Liqueur | 50 bottles | 10 acorns | 500 acorns |
-| Silk Scarves (Hives) | 10 pieces | 20 acorns | 200 acorns |
-| Rare Spices (Coastal) | 10 containers | 30 acorns | 300 acorns |
-| Luxury Goods (Mousehattan) | 10 items | 40 acorns | 400 acorns |
-| **Total Cache Value** | | | **1,400 acorns** |
+| Premium Honey Liqueur | 75 bottles | 12 acorns | 900 acorns |
+| Silk Scarves (Hives) | 15 pieces | 25 acorns | 375 acorns |
+| Rare Spices (Coastal) | 12 containers | 40 acorns | 480 acorns |
+| Luxury Goods (Mousehattan) | 15 items | 50 acorns | 750 acorns |
+| Imported Jewelry | 5 pieces | 100 acorns | 500 acorns |
+| **Total Cache Value** | | | **3,000 acorns** |
 
-For perspective: This is enough to buy a modest family home, represents 3-4 months wages for skilled workers, or could fund a small business startup.
+For perspective: This represents enough wealth to buy a large family estate, 8-10 months wages for skilled workers, or could fund a substantial business venture. This is life-changing money that would attract serious attention from all major criminal organizations.
+
+**Remy's Expertise:** As a wannabe chef with Whisker Family connections, Remy can immediately identify the premium quality of these goods. The honey liqueur is from exclusive Hives apiaries, the spices are coastal imports worth triple their weight, and the luxury goods include rare Mousehattan delicacies he's only dreamed of cooking with.
 
 ## Granny Driftwood's House
 *Observation Post and Information Hub*
@@ -1119,8 +1299,8 @@ Just as characters are accessing the cache (or planning to), both Rusty and Sal'
 
 ### Participants
 - **Characters:** Trying to claim or escape with the cache
-- **Rusty Crowbar:** Desperate, armed with improvised weapons, fighting alone
-- **Sal + 2 Associates:** Professional, well-equipped, prefer negotiation to violence
+- **Rusty Crowbar + 1-2 Desperate Allies:** Armed with improvised weapons, nothing left to lose
+- **Sal + 3-4 Associates:** Professional, well-equipped, prefer negotiation to violence
 
 ### Possible Approaches
 
@@ -1169,7 +1349,98 @@ Just as characters are accessing the cache (or planning to), both Rusty and Sal'
 
 **Character Options:** Can ally with either party, broker deals between them, or try to claim everything for themselves
 
+**Crime Family Dynamics:** Remy's Whisker Family membership creates complex negotiations - Sal must respect inter-family protocols while Remy has inside knowledge of criminal operations
+
 **Environmental Pressure:** Tidal timing forces quick decisions
+
+</div>
+
+## Scene 3.5: The Silverclaw Intervention
+*20 minutes - Guaranteed Combat Encounter*
+
+### Setup
+Just as negotiations between characters, Sal's crew, and Rusty's group reach a critical point, **"Ripsaw" Rourke Silverclaw** and her otter enforcers arrive to claim territorial rights over the waterfront cache. Unlike the previous encounters, this scene is designed to escalate to combat due to built-in conflicts with the party.
+
+### Why Combat is Guaranteed
+- **Pine's -2 Silverclaw Reputation:** As a Ranger, Pine has actively opposed Silverclaw operations, making negotiation impossible
+- **Territorial Claims:** The Silverclaws consider all Lin's Brook waterfront their domain
+- **No Sharing:** Ripsaw doesn't negotiate with "land creatures" about water rights
+
+### Participants
+- **"Ripsaw" Rourke Silverclaw + 3 Otter Enforcers:** Aggressive, territorial, won't back down
+- **Existing parties must choose sides or flee:** Sal's crew may join fight or withdraw; Rusty's group likely flees
+
+### Key NPCs for This Scene
+
+#### "Ripsaw" Rourke Silverclaw
+*Silverclaw Family Lieutenant*
+
+<div class="archetype">
+<span class="bra">3</span>
+<span class="agi">4</span>
+<span class="int">2</span>
+<span class="cun">3</span>
+<span class="wil">2</span>
+<span class="pre">2</span>
+</div>
+
+<div class="adversary">
+<span class="soak">4</span>
+<span class="wound">15</span>
+<span class="strain">13</span>
+<span class="mdef">1</span>
+<span class="rdef">1</span>
+</div>
+
+**Skills:** Athletics 3 (**Water +3 <span class='boost'>b</span><span class='boost'>b</span><span class='boost'>b</span>**), Brawl 2, Coercion 2, Skulduggery 2, Streetwise 2, Vigilance 2, Stealth 1
+
+**Talents:** 
+- **Aquatic Excellence:** Add <span class='boost'>b</span><span class='boost'>b</span><span class='boost'>b</span> to swimming, hold breath for extended periods
+- **Slippery:** Add <span class='boost'>b</span> to escape restraints and grapples
+- **Pack Coordination:** Grant allies <span class='boost'>b</span> to coordinated attacks
+- **Adversary 1:** Upgrade difficulty of attacks against her once
+
+**Equipment:** Reinforced vest, jagged blade "Ripsaw" (Damage 4, Crit 2, Vicious 1), smoke grenades for escape
+
+**Personality:** Ruthless, territorial, cunning enough to escape when outmatched
+**Motivation:** Prove herself to Mother Marta by securing Silverclaw territory
+**Speech Pattern:** Aggressive otter speech with violent water metaphors
+**Escape Plan:** Uses smoke grenades and superior swimming to flee through waterfront when defeated
+
+#### Silverclaw Enforcers (3)
+*Otter Gang Members*
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">4</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (Group Only):** Brawl 2, Athletics 2 (**Water +2 <span class='boost'>b</span><span class='boost'>b</span>**), Skulduggery 1
+
+**Equipment:** Club weapons (Damage 4, Crit 4), protective vests
+
+### Tactical Considerations
+- **Environmental Advantages:** Otters fight better near water and in tight spaces
+- **Pack Tactics:** Work together to overwhelm single targets
+- **Escape Routes:** Will retreat to water if losing, potentially taking cache goods
+- **Structural Damage:** Combat in deteriorating warehouse is dangerous for everyone
+
+### Combat Triggers
+- Pine's presence immediately escalates tension
+- Any attempt to claim "otter territory"
+- Characters showing "disrespect" to Ripsaw
+- Refusing to surrender cache to "rightful claimants"
+
+<div class='note'>
+
+#### <u>Managing the Combat</u>
+
+**Opening:** Ripsaw recognizes Pine as "that Ranger scum" and attacks immediately
+**Tactics:** Otters use superior mobility and pack coordination
+**Stakes:** Cache goods may be damaged in fighting
+**Resolution:** Defeat, negotiation from position of strength, or strategic withdrawal
 
 </div>
 
@@ -1319,7 +1590,7 @@ The "best" outcome balances personal gain with community wellbeing.
 ### Economic Reference
 - **Daily Wages:** 5-20 acorns depending on skill level
 - **Monthly Rent:** 50-200 acorns depending on neighborhood quality
-- **Cache Value:** 1,400 acorns (life-changing money for working creatures)
+- **Cache Value:** 3,000 acorns (life-changing money for working creatures)
 - **Modest Home:** 1,000 acorns purchase price
 - **Luxury Item:** 50-100 acorns typical cost
 
@@ -1339,9 +1610,9 @@ The "best" outcome balances personal gain with community wellbeing.
 ## Treasure Distribution Guidelines
 
 ### Possible Distributions
-- **Full Success:** Characters get 70-100% of cache value (980-1400 acorns)
-- **Negotiated Split:** Characters get 30-50% of cache value (420-700 acorns)
-- **Legal Resolution:** Characters get 10-20% as finder's fee (140-280 acorns)
+- **Full Success:** Characters get 70-100% of cache value (2100-3000 acorns)
+- **Negotiated Split:** Characters get 30-50% of cache value (900-1500 acorns)
+- **Legal Resolution:** Characters get 10-20% as finder's fee (300-600 acorns)
 - **Failure/Escape:** Characters get nothing but avoid legal trouble
 
 ### Non-Monetary Rewards
@@ -1398,7 +1669,7 @@ Granny Driftwood asks characters to help organize community resistance to gentri
 - **Granny Driftwood:** Community voice and source of neighborhood information
 
 #### Economic Impact
-- **Sudden Wealth:** 1,400 acorns can fund business ventures, property purchases, or major life changes
+- **Sudden Wealth:** 3,000 acorns can fund business ventures, property purchases, or major life changes
 - **Debt Settlement:** Money could resolve character background obligations or create new ones
 - **Investment Opportunities:** Characters might become community stakeholders with ongoing interests
 
@@ -1447,98 +1718,176 @@ The adventure succeeds when players:
 
 </div>
 
-<div class="footnote">THE SMUGGLER'S CACHE<BR />
-<p>THE GREAT BURROW</p></div>
+# Optional "Off-Rails" Scenes
 
-\pagebreakNum
+*Five detailed scenes for when players go off the expected path*
 
-# Pre-Generated Characters
+## Optional Scene 1: The Guild Hall Meeting
+*When players need neutral ground or community backup*
 
-## Chiri Beetlevoice
-*Guinea Pig Insect Wrangler from The Hives*
+### When to Use
+- Players feel overwhelmed by multiple criminal threats
+- Characters want to involve the community or seek protection
+- Burl's union connections become relevant
+- Group needs time to plan and strategize
 
-<div class="archetype">
-<span class="bra">1</span>
-<span class="agi">2</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">2</span>
-<span class="pre">3</span>
+### Location & Atmosphere
+The Lin's Brook Dockworkers Guild Hall - a sturdy beaver-built structure with meeting rooms, a common area with union notices, and the lingering smell of sawdust and honest labor. Union banners hang from the rafters, and the walls are covered with photos of major construction projects.
+
+### Key NPCs
+- **Boss Ironjaw Sturgeon** (otter union leader): Gruff but fair, suspicious of criminal activity but protective of members
+- **Craftsmaster Hickory Flathead** (elderly beaver): Remembers building the warehouse, knows all its secrets
+- **Various Union Members**: Provide community context and working-class perspectives
+
+### Scene Opportunities
+- **Information Gathering**: Learn warehouse construction secrets and structural weaknesses
+- **Community Protection**: Organize union members to "keep watch" on criminal activity
+- **Neutral Negotiations**: Use guild hall as meeting place with criminal parties
+- **Resources**: Access to construction equipment, tools, and local knowledge
+
+### Complications
+- Union leaders demand honesty about criminal involvement
+- Some members have family connections to crime organizations
+- Guild politics between species (otter vs. beaver leadership)
+- Pressure to choose between individual gain and community welfare
+
+---
+
+## Optional Scene 2: Granny's Tea Service
+*When players need community allies and neighborhood history*
+
+### When to Use
+- Characters need safe haven or healing after conflict
+- Players want to understand gentrification impact
+- Group needs an information hub about recent activity
+- Moral choices about community vs. personal gain arise
+
+### Location & Atmosphere
+Granny Driftwood's cozy lodge front room, overlooking the warehouse. Handmade quilts, beaver-crafted furniture, family photos spanning decades, and the ever-present smell of bark tea. Her binoculars rest on the windowsill next to a plate of acorn cookies.
+
+### Key NPCs
+- **Granny Driftwood**: Already established, but here she becomes the community's voice
+- **Neighbor Creatures**: Various Lin's Brook residents who trust Granny's judgment
+- **Young Kit Visitors**: Grandchildren and neighborhood young ones who reveal community concerns
+
+### Scene Opportunities
+- **Community Intelligence**: Detailed observations of all recent warehouse activity
+- **Moral Guidance**: Granny provides perspective on right vs. wrong choices
+- **Safe Harbor**: Medical attention, food, and temporary shelter
+- **Historical Context**: Stories about the warehouse's construction and neighborhood changes
+
+### Complications
+- Granny's help comes with expectations of honest behavior
+- Neighbors might gossip about character activities
+- Community obligations vs. criminal opportunities
+- Generational conflict between traditional values and modern pressures
+
+---
+
+## Optional Scene 3: The Ferry Terminal Stakeout
+*When players need to track movement or plan escapes*
+
+### When to Use
+- Characters want to observe criminal movements without engagement
+- Escape routes by water become important
+- Ferry schedules affect timing of operations
+- Officer Tidecaller's patrol patterns matter
+
+### Location & Atmosphere
+The bustling Greenbank Ferry Terminal during shift change. Otters loading cargo, beavers checking schedules, workers heading home. Construction equipment creates hiding spots, and the irregular ferry service adds time pressure. The sound of water and work songs fills the air.
+
+### Key NPCs
+- **Captain Splash McWhiskers** (otter ferry captain): Knows everyone, trades gossip for small favors
+- **Dock Supervisor Chunk Mudslap** (beaver): Suspicious of loiterers, but respects honest workers
+- **Various Passengers**: Community members with information about neighborhood changes
+
+### Scene Opportunities
+- **Surveillance**: Watch for Sal's crew, Rusty's allies, or Silverclaw activity
+- **Transportation Planning**: Learn ferry schedules and water escape routes
+- **Information Trading**: Exchange small favors for gossip and local knowledge
+- **Cover Stories**: Blend in with legitimate dock workers and travelers
+
+### Complications
+- Officer Tidecaller's regular patrols make surveillance risky
+- Ferry delays could trap characters or let enemies escape
+- Worker gossip spreads quickly through the community
+- Construction hazards make the area genuinely dangerous
+
+---
+
+## Optional Scene 4: The Underground Connection
+*When players need alternate routes or Ranger knowledge*
+
+### When to Use
+- Pine's Ranger training becomes crucial for escape routes
+- Characters need to avoid street-level confrontations
+- Underground movements of goods or people matter
+- Storm drain systems connect to broader city infrastructure
+
+### Location & Atmosphere
+The Lin's Brook storm drain system connecting to the Great Underground. Echoing tunnels with rushing water, maintenance ladders, and the occasional rat or mole worker. Emergency lighting casts eerie shadows, and the sound of the city above filters down through grates.
+
+### Key NPCs
+- **Maintenance Mole Crew**: Great Underground workers who know all tunnel systems
+- **Tunnel Rat Smugglers**: Independent operators using drains for small-scale operations
+- **Ranger Contact**: Another Ranger Pine knows from patrol work
+
+### Scene Opportunities
+- **Secret Movement**: Bypass street surveillance using underground routes
+- **Cache Transport**: Move heavy goods without being seen
+- **Intelligence Network**: Access information from underground community
+- **Emergency Escape**: Last-resort routes when everything goes wrong
+
+### Complications
+- Tidal flooding makes some passages dangerous or impassable
+- Silverclaw family controls some underground routes
+- Getting lost in unfamiliar tunnel systems
+- Underground communities have their own territorial disputes
+
+---
+
+## Optional Scene 5: The Smokehouse Summit
+*When complex negotiations require neutral territory*
+
+### When to Use
+- Multiple parties need to negotiate without immediate violence
+- Traditional otter customs and hospitality laws apply
+- Characters want to leverage cultural protocols
+- Final resolution requires all parties present
+
+### Location & Atmosphere
+An ancient otter smokehouse on the waterfront, where "old laws" of hospitality still apply. Hanging fish, aromatic smoke, carved posts telling family histories, and the understanding that violence is forbidden within its walls. Even crime families respect these traditions.
+
+### Key NPCs
+- **Elder Fishmaster Silverstream** (ancient otter): Neutral arbiter who enforces traditional hospitality
+- **Cultural Witnesses**: Representatives from various species who ensure protocols are followed
+- **Historical Voices**: Elders who remember when such meetings solved major disputes
+
+### Scene Opportunities
+- **Protected Negotiations**: Cultural immunity from violence during talks
+- **Traditional Justice**: Appeal to older customs and inter-species cooperation
+- **Final Bargaining**: All parties present their claims and reach resolution
+- **Cultural Learning**: Understanding how The Great Burrow traditionally handles disputes
+
+### Complications
+- Hospitality laws protect everyone equally, including enemies
+- Traditional protocols move slowly, creating time pressure
+- Some characters might not respect or understand cultural customs
+- Breaking hospitality brings severe community consequences
+
+<div class='note'>
+
+#### <u>Using Optional Scenes</u>
+
+**Flexible Integration:** These scenes can be used in any order based on character choices and story flow
+
+**Character Specific:** Each scene plays to different character strengths - Burl (Guild Hall), Cooper (community bridge-building), Lucius (underground intel), Pine (tunnel knowledge), Willow (investigation skills), Remy (cultural food connections)
+
+**Pacing Tools:** Use these scenes to slow down or speed up the adventure based on table energy and time constraints
+
+**Community Focus:** Each scene reinforces the theme that individual actions affect the broader community
+
 </div>
-
-<div class="adversary">
-<span class="soak">2</span>
-<span class="wound">9</span>
-<span class="strain">13</span>
-<span class="mdef">0</span>
-<span class="rdef">0</span>
-</div>
-
-**Background:** Immigrated from the Andes with their family's traditional beetle-whispering techniques. Now works in The Hives managing insect labor for agricultural and construction projects.
-
-**Skills:** Animal Handling 2, Knowledge (Science) 1, Leadership 1, Medicine 1, Survival 2, Charm 1, Perception 1, Cool 1
-
-**Talents:**
-- **Community Minded:** Add <span class='boost'>b</span> to Leadership checks
-- **Insect Whisperer:** Add <span class='boost'>b</span> to Animal Handling checks with insects
-- **Mountain Heritage:** Add <span class='boost'>b</span> to Survival checks in difficult terrain
-- **Beetle Bond:** Has a loyal messenger beetle companion
-
-**Equipment:** Insect whistle, beetle treats, work clothes, insect handling gloves, small knife, rope, 15 acorns
-
-**Personality:** Optimistic and community-focused, speaks with musical cadence mixing Common Forest and Andean dialect. Uses "we" instead of "I" and treats insects as partners, not tools.
-
-**Motivation:** Prove that traditional Andean techniques can improve life in The Great Burrow while building bridges between immigrant and native communities.
-
-**Roleplaying Notes:** 
-- Whistle soft commands to insects constantly
-- Switch between languages when excited
-- Always thinking about group benefit over individual gain
-- Refers to beetles as "little cousins"
-
-\columnbreak
-
-## Swift Nutcracker
-*Chipmunk Ranger (Titan-Touched)*
-
-<div class="archetype">
-<span class="bra">2</span>
-<span class="agi">3</span>
-<span class="int">2</span>
-<span class="cun">2</span>
-<span class="wil">3</span>
-<span class="pre">1</span>
-</div>
-
-<div class="adversary">
-<span class="soak">4</span>
-<span class="wound">10</span>
-<span class="strain">14</span>
-<span class="mdef">1</span>
-<span class="rdef">1</span>
-</div>
-
-**Background:** Survived a moose encounter that left them changed. Now serves as a Scurry Island Ranger specializing in titan deterrence using heavy weapons.
-
-**Skills:** Athletics 2, Ranged (Heavy) 2, Survival 2, Vigilance 2, Cool 1, Knowledge (Titans) 1, Perception 1
-
-**Talents:**
-- **Speed Burst:** Once per session, move to any location within Medium range as an incidental
-- **Cheek Pouches:** Can carry small items without encumbrance penalty
-- **Titan Affinity (Moose):** Moose becomes a career skill
-- **Heavy Weapon Expert:** Remove <span class='setback'>b</span> from Cumbersome quality
-
-**Equipment:** Ranger gear (soak +2), porcupine quill launcher, emergency flares, flash powder (3), climbing gear, ranger badge, 10 acorns
-
-**Personality:** Speaks in rapid-fire bursts with crew slang. Twitchy and hypervigilant but deadly calm in titan situations. Cheek scars from the moose encounter.
-
-**Motivation:** Protect The Great Burrow from titan threats while understanding the strange connection they now feel to the giants.
-
-**Roleplaying Notes:**
-- Constantly scanning for threats, especially upward
-- Speak very fast except when discussing titans (then slow and reverent)
-- Touch scars when nervous
-- Know exact distance to nearest heavy weapon at all times
 
 <div class="footnote">THE SMUGGLER'S CACHE<BR />
 <p>THE GREAT BURROW</p></div>

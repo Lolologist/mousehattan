@@ -7492,6 +7492,8 @@ Catastrophic flooding caused by unusual spring conditions and upstream giant act
 
 ### Dock Workers
 
+**Characteristics:** Brawn 3, Agility 2, Intellect 1, Cunning 2, Willpower 2, Presence 2
+
 <div class="minion">
 <span class="soak">3</span>
 <span class="wound">4</span>
@@ -7501,14 +7503,26 @@ Catastrophic flooding caused by unusual spring conditions and upstream giant act
 
 **Skills (group only):** Athletics, Brawl, Mechanics, Resilience
 
-**Abilities:** 
-- **Aquatic (Otters):** Can hold breath for extended periods, swim at full speed
-- **Water Knowledge:** Add <span class='boost'>b</span> to checks involving waterfront or boats
-- **Union Solidarity:** When defending union interests, upgrade ability of social checks once
-
 **Equipment:** Work clothes, loading hooks (Damage +2, Crit 4), cargo nets, improvised clubs (Damage +3)
 
-**Description:** Burly otters and beavers who load and unload cargo at Lin's Brook waterfront. Quick to strike over unfair wages or unsafe conditions.
+**Description:** Mixed-species cargo workers at Lin's Brook waterfront. Quick to strike over unfair wages or unsafe conditions.
+
+#### Species Variants:
+
+**Otter Dock Workers:**
+- **Abilities:** Aquatic Excellence (hold breath extended periods, swim at full speed), Water Knowledge (+<span class='boost'>b</span> to waterfront/boat checks)
+- **Personality:** Competitive, prone to slide-racing contests during breaks
+
+**Beaver Dock Workers:** 
+- **Abilities:** Sturdy (+1 Soak), Master Builders (+<span class='boost'>b</span> to construction-related Mechanics)
+- **Personality:** Methodical, critical of shoddy construction work
+
+**Rat Dock Workers:**
+- **Abilities:** Adaptable (once per scene +<span class='boost'>b</span> to any check), Network Builder (+<span class='boost'>b</span> to Streetwise)
+- **Personality:** Entrepreneurial, always looking for side deals
+
+**All Variants:**
+- **Union Solidarity:** When defending union interests, upgrade ability of social checks once
 
 ### Burrow Militia
 
