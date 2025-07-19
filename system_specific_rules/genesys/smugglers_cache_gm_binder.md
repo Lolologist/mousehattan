@@ -496,11 +496,6 @@ In the gentrifying waterfront district of Lin's Brook, a hidden cache of valuabl
 
      This adventure tests characters' ability to navigate urban politics, species relationships, and the delicate balance between community and profit that shapes daily life in The Great Burrow. Success isn't just about claiming treasure - it's about understanding the consequences of choices in a city where everyone's connected to someone.
 
-<div class="footnote">THE SMUGGLER'S CACHE<BR />
-<p>THE GREAT BURROW</p></div>
-
-\pagebreakNum
-
 # Adventure Overview
 
 ## Setup Information
@@ -532,8 +527,6 @@ The adventure unfolds through six key scenes, each building tension while offeri
 4. **The Law Arrives** - Authority involvement based on previous choices
 5. **The Resolution** - Consequences and follow-up opportunities
 
-\columnbreak
-
 <div class='note'>
 
 #### <u>Running This Adventure</u>
@@ -547,6 +540,11 @@ The adventure unfolds through six key scenes, each building tension while offeri
 **Urban Focus:** This is a city adventure - emphasize the interconnected nature of the community and how actions ripple outward.
 
 </div>
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Background Information
 
@@ -605,6 +603,11 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 - Can provide background on all criminal players involved
 - Shadow Runner code forbids direct confrontation but allows "finding lost items"
 - Torn between Shadow Runner neutrality and personal gain
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ### Pine Bullseye (Chipmunk Ranger) 
 **Reputation:** +2 Rangers, +1 Scurry Island, -2 Silverclaw Family
@@ -665,6 +668,11 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Recent Activity:** Received a Shadow Runner assignment to "observe and report" on unusual criminal activity in Lin's Brook. Not supposed to interfere, just gather intelligence.
 
 **Integration Hook:** Lucius has been watching from a distance and approaches when he realizes Burl and Cooper might uncover something valuable. His Shadow Runner intel provides crucial background about all the criminal players involved.
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
 
 ### Pine Bullseye - Character #4 (Second Wave)
 **Recent Activity:** Tracking Silverclaw smuggling operations through storm drains and underground routes. His ranger patrol brought him to investigate "structural instability" reports at the warehouse.
@@ -700,18 +708,14 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 - Remy brings Whisker Family intel and gourmet goods expertise
 - Group is now complete for complex multi-party negotiations with crime family insider knowledge
 
-### Character Introduction Methods
-
-**Natural Convergence:** Each character has legitimate reason to be investigating the warehouse
-**Escalating Stakes:** Later arrivals coincide with increasing danger and complexity
-**Skill Complementarity:** Each addition provides capabilities the group needs for upcoming challenges
-
 ### Managing Group Dynamics
 
 **Built-in Cooperation Incentives:**
 - 3,000 acorn cache requires multiple characters to secure and transport
 - Multiple crime family threats make allies essential
 - Community connections (Lin's Brook +1 for three characters) encourage protecting neighborhood
+
+\columnbreak
 
 **Conflict Management:**
 - Lucius vs. Willow professional rivalry creates roleplay tension without preventing cooperation
@@ -731,7 +735,6 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 - Remy (+2 Whisker) vs. Willow (+1 Whisker) - competing loyalty levels to same family
 
 **Cooperation Incentives:**
-- 3,000 acorn cache requires teamwork to secure and transport
 - Multiple crime family threats make allies essential
 - Community connections (Lin's Brook +1 for three characters) encourage protecting neighborhood
 - Remy's Whisker Family intel + Willow's investigative skills = powerful information network
@@ -781,6 +784,8 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Speech Pattern:** Fluid otter speech with dock worker slang and water metaphors  
 **Current Status:** In Lin's Brook jail, available for questioning if characters visit
 
+\columnbreak
+
 <div class="read">
 
 *A sleek brown otter sits hunched on the jail's stone bench, his usually glossy fur dulled and unkempt. His webbed paws fidget constantly, and his dark eyes dart nervously between you and the cell door. When he speaks, his voice carries the fluid cadence of his species but trembles with anxiety.*
@@ -789,14 +794,17 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 </div>
 
-\columnbreak
-
 **Key Information Finn Provides:**
 - Exact location of the cache in the warehouse basement
 - Combination to the lock (his daughter's birthday)
 - Contents: honey liqueur, silk scarves, rare spices, luxury goods
 - Warning about tidal timing - cache only accessible at low tide
 - Mentions both Whiskers and "that crazy rat" (Rusty) as potential problems
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Whiskers McGillicuddy
 *Mouse Import/Export Specialist*
@@ -833,6 +841,7 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Speech Pattern:** Precise mouse diction with business jargon  
 **Location:** Mousehattan financial district, but will travel to meet characters
 
+\columnbreak
 <div class="read">
 
 *An impeccably groomed mouse approaches, his gray fur perfectly combed and his tiny whiskers waxed to sharp points. He wears a miniature vest of fine cloth and carries himself with the practiced confidence of old Mousehattan money, though you notice his paws shake slightly as he adjusts his spectacles. His voice is cultured and precise, each word carefully chosen.*
@@ -882,6 +891,8 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Speech Pattern:** Confident rat speech with family metaphors  
 **Resources:** 3-4 rat associates, crime family backing, knowledge of underground
 
+\columnbreak
+
 <div class="read">
 
 *A large, well-built rat emerges from the shadows, his dark fur immaculately groomed and his posture radiating quiet authority. Unlike the flashy new-money rats of Mousehattan, he dresses simply but expensively - quality speaks louder than ostentation. His tail, longer than most, moves with deliberate control, and his dark eyes assess you with professional interest rather than hostility.*
@@ -890,7 +901,10 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 </div>
 
-\columnbreak
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Rusty Crowbar
 *Rat Small-time Criminal*
@@ -938,6 +952,8 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 \pagebreakNum
 
+\pagebreakNum
+
 ## Officer Marina Tidecaller
 *Otter Burrow Guard*
 
@@ -973,6 +989,8 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Speech Pattern:** Authoritative otter speech with water metaphors  
 **Resources:** Legal authority, backup guards, knowledge of local crime
 
+\columnbreak
+
 <div class="read">
 
 *A sturdy otter in the blue-gray uniform of the Lin's Brook Guard approaches with confident, measured steps. Her badge gleams against her dark brown fur, and her keen eyes miss nothing as they sweep the area. She carries herself with the easy authority of someone who knows her beat intimately and takes pride in protecting it.*
@@ -981,7 +999,10 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 
 </div>
 
-\columnbreak
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Granny Driftwood
 *Beaver Local Resident*
@@ -1018,6 +1039,8 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 **Speech Pattern:** Deliberate beaver speech with construction metaphors  
 **Location:** Lives across from warehouse, watches everything from her window
 
+\columnbreak
+
 <div class="read">
 
 *An elderly beaver sits in her window, a steaming cup of bark tea in her weathered paws and a pair of well-used binoculars around her neck. Her gray-streaked fur is neatly groomed, and she wears a hand-knitted shawl that speaks of practical comfort over fashion. Her lodge is clearly well-maintained - a testament to beaver craftsmanship and pride.*
@@ -1025,6 +1048,55 @@ Meanwhile, Whiskers has been pressuring the Longtail family to find the missing 
 "Well now, what's all this construction without permits? More strangers poking around that old warehouse, I see. In my day, creatures understood that good fences make good neighbors, and you didn't go gnawing on timber that wasn't yours. That building's foundation has been rotting since the lumber company moved out - weak supports bringing all sorts of unsavory types to undermine our neighborhood's structural integrity. You seem different from the others, though. Got the look of creatures who know quality work when they see it. Care to tell an old beaver what kind of demolition or renovation is really going on over there? Because from where I sit, that whole structure looks ready to collapse."
 
 </div>
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
+## Supporting NPCs
+
+### Sal's Associates (3-4)
+*Rat Crime Family Muscle*
+
+**Characteristics:** Brawn 2, Agility 2, Intellect 1, Cunning 2, Willpower 2, Presence 1
+
+<div class="minion">
+<span class="soak">3</span>
+<span class="wound">3</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (Group Only):** Brawl 2, Ranged (Light) 1, Streetwise 1, Skulduggery 1
+
+**Talents:** 
+- **Species Variant - Rats:** Add <span class='boost'>b</span> to Streetwise checks in urban environments
+- **Family Loyalty:** Add <span class='boost'>b</span> to checks when supporting Sal
+
+**Equipment:** Concealed weapons (knives/clubs, Damage 3, Crit 4), nice clothes, family identification
+
+### Rusty's Desperate Allies (1-2)
+*Street Scavengers*
+
+**Characteristics:** Brawn 2, Agility 2, Intellect 1, Cunning 2, Willpower 1, Presence 1
+
+<div class="minion">
+<span class="soak">2</span>
+<span class="wound">3</span>
+<span class="mdef">0</span>
+<span class="rdef">0</span>
+</div>
+
+**Skills (Group Only):** Brawl 1, Skulduggery 2, Survival 1, Stealth 1
+
+**Talents:** 
+- **Species Variants:** 
+  - **Mice:** Add <span class='boost'>b</span> to Stealth checks when hiding
+  - **Squirrels:** Add <span class='boost'>b</span> to Athletics checks for climbing
+- **Desperate:** When wounded, add <span class='boost'>b</span> to Brawl checks
+
+**Equipment:** Improvised weapons (Damage 2, Crit 5), scavenged clothing, stolen goods
 
 <div class="footnote">THE SMUGGLER'S CACHE<BR />
 <p>THE GREAT BURROW</p></div>
@@ -1060,14 +1132,14 @@ A three-story brick building on the Greenbank waterfront, formerly used for stor
 - **Supervisor's Office:** Good view of street, overlooks Granny Driftwood's house
 - **Challenges:** Weak stairs, holes in floor, but excellent observation points
 
+\columnbreak
+
 #### Basement *(Cache Location)*
 - **The Hidden Cache:** Behind false wall, accessible only at low tide
 - **Flooding:** Basement floods during high tide, making access dangerous
 - **Contents:** 50 bottles honey liqueur, silk scarves, rare spices, luxury goods
 - **Total Value:** 1,400 acorns
 - **Challenges:** Tidal timing, structural damage, concealed entrance
-
-\columnbreak
 
 <div class='note'>
 
@@ -1096,6 +1168,11 @@ For perspective: This represents enough wealth to buy a large family estate, 8-1
 
 **Remy's Expertise:** As a wannabe chef with Whisker Family connections, Remy can immediately identify the premium quality of these goods. The honey liqueur is from exclusive Hives apiaries, the spices are coastal imports worth triple their weight, and the luxury goods include rare Mousehattan delicacies he's only dreamed of cooking with.
 
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
 ## Granny Driftwood's House
 *Observation Post and Information Hub*
 
@@ -1114,11 +1191,6 @@ Well-maintained beaver lodge built into the waterfront embankment with a perfect
 - Learning neighborhood history and concerns
 - Getting warnings about approaching trouble
 - Understanding community impact of gentrification
-
-<div class="footnote">THE SMUGGLER'S CACHE<BR />
-<p>THE GREAT BURROW</p></div>
-
-\pagebreakNum
 
 ## The Dockside Tavern
 *Optional Information Hub*
@@ -1154,6 +1226,12 @@ Small holding facility built into a converted beaver dam section. Secure but not
 - Information might reach wrong ears
 - Future complications if discovered
 
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
 ## Greenbank Ferry Terminal
 *Potential Escape Route*
 
@@ -1165,8 +1243,6 @@ Small dock with irregular ferry service to other parts of the city. Currently un
 - Construction equipment provides cover during confrontations
 - Ferry schedules affect timing - may not be available when needed
 - Officer Tidecaller patrols here regularly
-
-\columnbreak
 
 <div class='note'>
 
@@ -1181,6 +1257,8 @@ Small dock with irregular ferry service to other parts of the city. Currently un
 **Environmental Storytelling** - Each location should reinforce themes of gentrification, community change, and the tension between old and new ways of life.
 
 </div>
+
+\columnbreak
 
 ### Location Quick Reference
 
@@ -1235,6 +1313,8 @@ Characters enter the warehouse through their chosen method. The building shows s
 - **Tide Timing:** Urgency if the tide is coming in soon
 - **Signs of Others:** Evidence that multiple parties have been here recently
 
+\columnbreak
+
 ### Resolution
 Characters should end this scene with knowledge of the cache location and an understanding that they're not alone in their interest. The scene sets up the social dynamics that will drive the rest of the adventure.
 
@@ -1246,7 +1326,10 @@ Characters should end this scene with knowledge of the cache location and an und
 
 </div>
 
-\columnbreak
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Scene 2: The Watchers
 *20 minutes - Social Encounter*
@@ -1355,6 +1438,11 @@ Just as characters are accessing the cache (or planning to), both Rusty and Sal'
 
 </div>
 
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
 ## Scene 3.5: The Silverclaw Intervention
 *20 minutes - Guaranteed Combat Encounter*
 
@@ -1410,6 +1498,8 @@ Just as negotiations between characters, Sal's crew, and Rusty's group reach a c
 #### Silverclaw Enforcers (3)
 *Otter Gang Members*
 
+**Characteristics:** Brawn 3, Agility 2, Intellect 1, Cunning 2, Willpower 2, Presence 1
+
 <div class="minion">
 <span class="soak">3</span>
 <span class="wound">4</span>
@@ -1418,6 +1508,8 @@ Just as negotiations between characters, Sal's crew, and Rusty's group reach a c
 </div>
 
 **Skills (Group Only):** Brawl 2, Athletics 2 (**Water +2 <span class='boost'>b</span><span class='boost'>b</span>**), Skulduggery 1
+
+**Talents:** Aquatic (hold breath for extended periods, swim at full speed)
 
 **Equipment:** Club weapons (Damage 4, Crit 4), protective vests
 
@@ -1444,6 +1536,11 @@ Just as negotiations between characters, Sal's crew, and Rusty's group reach a c
 
 </div>
 
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
+
 ## Scene 4: The Law Arrives
 *30 minutes - Social Encounter with Authority*
 
@@ -1468,17 +1565,14 @@ Officer Tidecaller arrives to investigate reports of suspicious activity. How th
 - **Bribery:** Offer money or favors for looking the other way
 - **Escape:** Avoid confrontation entirely through stealth or misdirection
 
-<div class="footnote">THE SMUGGLER'S CACHE<BR />
-<p>THE GREAT BURROW</p></div>
-
-\pagebreakNum
-
 ### Outcomes Depend On
 - How characters present themselves and their story
 - Whether violence has occurred or is threatened
 - Community impact and Granny Driftwood's opinion
 - Evidence of obvious criminal activity
 - Characters' reputation with law enforcement
+
+\columnbreak
 
 <div class='example'>
 
@@ -1491,6 +1585,11 @@ Officer Tidecaller arrives to investigate reports of suspicious activity. How th
 **Pragmatic Approach:** "Officer, there's a complicated situation here involving missing goods and competing claims. Maybe we can work together to sort this out?"
 
 </div>
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Scene 5: The Resolution
 *30 minutes - Consequences and Wrap-up*
@@ -1577,6 +1676,8 @@ The "best" outcome balances personal gain with community wellbeing.
 | Low Tide | Basement accessible | Full access | 3 hours until rising |
 | Mid-Rising | Partially flooded | Difficult, dangerous | 3 hours until high |
 
+\columnbreak
+
 ### NPC Quick Stats
 | Character | Motivation | Approach | Key Information |
 |:---|:---|:---|:---|
@@ -1594,7 +1695,10 @@ The "best" outcome balances personal gain with community wellbeing.
 - **Modest Home:** 1,000 acorns purchase price
 - **Luxury Item:** 50-100 acorns typical cost
 
-\columnbreak
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Random Complications
 
@@ -1673,7 +1777,6 @@ Granny Driftwood asks characters to help organize community resistance to gentri
 - **Debt Settlement:** Money could resolve character background obligations or create new ones
 - **Investment Opportunities:** Characters might become community stakeholders with ongoing interests
 
-\columnbreak
 
 <div class='example'>
 
@@ -1681,7 +1784,6 @@ Granny Driftwood asks characters to help organize community resistance to gentri
 
 Characters who successfully negotiated a three-way split of the cache and maintained good community relations might find themselves approached by other neighborhoods facing similar gentrification pressures. Their reputation as problem-solvers who consider community impact makes them ideal for adventures involving:
 
-- Union organizing and labor disputes
 - Balancing development with community preservation  
 - Mediating between traditional families and new economic forces
 - Investigating corruption that affects working-class creatures
@@ -1697,7 +1799,7 @@ Characters who successfully negotiated a three-way split of the cache and mainta
 
 #### Skill Development
 - **Social Networks:** Contacts gained through adventure choices
-- **Local Knowledge:** Understanding Lin's Brook politics and economics
+- **Local Knowledge:** Lin's Brook politics and economics
 - **Criminal/Legal Expertise:** Depending on resolution path chosen
 
 #### Reputation Evolution
@@ -1717,6 +1819,11 @@ The adventure succeeds when players:
 - Want to continue exploring this setting and these relationships
 
 </div>
+
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 # Optional "Off-Rails" Scenes
 
@@ -1751,7 +1858,6 @@ The Lin's Brook Dockworkers Guild Hall - a sturdy beaver-built structure with me
 - Guild politics between species (otter vs. beaver leadership)
 - Pressure to choose between individual gain and community welfare
 
----
 
 ## Optional Scene 2: Granny's Tea Service
 *When players need community allies and neighborhood history*
@@ -1782,7 +1888,10 @@ Granny Driftwood's cozy lodge front room, overlooking the warehouse. Handmade qu
 - Community obligations vs. criminal opportunities
 - Generational conflict between traditional values and modern pressures
 
----
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Optional Scene 3: The Ferry Terminal Stakeout
 *When players need to track movement or plan escapes*
@@ -1832,6 +1941,8 @@ The Lin's Brook storm drain system connecting to the Great Underground. Echoing 
 - **Tunnel Rat Smugglers**: Independent operators using drains for small-scale operations
 - **Ranger Contact**: Another Ranger Pine knows from patrol work
 
+\columnbreak
+
 ### Scene Opportunities
 - **Secret Movement**: Bypass street surveillance using underground routes
 - **Cache Transport**: Move heavy goods without being seen
@@ -1844,7 +1955,10 @@ The Lin's Brook storm drain system connecting to the Great Underground. Echoing 
 - Getting lost in unfamiliar tunnel systems
 - Underground communities have their own territorial disputes
 
----
+<div class="footnote">THE SMUGGLER'S CACHE<BR />
+<p>THE GREAT BURROW</p></div>
+
+\pagebreakNum
 
 ## Optional Scene 5: The Smokehouse Summit
 *When complex negotiations require neutral territory*
@@ -1868,6 +1982,8 @@ An ancient otter smokehouse on the waterfront, where "old laws" of hospitality s
 - **Traditional Justice**: Appeal to older customs and inter-species cooperation
 - **Final Bargaining**: All parties present their claims and reach resolution
 - **Cultural Learning**: Understanding how The Great Burrow traditionally handles disputes
+
+\columnbreak
 
 ### Complications
 - Hospitality laws protect everyone equally, including enemies
